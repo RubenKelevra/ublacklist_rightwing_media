@@ -108,3 +108,7 @@
 
 # Ayn Rand Centre (UK)
 *://*.aynrandcentre.co.uk/*
+
+# The Badger Institute (USA)
+*://*.badgerinstitute.org/*
+
