@@ -21,3 +21,6 @@
 
 # AIPAC (USA)
 *://*.aipac.org/*
+
+# Aish (Israel)
+*://*.aish.com/*
