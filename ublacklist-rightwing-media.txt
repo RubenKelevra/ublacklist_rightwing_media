@@ -78,3 +78,6 @@
 
 # American Wire News (USA)
 *://*.americanwirenews.com/*
+
+# Ami Magazine (USA)
+*://*.amimagazine.org/*
