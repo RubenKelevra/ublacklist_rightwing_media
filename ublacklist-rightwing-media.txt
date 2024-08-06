@@ -72,3 +72,6 @@
 
 # American Legislative Exchange Council (USA)
 *://*.alec.org/*
+
+# American Spectator (USA)
+*://*.spectator.org/*
