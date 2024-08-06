@@ -27,3 +27,6 @@
 
 # Alberta Press Leader (Canada)
 *://*.albertapressleader.ca/*
+
+# All Israel News (Israel)
+*://*.allisrael.com/*
