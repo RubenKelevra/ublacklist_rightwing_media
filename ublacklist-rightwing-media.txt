@@ -12,3 +12,7 @@
 
 # Accuracy in Academia (USA)
 *://*.academia.org/*
+
+# Accuracy in Media (USA)
+*://*.aim.org/*
+
