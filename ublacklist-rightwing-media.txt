@@ -99,3 +99,6 @@
 
 # Asian Dawn (USA)
 *://*.asian-dawn.com/*
+
+# AsiaNews.it (Italy)
+*://*.asianews.it/*
