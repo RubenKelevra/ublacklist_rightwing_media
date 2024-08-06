@@ -18,3 +18,6 @@
 
 # Acton Institute (USA)
 *://*.acton.org/*
+
+# AIPAC (USA)
+*://*.aipac.org/*
