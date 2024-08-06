@@ -48,3 +48,7 @@
 
 # American Alliance for Equal Rights (USA)
 *://*.americanallianceforequalrights.org/*
+
+# American Center for Law and Justice (USA)
+*://*.aclj.org/*
+
