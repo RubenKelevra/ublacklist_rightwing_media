@@ -9,3 +9,6 @@
 
 # Abort73 (USA)
 *://*.abort73.com/*
+
+# Accuracy in Academia (USA)
+*://*.academia.org/*
