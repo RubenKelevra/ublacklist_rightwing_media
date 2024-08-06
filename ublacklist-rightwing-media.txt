@@ -1,2 +1,5 @@
 # UBlacklist Right Wing Media
 # https://github.com/RubenKelevra/ublacklist_rightwing_media
+
+# 1792 Exchange (USA)
+*://*.1792exchange.com/*
