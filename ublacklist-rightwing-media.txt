@@ -115,3 +115,5 @@
 # Bearing Arms (USA)
 *://*.bearingarms.com/*
 
+# Beliefnet (USA)
+*://*.beliefnet.com/*
