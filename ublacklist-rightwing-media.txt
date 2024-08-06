@@ -52,3 +52,5 @@
 # American Center for Law and Justice (USA)
 *://*.aclj.org/*
 
+# American Conservative Union (USA)
+*://*.cpac.org/*
