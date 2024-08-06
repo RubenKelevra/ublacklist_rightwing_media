@@ -93,3 +93,7 @@
 
 # Ann Arbor’s Talk 1290 WLBY (USA)
 *://*.1290wlby.com/*
+
+# Armstrong Economics (USA)
+*://*.armstrongeconomics.com/*
+
