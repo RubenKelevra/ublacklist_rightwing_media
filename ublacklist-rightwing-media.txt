@@ -105,3 +105,6 @@
 
 # Assyrian International News Agency (USA)
 *://*.aina.org/*
+
+# Ayn Rand Centre (UK)
+*://*.aynrandcentre.co.uk/*
