@@ -81,3 +81,6 @@
 
 # Ami Magazine (USA)
 *://*.amimagazine.org/*
+
+# Ammoland (USA)
+*://*.ammoland.com/*
