@@ -84,3 +84,6 @@
 
 # Ammoland (USA)
 *://*.ammoland.com/*
+
+# Anadolu Agency / Anadolu Ajansı (Turkey)
+*://*.aa.com.tr/*
