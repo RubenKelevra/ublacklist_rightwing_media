@@ -45,3 +45,6 @@
 
 # America Rising PAC (USA)
 *://*.americarisingpac.org/*
+
+# American Alliance for Equal Rights (USA)
+*://*.americanallianceforequalrights.org/*
