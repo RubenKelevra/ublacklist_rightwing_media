@@ -69,3 +69,6 @@
 
 # American Journal Daily (USA)
 *://*.americanjournaldaily.com/*
+
+# American Legislative Exchange Council (USA)
+*://*.alec.org/*
