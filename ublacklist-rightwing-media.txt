@@ -112,3 +112,6 @@
 # The Badger Institute (USA)
 *://*.badgerinstitute.org/*
 
+# Bearing Arms (USA)
+*://*.bearingarms.com/*
+
