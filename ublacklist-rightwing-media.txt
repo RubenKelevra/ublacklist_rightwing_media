@@ -87,3 +87,6 @@
 
 # Anadolu Agency / Anadolu Ajansı (Turkey)
 *://*.aa.com.tr/*
+
+# Ann Arbor’s Talk 1290 WLBY (USA)
+*://*.1290wlby.com/*
