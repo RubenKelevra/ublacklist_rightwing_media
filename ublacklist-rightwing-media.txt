@@ -33,3 +33,6 @@
 
 # AltNewsMedia (UK)
 *://*.altnewsmedia.net/*
+
+# AMAC (USA)
+*://*.amac.us/*
