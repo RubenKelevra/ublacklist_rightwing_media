@@ -39,3 +39,6 @@
 
 # America First Action SuperPAC (USA)
 *://*.a1apac.org/*
+
+# America Insider (USA)
+*://*.americainsider.org/*
