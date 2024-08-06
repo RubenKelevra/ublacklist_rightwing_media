@@ -63,3 +63,6 @@
 
 # American Foreign Policy Council (USA)
 *://*.afpc.org/*
+
+# American Greatness (USA)
+*://*.amgreatness.com/*
