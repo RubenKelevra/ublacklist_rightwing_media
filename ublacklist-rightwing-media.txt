@@ -54,3 +54,6 @@
 
 # American Conservative Union (USA)
 *://*.cpac.org/*
+
+# American Enterprise Institute (USA)
+*://*.aei.org/*
