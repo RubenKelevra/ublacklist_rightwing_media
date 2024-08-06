@@ -57,3 +57,8 @@
 
 # American Enterprise Institute (USA)
 *://*.aei.org/*
+
+# Americans for Tax Reform (USA)
+*://*.atr.org/*
+
+
