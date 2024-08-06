@@ -36,3 +36,6 @@
 
 # AMAC (USA)
 *://*.amac.us/*
+
+# America First Action SuperPAC (USA)
+*://*.a1apac.org/*
