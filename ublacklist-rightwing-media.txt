@@ -61,4 +61,5 @@
 # Americans for Tax Reform (USA)
 *://*.atr.org/*
 
-
+# American Foreign Policy Council (USA)
+*://*.afpc.org/*
