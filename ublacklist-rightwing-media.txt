@@ -7,3 +7,5 @@
 # 1819 News (USA)
 *://*.1819news.com/*
 
+# Abort73 (USA)
+*://*.abort73.com/*
