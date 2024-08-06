@@ -30,3 +30,6 @@
 
 # All Israel News (Israel)
 *://*.allisrael.com/*
+
+# AltNewsMedia (UK)
+*://*.altnewsmedia.net/*
