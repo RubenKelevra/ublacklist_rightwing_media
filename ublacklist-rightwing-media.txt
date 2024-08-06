@@ -97,3 +97,5 @@
 # Armstrong Economics (USA)
 *://*.armstrongeconomics.com/*
 
+# Asian Dawn (USA)
+*://*.asian-dawn.com/*
