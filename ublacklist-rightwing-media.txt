@@ -102,3 +102,6 @@
 
 # AsiaNews.it (Italy)
 *://*.asianews.it/*
+
+# Assyrian International News Agency (USA)
+*://*.aina.org/*
