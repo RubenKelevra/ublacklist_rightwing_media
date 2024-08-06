@@ -75,3 +75,6 @@
 
 # American Spectator (USA)
 *://*.spectator.org/*
+
+# American Wire News (USA)
+*://*.americanwirenews.com/*
