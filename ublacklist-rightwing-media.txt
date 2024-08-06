@@ -42,3 +42,6 @@
 
 # America Insider (USA)
 *://*.americainsider.org/*
+
+# America Rising PAC (USA)
+*://*.americarisingpac.org/*
