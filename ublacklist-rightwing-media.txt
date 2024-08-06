@@ -3,3 +3,7 @@
 
 # 1792 Exchange (USA)
 *://*.1792exchange.com/*
+
+# 1819 News (USA)
+*://*.1819news.com/*
+
