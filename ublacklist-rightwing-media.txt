@@ -117,3 +117,6 @@
 
 # Beliefnet (USA)
 *://*.beliefnet.com/*
+
+# Birmingham’s Real Talk (USA)
+*://*.talk995.com/*
