@@ -24,3 +24,6 @@
 
 # Aish (Israel)
 *://*.aish.com/*
+
+# Alberta Press Leader (Canada)
+*://*.albertapressleader.ca/*
