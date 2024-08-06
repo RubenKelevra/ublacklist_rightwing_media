@@ -16,3 +16,5 @@
 # Accuracy in Media (USA)
 *://*.aim.org/*
 
+# Acton Institute (USA)
+*://*.acton.org/*
