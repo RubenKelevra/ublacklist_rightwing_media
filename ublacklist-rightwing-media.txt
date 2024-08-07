@@ -163,3 +163,5 @@
 # Catholic World Report (USA)
 *://*.catholicworldreport.com/*
 
+# CensorTrack (USA)
+*://*.censortrack.org/*
