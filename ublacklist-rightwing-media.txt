@@ -198,3 +198,6 @@
 
 # Chronicles Magazine (USA)
 *://*.chroniclesmagazine.org/*
+
+# Citizen Free Press (USA)
+*://*.citizenfreepress.com/*
