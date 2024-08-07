@@ -210,3 +210,6 @@
 
 # City Journal (USA)
 *://*.city-journal.org/*
+
+# Civitas Institute (USA)
+*://*.nccivitas.org/*
