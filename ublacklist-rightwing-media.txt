@@ -184,3 +184,6 @@
 # Christian Headlines (USA)
 *://*.christianheadlines.com/*
 *://*.crosswalk.com/*
+
+# Christian News Alerts (USA)
+*://*.christiannewsalerts.com/*
