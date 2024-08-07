@@ -156,3 +156,6 @@
 
 # Capital Research Center (USA)
 *://*.capitalresearch.org/*
+
+# CapX (UK)
+*://*.capx.co/*
