@@ -53,6 +53,7 @@
 *://*.aclj.org/*
 
 # American Conservative Union (USA)
+*://*.conservative.org/*
 *://*.cpac.org/*
 
 # American Enterprise Institute (USA)
