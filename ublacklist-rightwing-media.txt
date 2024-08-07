@@ -177,3 +177,6 @@
 
 # Chicks on the Right (USA)
 *://*.chicksonright.com/*
+
+# Christian Coalition of America (USA)
+*://*.cc.org/*
