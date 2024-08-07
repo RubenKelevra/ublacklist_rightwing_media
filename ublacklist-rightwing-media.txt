@@ -150,3 +150,6 @@
 
 # Campaign Life Coalition (Canada)
 *://*.campaignlifecoalition.com/*
+
+# Campus Reform (USA)
+*://*.campusreform.org/*
