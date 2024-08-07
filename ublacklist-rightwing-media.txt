@@ -147,3 +147,6 @@
 
 # Committee for Accuracy in Middle East Reporting and Analysis (USA)
 *://*.camera.org/*
+
+# Campaign Life Coalition (Canada)
+*://*.campaignlifecoalition.com/*
