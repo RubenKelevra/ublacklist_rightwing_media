@@ -123,3 +123,6 @@
 
 # Bizpac Review (USA)
 *://*.bizpacreview.com/*
+
+# BlabberBuzz (USA)
+*://*.blabber.buzz/*
