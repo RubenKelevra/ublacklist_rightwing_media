@@ -89,11 +89,11 @@
 # Anadolu Agency / Anadolu Ajansı (Turkey)
 *://*.aa.com.tr/*
 
-# Arizona Daily Independent (USA)
-*://*.arizonadailyindependent.com/*
-
 # Ann Arbor’s Talk 1290 WLBY (USA)
 *://*.1290wlby.com/*
+
+# Arizona Daily Independent (USA)
+*://*.arizonadailyindependent.com/*
 
 # Armstrong Economics (USA)
 *://*.armstrongeconomics.com/*
