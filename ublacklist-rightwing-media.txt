@@ -129,3 +129,6 @@
 
 # Black Community News (USA)
 *://*.blackcommunitynews.com/*
+
+# Blue Lives Matter (USA)
+*://*.policetribune.com/*
