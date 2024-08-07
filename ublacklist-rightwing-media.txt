@@ -240,3 +240,6 @@
 
 # Conservative Review (USA)
 *://*.conservativereview.com/*
+
+# Conservative Today (USA)
+*://*.conservativetoday.com/*
