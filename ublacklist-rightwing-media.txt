@@ -132,3 +132,6 @@
 
 # Blue Lives Matter (USA)
 *://*.policetribune.com/*
+
+# Bounding Into Comics (USA)
+*://*.boundingintocomics.com/*
