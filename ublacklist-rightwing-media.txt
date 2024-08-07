@@ -126,3 +126,6 @@
 
 # BlabberBuzz (USA)
 *://*.blabber.buzz/*
+
+# Black Community News (USA)
+*://*.blackcommunitynews.com/*
