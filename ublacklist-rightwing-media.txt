@@ -204,3 +204,6 @@
 
 # Citizens Against Government Waste (USA)
 *://*.cagw.org/*
+
+# Citizens United (USA)
+*://*.citizensunited.org/*
