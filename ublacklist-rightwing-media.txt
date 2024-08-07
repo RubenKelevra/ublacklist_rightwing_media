@@ -171,3 +171,6 @@
 
 # Center for Union Facts (USA)
 *://*.unionfacts.com/*
+
+# Center of the American Experiment (USA)
+*://*.americanexperiment.org/*
