@@ -159,3 +159,7 @@
 
 # CapX (UK)
 *://*.capx.co/*
+
+# Catholic World Report (USA)
+*://*.catholicworldreport.com/*
+
