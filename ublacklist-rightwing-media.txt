@@ -192,3 +192,6 @@
 
 # Christian Post (USA)
 *://*.christianpost.com/*
+
+# Christian Today (UK)
+*://*.christiantoday.com/*
