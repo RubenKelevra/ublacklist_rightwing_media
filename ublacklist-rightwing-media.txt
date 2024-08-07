@@ -195,3 +195,6 @@
 
 # Christian Today (UK)
 *://*.christiantoday.com/*
+
+# Chronicles Magazine (USA)
+*://*.chroniclesmagazine.org/*
