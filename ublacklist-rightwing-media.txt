@@ -120,3 +120,6 @@
 
 # Birmingham’s Real Talk (USA)
 *://*.talk995.com/*
+
+# Bizpac Review (USA)
+*://*.bizpacreview.com/*
