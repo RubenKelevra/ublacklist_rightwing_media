@@ -31,7 +31,7 @@
 # All Israel News (Israel)
 *://*.allisrael.com/*
 
-# AltNewsMedia (UK)
+# AltNewsMedia.net (UK)
 *://*.altnewsmedia.net/*
 
 # AMAC (USA)
