@@ -237,3 +237,6 @@
 
 # Conservative Partnership Institute (USA)
 *://*.cpi.org/*
+
+# Conservative Review (USA)
+*://*.conservativereview.com/*
