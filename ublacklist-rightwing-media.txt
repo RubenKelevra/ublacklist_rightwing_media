@@ -138,3 +138,6 @@
 
 # Brownstone Institute (USA)
 *://*.brownstone.org/*
+
+# C2C Journal (Canada)
+*://*.c2cjournal.ca/*
