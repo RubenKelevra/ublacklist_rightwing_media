@@ -135,3 +135,6 @@
 
 # Bounding Into Comics (USA)
 *://*.boundingintocomics.com/*
+
+# Brownstone Institute (USA)
+*://*.brownstone.org/*
