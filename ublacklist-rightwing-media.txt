@@ -201,3 +201,6 @@
 
 # Citizen Free Press (USA)
 *://*.citizenfreepress.com/*
+
+# Citizens Against Government Waste (USA)
+*://*.cagw.org/*
