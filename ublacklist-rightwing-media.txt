@@ -153,3 +153,6 @@
 
 # Campus Reform (USA)
 *://*.campusreform.org/*
+
+# Capital Research Center (USA)
+*://*.capitalresearch.org/*
