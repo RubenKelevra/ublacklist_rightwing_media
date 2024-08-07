@@ -207,3 +207,6 @@
 
 # Citizens United (USA)
 *://*.citizensunited.org/*
+
+# City Journal (USA)
+*://*.city-journal.org/*
