@@ -231,3 +231,6 @@
 
 # Conservative HQ (USA)
 *://*.conservativehq.org/*
+
+# Conservative Institute (USA)
+*://*.conservativeinstitute.org/*
