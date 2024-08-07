@@ -225,3 +225,6 @@
 
 # Conservative Brief (USA)
 *://*.conservativebrief.com/*
+
+# Conservative Home (UK)
+*://*.conservativehome.com/*
