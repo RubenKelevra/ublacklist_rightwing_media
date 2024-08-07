@@ -222,3 +222,6 @@
 
 # Concealed Nation (USA)
 *://*.concealednation.org/*
+
+# Conservative Brief (USA)
+*://*.conservativebrief.com/*
