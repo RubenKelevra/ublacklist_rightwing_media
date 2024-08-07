@@ -213,3 +213,6 @@
 
 # Civitas Institute (USA)
 *://*.nccivitas.org/*
+
+# Claremont Institute (USA)
+*://*.claremont.org/*
