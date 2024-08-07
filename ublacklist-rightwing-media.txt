@@ -168,3 +168,6 @@
 
 # Center for Freedom and Prosperity (USA)
 *://*.freedomandprosperity.org/*
+
+# Center for Union Facts (USA)
+*://*.unionfacts.com/*
