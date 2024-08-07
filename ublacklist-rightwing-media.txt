@@ -244,3 +244,6 @@
 
 # Conservative Today (USA)
 *://*.conservativetoday.com/*
+
+# Crime Prevention Research Center (USA)
+*://*.crimeresearch.org/*
