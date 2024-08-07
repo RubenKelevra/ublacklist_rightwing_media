@@ -144,3 +144,6 @@
 
 # Calgary Sun (Canada)
 *://*.calgarysun.com/*
+
+# Committee for Accuracy in Middle East Reporting and Analysis (USA)
+*://*.camera.org/*
