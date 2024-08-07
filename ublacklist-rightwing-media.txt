@@ -174,3 +174,6 @@
 
 # Center of the American Experiment (USA)
 *://*.americanexperiment.org/*
+
+# Chicks on the Right (USA)
+*://*.chicksonright.com/*
