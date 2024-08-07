@@ -219,3 +219,6 @@
 
 # Commentary Magazine (USA)
 *://*.commentary.org/*
+
+# Concealed Nation (USA)
+*://*.concealednation.org/*
