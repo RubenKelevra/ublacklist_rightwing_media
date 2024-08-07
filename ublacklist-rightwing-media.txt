@@ -228,3 +228,6 @@
 
 # Conservative Home (UK)
 *://*.conservativehome.com/*
+
+# Conservative HQ (USA)
+*://*.conservativehq.org/*
