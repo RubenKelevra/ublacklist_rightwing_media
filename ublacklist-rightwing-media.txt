@@ -216,3 +216,6 @@
 
 # Claremont Institute (USA)
 *://*.claremont.org/*
+
+# Commentary Magazine (USA)
+*://*.commentary.org/*
