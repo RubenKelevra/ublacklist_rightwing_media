@@ -22,7 +22,7 @@
 # AIPAC (USA)
 *://*.aipac.org/*
 
-# Aish (Israel)
+# Aish.com (USA)
 *://*.aish.com/*
 
 # Alberta Press Leader (Canada)
