@@ -187,3 +187,6 @@
 
 # Christian News Alerts (USA)
 *://*.christiannewsalerts.com/*
+
+# Christian Post (USA)
+*://*.christianpost.com/*
