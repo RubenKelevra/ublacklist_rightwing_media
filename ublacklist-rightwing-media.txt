@@ -180,3 +180,7 @@
 
 # Christian Coalition of America (USA)
 *://*.cc.org/*
+
+# Christian Headlines (USA)
+*://*.christianheadlines.com/*
+*://*.crosswalk.com/*
