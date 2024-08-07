@@ -165,3 +165,6 @@
 
 # CensorTrack (USA)
 *://*.censortrack.org/*
+
+# Center for Freedom and Prosperity (USA)
+*://*.freedomandprosperity.org/*
