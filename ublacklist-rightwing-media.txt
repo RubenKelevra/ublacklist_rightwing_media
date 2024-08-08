@@ -166,6 +166,7 @@
 
 # CensorTrack (USA)
 *://*.censortrack.org/*
+*://*.mrcfreespeechamerica.org/*
 
 # Center for Freedom and Prosperity (USA)
 *://*.freedomandprosperity.org/*
