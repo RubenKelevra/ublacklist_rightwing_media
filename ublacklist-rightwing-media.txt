@@ -479,3 +479,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KLIF (USA)
 *://*.klif.com/*
+
+# KMAJ (USA)
+*://*.kmaj1440.com/*
