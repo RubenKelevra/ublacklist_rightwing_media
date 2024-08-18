@@ -260,3 +260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Caller (USA)
 *://*.dailycaller.com/*
+
+# Daily Express (UK)
+*://*.express.co.uk/*
