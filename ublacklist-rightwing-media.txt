@@ -775,3 +775,6 @@ The College Fix (USA)
 The Conservative Woman (UK)
 *://*.conservativewoman.co.uk/*
 
+The Daily Telegraph (Australia)
+*://*.dailytelegraph.com.au/*
+
