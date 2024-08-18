@@ -464,3 +464,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KCMO (USA)
 *://*.kcmotalkradio.com/*
+
+# KELO (USA)
+*://*.kelo.com/*
