@@ -299,3 +299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Dorchester Review (Canada)
 *://*.dorchesterreview.ca/*
+
+# Eagle Pass News Leader (USA)
+*://*.epnewsleader.com/*
