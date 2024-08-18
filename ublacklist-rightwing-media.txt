@@ -573,3 +573,6 @@ National Catholic Register (USA)
 National Center for Public Policy Research (USA)
 *://*.nationalcenter.org/*
 
+National Conservatism (USA)
+*://*.nationalconservatism.org/*
+
