@@ -947,3 +947,6 @@ WPIC (USA)
 WRQX (USA)
 *://*.600wrqx.com/*
 
+WTMA (USA)
+*://*.wtma.com/*
+
