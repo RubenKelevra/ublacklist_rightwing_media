@@ -539,3 +539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Media Research Center (USA)
 *://*.mrc.org/*
+
+# Media Right News (USA)
+*://*.mediarightnews.com/*
