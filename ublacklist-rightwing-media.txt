@@ -655,3 +655,6 @@ PanAm Post (USA)
 Pants on Fire News (USA)
 *://*.pantsonfirenews.com/*
 
+Parents Defending Education (USA)
+*://*.defendinged.org/*
+
