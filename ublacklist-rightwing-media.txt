@@ -664,3 +664,6 @@ Patriot News Alerts (USA)
 Patriot News Daily (USA)
 *://*.patriotnewsdaily.com/*
 
+Philadelphia Jewish Exponent (USA)
+*://*.jewishexponent.com/*
+
