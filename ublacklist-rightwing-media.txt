@@ -908,3 +908,6 @@ WHLD (USA)
 WikiIslam (USA)
 *://*.wikiislam.net/*
 
+WinRed (USA)
+*://*.winred.com/*
+
