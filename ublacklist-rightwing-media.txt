@@ -576,3 +576,6 @@ National Center for Public Policy Research (USA)
 National Conservatism (USA)
 *://*.nationalconservatism.org/*
 
+National Federation of Republican Women (USA)
+*://*.nfrw.org/*
+
