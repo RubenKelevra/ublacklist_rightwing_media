@@ -387,3 +387,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Heritage Foundation (USA)
 *://*.heritage.org/*
 
+# Hot Air (USA)
+*://*.hotair.com/*
+
+
