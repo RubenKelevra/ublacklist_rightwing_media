@@ -667,3 +667,6 @@ Patriot News Daily (USA)
 Philadelphia Jewish Exponent (USA)
 *://*.jewishexponent.com/*
 
+Pluralist (USA)
+*://*.pluralist.com/*
+
