@@ -383,3 +383,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Gun Owners of America (USA)
 *://*.gunowners.org/*
+
+# Heritage Foundation (USA)
+*://*.heritage.org/*
+
