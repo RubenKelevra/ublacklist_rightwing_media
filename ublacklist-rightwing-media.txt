@@ -597,3 +597,6 @@ New Boston Post (USA)
 Newsbusters (USA)
 *://*.newsbusters.org/*
 
+NewsPageIndex.com (USA)
+*://*.newspageindex.com/*
+
