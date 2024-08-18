@@ -332,3 +332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Fake Hate Crimes (USA)
 *://*.fakehatecrimes.org/*
+
+# Federalist Society (USA)
+*://*.fedsoc.org/*
