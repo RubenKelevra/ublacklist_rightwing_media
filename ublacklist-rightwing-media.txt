@@ -772,3 +772,6 @@ The American Mind (USA)
 The College Fix (USA)
 *://*.thecollegefix.com/*
 
+The Conservative Woman (UK)
+*://*.conservativewoman.co.uk/*
+
