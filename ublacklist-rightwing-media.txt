@@ -806,3 +806,6 @@ The New Revere (USA)
 *://*.thenewrevere.com/*
 *://*.adracinnovations.com/*
 
+The Patriot Post (USA)
+*://*.patriotpost.us/*
+
