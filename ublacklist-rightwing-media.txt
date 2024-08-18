@@ -431,3 +431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Investors Business Daily (USA)
 *://*.investors.com/*
+
+# Israel Hayom (Israel)
+*://*.israelhayom.com/*
