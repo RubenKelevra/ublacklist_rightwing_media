@@ -890,3 +890,6 @@ WCOA (USA)
 Weasel Zippers (USA)
 *://*.weaselzippers.us/*
 
+Western Standard (Canada)
+*://*.westernstandard.news/*
+
