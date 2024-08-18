@@ -585,3 +585,6 @@ National Health Freedom Coalition (USA)
 National Review (USA)
 *://*.nationalreview.com/*
 
+National Republican Congressional Committee (USA)
+*://*.nrcc.org/*
+
