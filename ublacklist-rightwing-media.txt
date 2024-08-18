@@ -854,3 +854,6 @@ TRT World (Turkey)
 TVP Info (Poland)
 *://*.tvp.info/*
 
+Twitchy (USA)
+*://*.twitchy.com/*
+
