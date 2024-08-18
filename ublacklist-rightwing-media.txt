@@ -523,3 +523,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Liberty Headlines (USA)
 *://*.libertyheadlines.com/*
 *://*.headlineusa.com/*
+
+# Liberty Nation (USA)
+*://*.libertynation.com/*
