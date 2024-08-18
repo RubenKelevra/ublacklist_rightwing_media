@@ -564,3 +564,6 @@ MRC Free Speech America (USA)
 MxM News (USA)
 *://*.mxmnews.com/*
 
+National Association of Scholars (USA)
+*://*.nas.org/*
+
