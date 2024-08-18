@@ -878,3 +878,6 @@ Washington Examiner (USA)
 Washington Free Beacon (USA)
 *://*.freebeacon.com/*
 
+Watchdog Report (USA)
+*://*.watchdogreport.org/*
+
