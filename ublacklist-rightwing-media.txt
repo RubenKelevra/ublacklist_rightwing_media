@@ -751,3 +751,6 @@ Tampa Free Press (USA)
 Tatum Report (USA)
 *://*.tatumreport.com/*
 
+Tenth Amendment Center (USA)
+*://*.tenthamendmentcenter.com/*
+
