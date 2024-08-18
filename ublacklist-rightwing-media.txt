@@ -911,3 +911,6 @@ WikiIslam (USA)
 WinRed (USA)
 *://*.winred.com/*
 
+WJCW (USA)
+*://*.wjcw.com/*
+
