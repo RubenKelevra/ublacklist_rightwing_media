@@ -700,3 +700,6 @@ Reclaim The Net (Unknown)
 RedState (USA)
 *://*.redstate.com/*
 
+Regated (USA)
+*://*.regated.com/*
+
