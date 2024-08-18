@@ -293,3 +293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Dollar Collapse (USA)
 *://*.dollarcollapse.com/*
+
+# From the Desk of Donald J. Trump (USA)
+*://*.donaldjtrump.com/*
