@@ -561,3 +561,6 @@ Modern Diplomacy (Bulgaria)
 MRC Free Speech America (USA)
 *://*.mrcfreespeechamerica.org/*
 
+MxM News (USA)
+*://*.mxmnews.com/*
+
