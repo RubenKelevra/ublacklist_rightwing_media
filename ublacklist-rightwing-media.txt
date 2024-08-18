@@ -613,3 +613,6 @@ Not The Bee (USA)
 Niche Gamer (USA)
 *://*.nichegamer.com/*
 
+Nova24TV (Slovenia)
+*://*.nova24tv.si/*
+
