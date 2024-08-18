@@ -688,3 +688,6 @@ Public Interest Legal Foundation (USA)
 Quadrant Magazine (Australia)
 *://*.quadrant.org.au/*
 
+Reader’s Digest (USA)
+*://*.rd.com/*
+
