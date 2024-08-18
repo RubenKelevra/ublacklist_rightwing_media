@@ -485,3 +485,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KMJNow (USA)
 *://*.kmjnow.com/*
+
+# Kronen Zeitung (Austria)
+*://*.krone.at/*
