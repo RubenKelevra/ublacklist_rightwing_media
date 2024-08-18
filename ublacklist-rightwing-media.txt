@@ -787,3 +787,6 @@ The First TV (USA)
 TheGreggJarrett.com (USA)
 *://*.thegreggjarrett.com/*
 
+The Honest Patriot (USA)
+*://*.thehonestpatriot.net/*
+
