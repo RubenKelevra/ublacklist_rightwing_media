@@ -935,3 +935,6 @@ WOKI (USA)
 World Israel News (Israel)
 *://*.worldisraelnews.com/*
 
+World Magazine (USA)
+*://*.world.wng.org/*
+
