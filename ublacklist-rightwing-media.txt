@@ -567,3 +567,6 @@ MxM News (USA)
 National Association of Scholars (USA)
 *://*.nas.org/*
 
+National Catholic Register (USA)
+*://*.ncregister.com/*
+
