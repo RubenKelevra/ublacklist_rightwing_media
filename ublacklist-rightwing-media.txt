@@ -526,3 +526,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Liberty Nation (USA)
 *://*.libertynation.com/*
+
+# Lone Conservative (USA)
+*://*.loneconservative.com/*
