@@ -818,3 +818,6 @@ The Post Millennial (Canada)
 The Star (Malaysia)
 *://*.thestar.com.my/*
 
+The Sun UK (UK)
+*://*.thesun.co.uk/*
+
