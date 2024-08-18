@@ -833,3 +833,6 @@ The US Sun (USA)
 TimCast (USA)
 *://*.timcast.com/*
 
+Time Now News (India)
+*://*.timesnownews.com/*
+
