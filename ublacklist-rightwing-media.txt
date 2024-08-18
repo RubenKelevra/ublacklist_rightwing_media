@@ -815,3 +815,6 @@ The Postil Magazine (USA)
 The Post Millennial (Canada)
 *://*.thepostmillennial.com/*
 
+The Star (Malaysia)
+*://*.thestar.com.my/*
+
