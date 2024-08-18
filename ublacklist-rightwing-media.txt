@@ -950,3 +950,6 @@ WRQX (USA)
 WTMA (USA)
 *://*.wtma.com/*
 
+KTUC (USA)
+*://*.freedom1400.com/*
+
