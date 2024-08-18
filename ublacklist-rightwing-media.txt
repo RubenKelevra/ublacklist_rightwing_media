@@ -458,3 +458,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KARN (USA)
 *://*.newsradio1029.com/*
+
+# KBOI (USA)
+*://*.kboi.com/*
