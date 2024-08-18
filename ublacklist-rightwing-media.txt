@@ -278,3 +278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # DC Enquirer (USA)
 *://*.dcenquirer.com/*
+
+# Daily Torch (USA)
+*://*.dailytorch.com/*
