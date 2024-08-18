@@ -905,3 +905,6 @@ WGOW (USA)
 WHLD (USA)
 *://*.talk1270.com/*
 
+WikiIslam (USA)
+*://*.wikiislam.net/*
+
