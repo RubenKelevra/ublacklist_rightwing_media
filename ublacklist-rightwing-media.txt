@@ -634,3 +634,6 @@ Off The Press (USA)
 Ontario Proud (Canada)
 *://*.ontarioproud.ca/*
 
+Open The Books (USA)
+*://*.openthebooks.com/*
+
