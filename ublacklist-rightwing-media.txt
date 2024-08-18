@@ -542,3 +542,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Media Right News (USA)
 *://*.mediarightnews.com/*
+
+# Mercatornet (Australia)
+*://*.mercatornet.com/*
+
