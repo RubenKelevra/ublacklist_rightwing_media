@@ -311,3 +311,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Energy Citizens (USA)
 *://*.energycitizens.org/*
+
+# Ethics and Public Policy Center (USA)
+*://*.eppc.org/*
