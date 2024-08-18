@@ -824,3 +824,6 @@ The Sun UK (UK)
 The Texan (USA)
 *://*.thetexan.news/*
 
+The Truth About Guns (USA)
+*://*.thetruthaboutguns.com/*
+
