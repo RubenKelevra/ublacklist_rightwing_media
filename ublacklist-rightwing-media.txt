@@ -446,3 +446,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Judicial Crisis Network (USA)
 *://*.judicialnetwork.com/*
+
+# KABC (USA)
+*://*.kabc.com/*
