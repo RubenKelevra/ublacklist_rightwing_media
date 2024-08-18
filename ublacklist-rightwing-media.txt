@@ -516,3 +516,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Le Journal de Montreal (Canada)
 *://*.journaldemontreal.com/*
 *://*.qub.ca/*
+
+# Libertarian Institute (USA)
+*://*.libertarianinstitute.org/*
