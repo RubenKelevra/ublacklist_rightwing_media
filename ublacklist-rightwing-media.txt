@@ -706,3 +706,6 @@ Regated (USA)
 Rhino Times (USA)
 *://*.rhinotimes.com/*
 
+Ricochet (USA)
+*://*.ricochet.com/*
+
