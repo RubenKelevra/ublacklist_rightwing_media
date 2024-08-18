@@ -363,7 +363,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Frontiers of Freedom (USA)
 *://*.ff.org/*
 
-
-
-
-
+# Future of Freedom Foundation (USA)
+*://*.fff.org/*
