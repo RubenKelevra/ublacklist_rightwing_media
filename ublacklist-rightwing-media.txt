@@ -920,3 +920,6 @@ WKIM (USA)
 WLS (USA)
 *://*.wlsam.com/*
 
+WLWI (USA)
+*://*.newsradio1440.com/*
+
