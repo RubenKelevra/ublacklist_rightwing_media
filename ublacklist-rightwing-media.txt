@@ -872,3 +872,6 @@ WAAV (USA)
 WABC Radio (USA)
 *://*.wabcradio.com/*
 
+Washington Examiner (USA)
+*://*.washingtonexaminer.com/*
+
