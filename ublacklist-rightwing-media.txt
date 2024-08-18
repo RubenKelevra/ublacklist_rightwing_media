@@ -263,3 +263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Express (UK)
 *://*.express.co.uk/*
+
+# Daily Reckoning (USA)
+*://*.dailyreckoning.com/*
