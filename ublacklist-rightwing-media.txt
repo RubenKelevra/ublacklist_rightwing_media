@@ -254,3 +254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Crisis Magazine (USA)
 *://*.crisismagazine.com/*
+
+# Cumulus Media (USA)
+*://*.cumulusmedia.com/*
