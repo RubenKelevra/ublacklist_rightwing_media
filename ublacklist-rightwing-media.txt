@@ -401,3 +401,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Hurriyet Daily News (Turkey)
 *://*.hurriyetdailynews.com/*
+
+# I Bleed Red White and Blue (USA)
+*://*.ibleedredwhiteblue.com/*
+
