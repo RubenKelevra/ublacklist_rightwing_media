@@ -257,3 +257,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Cumulus Media (USA)
 *://*.cumulusmedia.com/*
+
+# Daily Caller (USA)
+*://*.dailycaller.com/*
