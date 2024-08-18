@@ -709,3 +709,6 @@ Rhino Times (USA)
 Ricochet (USA)
 *://*.ricochet.com/*
 
+Ron Paul Liberty Report (USA)
+*://*.ronpaullibertyreport.com/*
+
