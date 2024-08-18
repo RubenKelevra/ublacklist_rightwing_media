@@ -603,3 +603,6 @@ NewsPageIndex.com (USA)
 New York Sun (USA)
 *://*.nysun.com/*
 
+NGO Monitor (Israel)
+*://*.ngo-monitor.org/*
+
