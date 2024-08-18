@@ -591,3 +591,6 @@ National Republican Congressional Committee (USA)
 National Republican Senatorial Committee (USA)
 *://*.nrsc.org/*
 
+New Boston Post (USA)
+*://*.newbostonpost.com/*
+
