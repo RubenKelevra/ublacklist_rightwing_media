@@ -658,3 +658,6 @@ Pants on Fire News (USA)
 Parents Defending Education (USA)
 *://*.defendinged.org/*
 
+Patriot News Alerts (USA)
+*://*.patriotnewsalerts.com/*
+
