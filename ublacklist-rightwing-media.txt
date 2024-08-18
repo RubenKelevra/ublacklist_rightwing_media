@@ -414,3 +414,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Independent Journal Review (USA)
 *://*.ijr.com/*
 
+# Independent Women’s Forum (USA)
+*://*.iwf.org/*
