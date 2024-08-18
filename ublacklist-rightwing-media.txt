@@ -425,3 +425,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Intellectual Takeout (USA)
 *://*.intellectualtakeout.org/*
+
+# Intercollegiate Studies Institute (USA)
+*://*.isi.org/*
+
+# Investors Business Daily (USA)
+*://*.investors.com/*
