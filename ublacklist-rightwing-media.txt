@@ -884,3 +884,6 @@ Watchdog Report (USA)
 WBAP (USA)
 *://*.wbap.com/*
 
+WCOA (USA)
+*://*.wcoapensacola.com/*
+
