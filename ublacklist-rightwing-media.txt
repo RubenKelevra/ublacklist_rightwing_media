@@ -637,3 +637,6 @@ Ontario Proud (Canada)
 Open The Books (USA)
 *://*.openthebooks.com/*
 
+OpenVaers (USA)
+*://*.openvaers.com/*
+
