@@ -377,3 +377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Greek Reporter (Greece)
 *://*.greekreporter.com/*
+
+# Guido Fawkes (UK)
+*://*.order-order.com/*
