@@ -532,3 +532,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Lozier Institute (USA)
 *://*.lozierinstitute.org/*
+
+# Manhattan Institute for Policy Research (USA)
+*://*.manhattan-institute.org/*
+*://*.manhattan.institute/*
