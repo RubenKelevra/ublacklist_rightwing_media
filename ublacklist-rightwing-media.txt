@@ -582,3 +582,6 @@ National Federation of Republican Women (USA)
 National Health Freedom Coalition (USA)
 *://*.nationalhealthfreedom.org/*
 
+National Review (USA)
+*://*.nationalreview.com/*
+
