@@ -398,3 +398,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Hurriyet (Turkey)
 *://*.hurriyet.com.tr/*
+
+# Hurriyet Daily News (Turkey)
+*://*.hurriyetdailynews.com/*
