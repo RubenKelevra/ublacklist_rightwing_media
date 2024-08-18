@@ -513,4 +513,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Legal Insurrection (USA)
 *://*.legalinsurrection.com/*
 
-
+# Le Journal de Montreal (Canada)
+*://*.journaldemontreal.com/*
+*://*.qub.ca/*
