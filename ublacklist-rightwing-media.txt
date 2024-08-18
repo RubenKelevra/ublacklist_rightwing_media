@@ -839,3 +839,6 @@ Time Now News (India)
 TIPP Insights (USA)
 *://*.tippinsights.com/*
 
+Toronto Sun (Canada)
+*://*.torontosun.com/*
+
