@@ -781,3 +781,6 @@ The Daily Telegraph (Australia)
 The Daily Wire (USA)
 *://*.dailywire.com/*
 
+The First TV (USA)
+*://*.thefirsttv.com/*
+
