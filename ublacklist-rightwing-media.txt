@@ -555,3 +555,6 @@ Minnesota Citizens Concerned for Life (USA)
 Mises Institute (USA)
 *://*.mises.org/*
 
+Modern Diplomacy (Bulgaria)
+*://*.moderndiplomacy.eu/*
+
