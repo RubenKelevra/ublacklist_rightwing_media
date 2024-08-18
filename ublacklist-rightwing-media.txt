@@ -718,3 +718,6 @@ Rare News (USA)
 Sabah (Turkey)
 *://*.sabah.com.tr/*
 
+Save Jersey (USA)
+*://*.savejersey.com/*
+
