@@ -314,3 +314,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Ethics and Public Policy Center (USA)
 *://*.eppc.org/*
+
+# Ethics & Religious Liberty Commission (USA)
+*://*.erlc.com/*
+
