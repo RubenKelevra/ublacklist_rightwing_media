@@ -691,3 +691,6 @@ Quadrant Magazine (Australia)
 Reader’s Digest (USA)
 *://*.rd.com/*
 
+Real America’s Voice (USA)
+*://*.americasvoice.news/*
+
