@@ -914,3 +914,6 @@ WinRed (USA)
 WJCW (USA)
 *://*.wjcw.com/*
 
+WKIM (USA)
+*://*.newstalk989.com/*
+
