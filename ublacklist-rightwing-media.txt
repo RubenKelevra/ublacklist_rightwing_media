@@ -953,3 +953,6 @@ WTMA (USA)
 KTUC (USA)
 *://*.freedom1400.com/*
 
+WVLK (USA)
+*://*.wvlkam.com/*
+
