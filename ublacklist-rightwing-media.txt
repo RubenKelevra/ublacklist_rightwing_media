@@ -866,3 +866,6 @@ Valiant News (USA)
 Valuetainment (USA)
 *://*.valuetainment.com/*
 
+WAAV (USA)
+*://*.980waav.com/*
+
