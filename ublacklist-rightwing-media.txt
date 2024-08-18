@@ -351,6 +351,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Foundation for Defense of Democracies (USA)
 *://*.fdd.org/*
 
+# Free Republic (USA)
+*://*.freerepublic.com/*
+
 
 
 
