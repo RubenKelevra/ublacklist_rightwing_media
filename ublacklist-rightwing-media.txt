@@ -869,3 +869,6 @@ Valuetainment (USA)
 WAAV (USA)
 *://*.980waav.com/*
 
+WABC Radio (USA)
+*://*.wabcradio.com/*
+
