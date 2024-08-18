@@ -754,3 +754,6 @@ Tatum Report (USA)
 Tenth Amendment Center (USA)
 *://*.tenthamendmentcenter.com/*
 
+TFPP Wire (USA)
+*://*.tfppwire.com/*
+
