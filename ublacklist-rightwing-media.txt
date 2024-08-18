@@ -896,3 +896,6 @@ Western Standard (Canada)
 WFNC (USA)
 *://*.wfnc640am.com/*
 
+WFTW (USA)
+*://*.wftw.com/*
+
