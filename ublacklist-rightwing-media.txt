@@ -275,3 +275,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Dallas Express (USA)
 *://*.dallasexpress.com/*
+
+# DC Enquirer (USA)
+*://*.dcenquirer.com/*
