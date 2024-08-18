@@ -769,3 +769,6 @@ The American Cause (USA)
 The American Mind (USA)
 *://*.americanmind.org/*
 
+The College Fix (USA)
+*://*.thecollegefix.com/*
+
