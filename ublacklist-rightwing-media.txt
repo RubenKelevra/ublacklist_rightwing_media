@@ -739,3 +739,6 @@ Sonoran News (USA)
 Sons of 1776 (USA)
 *://*.sonsof1776.com/*
 
+Spiked Magazine (UK)
+*://*.spiked-online.com/*
+
