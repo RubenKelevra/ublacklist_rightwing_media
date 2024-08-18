@@ -809,3 +809,6 @@ The New Revere (USA)
 The Patriot Post (USA)
 *://*.patriotpost.us/*
 
+The Postil Magazine (USA)
+*://*.thepostil.com/*
+
