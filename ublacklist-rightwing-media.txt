@@ -570,3 +570,6 @@ National Association of Scholars (USA)
 National Catholic Register (USA)
 *://*.ncregister.com/*
 
+National Center for Public Policy Research (USA)
+*://*.nationalcenter.org/*
+
