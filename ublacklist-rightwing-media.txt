@@ -748,3 +748,6 @@ Talk TV (UK)
 Tampa Free Press (USA)
 *://*.tampafp.com/*
 
+Tatum Report (USA)
+*://*.tatumreport.com/*
+
