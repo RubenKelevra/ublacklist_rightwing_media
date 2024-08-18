@@ -470,3 +470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KKAT (USA)
 *://*.860kkat.com/*
+
+# KKOB (USA)
+*://*.newsradiokkob.com/*
