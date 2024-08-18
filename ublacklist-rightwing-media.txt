@@ -742,3 +742,6 @@ Sons of 1776 (USA)
 Spiked Magazine (UK)
 *://*.spiked-online.com/*
 
+Talk TV (UK)
+*://*.talk.tv/*
+
