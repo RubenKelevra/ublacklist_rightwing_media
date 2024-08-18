@@ -625,3 +625,6 @@ NTK Network (USA)
 Numbers USA (USA)
 *://*.numbersusa.com/*
 
+Offgrid Survival (USA)
+*://*.offgridsurvival.com/*
+
