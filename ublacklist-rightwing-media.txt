@@ -778,3 +778,6 @@ The Conservative Woman (UK)
 The Daily Telegraph (Australia)
 *://*.dailytelegraph.com.au/*
 
+The Daily Wire (USA)
+*://*.dailywire.com/*
+
