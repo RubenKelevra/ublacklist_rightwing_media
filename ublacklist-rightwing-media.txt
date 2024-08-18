@@ -287,3 +287,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # De Telegraaf (Netherlands)
 *://*.telegraaf.nl/*
+
+# DML News (USA)
+*://*.teamdml.com/*
