@@ -368,3 +368,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Get Religion (USA)
 *://*.getreligion.org/*
+
+# Government Accountability Institute (USA)
+*://*.g-a-i.org/*
+
