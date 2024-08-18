@@ -757,3 +757,6 @@ Tenth Amendment Center (USA)
 TFPP Wire (USA)
 *://*.tfppwire.com/*
 
+The Advertiser (Australia)
+*://*.adelaidenow.com.au/*
+
