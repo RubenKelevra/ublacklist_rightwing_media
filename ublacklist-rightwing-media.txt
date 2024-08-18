@@ -646,3 +646,6 @@ OpIndia (India)
 OpsLens (USA)
 *://*.opslens.com/*
 
+OutKick Bias Rating (USA)
+*://*.outkick.com/*
+
