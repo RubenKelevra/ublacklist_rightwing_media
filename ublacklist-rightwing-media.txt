@@ -799,3 +799,6 @@ The Library of Economics and Liberty (USA)
 The National Herald (USA)
 *://*.thenationalherald.com/*
 
+The New American (USA)
+*://*.thenewamerican.com/*
+
