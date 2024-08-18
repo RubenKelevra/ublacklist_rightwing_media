@@ -938,3 +938,6 @@ World Israel News (Israel)
 World Magazine (USA)
 *://*.world.wng.org/*
 
+WOSH (USA)
+*://*.1490wosh.com/*
+
