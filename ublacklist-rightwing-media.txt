@@ -506,3 +506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Law & Liberty (USA)
 *://*.lawliberty.org/*
+
+# Law Enforcement Today (USA)
+*://*.lawenforcementtoday.com/*
