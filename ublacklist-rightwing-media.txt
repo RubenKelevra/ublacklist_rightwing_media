@@ -836,3 +836,6 @@ TimCast (USA)
 Time Now News (India)
 *://*.timesnownews.com/*
 
+TIPP Insights (USA)
+*://*.tippinsights.com/*
+
