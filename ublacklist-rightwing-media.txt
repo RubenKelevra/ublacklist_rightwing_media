@@ -342,4 +342,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # First Things Magazine (USA)
 *://*.firstthings.com/*
 
+# Florida Daily (USA)
+*://*.floridadaily.com/*
+
 
