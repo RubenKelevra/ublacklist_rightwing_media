@@ -721,3 +721,6 @@ Sabah (Turkey)
 Save Jersey (USA)
 *://*.savejersey.com/*
 
+Sentinel KSMO (USA)
+*://*.sentinelksmo.org/*
+
