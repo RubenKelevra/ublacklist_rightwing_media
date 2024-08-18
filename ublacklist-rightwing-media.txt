@@ -594,3 +594,6 @@ National Republican Senatorial Committee (USA)
 New Boston Post (USA)
 *://*.newbostonpost.com/*
 
+Newsbusters (USA)
+*://*.newsbusters.org/*
+
