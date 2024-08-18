@@ -476,3 +476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KKOH (USA)
 *://*.kkoh.com/*
+
+# KLIF (USA)
+*://*.klif.com/*
