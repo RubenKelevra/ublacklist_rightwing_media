@@ -519,3 +519,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Libertarian Institute (USA)
 *://*.libertarianinstitute.org/*
+
+# Liberty Headlines (USA)
+*://*.libertyheadlines.com/*
+*://*.headlineusa.com/*
