@@ -917,3 +917,6 @@ WJCW (USA)
 WKIM (USA)
 *://*.newstalk989.com/*
 
+WLS (USA)
+*://*.wlsam.com/*
+
