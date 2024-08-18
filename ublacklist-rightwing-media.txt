@@ -497,3 +497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KVOR (USA)
 *://*.kvor.com/*
+
+# LaborPains (USA)
+*://*.laborpains.org/*
