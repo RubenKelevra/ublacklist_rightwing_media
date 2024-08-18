@@ -932,3 +932,6 @@ WMAL (USA)
 WOKI (USA)
 *://*.newstalk987.com/*
 
+World Israel News (Israel)
+*://*.worldisraelnews.com/*
+
