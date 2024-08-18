@@ -860,3 +860,6 @@ Twitchy (USA)
 UN Watch (Switzerland)
 *://*.unwatch.org/*
 
+Valiant News (USA)
+*://*.valiantnews.com/*
+
