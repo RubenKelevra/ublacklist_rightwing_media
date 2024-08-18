@@ -851,3 +851,6 @@ True North Centre for Public Policy (Canada)
 TRT World (Turkey)
 *://*.trtworld.com/*
 
+TVP Info (Poland)
+*://*.tvp.info/*
+
