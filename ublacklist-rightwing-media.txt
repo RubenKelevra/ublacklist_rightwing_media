@@ -467,3 +467,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KELO (USA)
 *://*.kelo.com/*
+
+# KKAT (USA)
+*://*.860kkat.com/*
