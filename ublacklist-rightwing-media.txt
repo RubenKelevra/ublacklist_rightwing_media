@@ -455,3 +455,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KAOK (USA)
 *://*.kaok.com/*
+
+# KARN (USA)
+*://*.newsradio1029.com/*
