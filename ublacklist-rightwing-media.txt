@@ -410,3 +410,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Imprimis (USA)
 *://*.imprimis.hillsdale.edu/*
+
+# Independent Journal Review (USA)
+*://*.ijr.com/*
+
