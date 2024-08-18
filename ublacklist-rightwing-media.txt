@@ -348,5 +348,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Florida’s Voice (USA)
 *://*.flvoicenews.com/*
 
+# Foundation for Defense of Democracies (USA)
+*://*.fdd.org/*
+
+
 
 
