@@ -380,3 +380,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Guido Fawkes (UK)
 *://*.order-order.com/*
+
+# Gun Owners of America (USA)
+*://*.gunowners.org/*
