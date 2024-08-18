@@ -842,3 +842,6 @@ TIPP Insights (USA)
 Toronto Sun (Canada)
 *://*.torontosun.com/*
 
+My Daily Freedom (USA)
+*://*.mydailyfreedom.com/*
+
