@@ -622,3 +622,6 @@ NRA (USA)
 NTK Network (USA)
 *://*.ntknetwork.com/*
 
+Numbers USA (USA)
+*://*.numbersusa.com/*
+
