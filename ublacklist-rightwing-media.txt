@@ -500,3 +500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # LaborPains (USA)
 *://*.laborpains.org/*
+
+# Latestly (India)
+*://*.latestly.com/*
