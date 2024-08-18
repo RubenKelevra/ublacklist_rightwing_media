@@ -857,3 +857,6 @@ TVP Info (Poland)
 Twitchy (USA)
 *://*.twitchy.com/*
 
+UN Watch (Switzerland)
+*://*.unwatch.org/*
+
