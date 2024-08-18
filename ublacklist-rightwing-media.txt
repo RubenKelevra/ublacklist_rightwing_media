@@ -395,3 +395,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Human Events (USA)
 *://*.humanevents.com/*
+
+# Hurriyet (Turkey)
+*://*.hurriyet.com.tr/*
