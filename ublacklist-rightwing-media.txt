@@ -482,3 +482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KMAJ (USA)
 *://*.kmaj1440.com/*
+
+# KMJNow (USA)
+*://*.kmjnow.com/*
