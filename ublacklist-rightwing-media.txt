@@ -420,3 +420,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Influence Watch (USA)
 *://*.influencewatch.org/*
 
+# Institute for Family Studies (USA)
+*://*.ifstudies.org/*
