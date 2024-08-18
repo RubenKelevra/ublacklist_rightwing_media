@@ -926,3 +926,6 @@ WLWI (USA)
 WMAC (USA)
 *://*.wmac-am.com/*
 
+WMAL (USA)
+*://*.wmal.com/*
+
