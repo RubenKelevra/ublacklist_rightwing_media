@@ -269,3 +269,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Signal (USA)
 *://*.dailysignal.com/*
+
+# Daily Telegraph (UK)
+*://*.telegraph.co.uk/*
