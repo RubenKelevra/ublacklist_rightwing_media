@@ -266,3 +266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Reckoning (USA)
 *://*.dailyreckoning.com/*
+
+# Daily Signal (USA)
+*://*.dailysignal.com/*
