@@ -488,3 +488,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Kronen Zeitung (Austria)
 *://*.krone.at/*
+
+# KSFO (USA)
+*://*.ksfo.com/*
+
+
