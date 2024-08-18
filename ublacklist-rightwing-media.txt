@@ -899,3 +899,6 @@ WFNC (USA)
 WFTW (USA)
 *://*.wftw.com/*
 
+WGOW (USA)
+*://*.wgowam.com/*
+
