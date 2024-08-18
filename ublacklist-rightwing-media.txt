@@ -697,3 +697,6 @@ Real America’s Voice (USA)
 Reclaim The Net (Unknown)
 *://*.reclaimthenet.org/*
 
+RedState (USA)
+*://*.redstate.com/*
+
