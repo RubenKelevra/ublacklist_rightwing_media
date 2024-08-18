@@ -941,3 +941,6 @@ World Magazine (USA)
 WOSH (USA)
 *://*.1490wosh.com/*
 
+WPIC (USA)
+*://*.790wpic.com/*
+
