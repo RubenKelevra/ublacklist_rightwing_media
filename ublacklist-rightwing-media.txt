@@ -503,3 +503,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Latestly (India)
 *://*.latestly.com/*
+
+# Law & Liberty (USA)
+*://*.lawliberty.org/*
