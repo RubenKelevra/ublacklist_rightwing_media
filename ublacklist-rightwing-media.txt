@@ -863,3 +863,6 @@ UN Watch (Switzerland)
 Valiant News (USA)
 *://*.valiantnews.com/*
 
+Valuetainment (USA)
+*://*.valuetainment.com/*
+
