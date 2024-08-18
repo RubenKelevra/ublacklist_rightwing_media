@@ -652,3 +652,6 @@ OutKick Bias Rating (USA)
 PanAm Post (USA)
 *://*.panampost.com/*
 
+Pants on Fire News (USA)
+*://*.pantsonfirenews.com/*
+
