@@ -676,3 +676,6 @@ Politcalite UK (UK)
 Politichicks (USA)
 *://*.politichicks.com/*
 
+Power Line (USA)
+*://*.powerlineblog.com/*
+
