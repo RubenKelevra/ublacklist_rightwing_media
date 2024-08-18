@@ -416,3 +416,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Independent Women’s Forum (USA)
 *://*.iwf.org/*
+
+# Influence Watch (USA)
+*://*.influencewatch.org/*
+
