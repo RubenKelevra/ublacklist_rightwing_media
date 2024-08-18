@@ -606,3 +606,7 @@ New York Sun (USA)
 NGO Monitor (Israel)
 *://*.ngo-monitor.org/*
 
+Not The Bee (USA)
+*://*.notthebee.com/*
+*://*.disrn.com/*
+
