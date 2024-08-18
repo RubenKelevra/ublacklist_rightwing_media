@@ -965,3 +965,6 @@ WWTN (USA)
 WXLM (USA)
 *://*.980wxlm.com/*
 
+WXQW (USA)
+*://*.660wxqw.com/*
+
