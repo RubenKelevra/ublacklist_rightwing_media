@@ -962,3 +962,6 @@ WVNN (USA)
 WWTN (USA)
 *://*.997wtn.com/*
 
+WXLM (USA)
+*://*.980wxlm.com/*
+
