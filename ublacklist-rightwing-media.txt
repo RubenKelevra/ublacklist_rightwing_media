@@ -339,3 +339,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fight the New Drug (USA)
 *://*.fightthenewdrug.org/*
 
+# First Things Magazine (USA)
+*://*.firstthings.com/*
+
+
