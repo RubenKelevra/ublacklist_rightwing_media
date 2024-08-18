@@ -679,3 +679,6 @@ Politichicks (USA)
 Power Line (USA)
 *://*.powerlineblog.com/*
 
+Project 2025 (USA)
+*://*.project2025.org/*
+
