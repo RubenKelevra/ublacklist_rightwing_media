@@ -745,3 +745,6 @@ Spiked Magazine (UK)
 Talk TV (UK)
 *://*.talk.tv/*
 
+Tampa Free Press (USA)
+*://*.tampafp.com/*
+
