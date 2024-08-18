@@ -290,3 +290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # DML News (USA)
 *://*.teamdml.com/*
+
+# Dollar Collapse (USA)
+*://*.dollarcollapse.com/*
