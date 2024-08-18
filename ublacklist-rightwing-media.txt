@@ -628,3 +628,6 @@ Numbers USA (USA)
 Offgrid Survival (USA)
 *://*.offgridsurvival.com/*
 
+Off The Press (USA)
+*://*.offthepress.com/*
+
