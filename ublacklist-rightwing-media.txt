@@ -357,6 +357,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FreedomWorks (USA)
 *://*.freedomworks.org/*
 
+# Free Speech Union (UK)
+*://*.freespeechunion.org/*
+
 
 
 
