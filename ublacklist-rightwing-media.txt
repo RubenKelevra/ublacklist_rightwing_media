@@ -893,3 +893,6 @@ Weasel Zippers (USA)
 Western Standard (Canada)
 *://*.westernstandard.news/*
 
+WFNC (USA)
+*://*.wfnc640am.com/*
+
