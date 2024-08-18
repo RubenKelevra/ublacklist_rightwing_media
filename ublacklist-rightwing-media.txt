@@ -760,3 +760,6 @@ TFPP Wire (USA)
 The Advertiser (Australia)
 *://*.adelaidenow.com.au/*
 
+The America First Policy Institute (USA)
+*://*.americafirstpolicy.com/*
+
