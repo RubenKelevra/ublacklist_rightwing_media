@@ -284,3 +284,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # DEIDetected (Brazil)
 *://*.deidetected.com/*
+
+# De Telegraaf (Netherlands)
+*://*.telegraaf.nl/*
