@@ -579,3 +579,6 @@ National Conservatism (USA)
 National Federation of Republican Women (USA)
 *://*.nfrw.org/*
 
+National Health Freedom Coalition (USA)
+*://*.nationalhealthfreedom.org/*
+
