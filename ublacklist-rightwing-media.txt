@@ -345,4 +345,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Florida Daily (USA)
 *://*.floridadaily.com/*
 
+# Florida’s Voice (USA)
+*://*.flvoicenews.com/*
+
+
 
