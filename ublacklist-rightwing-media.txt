@@ -552,3 +552,6 @@ Minding the Campus (USA)
 Minnesota Citizens Concerned for Life (USA)
 *://*.mccl.org/*
 
+Mises Institute (USA)
+*://*.mises.org/*
+
