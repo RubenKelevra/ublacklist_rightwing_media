@@ -944,3 +944,6 @@ WOSH (USA)
 WPIC (USA)
 *://*.790wpic.com/*
 
+WRQX (USA)
+*://*.600wrqx.com/*
+
