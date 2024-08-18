@@ -736,3 +736,6 @@ Sky News Australia (Australia)
 Sonoran News (USA)
 *://*.sonorannews.com/*
 
+Sons of 1776 (USA)
+*://*.sonsof1776.com/*
+
