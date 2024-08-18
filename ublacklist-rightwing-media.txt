@@ -549,3 +549,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 Minding the Campus (USA)
 *://*.mindingthecampus.org/*
 
+Minnesota Citizens Concerned for Life (USA)
+*://*.mccl.org/*
+
