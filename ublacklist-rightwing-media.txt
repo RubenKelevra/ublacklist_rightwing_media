@@ -631,3 +631,6 @@ Offgrid Survival (USA)
 Off The Press (USA)
 *://*.offthepress.com/*
 
+Ontario Proud (Canada)
+*://*.ontarioproud.ca/*
+
