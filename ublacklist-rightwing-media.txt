@@ -296,3 +296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # From the Desk of Donald J. Trump (USA)
 *://*.donaldjtrump.com/*
+
+# Dorchester Review (Canada)
+*://*.dorchesterreview.ca/*
