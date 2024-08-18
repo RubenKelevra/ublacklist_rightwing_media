@@ -766,3 +766,6 @@ The America First Policy Institute (USA)
 The American Cause (USA)
 *://*.theamericancause.org/*
 
+The American Mind (USA)
+*://*.americanmind.org/*
+
