@@ -661,3 +661,6 @@ Parents Defending Education (USA)
 Patriot News Alerts (USA)
 *://*.patriotnewsalerts.com/*
 
+Patriot News Daily (USA)
+*://*.patriotnewsdaily.com/*
+
