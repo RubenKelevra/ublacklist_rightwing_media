@@ -796,3 +796,6 @@ TheLeoTerrell.com (USA)
 The Library of Economics and Liberty (USA)
 *://*.econlib.org/*
 
+The National Herald (USA)
+*://*.thenationalherald.com/*
+
