@@ -390,4 +390,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hot Air (USA)
 *://*.hotair.com/*
 
+# Hudson Institute (USA)
+*://*.hudson.org/*
+
 
