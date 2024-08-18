@@ -712,3 +712,6 @@ Ricochet (USA)
 Ron Paul Liberty Report (USA)
 *://*.ronpaullibertyreport.com/*
 
+Rare News (USA)
+*://*.rare.us/*
+
