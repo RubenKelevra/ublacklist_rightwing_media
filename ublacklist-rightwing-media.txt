@@ -703,3 +703,6 @@ RedState (USA)
 Regated (USA)
 *://*.regated.com/*
 
+Rhino Times (USA)
+*://*.rhinotimes.com/*
+
