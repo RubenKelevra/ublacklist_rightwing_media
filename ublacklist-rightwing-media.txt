@@ -733,3 +733,6 @@ Sinclair Broadcast Group (USA)
 Sky News Australia (Australia)
 *://*.skynews.com.au/*
 
+Sonoran News (USA)
+*://*.sonorannews.com/*
+
