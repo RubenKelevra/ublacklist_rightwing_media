@@ -971,3 +971,6 @@ WXQW (USA)
 YellowHammer News (USA)
 *://*.yellowhammernews.com/*
 
+Young America’s Foundation (USA)
+*://*.yaf.org/*
+
