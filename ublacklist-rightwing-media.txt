@@ -929,3 +929,6 @@ WMAC (USA)
 WMAL (USA)
 *://*.wmal.com/*
 
+WOKI (USA)
+*://*.newstalk987.com/*
+
