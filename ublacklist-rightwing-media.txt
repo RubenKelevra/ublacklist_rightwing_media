@@ -724,3 +724,6 @@ Save Jersey (USA)
 Sentinel KSMO (USA)
 *://*.sentinelksmo.org/*
 
+Shore News Network (USA)
+*://*.shorenewsnetwork.com/*
+
