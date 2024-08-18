@@ -434,3 +434,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Israel Hayom (Israel)
 *://*.israelhayom.com/*
+
+# Issues & Insights (USA)
+*://*.issuesinsights.com/*
