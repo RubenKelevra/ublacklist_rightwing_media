@@ -830,3 +830,6 @@ The Truth About Guns (USA)
 The US Sun (USA)
 *://*.the-sun.com/*
 
+TimCast (USA)
+*://*.timcast.com/*
+
