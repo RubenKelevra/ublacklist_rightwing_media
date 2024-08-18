@@ -845,3 +845,6 @@ Toronto Sun (Canada)
 My Daily Freedom (USA)
 *://*.mydailyfreedom.com/*
 
+True North Centre for Public Policy (Canada)
+*://*.tnc.news/*
+
