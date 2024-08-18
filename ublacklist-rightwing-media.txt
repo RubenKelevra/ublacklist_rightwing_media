@@ -875,3 +875,6 @@ WABC Radio (USA)
 Washington Examiner (USA)
 *://*.washingtonexaminer.com/*
 
+Washington Free Beacon (USA)
+*://*.freebeacon.com/*
+
