@@ -956,3 +956,6 @@ KTUC (USA)
 WVLK (USA)
 *://*.wvlkam.com/*
 
+WVNN (USA)
+*://*.wvnn.com/*
+
