@@ -588,3 +588,6 @@ National Review (USA)
 National Republican Congressional Committee (USA)
 *://*.nrcc.org/*
 
+National Republican Senatorial Committee (USA)
+*://*.nrsc.org/*
+
