@@ -640,3 +640,6 @@ Open The Books (USA)
 OpenVaers (USA)
 *://*.openvaers.com/*
 
+OpIndia (India)
+*://*.opindia.com/*
+
