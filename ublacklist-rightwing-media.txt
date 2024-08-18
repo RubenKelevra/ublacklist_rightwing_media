@@ -443,3 +443,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Jewish World Review (USA)
 *://*.jewishworldreview.com/*
+
+# Judicial Crisis Network (USA)
+*://*.judicialnetwork.com/*
