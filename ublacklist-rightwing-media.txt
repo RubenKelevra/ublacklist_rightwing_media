@@ -360,6 +360,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Free Speech Union (UK)
 *://*.freespeechunion.org/*
 
+# Frontiers of Freedom (USA)
+*://*.ff.org/*
+
+
 
 
 
