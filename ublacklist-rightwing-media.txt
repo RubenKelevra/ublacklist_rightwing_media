@@ -619,3 +619,6 @@ Nova24TV (Slovenia)
 NRA (USA)
 *://*.nraila.org/*
 
+NTK Network (USA)
+*://*.ntknetwork.com/*
+
