@@ -802,3 +802,7 @@ The National Herald (USA)
 The New American (USA)
 *://*.thenewamerican.com/*
 
+The New Revere (USA)
+*://*.thenewrevere.com/*
+*://*.adracinnovations.com/*
+
