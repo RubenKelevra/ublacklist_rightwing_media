@@ -670,3 +670,6 @@ Philadelphia Jewish Exponent (USA)
 Pluralist (USA)
 *://*.pluralist.com/*
 
+Politcalite UK (UK)
+*://*.politicalite.com/*
+
