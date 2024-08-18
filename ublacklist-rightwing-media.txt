@@ -529,3 +529,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Lone Conservative (USA)
 *://*.loneconservative.com/*
+
+# Lozier Institute (USA)
+*://*.lozierinstitute.org/*
