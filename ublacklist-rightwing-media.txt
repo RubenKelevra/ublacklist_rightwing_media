@@ -821,3 +821,6 @@ The Star (Malaysia)
 The Sun UK (UK)
 *://*.thesun.co.uk/*
 
+The Texan (USA)
+*://*.thetexan.news/*
+
