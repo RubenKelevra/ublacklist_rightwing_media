@@ -682,3 +682,6 @@ Power Line (USA)
 Project 2025 (USA)
 *://*.project2025.org/*
 
+Public Interest Legal Foundation (USA)
+*://*.publicinterestlegal.org/*
+
