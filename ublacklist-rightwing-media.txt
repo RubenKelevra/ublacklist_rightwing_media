@@ -405,3 +405,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # I Bleed Red White and Blue (USA)
 *://*.ibleedredwhiteblue.com/*
 
+# Illinois Policy Institute (USA)
+*://*.illinoispolicy.org/*
+
