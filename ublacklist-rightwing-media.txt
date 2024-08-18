@@ -959,3 +959,6 @@ WVLK (USA)
 WVNN (USA)
 *://*.wvnn.com/*
 
+WWTN (USA)
+*://*.997wtn.com/*
+
