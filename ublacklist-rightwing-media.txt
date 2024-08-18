@@ -887,3 +887,6 @@ WBAP (USA)
 WCOA (USA)
 *://*.wcoapensacola.com/*
 
+Weasel Zippers (USA)
+*://*.weaselzippers.us/*
+
