@@ -272,3 +272,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Telegraph (UK)
 *://*.telegraph.co.uk/*
+
+# Dallas Express (USA)
+*://*.dallasexpress.com/*
