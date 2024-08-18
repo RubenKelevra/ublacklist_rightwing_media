@@ -558,3 +558,6 @@ Mises Institute (USA)
 Modern Diplomacy (Bulgaria)
 *://*.moderndiplomacy.eu/*
 
+MRC Free Speech America (USA)
+*://*.mrcfreespeechamerica.org/*
+
