@@ -324,3 +324,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Facts and Logic About the Middle East (USA)
 *://*.factsandlogic.org/*
 
+# Faith & Freedom Coalition (USA)
+*://*.ffcoalition.com/*
