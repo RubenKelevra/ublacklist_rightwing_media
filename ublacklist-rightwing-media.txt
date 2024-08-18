@@ -449,3 +449,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KABC (USA)
 *://*.kabc.com/*
+
+# Kansas Policy Institute (USA)
+*://*.kansaspolicy.org/*
+
