@@ -643,3 +643,6 @@ OpenVaers (USA)
 OpIndia (India)
 *://*.opindia.com/*
 
+OpsLens (USA)
+*://*.opslens.com/*
+
