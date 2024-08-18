@@ -365,3 +365,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Future of Freedom Foundation (USA)
 *://*.fff.org/*
+
+# Get Religion (USA)
+*://*.getreligion.org/*
