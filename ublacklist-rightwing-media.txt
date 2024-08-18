@@ -848,3 +848,6 @@ My Daily Freedom (USA)
 True North Centre for Public Policy (Canada)
 *://*.tnc.news/*
 
+TRT World (Turkey)
+*://*.trtworld.com/*
+
