@@ -326,3 +326,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Faith & Freedom Coalition (USA)
 *://*.ffcoalition.com/*
+
+# FaithWire (USA)
+*://*.faithwire.com/*
+
