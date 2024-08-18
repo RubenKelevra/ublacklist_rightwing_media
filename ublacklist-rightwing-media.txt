@@ -812,3 +812,6 @@ The Patriot Post (USA)
 The Postil Magazine (USA)
 *://*.thepostil.com/*
 
+The Post Millennial (Canada)
+*://*.thepostmillennial.com/*
+
