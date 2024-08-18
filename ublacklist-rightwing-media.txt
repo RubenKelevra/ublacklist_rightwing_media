@@ -881,3 +881,6 @@ Washington Free Beacon (USA)
 Watchdog Report (USA)
 *://*.watchdogreport.org/*
 
+WBAP (USA)
+*://*.wbap.com/*
+
