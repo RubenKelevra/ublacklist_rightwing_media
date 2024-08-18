@@ -546,3 +546,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mercatornet (Australia)
 *://*.mercatornet.com/*
 
+Minding the Campus (USA)
+*://*.mindingthecampus.org/*
+
