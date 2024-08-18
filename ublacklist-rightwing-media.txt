@@ -923,3 +923,6 @@ WLS (USA)
 WLWI (USA)
 *://*.newsradio1440.com/*
 
+WMAC (USA)
+*://*.wmac-am.com/*
+
