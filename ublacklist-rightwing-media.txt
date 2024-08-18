@@ -902,3 +902,6 @@ WFTW (USA)
 WGOW (USA)
 *://*.wgowam.com/*
 
+WHLD (USA)
+*://*.talk1270.com/*
+
