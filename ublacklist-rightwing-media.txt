@@ -730,3 +730,6 @@ Shore News Network (USA)
 Sinclair Broadcast Group (USA)
 *://*.sbgi.net/*
 
+Sky News Australia (Australia)
+*://*.skynews.com.au/*
+
