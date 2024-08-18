@@ -251,3 +251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Crime Prevention Research Center (USA)
 *://*.crimeresearch.org/*
+
+# Crisis Magazine (USA)
+*://*.crisismagazine.com/*
