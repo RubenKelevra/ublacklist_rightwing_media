@@ -784,3 +784,6 @@ The Daily Wire (USA)
 The First TV (USA)
 *://*.thefirsttv.com/*
 
+TheGreggJarrett.com (USA)
+*://*.thegreggjarrett.com/*
+
