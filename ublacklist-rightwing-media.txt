@@ -727,3 +727,6 @@ Sentinel KSMO (USA)
 Shore News Network (USA)
 *://*.shorenewsnetwork.com/*
 
+Sinclair Broadcast Group (USA)
+*://*.sbgi.net/*
+
