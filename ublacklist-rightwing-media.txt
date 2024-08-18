@@ -649,3 +649,6 @@ OpsLens (USA)
 OutKick Bias Rating (USA)
 *://*.outkick.com/*
 
+PanAm Post (USA)
+*://*.panampost.com/*
+
