@@ -408,3 +408,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Illinois Policy Institute (USA)
 *://*.illinoispolicy.org/*
 
+# Imprimis (USA)
+*://*.imprimis.hillsdale.edu/*
