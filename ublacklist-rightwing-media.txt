@@ -673,3 +673,6 @@ Pluralist (USA)
 Politcalite UK (UK)
 *://*.politicalite.com/*
 
+Politichicks (USA)
+*://*.politichicks.com/*
+
