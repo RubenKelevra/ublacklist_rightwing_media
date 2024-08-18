@@ -437,3 +437,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Issues & Insights (USA)
 *://*.issuesinsights.com/*
+
+# Jewish Policy Center (USA)
+*://*.jewishpolicycenter.org/*
