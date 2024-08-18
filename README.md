@@ -4,7 +4,7 @@ Get uBlacklist for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ubla
 
 ## Install Right Wing Media blocklist
 
-To add this blocklist to block all sites related to Axel Springer SE add this URL to your subscriptions:
+To add this blocklist to block (most) Right Wing Media sites add this URL to your subscriptions:
 
 ```
 https://raw.githubusercontent.com/RubenKelevra/ublacklist_rightwing_media/master/ublacklist-rightwing-media.txt
