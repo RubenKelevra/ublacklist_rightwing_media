@@ -302,3 +302,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Eagle Pass News Leader (USA)
 *://*.epnewsleader.com/*
+
+# EconomicPolicyJournal.com (USA)
+*://*.economicpolicyjournal.com/*
