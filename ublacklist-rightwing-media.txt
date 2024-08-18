@@ -600,3 +600,6 @@ Newsbusters (USA)
 NewsPageIndex.com (USA)
 *://*.newspageindex.com/*
 
+New York Sun (USA)
+*://*.nysun.com/*
+
