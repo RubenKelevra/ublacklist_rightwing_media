@@ -318,3 +318,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ethics & Religious Liberty Commission (USA)
 *://*.erlc.com/*
 
+# Explain America (USA)
+*://*.explainamerica.com/*
+
