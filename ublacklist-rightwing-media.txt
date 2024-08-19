@@ -3071,3 +3071,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPGH (USA)
 *://*.wpgh53.com/*
 
+# WPMI (USA)
+*://*.mynbc15.com/*
+
