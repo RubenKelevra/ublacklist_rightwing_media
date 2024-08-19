@@ -3092,3 +3092,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WSBA (USA)
 *://*.newstalkwsba.com/*
 
+# WSBT 22 News (USA)
+*://*.wsbt.com/*
+
