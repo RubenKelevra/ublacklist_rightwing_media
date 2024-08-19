@@ -2905,3 +2905,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wallaceburg Courier Press (Canada)
 *://*.wallaceburgcourierpress.com/*
 
+# Wall Street Journal (USA)
+*://*.wsj.com/*
+
