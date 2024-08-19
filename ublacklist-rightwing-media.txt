@@ -1500,3 +1500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # End Time Headlines (USA)
 *://*.endtimeheadlines.org/*
 
+# Entrepreneur Magazine (USA)
+*://*.entrepreneur.com/*
+
