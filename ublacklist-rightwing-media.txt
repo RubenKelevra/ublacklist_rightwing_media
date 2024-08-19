@@ -2261,3 +2261,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NHK (Japan)
 *://*.nhk.or.jp/*
 
+# Nikkei Asian Review (Japan)
+*://*.asia.nikkei.com/*
+
