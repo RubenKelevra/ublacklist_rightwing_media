@@ -2766,3 +2766,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.thetimes.co.uk/*
 *://*.thetimes.com/*
 
+# The Tribune (India)
+*://*.tribuneindia.com/*
+
