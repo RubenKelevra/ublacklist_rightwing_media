@@ -1594,3 +1594,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Franklin Daily Journal (USA)
 *://*.dailyjournal.net/*
 
+# Franklin News Foundation (USA)
+*://*.franklinnews.org/*
+
