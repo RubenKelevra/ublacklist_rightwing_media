@@ -2147,3 +2147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Melfort Journal (Canada)
 *://*.melfortjournal.com/*
 
+# Mercatus Center (USA)
+*://*.mercatus.org/*
+
