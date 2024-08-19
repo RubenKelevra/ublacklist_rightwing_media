@@ -2294,3 +2294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ny Teknik (Sweden)
 *://*.nyteknik.se/*
 
+# Observador (Portugal)
+*://*.observador.pt/*
+
