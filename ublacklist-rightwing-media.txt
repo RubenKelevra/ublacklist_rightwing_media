@@ -1275,3 +1275,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Kentucky News-Journal (USA)
 *://*.pmg-ky2.com/*
 
+# Charlottetown Guardian (Canada)
+*://*.saltwire.com/*
+
