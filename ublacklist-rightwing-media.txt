@@ -2126,3 +2126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # MarketWatch (USA)
 *://*.marketwatch.com/*
 
+# Marietta Daily Journal (USA)
+*://*.mdjonline.com/*
+
