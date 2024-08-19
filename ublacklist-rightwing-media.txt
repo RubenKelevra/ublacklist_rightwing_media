@@ -1850,3 +1850,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Khaleej Times (United Arab Emirates)
 *://*.khaleejtimes.com/*
 
+# KATU2 (USA)
+*://*.katu.com/*
+
