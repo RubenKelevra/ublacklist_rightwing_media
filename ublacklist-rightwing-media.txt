@@ -1416,3 +1416,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Deseret News (USA)
 *://*.deseret.com/*
 
+# Desert Sun (USA)
+*://*.desertsun.com/*
+
