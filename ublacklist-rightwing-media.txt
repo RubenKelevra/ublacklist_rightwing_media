@@ -1182,3 +1182,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Boston Herald (USA)
 *://*.bostonherald.com/*
 
+# Bowling Green Daily News (USA)
+*://*.bgdailynews.com/*
+
