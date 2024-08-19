@@ -2183,3 +2183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Moncton Times & Transcript (Canada)
 *://*.tj.news/*
 
+# Monroe Enquirer Journal (USA)
+*://*.enquirerjournal.com/*
+
