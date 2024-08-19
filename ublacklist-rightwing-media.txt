@@ -1077,3 +1077,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Annapolis Valley Register (Canada)
 *://*.saltwire.com/*
 
+# Apple Daily (Hong Kong)
+*://*.hk.appledaily.com/*
+
