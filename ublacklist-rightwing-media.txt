@@ -2576,3 +2576,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Stony Plain Reporter (Canada)
 *://*.stonyplainreporter.com/*
 
+# Stand Together (USA)
+*://*.standtogether.org/*
+
