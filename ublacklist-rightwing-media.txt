@@ -2479,3 +2479,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Saint John Times-Globe (Canada)
 *://*.tj.news/*
 
+# Salem Radio Network News (USA)
+*://*.srnnews.com/*
+
