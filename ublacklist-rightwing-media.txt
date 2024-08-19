@@ -1656,3 +1656,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Greeley Tribune (USA)
 *://*.greeleytribune.com/*
 
+# Greenfield Daily Reporter (USA)
+*://*.greenfieldreporter.com/*
+
