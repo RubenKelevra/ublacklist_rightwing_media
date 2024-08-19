@@ -2524,3 +2524,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sevierville Mountain Press (USA)
 *://*.themountainpress.com/*
 
+# Shelby County Reporter (USA)
+*://*.shelbycountyreporter.com/*
+
