@@ -2485,3 +2485,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # San Bernardino Sun (USA)
 *://*.sbsun.com/*
 
+# Sanford Herald (USA)
+*://*.sanfordherald.com/*
+
