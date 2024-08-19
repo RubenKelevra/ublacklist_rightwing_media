@@ -2675,3 +2675,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Jerusalem Report (Israel)
 *://*.jpost.com/*
 
+# The Jewish Press (USA)
+*://*.jewishpress.com/*
+
