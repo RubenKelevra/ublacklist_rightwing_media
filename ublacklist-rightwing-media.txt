@@ -2639,3 +2639,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Dickinson Press (USA)
 *://*.thedickinsonpress.com/*
 
+# The Dispatch (USA)
+*://*.thedispatch.com/*
+
