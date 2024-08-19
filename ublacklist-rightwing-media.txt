@@ -1398,3 +1398,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Deccan Chronicle (India)
 *://*.deccanchronicle.com/*
 
+# Defending Democracy Together (USA)
+*://*.defendingdemocracytogether.org/*
+
