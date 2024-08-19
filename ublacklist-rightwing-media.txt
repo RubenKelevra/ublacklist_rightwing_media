@@ -2527,3 +2527,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Shelby County Reporter (USA)
 *://*.shelbycountyreporter.com/*
 
+# Shelbyville News (USA)
+*://*.shelbynews.com/*
+
