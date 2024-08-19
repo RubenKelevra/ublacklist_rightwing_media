@@ -1994,3 +1994,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KVII (USA)
 *://*.abc7amarillo.com/*
 
+# KWNB (USA)
+*://*.nebraska.tv/*
+
