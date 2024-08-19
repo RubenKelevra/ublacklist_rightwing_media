@@ -2762,3 +2762,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Times of India (India)
 *://*.timesofindia.indiatimes.com/*
 
+# The Times UK and The Sunday Times (UK)
+*://*.thetimes.co.uk/*
+*://*.thetimes.com/*
+
