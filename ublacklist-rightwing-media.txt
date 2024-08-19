@@ -1689,3 +1689,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Haralson County Gateway-Beacon (USA)
 *://*.times-georgian.com/*
 
+# Harlan Enterprise (USA)
+*://*.harlanenterprise.net/*
+
