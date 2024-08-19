@@ -3065,3 +3065,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPEC (USA)
 *://*.cbs12.com/*
 
+# WPFO (USA)
+*://*.fox23maine.com/*
+
