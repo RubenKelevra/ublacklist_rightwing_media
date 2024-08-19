@@ -1735,3 +1735,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Huntsville Times (USA)
 *://*.al.com/*
 
+# I24 News (Israel)
+*://*.i24news.tv/*
+
