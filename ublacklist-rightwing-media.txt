@@ -1871,3 +1871,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KBVK (USA)
 *://*.siouxlandnews.com/*
 
+# KCBY (USA)
+*://*.kcby.com/*
+
