@@ -3035,3 +3035,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WKRC (USA)
 *://*.local12.com/*
 
+# WLOS (USA)
+*://*.wlos.com/*
+
