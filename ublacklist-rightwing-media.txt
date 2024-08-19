@@ -2342,3 +2342,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Paris Star (Canada)
 *://*.parisstaronline.com/*
 
+# Parkersburg News and Sentinel (USA)
+*://*.newsandsentinel.com/*
+
