@@ -2669,3 +2669,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Independent Institute (USA)
 *://*.independent.org/*
 
+# The Japan News (Japan)
+*://*.japannews.yomiuri.co.jp/*
+
