@@ -1747,3 +1747,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # iefimerida.gr (Greece)
 *://*.iefimerida.gr/*
 
+# Il Giornale (Italy)
+*://*.ilgiornale.it/*
+
