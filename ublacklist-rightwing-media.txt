@@ -3126,3 +3126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WTVH (USA)
 *://*.cnycentral.com/*
 
+# WTWC (USA)
+*://*.wtwc40.com/*
+
