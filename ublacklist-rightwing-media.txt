@@ -3080,3 +3080,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPSD (USA)
 *://*.wpsdlocal6.com/*
 
+# WRGB (USA)
+*://*.turnto10.com/*
+
