@@ -1128,3 +1128,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Batesville Daily Guard (USA)
 *://*.guardonline.com/*
 
+# Batesville Panolian (USA)
+*://*.panolian.com/*
+
