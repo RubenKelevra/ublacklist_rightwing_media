@@ -1059,3 +1059,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Americans for Prosperity (USA)
 *://*.americansforprosperity.org/*
 
+# Americas Quarterly (USA)
+*://*.americasquarterly.org/*
+
