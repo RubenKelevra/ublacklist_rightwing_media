@@ -2772,3 +2772,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Washington Institute for Near East Policy (USA)
 *://*.washingtoninstitute.org/*
 
+# The West Australian (Australia)
+*://*.thewest.com.au/*
+
