@@ -1638,3 +1638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Goldsboro News Argus (USA)
 *://*.newsargus.com/*
 
+# Göteborgs-Posten (Sweden)
+*://*.gp.se/*
+
