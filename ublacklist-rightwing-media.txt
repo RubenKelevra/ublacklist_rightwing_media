@@ -2687,3 +2687,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Libertarian Republic (USA)
 *://*.thelibertarianrepublic.com/*
 
+# The Londoner (Canada)
+*://*.thelondoner.ca/*
+
