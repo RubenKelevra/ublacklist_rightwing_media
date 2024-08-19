@@ -1032,3 +1032,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alexander City Outlook (USA)
 *://*.alexcityoutlook.com/*
 
+# Alexandria Echo Press (USA)
+*://*.echopress.com/*
+
