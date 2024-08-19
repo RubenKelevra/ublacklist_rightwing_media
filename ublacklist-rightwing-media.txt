@@ -2156,3 +2156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metropolis Planet (USA)
 *://*.metropolisplanet.com/*
 
+# Miami Valley Today (USA)
+*://*.miamivalleytoday.com/*
+
