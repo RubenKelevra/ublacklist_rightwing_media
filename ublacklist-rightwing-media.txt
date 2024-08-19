@@ -996,3 +996,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 1945 (USA)
 *://*.19fortyfive.com/*
 
+# ABC (Spain)
+*://*.abc.es/*
+
