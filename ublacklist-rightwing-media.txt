@@ -1149,3 +1149,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bellingham Metro News (USA)
 *://*.bellinghammetronews.com/*
 
+# Bemidji Pioneer (USA)
+*://*.bemidjipioneer.com/*
+
