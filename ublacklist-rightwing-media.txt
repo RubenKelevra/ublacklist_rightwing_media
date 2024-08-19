@@ -1937,3 +1937,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KMTR (USA)
 *://*.nbc16.com/*
 
+# Knewz (USA)
+*://*.knewz.com/*
+
