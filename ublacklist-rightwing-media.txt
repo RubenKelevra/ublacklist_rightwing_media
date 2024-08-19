@@ -2192,3 +2192,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Morocco World News (USA)
 *://*.moroccoworldnews.com/*
 
+# Mosaic Magazine (USA)
+*://*.mosaicmagazine.com/*
+
