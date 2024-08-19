@@ -1236,3 +1236,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # California Political Review (USA)
 *://*.capoliticalreview.com/*
 
+# Campbellton Tribune (Canada)
+*://*.tj.news/*
+
