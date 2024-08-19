@@ -2567,3 +2567,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Paul Pioneer Press (USA)
 *://*.twincities.com/*
 
+# St. Thomas Times-Journal (Canada)
+*://*.stthomastimesjournal.com/*
+
