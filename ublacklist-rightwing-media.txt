@@ -2482,3 +2482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Salem Radio Network News (USA)
 *://*.srnnews.com/*
 
+# San Bernardino Sun (USA)
+*://*.sbsun.com/*
+
