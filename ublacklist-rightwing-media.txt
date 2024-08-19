@@ -2648,3 +2648,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Elkhart Truth (USA)
 *://*.elkharttruth.com/*
 
+# The Fiscal Times (USA)
+*://*.thefiscaltimes.com/*
+
