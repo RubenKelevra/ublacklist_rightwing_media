@@ -2442,3 +2442,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red River Valley News (USA)
 *://*.valleynewslive.com/*
 
+# Regina Leader-Post (Canada)
+*://*.leaderpost.com/*
+
