@@ -3041,3 +3041,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WLUK Fox 11 (USA)
 *://*.fox11online.com/*
 
+# WNBW (USA)
+*://*.mycbs4.com/*
+
