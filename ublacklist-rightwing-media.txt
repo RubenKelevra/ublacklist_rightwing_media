@@ -2072,3 +2072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # London Evening Standard (UK)
 *://*.standard.co.uk/*
 
+# London Free Press (Canada)
+*://*.lfpress.com/*
+
