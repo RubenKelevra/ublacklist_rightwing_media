@@ -2210,3 +2210,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nanton News (Canada)
 *://*.nantonnews.com/*
 
+# National Affairs Magazine (USA)
+*://*.nationalaffairs.com/*
+
