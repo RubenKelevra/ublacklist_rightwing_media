@@ -3149,3 +3149,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Xenia Gazette (USA)
 *://*.xeniagazette.com/*
 
+# Yankee Institute for Public Policy (USA)
+*://*.yankeeinstitute.org/*
+
