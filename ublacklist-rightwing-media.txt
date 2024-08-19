@@ -2006,3 +2006,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # La Nacion (Costa Rica)
 *://*.nacion.com/*
 
+# La Nacion (Argentina)
+*://*.lanacion.com.ar/*
+
