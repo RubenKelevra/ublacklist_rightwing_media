@@ -1023,3 +1023,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Albert Lea Tribune (USA)
 *://*.albertleatribune.com/*
 
+# Albuquerque Journal (USA)
+*://*.abqjournal.com/*
+
