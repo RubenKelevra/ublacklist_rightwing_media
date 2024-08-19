@@ -1098,3 +1098,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Asharq Al-Awsat (UK)
 *://*.aawsat.com/*
 
+# Asian News International (India)
+*://*.aninews.in/*
+
