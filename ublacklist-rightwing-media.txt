@@ -1365,3 +1365,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dadeville Record (USA)
 *://*.alexcityoutlook.com/*
 
+# Dagens Nyheter (Sweden)
+*://*.dn.se/*
+
