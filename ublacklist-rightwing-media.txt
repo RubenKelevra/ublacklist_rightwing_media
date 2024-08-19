@@ -2093,3 +2093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Luverne Journal (USA)
 *://*.luvernejournal.com/*
 
+# Mackinac Center for Public Policy (USA)
+*://*.mackinac.org/*
+
