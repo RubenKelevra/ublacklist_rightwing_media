@@ -2219,3 +2219,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # National Post (Canada)
 *://*.nationalpost.com/*
 
+# Netherlands Radio and Television Association (Netherlands)
+*://*.nos.nl/*
+
