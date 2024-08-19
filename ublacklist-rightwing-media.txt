@@ -3050,3 +3050,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WOAI (USA)
 *://*.news4sanantonio.com/*
 
+# WOLF (USA)
+*://*.fox56.com/*
+
