@@ -2874,3 +2874,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vancouver Province (Canada)
 *://*.theprovince.com/*
 
+# Vancouver Sun (Canada)
+*://*.vancouversun.com/*
+
