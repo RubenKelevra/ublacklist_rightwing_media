@@ -1458,3 +1458,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Eaton Register-Herald (USA)
 *://*.registerherald.com/*
 
+# Eclectic Observer (USA)
+*://*.thewetumpkaherald.com/*
+
