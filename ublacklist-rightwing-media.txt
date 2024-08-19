@@ -1143,3 +1143,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Belleville Community Press (Canada)
 *://*.communitypress.ca/*
 
+# Belleville Intelligencer (Canada)
+*://*.intelligencer.ca/*
+
