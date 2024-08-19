@@ -3026,3 +3026,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WJLA (USA)
 *://*.wjla.com/*
 
+# WJR (USA)
+*://*.wjr.com/*
+
