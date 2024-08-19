@@ -2324,3 +2324,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ottawa Sun (Canada)
 *://*.ottawasun.com/*
 
+# Owensboro Messenger-Inquirer (USA)
+*://*.messenger-inquirer.com/*
+
