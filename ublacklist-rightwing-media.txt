@@ -1635,3 +1635,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GodUpdates (USA)
 *://*.godupdates.com/*
 
+# Goldsboro News Argus (USA)
+*://*.newsargus.com/*
+
