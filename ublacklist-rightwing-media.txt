@@ -1203,3 +1203,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Brewton Standard (USA)
 *://*.brewtonstandard.com/*
 
+# Brockville Recorder & Times (Canada)
+*://*.recorder.ca/*
+
