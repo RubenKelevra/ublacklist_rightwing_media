@@ -2255,3 +2255,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newsweek (USA)
 *://*.newsweek.com/*
 
+# NH Journal (USA)
+*://*.nhjournal.com/*
+
