@@ -2609,3 +2609,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The American Conservative (USA)
 *://*.theamericanconservative.com/*
 
+# The Australian (Australia)
+*://*.theaustralian.com.au/*
+
