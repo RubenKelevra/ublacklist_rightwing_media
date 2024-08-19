@@ -1826,3 +1826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Journal Pioneer (Canada)
 *://*.saltwire.com/*
 
+# Just Facts (USA)
+*://*.justfacts.com/*
+
