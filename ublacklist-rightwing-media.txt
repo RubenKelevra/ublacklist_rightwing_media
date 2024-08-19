@@ -2615,3 +2615,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Birmingham News (USA)
 *://*.al.com/*
 
+# The Brunswick News (USA)
+*://*.thebrunswicknews.com/*
+
