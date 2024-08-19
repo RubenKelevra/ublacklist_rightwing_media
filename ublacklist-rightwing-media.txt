@@ -1564,3 +1564,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fort Saskatchewan Record (Canada)
 *://*.fortsaskatchewanrecord.com/*
 
+# Fort Worth Star-Telegram (USA)
+*://*.star-telegram.com/*
+
