@@ -1332,3 +1332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cold Lake Sun (Canada)
 *://*.coldlakesun.com/*
 
+# Colorado Springs Gazette (USA)
+*://*.gazette.com/*
+
