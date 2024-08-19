@@ -3132,3 +3132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WUHF (USA)
 *://*.foxrochester.com/*
 
+# WUTV (USA)
+*://*.wutv29.com/*
+
