@@ -1573,3 +1573,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fortune Magazine (USA)
 *://*.fortune.com/*
 
+# Foundation for Economic Education (USA)
+*://*.fee.org/*
+
