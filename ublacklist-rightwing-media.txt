@@ -2926,3 +2926,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WBMA (USA)
 *://*.abc3340.com/*
 
+# WCHS (USA)
+*://*.wchstv.com/*
+
