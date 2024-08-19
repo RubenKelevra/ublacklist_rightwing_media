@@ -2234,3 +2234,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New Castle Courier-Times (USA)
 *://*.thecouriertimes.com/*
 
+# Observer (USA)
+*://*.observer.com/*
+
