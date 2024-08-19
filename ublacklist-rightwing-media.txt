@@ -2573,3 +2573,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Stanford Interior Journal (USA)
 *://*.theinteriorjournal.com/*
 
+# Stony Plain Reporter (Canada)
+*://*.stonyplainreporter.com/*
+
