@@ -1506,3 +1506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ethnikos Kyrix (USA)
 *://*.ekirikas.com/*
 
+# Exeter Lakeshore Times-Advance (Canada)
+*://*.lakeshoreadvance.com/*
+
