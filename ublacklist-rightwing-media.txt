@@ -2391,3 +2391,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Portsmouth Daily Times (USA)
 *://*.portsmouth-dailytimes.com/*
 
+# Rochester Post-Bulletin (USA)
+*://*.postbulletin.com/*
+
