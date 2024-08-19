@@ -1230,3 +1230,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Calgary Herald (Canada)
 *://*.calgaryherald.com/*
 
+# California Globe (USA)
+*://*.californiaglobe.com/*
+
