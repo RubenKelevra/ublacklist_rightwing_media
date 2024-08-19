@@ -2243,3 +2243,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News.com.au (Australia)
 *://*.news.com.au/*
 
+# Champaign News-Gazette (USA)
+*://*.news-gazette.com/*
+
