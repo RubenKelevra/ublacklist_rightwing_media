@@ -2769,3 +2769,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Tribune (India)
 *://*.tribuneindia.com/*
 
+# Washington Institute for Near East Policy (USA)
+*://*.washingtoninstitute.org/*
+
