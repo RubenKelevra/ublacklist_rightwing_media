@@ -2844,3 +2844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Truro Daily News (Canada)
 *://*.saltwire.com/*
 
+# Tulsa World (USA)
+*://*.tulsaworld.com/*
+
