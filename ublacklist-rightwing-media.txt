@@ -1485,3 +1485,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # El Financiero (Mexico)
 *://*.elfinanciero.com.mx/*
 
+# Elizabethtown News-Herald (USA)
+*://*.thenewsenterprise.com/*
+
