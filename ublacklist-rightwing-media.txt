@@ -2938,3 +2938,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WCYB (USA)
 *://*.wcyb.com/*
 
+# WDKY (USA)
+*://*.foxlexington.com/*
+
