@@ -3161,3 +3161,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yucatan Times (Mexico)
 *://*.theyucatantimes.com/*
 
+# Zebra Fact Check (USA)
+*://*.zebrafactcheck.com/*
+
