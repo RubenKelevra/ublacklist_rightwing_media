@@ -1892,3 +1892,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KFDM (USA)
 *://*.kfdm.com/*
 
+# KFOX (USA)
+*://*.kfoxtv.com/*
+
