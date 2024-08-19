@@ -1191,3 +1191,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Brainerd Dispatch (USA)
 *://*.brainerddispatch.com/*
 
+# Brantford Expositor (Canada)
+*://*.brantfordexpositor.ca/*
+
