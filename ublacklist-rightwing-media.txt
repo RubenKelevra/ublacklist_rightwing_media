@@ -2433,3 +2433,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Real Clear Politics (USA)
 *://*.realclearpolitics.com/*
 
+# RealClearReligion (USA)
+*://*.realclearreligion.org/*
+
