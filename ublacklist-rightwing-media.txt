@@ -1320,3 +1320,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cochrane Times (Canada)
 *://*.cochranetimes.com/*
 
+# Cochrane Times-Post (Canada)
+*://*.cochranetimespost.ca/*
+
