@@ -1188,3 +1188,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bow Valley Crag & Canyon (Canada)
 *://*.thecragandcanyon.ca/*
 
+# Brainerd Dispatch (USA)
+*://*.brainerddispatch.com/*
+
