@@ -3074,3 +3074,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPMI (USA)
 *://*.mynbc15.com/*
 
+# WPRO (USA)
+*://*.997wpro.com/*
+
