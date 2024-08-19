@@ -2141,3 +2141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mayfield Messenger (USA)
 *://*.mayfield-messenger.com/*
 
+# Media Entertainment Arts WorldWide (India)
+*://*.meaww.com/*
+
