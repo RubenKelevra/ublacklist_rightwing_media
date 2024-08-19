@@ -2558,3 +2558,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Spruce Grove Examiner (Canada)
 *://*.sprucegroveexaminer.com/*
 
+# St. John’s Telegram (Canada)
+*://*.saltwire.com/*
+
