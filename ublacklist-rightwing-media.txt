@@ -1976,3 +1976,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KSNV (USA)
 *://*.news3lv.com/*
 
+# KTUL (USA)
+*://*.ktul.com/*
+
