@@ -2345,3 +2345,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Parkersburg News and Sentinel (USA)
 *://*.newsandsentinel.com/*
 
+# Park Rapids Enterprise (USA)
+*://*.parkrapidsenterprise.com/*
+
