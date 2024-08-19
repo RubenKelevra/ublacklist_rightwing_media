@@ -1299,3 +1299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Claiborne Progress (USA)
 *://*.claiborneprogress.net/*
 
+# Clanton Advertiser (USA)
+*://*.clantonadvertiser.com/*
+
