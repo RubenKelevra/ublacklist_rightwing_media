@@ -2024,3 +2024,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Las Vegas Review-Journal (USA)
 *://*.reviewjournal.com/*
 
+# Learn Liberty (USA)
+*://*.learnliberty.org/*
+
