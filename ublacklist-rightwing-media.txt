@@ -1413,3 +1413,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Denver Gazette (USA)
 *://*.denvergazette.com/*
 
+# Deseret News (USA)
+*://*.deseret.com/*
+
