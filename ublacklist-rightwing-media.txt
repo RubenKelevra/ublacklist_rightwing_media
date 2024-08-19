@@ -2397,3 +2397,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Prime 9ja Online (Nigeria)
 *://*.prime9ja.com.ng/*
 
+# Prince George Post (Canada)
+*://*.princegeorgepost.com/*
+
