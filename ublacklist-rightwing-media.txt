@@ -1862,3 +1862,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KBFX (USA)
 *://*.bakersfieldnow.com/*
 
+# KBSI (USA)
+*://*.kbsi23.com/*
+
