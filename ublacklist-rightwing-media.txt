@@ -1425,3 +1425,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Detroit News (USA)
 *://*.detroitnews.com/*
 
+# Deutschland.de (Germany)
+*://*.deutschland.de/*
+
