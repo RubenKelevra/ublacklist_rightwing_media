@@ -1131,3 +1131,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Batesville Panolian (USA)
 *://*.panolian.com/*
 
+# The Northern Light (Canada)
+*://*.tj.news/*
+
