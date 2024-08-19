@@ -1979,3 +1979,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KTUL (USA)
 *://*.ktul.com/*
 
+# KTVL (USA)
+*://*.ktvl.com/*
+
