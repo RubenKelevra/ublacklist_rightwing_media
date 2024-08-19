@@ -2515,3 +2515,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Searcy Daily Citizen (USA)
 *://*.thedailycitizen.com/*
 
+# Seeking Alpha (Israel)
+*://*.seekingalpha.com/*
+
