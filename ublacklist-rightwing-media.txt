@@ -3098,3 +3098,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WSET (USA)
 *://*.wset.com/*
 
+# WSTM (USA)
+*://*.cnycentral.com/*
+
