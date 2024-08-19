@@ -1152,3 +1152,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bemidji Pioneer (USA)
 *://*.bemidjipioneer.com/*
 
+# Berlingske (Denmark)
+*://*.berlingske.dk/*
+
