@@ -1741,3 +1741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ICitizen (USA)
 *://*.icitizen.com/*
 
+# Idaho State Journal (USA)
+*://*.idahostatejournal.com/*
+
