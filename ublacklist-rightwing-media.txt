@@ -1137,3 +1137,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Beavercreek News-Current (USA)
 *://*.beavercreeknewscurrent.com/*
 
+# Being Libertarian (USA)
+*://*.beinglibertarian.com/*
+
