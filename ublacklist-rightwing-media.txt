@@ -3029,3 +3029,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WJR (USA)
 *://*.wjr.com/*
 
+# WKEF (USA)
+*://*.dayton247now.com/*
+
