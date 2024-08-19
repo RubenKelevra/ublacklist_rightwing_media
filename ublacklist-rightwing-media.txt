@@ -1790,3 +1790,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Irish Independent (Ireland)
 *://*.independent.ie/*
 
+# ITV News (UK)
+*://*.itv.com/*
+
