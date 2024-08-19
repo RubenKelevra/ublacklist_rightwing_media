@@ -2204,3 +2204,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mount Carmel Register (USA)
 *://*.hometownregister.com/*
 
+# MyNorthwest (USA)
+*://*.mynorthwest.com/*
+
