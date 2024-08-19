@@ -1479,3 +1479,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Education Next (USA)
 *://*.educationnext.org/*
 
+# Edwardsburg Argus (USA)
+*://*.leaderpub.com/*
+
