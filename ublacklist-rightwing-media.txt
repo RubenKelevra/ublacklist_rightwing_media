@@ -3053,3 +3053,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WOLF (USA)
 *://*.fox56.com/*
 
+# Woodstock Sentinel-Review (Canada)
+*://*.woodstocksentinelreview.com/*
+
