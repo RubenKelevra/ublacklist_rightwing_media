@@ -2889,3 +2889,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Villa Rican (USA)
 *://*.times-georgian.com/*
 
+# Vincennes Sun-Commercial (USA)
+*://*.suncommercial.com/*
+
