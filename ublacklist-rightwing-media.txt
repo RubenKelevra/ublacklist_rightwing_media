@@ -1904,3 +1904,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KGAN (USA)
 *://*.cbs2iowa.com/*
 
+# KHQA (USA)
+*://*.khqa.com/*
+
