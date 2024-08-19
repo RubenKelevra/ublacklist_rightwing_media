@@ -2048,3 +2048,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Le Parisien (France)
 *://*.leparisien.fr/*
 
+# Lexington Dispatch (USA)
+*://*.the-dispatch.com/*
+
