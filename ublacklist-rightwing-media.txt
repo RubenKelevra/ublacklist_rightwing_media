@@ -2373,3 +2373,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pittsburgh Tribune Review (USA)
 *://*.triblive.com/*
 
+# Point Pleasant Register (USA)
+*://*.mydailyregister.com/*
+*://*.rivercitiesnews.com/*
+
