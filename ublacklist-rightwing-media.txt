@@ -1988,3 +1988,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KVAL (USA)
 *://*.kval.com/*
 
+# KVIH (USA)
+*://*.abc7amarillo.com/*
+
