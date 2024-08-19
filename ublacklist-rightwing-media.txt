@@ -2330,3 +2330,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Owen Sound Sun Times (Canada)
 *://*.owensoundsuntimes.com/*
 
+# Pacific Research Institute (USA)
+*://*.pacificresearch.org/*
+
