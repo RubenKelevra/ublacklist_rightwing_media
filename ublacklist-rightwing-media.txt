@@ -1221,3 +1221,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Burlington Times-News (USA)
 *://*.thetimesnews.com/*
 
+# BusinessLIVE (South Africa)
+*://*.businesslive.co.za/*
+
