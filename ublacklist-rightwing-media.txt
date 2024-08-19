@@ -2696,3 +2696,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The New Atlantis (USA)
 *://*.thenewatlantis.com/*
 
+# The New Criterion (USA)
+*://*.newcriterion.com/*
+
