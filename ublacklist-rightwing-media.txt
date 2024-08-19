@@ -1701,3 +1701,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Herald-Sun (Australia)
 *://*.heraldsun.com.au/*
 
+# Het Laatste Nieuws (Belgium)
+*://*.hln.be/*
+
