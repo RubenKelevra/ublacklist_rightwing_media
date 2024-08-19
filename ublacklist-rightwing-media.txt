@@ -1422,3 +1422,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Detroit Lakes Tribune (USA)
 *://*.dl-online.com/*
 
+# The Detroit News (USA)
+*://*.detroitnews.com/*
+
