@@ -2684,3 +2684,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kentucky Standard (USA)
 *://*.pmg-ky2.com/*
 
+# The Libertarian Republic (USA)
+*://*.thelibertarianrepublic.com/*
+
