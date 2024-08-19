@@ -2090,3 +2090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lucknow Sentinel (Canada)
 *://*.lucknowsentinel.com/*
 
+# Luverne Journal (USA)
+*://*.luvernejournal.com/*
+
