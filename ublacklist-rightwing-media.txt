@@ -1260,3 +1260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cassopolis Vigilant (USA)
 *://*.leaderpub.com/*
 
+# Cato Institute (USA)
+*://*.cato.org/*
+
