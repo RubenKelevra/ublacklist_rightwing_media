@@ -3114,3 +3114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WTOV Steubenville-Wheeling (USA)
 *://*.wtov9.com/*
 
+# WTTE (USA)
+*://*.myfox28columbus.com/*
+
