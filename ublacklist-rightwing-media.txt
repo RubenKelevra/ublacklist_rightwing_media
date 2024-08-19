@@ -2542,3 +2542,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SOFREP (USA)
 *://*.sofrep.com/*
 
+# Sol (Portugal)
+*://*.sol.sapo.pt/*
+
