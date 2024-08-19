@@ -2552,3 +2552,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.southwestdailynews.com/*
 *://*.americanpress.com/*
 
+# Springfield Sun (USA)
+*://*.pmg-ky2.com/*
+
