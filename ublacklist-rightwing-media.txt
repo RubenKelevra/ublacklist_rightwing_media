@@ -2859,3 +2859,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Unherd (USA)
 *://*.unherd.com/*
 
+# Upward News (USA)
+*://*.upward.news/*
+
