@@ -2108,3 +2108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Malay Mail (Malaysia)
 *://*.malaymail.com/*
 
+# Malaysia Today (Malaysia)
+*://*.malaysia-today.net/*
+
