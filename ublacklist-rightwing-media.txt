@@ -1588,3 +1588,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Frankfort Times (USA)
 *://*.ftimes.com/*
 
+# Frankfurter Allgemeine Zeitung (Germany)
+*://*.faz.net/*
+
