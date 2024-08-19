@@ -1065,3 +1065,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Americus Times-Recorder (USA)
 *://*.americustimesrecorder.com/*
 
+# Anchorage Press (USA)
+*://*.anchoragepress.com/*
+
