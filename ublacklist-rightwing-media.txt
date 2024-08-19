@@ -2018,3 +2018,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # La Porte County Herald-Dispatch (USA)
 *://*.lpheralddispatch.com/*
 
+# Laredo Morning Times (USA)
+*://*.lmtonline.com/*
+
