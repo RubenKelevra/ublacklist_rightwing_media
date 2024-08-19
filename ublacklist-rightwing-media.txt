@@ -2633,3 +2633,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Citizen (South Africa)
 *://*.citizen.co.za/*
 
+# The Courier-Mail (Australia)
+*://*.couriermail.com.au/*
+
