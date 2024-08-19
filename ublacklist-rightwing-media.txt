@@ -2454,3 +2454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Republic World (India)
 *://*.republicworld.com/*
 
+# Richmond Times-Dispatch (USA)
+*://*.richmond.com/*
+
