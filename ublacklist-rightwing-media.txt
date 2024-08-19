@@ -3140,3 +3140,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # *://*.wchstv.com/* - already blocked by WCHS (USA)
 
+# WXLV (USA)
+*://*.wcyb.com/*
+
