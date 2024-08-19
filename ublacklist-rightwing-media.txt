@@ -2291,3 +2291,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Now Entertainment (USA)
 *://*.nowentertainment.net/*
 
+# Ny Teknik (Sweden)
+*://*.nyteknik.se/*
+
