@@ -1296,3 +1296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christianity Today (USA)
 *://*.christianitytoday.com/*
 
+# Claiborne Progress (USA)
+*://*.claiborneprogress.net/*
+
