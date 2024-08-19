@@ -2533,3 +2533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sherwood Park News (Canada)
 *://*.sherwoodparknews.com/*
 
+# Shoreline Beacon (Canada)
+*://*.shorelinebeacon.com/*
+
