@@ -2418,3 +2418,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rasmussen Reports (USA)
 *://*.rasmussenreports.com/*
 
+# RealClearDefense (USA)
+*://*.realcleardefense.com/*
+
