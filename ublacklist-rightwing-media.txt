@@ -1434,3 +1434,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Die Presse (Austria)
 *://*.diepresse.com/*
 
+# Die Welt (Germany)
+*://*.welt.de/*
+
