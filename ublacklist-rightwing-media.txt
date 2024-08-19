@@ -2497,3 +2497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Saskatoon StarPhoenix (Canada)
 *://*.thestarphoenix.com/*
 
+# Sault Star (Canada)
+*://*.saultstar.com/*
+
