@@ -2084,3 +2084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lowy Institute (Australia)
 *://*.lowyinstitute.org/*
 
+# Lubbock Avalanche-Journal (USA)
+*://*.lubbockonline.com/*
+
