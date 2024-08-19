@@ -2463,3 +2463,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rochester Sentinel (USA)
 *://*.rochsent.com/*
 
+# RTL Nieuws (Netherlands)
+*://*.rtlnieuws.nl/*
+*://*.rtl.nl/*
+
