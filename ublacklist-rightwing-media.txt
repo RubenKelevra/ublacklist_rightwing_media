@@ -2947,3 +2947,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Central Tribune (USA)
 *://*.wctrib.com/*
 
+# West Elgin Chronicle (Canada)
+*://*.thechronicle-online.com/*
+
