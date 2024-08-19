@@ -2470,3 +2470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Russellville Courier (USA)
 *://*.couriernews.com/*
 
+# Russellville News-Democrat & Leader (USA)
+*://*.franklinfavorite.com/*
+
