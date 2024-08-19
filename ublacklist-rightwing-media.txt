@@ -2388,3 +2388,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Portland Leader (USA)
 *://*.lebanondemocrat.com/*
 
+# Portsmouth Daily Times (USA)
+*://*.portsmouth-dailytimes.com/*
+
