@@ -1613,3 +1613,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.fcnews.org/*
 *://*.northwestsignal.net/*
 
+# Gallipolis Daily Tribune (USA)
+*://*.mydailytribune.com/*
+*://*.rivercitiesnews.com/*
+
