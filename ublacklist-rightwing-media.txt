@@ -1713,3 +1713,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # High River Times (Canada)
 *://*.highrivertimes.com/*
 
+# Hillsboro Times-Gazette (USA)
+*://*.timesgazette.com/*
+
