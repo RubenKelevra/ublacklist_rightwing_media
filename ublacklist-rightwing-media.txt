@@ -2370,3 +2370,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pittsburgh Post-Gazette (USA)
 *://*.post-gazette.com/*
 
+# Pittsburgh Tribune Review (USA)
+*://*.triblive.com/*
+
