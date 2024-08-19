@@ -1641,3 +1641,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Göteborgs-Posten (Sweden)
 *://*.gp.se/*
 
+# Grand Forks Herald (USA)
+*://*.grandforksherald.com/*
+
