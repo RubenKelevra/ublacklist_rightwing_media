@@ -1092,3 +1092,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Arkansas Democrat-Gazette (USA)
 *://*.arkansasonline.com/*
 
+# Arutz Sheva (Israel)
+*://*.israelnationalnews.com/*
+
