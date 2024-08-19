@@ -2383,3 +2383,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pomeroy Daily Sentinel (USA)
 *://*.mydailysentinel.com/*
 
+# *://*.rivercitiesnews.com/* - already blocked by Point Pleasant Register (USA)
+
