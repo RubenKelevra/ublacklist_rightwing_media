@@ -2336,3 +2336,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Paducah Sun (USA)
 *://*.paducahsun.com/*
 
+# Paragould Daily Press (USA)
+*://*.paragoulddailypress.com/*
+
