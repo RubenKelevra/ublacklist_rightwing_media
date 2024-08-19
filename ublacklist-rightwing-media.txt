@@ -2911,3 +2911,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Warrick County Standard (USA)
 *://*.warricknews.com/*
 
+# Washington C H Record Herald (USA)
+*://*.recordherald.com/*
+
