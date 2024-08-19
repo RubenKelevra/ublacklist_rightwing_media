@@ -3017,3 +3017,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WJAC NBC 6 (USA)
 *://*.wjactv.com/*
 
+# WJAR (USA)
+*://*.turnto10.com/*
+
