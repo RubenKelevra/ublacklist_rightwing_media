@@ -1218,3 +1218,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bugle Observer (Canada)
 *://*.tj.news/*
 
+# Burlington Times-News (USA)
+*://*.thetimesnews.com/*
+
