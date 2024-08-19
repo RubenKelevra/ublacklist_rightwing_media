@@ -1787,3 +1787,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.investortimes.com/*
 *://*.equityatlas.org/*
 
+# Irish Independent (Ireland)
+*://*.independent.ie/*
+
