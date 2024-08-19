@@ -1449,3 +1449,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Drayton Valley Western Review (Canada)
 *://*.draytonvalleywesternreview.com/*
 
+# Drudge Report (USA)
+*://*.drudgereport.com/*
+
