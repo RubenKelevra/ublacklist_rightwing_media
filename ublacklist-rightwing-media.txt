@@ -2150,3 +2150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mercatus Center (USA)
 *://*.mercatus.org/*
 
+# Metabunk (USA)
+*://*.metabunk.org/*
+
