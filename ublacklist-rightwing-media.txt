@@ -2723,3 +2723,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ThePrint (India)
 *://*.theprint.in/*
 
+# The Province (Canada)
+*://*.theprovince.com/*
+
