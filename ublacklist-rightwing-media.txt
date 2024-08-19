@@ -1335,3 +1335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Colorado Springs Gazette (USA)
 *://*.gazette.com/*
 
+# Columbia Daily Herald (USA)
+*://*.columbiadailyherald.com/*
+
