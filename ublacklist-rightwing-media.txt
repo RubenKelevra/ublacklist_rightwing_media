@@ -2545,3 +2545,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sol (Portugal)
 *://*.sol.sapo.pt/*
 
+# South Haven Tribune (USA)
+*://*.heraldpalladium.com/*
+
