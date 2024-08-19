@@ -2111,3 +2111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Malaysia Today (Malaysia)
 *://*.malaysia-today.net/*
 
+# Manchester Union Leader (USA)
+*://*.unionleader.com/*
+
