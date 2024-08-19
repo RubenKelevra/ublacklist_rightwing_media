@@ -1823,3 +1823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jonesboro Sun (USA)
 *://*.jonesborosun.com/*
 
+# Journal Pioneer (Canada)
+*://*.saltwire.com/*
+
