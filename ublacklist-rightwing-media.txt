@@ -1650,3 +1650,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grand Rapids Press (USA)
 *://*.mlive.com/*
 
+# Grayson County News Gazette (USA)
+*://*.messenger-inquirer.com/*
+
