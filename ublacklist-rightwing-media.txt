@@ -1452,3 +1452,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Drudge Report (USA)
 *://*.drudgereport.com/*
 
+# DV Journal (USA)
+*://*.delawarevalleyjournal.com/*
+
