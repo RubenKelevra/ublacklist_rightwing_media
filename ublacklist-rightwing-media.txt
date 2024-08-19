@@ -2476,3 +2476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Saint John Telegraph-Journal (Canada)
 *://*.tj.news/*
 
+# Saint John Times-Globe (Canada)
+*://*.tj.news/*
+
