@@ -1874,3 +1874,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KCBY (USA)
 *://*.kcby.com/*
 
+# KDNL (USA)
+*://*.abcstlouis.com/*
+
