@@ -2129,3 +2129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Marietta Daily Journal (USA)
 *://*.mdjonline.com/*
 
+# Marshall County Tribune-Courier (USA)
+*://*.tribunecourier.com/*
+
