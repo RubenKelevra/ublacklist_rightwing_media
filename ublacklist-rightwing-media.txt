@@ -2793,3 +2793,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Times-Georgian (USA)
 *://*.times-georgian.com/*
 
+# Times-News (USA)
+*://*.tnonline.com/*
+
