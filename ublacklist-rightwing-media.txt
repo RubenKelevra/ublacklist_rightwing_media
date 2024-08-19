@@ -2348,3 +2348,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Park Rapids Enterprise (USA)
 *://*.parkrapidsenterprise.com/*
 
+# Peace Country Sun (Canada)
+*://*.peacecountrysun.com/*
+
