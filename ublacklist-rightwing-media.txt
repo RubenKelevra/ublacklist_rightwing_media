@@ -2672,3 +2672,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Japan News (Japan)
 *://*.japannews.yomiuri.co.jp/*
 
+# The Jerusalem Report (Israel)
+*://*.jpost.com/*
+
