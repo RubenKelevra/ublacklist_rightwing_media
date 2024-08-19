@@ -1647,3 +1647,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grand Haven Tribune (USA)
 *://*.grandhaventribune.com/*
 
+# Grand Rapids Press (USA)
+*://*.mlive.com/*
+
