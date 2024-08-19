@@ -2273,3 +2273,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NJ1015.com (USA)
 *://*.nj1015.com/*
 
+# Norfolk & Tillsonburg News (Canada)
+*://*.norfolkandtillsonburgnews.com/*
+
