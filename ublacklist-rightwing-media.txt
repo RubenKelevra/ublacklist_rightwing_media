@@ -1964,3 +1964,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KRNV (USA)
 *://*.mynews4.com/*
 
+# KRXI (USA)
+*://*.foxreno.com/*
+
