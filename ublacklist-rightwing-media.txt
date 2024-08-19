@@ -2162,3 +2162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Michigan Capitol Confidential (USA)
 *://*.michigancapitolconfidential.com/*
 
+# Middlesboro Daily News (USA)
+*://*.middlesboronews.com/*
+
