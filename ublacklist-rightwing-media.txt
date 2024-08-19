@@ -2087,3 +2087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lubbock Avalanche-Journal (USA)
 *://*.lubbockonline.com/*
 
+# Lucknow Sentinel (Canada)
+*://*.lucknowsentinel.com/*
+
