@@ -1880,3 +1880,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KDSM (USA)
 *://*.kdsm17.com/*
 
+# KECI (USA)
+*://*.nbcmontana.com/*
+
