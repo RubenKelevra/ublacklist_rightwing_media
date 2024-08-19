@@ -3005,3 +3005,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wilmington News Journal (USA)
 *://*.wnewsj.com/*
 
+# Winchester Sun (USA)
+*://*.winchestersun.com/*
+
