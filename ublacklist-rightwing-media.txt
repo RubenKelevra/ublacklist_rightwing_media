@@ -1991,3 +1991,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KVIH (USA)
 *://*.abc7amarillo.com/*
 
+# KVII (USA)
+*://*.abc7amarillo.com/*
+
