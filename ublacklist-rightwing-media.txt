@@ -2657,3 +2657,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Gazette (USA)
 *://*.thegazette.com/*
 
+# The Globe and Mail (Canada)
+*://*.theglobeandmail.com/*
+
