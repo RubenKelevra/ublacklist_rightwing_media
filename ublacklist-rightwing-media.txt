@@ -1089,3 +1089,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Argus Leader (USA)
 *://*.argusleader.com/*
 
+# Arkansas Democrat-Gazette (USA)
+*://*.arkansasonline.com/*
+
