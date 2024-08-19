@@ -2042,3 +2042,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Leicester Mercury (UK)
 *://*.leicestermercury.co.uk/*
 
+# Lenoir News-Topic (USA)
+*://*.newstopicnews.com/*
+
