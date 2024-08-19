@@ -2165,3 +2165,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Middlesboro Daily News (USA)
 *://*.middlesboronews.com/*
 
+# Mid-North Monitor (Canada)
+*://*.midnorthmonitor.com/*
+
