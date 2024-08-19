@@ -3089,3 +3089,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WRLH (USA)
 *://*.foxrichmond.com/*
 
+# WSBA (USA)
+*://*.newstalkwsba.com/*
+
