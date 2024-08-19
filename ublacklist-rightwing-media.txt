@@ -1750,3 +1750,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Il Giornale (Italy)
 *://*.ilgiornale.it/*
 
+# In Homeland Security (USA)
+*://*.amuedge.com/*
+
