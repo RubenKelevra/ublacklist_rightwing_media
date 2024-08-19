@@ -2132,3 +2132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Marshall County Tribune-Courier (USA)
 *://*.tribunecourier.com/*
 
+# Mat-Su Valley Frontiersman (USA)
+*://*.frontiersman.com/*
+
