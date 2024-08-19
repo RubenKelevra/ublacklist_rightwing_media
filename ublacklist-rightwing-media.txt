@@ -2135,3 +2135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mat-Su Valley Frontiersman (USA)
 *://*.frontiersman.com/*
 
+# Mayerthorpe Freelancer (Canada)
+*://*.mayerthorpefreelancer.com/*
+
