@@ -2509,3 +2509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Scope Ratings (Germany)
 *://*.scoperatings.com/*
 
+# Seaforth Huron Expositor (Canada)
+*://*.seaforthhuronexpositor.com/*
+
