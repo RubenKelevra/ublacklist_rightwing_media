@@ -2315,3 +2315,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Opposing Views (USA)
 *://*.opposingviews.com/*
 
+# Orange County Register (USA)
+*://*.ocregister.com/*
+
