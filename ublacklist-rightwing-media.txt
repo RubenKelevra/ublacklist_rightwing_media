@@ -2886,3 +2886,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Villages-News (USA)
 *://*.villages-news.com/*
 
+# Villa Rican (USA)
+*://*.times-georgian.com/*
+
