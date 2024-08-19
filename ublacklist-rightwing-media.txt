@@ -2078,3 +2078,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Los Angeles Daily News (USA)
 *://*.dailynews.com/*
 
+# Lowndes Signal (USA)
+*://*.lowndessignal.com/*
+
