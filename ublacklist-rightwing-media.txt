@@ -1020,3 +1020,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Albany Herald (USA)
 *://*.albanyherald.com/*
 
+# Albert Lea Tribune (USA)
+*://*.albertleatribune.com/*
+
