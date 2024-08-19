@@ -1525,3 +1525,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.daily-times.com/*
 *://*.tricityrecordnm.com/*
 
+# FDD’s Long War Journal (USA)
+*://*.longwarjournal.org/*
+
