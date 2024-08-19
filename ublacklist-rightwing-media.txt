@@ -748,6 +748,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sputnik News (Russia)
 *://*.sputnikglobe.com/*
 
+# Sputnik News Agency – France (Russia)
+*://*.fr.sputniknews.africa/*
+*://*.fr.sputniknews.com/*
+
 # Sputnik News Agency – India (Russia)
 *://*.sputniknews.in/*
 
