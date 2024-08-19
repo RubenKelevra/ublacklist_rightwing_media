@@ -2518,3 +2518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Seeking Alpha (Israel)
 *://*.seekingalpha.com/*
 
+# Selma Times-Journal (USA)
+*://*.selmatimesjournal.com/*
+
