@@ -1799,3 +1799,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jamestown Sun (USA)
 *://*.jamestownsun.com/*
 
+# The Jerusalem Post (Israel)
+*://*.jpost.com/*
+
