@@ -2174,3 +2174,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mitchell Advocate (Canada)
 *://*.mitchelladvocate.com/*
 
+# Mitchell Daily Republic (USA)
+*://*.mitchellrepublic.com/*
+
