@@ -2030,3 +2030,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lebanon Democrat (USA)
 *://*.lebanondemocrat.com/*
 
+# Lebanon Enterprise (USA)
+*://*.pmg-ky2.com/*
+
