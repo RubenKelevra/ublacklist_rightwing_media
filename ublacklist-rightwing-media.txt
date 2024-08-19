@@ -1623,3 +1623,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gananoque Reporter (Canada)
 *://*.gananoquereporter.com/*
 
+# Geopolitical Intelligence Services (Liechtenstein)
+*://*.gisreportsonline.com/*
+
