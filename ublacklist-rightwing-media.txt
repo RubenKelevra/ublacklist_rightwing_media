@@ -2811,3 +2811,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TMZ (USA)
 *://*.tmz.com/*
 
+# TND (USA)
+*://*.thenationaldesk.com/*
+
