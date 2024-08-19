@@ -1808,3 +1808,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jewish Breaking News (Israel)
 *://*.jewishbreakingnews.com/*
 
+# Jewish Journal (USA)
+*://*.jewishjournal.com/*
+
