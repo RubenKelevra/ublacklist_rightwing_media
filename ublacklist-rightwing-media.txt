@@ -3111,3 +3111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPBN (USA)
 *://*.upnorthlive.com/*
 
+# WTOV Steubenville-Wheeling (USA)
+*://*.wtov9.com/*
+
