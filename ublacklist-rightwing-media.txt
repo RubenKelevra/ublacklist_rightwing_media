@@ -1074,3 +1074,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Angus Reid Institute (Canada)
 *://*.angusreid.org/*
 
+# Annapolis Valley Register (Canada)
+*://*.saltwire.com/*
+
