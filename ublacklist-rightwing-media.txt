@@ -1338,3 +1338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Columbia Daily Herald (USA)
 *://*.columbiadailyherald.com/*
 
+# Compact Magazine (USA)
+*://*.compactmag.com/*
+
