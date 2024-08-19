@@ -1464,3 +1464,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ecuavisa (Ecuador)
 *://*.ecuavisa.com/*
 
+# Eddyville Herald Ledger (USA)
+*://*.heraldledger.com/*
+
