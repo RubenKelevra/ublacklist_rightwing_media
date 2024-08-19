@@ -2645,3 +2645,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Durango Herald (USA)
 *://*.durangoherald.com/*
 
+# The Elkhart Truth (USA)
+*://*.elkharttruth.com/*
+
