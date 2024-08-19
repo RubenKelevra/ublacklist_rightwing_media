@@ -2856,3 +2856,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Uncommon Ground Media (UK)
 *://*.uncommongroundmedia.com/*
 
+# Unherd (USA)
+*://*.unherd.com/*
+
