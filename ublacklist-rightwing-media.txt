@@ -1811,3 +1811,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jewish Journal (USA)
 *://*.jewishjournal.com/*
 
+# Jewish News Syndicate (USA)
+*://*.jns.org/*
+
