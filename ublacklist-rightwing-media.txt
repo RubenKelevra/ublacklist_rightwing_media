@@ -1570,3 +1570,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fortnightly Review (UK)
 *://*.fortnightlyreview.co.uk/*
 
+# Fortune Magazine (USA)
+*://*.fortune.com/*
+
