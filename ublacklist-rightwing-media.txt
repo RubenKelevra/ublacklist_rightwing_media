@@ -2726,3 +2726,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Province (Canada)
 *://*.theprovince.com/*
 
+# The Seymour Tribune (USA)
+*://*.tribtown.com/*
+
