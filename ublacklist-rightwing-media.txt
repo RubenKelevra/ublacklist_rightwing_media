@@ -1805,3 +1805,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jessamine Journal (USA)
 *://*.jessaminejournal.com/*
 
+# Jewish Breaking News (Israel)
+*://*.jewishbreakingnews.com/*
+
