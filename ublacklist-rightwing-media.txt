@@ -1997,3 +1997,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KWNB (USA)
 *://*.nebraska.tv/*
 
+# LaGrange Daily News (USA)
+*://*.lagrangenews.com/*
+
