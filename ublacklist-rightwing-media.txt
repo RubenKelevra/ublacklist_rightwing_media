@@ -1245,3 +1245,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Canadian Jewish News (Canada)
 *://*.thecjn.ca/*
 
+# Canadian Taxpayers Federation (Canada)
+*://*.taxpayer.com/*
+
