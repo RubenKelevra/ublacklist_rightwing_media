@@ -1777,3 +1777,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Interfax (Russia)
 *://*.interfax.ru/*
 
+# Institute for Fiscal Studies (UK)
+*://*.ifs.org.uk/*
+
