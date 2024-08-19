@@ -1856,3 +1856,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KATV (USA)
 *://*.katv.com/*
 
+# KBAK (USA)
+*://*.bakersfieldnow.com/*
+
