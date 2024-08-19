@@ -2000,3 +2000,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # LaGrange Daily News (USA)
 *://*.lagrangenews.com/*
 
+# Lake Charles American Press (USA)
+*://*.americanpress.com/*
+
