@@ -1368,3 +1368,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dagens Nyheter (Sweden)
 *://*.dn.se/*
 
+# Daily Corinthian (USA)
+*://*.heraldpalladium.com/*
+
