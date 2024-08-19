@@ -2802,3 +2802,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Times of Zambia (Zambia)
 *://*.times.co.zm/*
 
+# Timmins Daily Press (Canada)
+*://*.timminspress.com/*
+
