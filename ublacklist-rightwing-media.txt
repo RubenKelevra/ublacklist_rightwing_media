@@ -2660,3 +2660,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Globe and Mail (Canada)
 *://*.theglobeandmail.com/*
 
+# The Graphic Leader (Canada)
+*://*.thegraphicleader.com/*
+
