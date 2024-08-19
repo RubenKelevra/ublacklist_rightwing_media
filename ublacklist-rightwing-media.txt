@@ -745,6 +745,9 @@ Sons of 1776 (USA)
 Spiked Magazine (UK)
 *://*.spiked-online.com/*
 
+# Sputnik News (Russia)
+*://*.sputnikglobe.com/*
+
 Talk TV (UK)
 *://*.talk.tv/*
 
