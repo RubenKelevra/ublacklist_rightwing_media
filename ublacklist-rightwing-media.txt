@@ -1407,3 +1407,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Delfi (Lithuania)
 *://*.delfi.lt/*
 
+# Demopolis Times (USA)
+*://*.demopolistimes.com/*
+
