@@ -1844,3 +1844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kalamazoo News (USA)
 *://*.wwmt.com/*
 
+# Kathimerini (Greece)
+*://*.kathimerini.gr/*
+
