@@ -1683,3 +1683,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hanna Herald (Canada)
 *://*.hannaherald.com/*
 
+# Hanover Post (Canada)
+*://*.thepost.on.ca/*
+
