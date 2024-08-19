@@ -2741,3 +2741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # *://*.thespectator.com/* - already blocked by The Spectator (UK)
 
+# The Spokesman-Review (USA)
+*://*.spokesman.com/*
+
