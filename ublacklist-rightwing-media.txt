@@ -2231,3 +2231,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New Braunfels Herald-Zeitung (USA)
 *://*.herald-zeitung.com/*
 
+# New Castle Courier-Times (USA)
+*://*.thecouriertimes.com/*
+
