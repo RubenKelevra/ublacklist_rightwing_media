@@ -3108,3 +3108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.fox28media.com/*
 *://*.fox28savannah.com/*
 
+# WPBN (USA)
+*://*.upnorthlive.com/*
+
