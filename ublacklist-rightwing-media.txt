@@ -1765,3 +1765,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # India TV (India)
 *://*.indiatvnews.com/*
 
+# Inforum (USA)
+*://*.inforum.com/*
+
