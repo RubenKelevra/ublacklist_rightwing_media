@@ -1392,3 +1392,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DC Journal (USA)
 *://*.dcjournal.com/*
 
+# de Volkskrant (Netherlands)
+*://*.volkskrant.nl/*
+
