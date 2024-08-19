@@ -1835,3 +1835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jyllands-Posten (Denmark)
 *://*.jyllands-posten.dk/*
 
+# KAAS (USA)
+*://*.foxkansas.com/*
+
