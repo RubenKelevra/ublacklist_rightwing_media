@@ -1820,3 +1820,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # JonathanTurley.org (USA)
 *://*.jonathanturley.org/*
 
+# Jonesboro Sun (USA)
+*://*.jonesborosun.com/*
+
