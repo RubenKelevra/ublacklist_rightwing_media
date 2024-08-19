@@ -3062,3 +3062,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPDE (USA)
 *://*.wpde.com/*
 
+# WPEC (USA)
+*://*.cbs12.com/*
+
