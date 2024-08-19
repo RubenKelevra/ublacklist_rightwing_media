@@ -2153,3 +2153,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metabunk (USA)
 *://*.metabunk.org/*
 
+# Metropolis Planet (USA)
+*://*.metropolisplanet.com/*
+
