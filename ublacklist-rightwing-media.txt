@@ -2838,3 +2838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Troy Messenger (USA)
 *://*.troymessenger.com/*
 
+# TRT Afrika (Turkey)
+*://*.trtafrika.com/*
+
