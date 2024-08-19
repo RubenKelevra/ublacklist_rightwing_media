@@ -2871,3 +2871,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Van Buren County Democrat (USA)
 *://*.thecabin.net/*
 
+# Vancouver Province (Canada)
+*://*.theprovince.com/*
+
