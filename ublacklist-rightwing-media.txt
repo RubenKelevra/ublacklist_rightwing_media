@@ -1916,3 +1916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kings County Record (Canada)
 *://*.tj.news/*
 
+# Kingston This Week (Canada)
+*://*.kingstonthisweek.com/*
+
