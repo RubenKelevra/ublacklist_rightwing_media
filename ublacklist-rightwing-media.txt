@@ -2117,3 +2117,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Manila Times (Philippines)
 *://*.manilatimes.net/*
 
+# Marginal Revolution (USA)
+*://*.marginalrevolution.com/*
+
