@@ -1814,3 +1814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jewish News Syndicate (USA)
 *://*.jns.org/*
 
+# Jewish Unpacked (USA)
+*://*.jewishunpacked.com/*
+
