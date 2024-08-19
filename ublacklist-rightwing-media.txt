@@ -2357,3 +2357,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pelham Reporter (USA)
 *://*.shelbycountyreporter.com/*
 
+# Pembroke Observer & News (Canada)
+*://*.pembrokeobserver.com/*
+
