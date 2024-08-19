@@ -3086,3 +3086,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WRGT (USA)
 *://*.dayton247now.com/*
 
+# WRLH (USA)
+*://*.foxrichmond.com/*
+
