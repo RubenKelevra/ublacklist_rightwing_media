@@ -1883,3 +1883,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KECI (USA)
 *://*.nbcmontana.com/*
 
+# Kentucky New Era (USA)
+*://*.kentuckynewera.com/*
+
