@@ -1653,3 +1653,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grayson County News Gazette (USA)
 *://*.messenger-inquirer.com/*
 
+# Greeley Tribune (USA)
+*://*.greeleytribune.com/*
+
