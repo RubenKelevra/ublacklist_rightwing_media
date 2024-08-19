@@ -2327,3 +2327,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Owensboro Messenger-Inquirer (USA)
 *://*.messenger-inquirer.com/*
 
+# Owen Sound Sun Times (Canada)
+*://*.owensoundsuntimes.com/*
+
