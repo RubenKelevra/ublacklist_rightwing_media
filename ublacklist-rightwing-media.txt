@@ -1725,3 +1725,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hoover Institution (USA)
 *://*.hoover.org/*
 
+# Human Progress (USA)
+*://*.humanprogress.org/*
+
