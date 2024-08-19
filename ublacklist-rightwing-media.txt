@@ -1531,3 +1531,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Financial Express (India)
 *://*.financialexpress.com/*
 
+# Financial Post (Canada)
+*://*.financialpost.com/*
+
