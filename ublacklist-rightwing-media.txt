@@ -2096,3 +2096,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mackinac Center for Public Policy (USA)
 *://*.mackinac.org/*
 
+# Macon County Times (USA)
+*://*.lebanondemocrat.com/*
+
