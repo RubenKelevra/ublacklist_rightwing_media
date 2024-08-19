@@ -1606,3 +1606,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freedom Alliance (USA)
 *://*.freedomalliance.org/*
 
+# Freedom House (USA)
+*://*.freedomhouse.org/*
+
