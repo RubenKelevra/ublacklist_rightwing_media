@@ -2138,3 +2138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mayerthorpe Freelancer (Canada)
 *://*.mayerthorpefreelancer.com/*
 
+# Mayfield Messenger (USA)
+*://*.mayfield-messenger.com/*
+
