@@ -2500,3 +2500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sault Star (Canada)
 *://*.saultstar.com/*
 
+# Sault Ste. Marie This Week (Canada)
+*://*.saultthisweek.com/*
+
