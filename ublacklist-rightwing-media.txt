@@ -1567,3 +1567,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fort Worth Star-Telegram (USA)
 *://*.star-telegram.com/*
 
+# Fortnightly Review (UK)
+*://*.fortnightlyreview.co.uk/*
+
