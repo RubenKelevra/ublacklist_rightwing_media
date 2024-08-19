@@ -1762,3 +1762,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # India Today (India)
 *://*.indiatoday.in/*
 
+# India TV (India)
+*://*.indiatvnews.com/*
+
