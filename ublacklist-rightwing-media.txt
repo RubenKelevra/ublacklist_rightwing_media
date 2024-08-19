@@ -1158,3 +1158,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bild (Germany)
 *://*.bild.de/*
 
+# Billings Gazette (USA)
+*://*.billingsgazette.com/*
+
