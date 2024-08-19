@@ -1768,3 +1768,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Inforum (USA)
 *://*.inforum.com/*
 
+# InsideSources (USA)
+*://*.insidesources.com/*
+
