@@ -1056,3 +1056,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Military News (USA)
 *://*.americanmilitarynews.com/*
 
+# Americans for Prosperity (USA)
+*://*.americansforprosperity.org/*
+
