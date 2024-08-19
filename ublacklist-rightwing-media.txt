@@ -2642,3 +2642,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Dispatch (USA)
 *://*.thedispatch.com/*
 
+# The Durango Herald (USA)
+*://*.durangoherald.com/*
+
