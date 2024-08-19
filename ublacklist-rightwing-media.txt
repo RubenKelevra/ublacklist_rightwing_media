@@ -3077,3 +3077,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPRO (USA)
 *://*.997wpro.com/*
 
+# WPSD (USA)
+*://*.wpsdlocal6.com/*
+
