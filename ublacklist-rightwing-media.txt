@@ -1558,3 +1558,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fort Bend Herald (USA)
 *://*.fbherald.com/*
 
+# Fort McMurray Today (Canada)
+*://*.fortmcmurraytoday.com/*
+
