@@ -1194,3 +1194,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Brantford Expositor (Canada)
 *://*.brantfordexpositor.ca/*
 
+# Breaking Defense (USA)
+*://*.breakingdefense.com/*
+
