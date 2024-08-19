@@ -1961,3 +1961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KRCG (USA)
 *://*.krcgtv.com/*
 
+# KRNV (USA)
+*://*.mynews4.com/*
+
