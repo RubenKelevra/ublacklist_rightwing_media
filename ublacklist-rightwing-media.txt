@@ -3032,3 +3032,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WKEF (USA)
 *://*.dayton247now.com/*
 
+# WKRC (USA)
+*://*.local12.com/*
+
