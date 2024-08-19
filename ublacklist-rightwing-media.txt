@@ -2377,3 +2377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.mydailyregister.com/*
 *://*.rivercitiesnews.com/*
 
+# PolicyEd (USA)
+*://*.policyed.org/*
+
