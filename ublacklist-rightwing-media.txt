@@ -2021,3 +2021,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Laredo Morning Times (USA)
 *://*.lmtonline.com/*
 
+# Las Vegas Review-Journal (USA)
+*://*.reviewjournal.com/*
+
