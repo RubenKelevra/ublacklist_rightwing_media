@@ -1086,3 +1086,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Archdale (USA)
 *://*.hpenews.com/*
 
+# Argus Leader (USA)
+*://*.argusleader.com/*
+
