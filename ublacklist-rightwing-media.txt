@@ -2114,3 +2114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Manchester Union Leader (USA)
 *://*.unionleader.com/*
 
+# The Manila Times (Philippines)
+*://*.manilatimes.net/*
+
