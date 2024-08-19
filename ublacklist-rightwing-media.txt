@@ -2198,3 +2198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Moscow 24 (Russia)
 *://*.m24.ru/*
 
+# Mountain Democrat (USA)
+*://*.mtdemocrat.com/*
+
