@@ -2282,3 +2282,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Northwest Arkansas Democrat-Gazette (USA)
 *://*.nwaonline.com/*
 
+# Northwest Signal (USA)
+*://*.northwestsignal.net/*
+
