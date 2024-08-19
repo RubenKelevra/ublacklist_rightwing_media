@@ -2321,3 +2321,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ottawa Citizen (Canada)
 *://*.ottawacitizen.com/*
 
+# Ottawa Sun (Canada)
+*://*.ottawasun.com/*
+
