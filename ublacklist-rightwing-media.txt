@@ -2778,3 +2778,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Winchester Star (USA)
 *://*.winchesterstar.com/*
 
+# The Yomiuri Shimbun (Japan)
+*://*.yomiuri.co.jp/*
+
