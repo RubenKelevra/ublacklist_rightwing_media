@@ -2102,3 +2102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Madison Courier (USA)
 *://*.madisoncourier.com/*
 
+# Madisonville Messenger (USA)
+*://*.the-messenger.com/*
+
