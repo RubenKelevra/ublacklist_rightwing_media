@@ -1233,3 +1233,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # California Globe (USA)
 *://*.californiaglobe.com/*
 
+# California Political Review (USA)
+*://*.capoliticalreview.com/*
+
