@@ -1134,3 +1134,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Northern Light (Canada)
 *://*.tj.news/*
 
+# Beavercreek News-Current (USA)
+*://*.beavercreeknewscurrent.com/*
+
