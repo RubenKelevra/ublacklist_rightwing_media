@@ -1710,3 +1710,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # High Point Enterprise (USA)
 *://*.hpenews.com/*
 
+# High River Times (Canada)
+*://*.highrivertimes.com/*
+
