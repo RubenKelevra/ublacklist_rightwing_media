@@ -1404,3 +1404,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Delaware Gazette (USA)
 *://*.delgazette.com/*
 
+# Delfi (Lithuania)
+*://*.delfi.lt/*
+
