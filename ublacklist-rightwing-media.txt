@@ -1838,3 +1838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KAAS (USA)
 *://*.foxkansas.com/*
 
+# KABB (USA)
+*://*.foxsanantonio.com/*
+
