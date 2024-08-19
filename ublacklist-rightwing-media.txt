@@ -2051,3 +2051,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lexington Dispatch (USA)
 *://*.the-dispatch.com/*
 
+# Lexington Institute (USA)
+*://*.lexingtoninstitute.org/*
+
