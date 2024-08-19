@@ -2354,3 +2354,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Peace River Record-Gazette (Canada)
 *://*.prrecordgazette.com/*
 
+# Pelham Reporter (USA)
+*://*.shelbycountyreporter.com/*
+
