@@ -1419,3 +1419,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Desert Sun (USA)
 *://*.desertsun.com/*
 
+# Detroit Lakes Tribune (USA)
+*://*.dl-online.com/*
+
