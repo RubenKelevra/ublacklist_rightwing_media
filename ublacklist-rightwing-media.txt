@@ -2406,3 +2406,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Providence Journal-Enterprise (USA)
 *://*.the-messenger.com/*
 
+# Public Square Magazine (USA)
+*://*.publicsquaremag.org/*
+
