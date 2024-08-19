@@ -3138,3 +3138,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WVAH (USA)
 *://*.wvah.com/*
 
+# *://*.wchstv.com/* - already blocked by WCHS (USA)
+
