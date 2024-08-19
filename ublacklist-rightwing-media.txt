@@ -1428,3 +1428,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Deutschland.de (Germany)
 *://*.deutschland.de/*
 
+# Devon Dispatch (Canada)
+*://*.devondispatch.ca/*
+
