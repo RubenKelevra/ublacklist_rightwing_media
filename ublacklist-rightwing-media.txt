@@ -1386,3 +1386,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dallas Morning News (USA)
 *://*.dallasnews.com/*
 
+# Danville Advocate-Messenger (USA)
+*://*.amnews.com/*
+
