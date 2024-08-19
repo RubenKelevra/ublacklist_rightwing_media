@@ -1326,3 +1326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # co/efficient (USA)
 *://*.coefficient.org/*
 
+# Colchester Wire (Canada)
+*://*.saltwire.com/*
+
