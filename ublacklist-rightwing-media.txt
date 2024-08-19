@@ -2333,3 +2333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pacific Research Institute (USA)
 *://*.pacificresearch.org/*
 
+# Paducah Sun (USA)
+*://*.paducahsun.com/*
+
