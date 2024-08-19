@@ -1780,3 +1780,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Institute for Fiscal Studies (UK)
 *://*.ifs.org.uk/*
 
+# Institute for the Study of War (USA)
+*://*.understandingwar.org/*
+
