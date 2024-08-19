@@ -1793,3 +1793,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ITV News (UK)
 *://*.itv.com/*
 
+# Jacksonville Daily News (USA)
+*://*.jdnews.com/*
+
