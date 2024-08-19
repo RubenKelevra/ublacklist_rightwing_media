@@ -1383,3 +1383,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DailyO (India)
 *://*.dailyo.in/*
 
+# Dallas Morning News (USA)
+*://*.dallasnews.com/*
+
