@@ -3044,3 +3044,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WNBW (USA)
 *://*.mycbs4.com/*
 
+# WNWO 24 News (USA)
+*://*.nbc24.com/*
+
