@@ -1934,3 +1934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KMPH (USA)
 *://*.kmph.com/*
 
+# KMTR (USA)
+*://*.nbc16.com/*
+
