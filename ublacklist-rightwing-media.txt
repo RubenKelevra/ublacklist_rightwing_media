@@ -1859,3 +1859,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KBAK (USA)
 *://*.bakersfieldnow.com/*
 
+# KBFX (USA)
+*://*.bakersfieldnow.com/*
+
