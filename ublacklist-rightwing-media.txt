@@ -990,3 +990,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 7News (Australia)
 *://*.7news.com.au/*
 
+# 9 News (Australia)
+*://*.9news.com.au/*
+
