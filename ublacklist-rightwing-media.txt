@@ -2663,3 +2663,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Graphic Leader (Canada)
 *://*.thegraphicleader.com/*
 
+# The Great Task (USA)
+*://*.greattask.com/*
+
