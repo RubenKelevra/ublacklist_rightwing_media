@@ -2678,3 +2678,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Jewish Press (USA)
 *://*.jewishpress.com/*
 
+# The Journal (USA)
+*://*.journal-news.net/*
+
