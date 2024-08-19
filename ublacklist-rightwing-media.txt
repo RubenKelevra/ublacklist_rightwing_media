@@ -1940,3 +1940,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Knewz (USA)
 *://*.knewz.com/*
 
+# KOKH (USA)
+*://*.okcfox.com/*
+
