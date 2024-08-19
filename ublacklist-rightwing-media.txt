@@ -2705,3 +2705,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The News (Canada)
 *://*.saltwire.com/*
 
+# The Objective Standard (USA)
+*://*.theobjectivestandard.com/*
+
