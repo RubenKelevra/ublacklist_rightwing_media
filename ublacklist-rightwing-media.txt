@@ -3155,3 +3155,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yeshiva World News (USA)
 *://*.theyeshivaworld.com/*
 
+# Yonhap News Agency (South Korea)
+*://*.en.yna.co.kr/*
+
