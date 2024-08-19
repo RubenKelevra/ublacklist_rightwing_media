@@ -1209,3 +1209,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bryan Times (USA)
 *://*.bryantimes.com/*
 
+# B.T. Denmark (Denmark)
+*://*.bt.dk/*
+
