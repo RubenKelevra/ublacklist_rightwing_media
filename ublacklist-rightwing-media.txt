@@ -2264,3 +2264,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nikkei Asian Review (Japan)
 *://*.asia.nikkei.com/*
 
+# Niles Daily Star (USA)
+*://*.leaderpub.com/*
+
