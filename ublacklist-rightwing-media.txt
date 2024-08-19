@@ -3068,3 +3068,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WPFO (USA)
 *://*.fox23maine.com/*
 
+# WPGH (USA)
+*://*.wpgh53.com/*
+
