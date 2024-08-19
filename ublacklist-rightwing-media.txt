@@ -2612,3 +2612,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Australian (Australia)
 *://*.theaustralian.com.au/*
 
+# The Birmingham News (USA)
+*://*.al.com/*
+
