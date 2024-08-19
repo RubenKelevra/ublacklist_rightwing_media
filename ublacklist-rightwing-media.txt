@@ -1269,3 +1269,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Center for European Policy Analysis (USA)
 *://*.cepa.org/*
 
+# Center for the National Interest (USA)
+*://*.cftni.org/*
+
