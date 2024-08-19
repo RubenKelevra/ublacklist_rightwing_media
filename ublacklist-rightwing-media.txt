@@ -679,6 +679,9 @@ Politichicks (USA)
 Power Line (USA)
 *://*.powerlineblog.com/*
 
+# Press TV (Iran)
+*://*.presstv.ir/*
+
 Project 2025 (USA)
 *://*.project2025.org/*
 
