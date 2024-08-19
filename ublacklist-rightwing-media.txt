@@ -2045,3 +2045,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lenoir News-Topic (USA)
 *://*.newstopicnews.com/*
 
+# Le Parisien (France)
+*://*.leparisien.fr/*
+
