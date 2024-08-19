@@ -2394,3 +2394,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rochester Post-Bulletin (USA)
 *://*.postbulletin.com/*
 
+# Prime 9ja Online (Nigeria)
+*://*.prime9ja.com.ng/*
+
