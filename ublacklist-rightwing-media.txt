@@ -2953,3 +2953,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wetaskiwin Times (Canada)
 *://*.wetaskiwintimes.com/*
 
+# Wetumpka Herald (USA)
+*://*.thewetumpkaherald.com/*
+
