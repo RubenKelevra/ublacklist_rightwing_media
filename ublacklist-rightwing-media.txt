@@ -1692,3 +1692,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Harlan Enterprise (USA)
 *://*.harlanenterprise.net/*
 
+# Heber Springs Sun-Times (USA)
+*://*.thesuntimes.com/*
+
