@@ -1293,3 +1293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # China Digital Times (USA)
 *://*.chinadigitaltimes.net/*
 
+# Christianity Today (USA)
+*://*.christianitytoday.com/*
+
