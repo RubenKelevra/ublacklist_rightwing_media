@@ -1958,3 +1958,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KPTP (USA)
 *://*.siouxlandnews.com/*
 
+# KRCG (USA)
+*://*.krcgtv.com/*
+
