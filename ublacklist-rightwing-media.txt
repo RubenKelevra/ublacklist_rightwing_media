@@ -2186,3 +2186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Monroe Enquirer Journal (USA)
 *://*.enquirerjournal.com/*
 
+# Montreal Gazette (Canada)
+*://*.montrealgazette.com/*
+
