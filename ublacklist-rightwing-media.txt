@@ -1512,3 +1512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Expressen (Sweden)
 *://*.expressen.se/*
 
+# Fairborn Daily Herald (USA)
+*://*.fairborndailyherald.com/*
+
