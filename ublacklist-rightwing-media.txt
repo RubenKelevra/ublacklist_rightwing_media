@@ -1347,3 +1347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Connersville News Examiner (USA)
 *://*.newsexaminer.com/*
 
+# Cordele Dispatch (USA)
+*://*.cordeledispatch.com/*
+
