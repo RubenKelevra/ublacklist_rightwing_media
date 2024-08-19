@@ -2367,3 +2367,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pincher Creek Echo (Canada)
 *://*.pinchercreekecho.com/*
 
+# Pittsburgh Post-Gazette (USA)
+*://*.post-gazette.com/*
+
