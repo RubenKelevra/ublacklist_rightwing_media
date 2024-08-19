@@ -1329,3 +1329,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Colchester Wire (Canada)
 *://*.saltwire.com/*
 
+# Cold Lake Sun (Canada)
+*://*.coldlakesun.com/*
+
