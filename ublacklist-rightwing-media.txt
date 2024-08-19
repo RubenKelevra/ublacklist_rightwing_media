@@ -2799,3 +2799,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Times of South Africa (South Africa)
 *://*.timeslive.co.za/*
 
+# Times of Zambia (Zambia)
+*://*.times.co.zm/*
+
