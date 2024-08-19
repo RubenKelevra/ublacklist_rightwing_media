@@ -1949,3 +1949,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Korea Herald (South Korea)
 *://*.koreaherald.com/*
 
+# KPTH (USA)
+*://*.siouxlandnews.com/*
+
