@@ -1955,3 +1955,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KPTM (USA)
 *://*.fox42kptm.com/*
 
+# KPTP (USA)
+*://*.siouxlandnews.com/*
+
