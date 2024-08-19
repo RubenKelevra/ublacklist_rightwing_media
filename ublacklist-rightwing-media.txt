@@ -1308,3 +1308,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clarion News (USA)
 *://*.theclarionnews.com/*
 
+# Cleveland Daily Banner (USA)
+*://*.clevelandbanner.com/*
+
