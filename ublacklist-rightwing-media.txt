@@ -1753,3 +1753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # In Homeland Security (USA)
 *://*.amuedge.com/*
 
+# India.com (India)
+*://*.india.com/*
+
