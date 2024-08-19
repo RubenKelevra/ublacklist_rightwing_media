@@ -2865,3 +2865,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Valley Journal Advertiser (Canada)
 *://*.saltwire.com/*
 
+# ValueWalk (USA)
+*://*.valuewalk.com/*
+
