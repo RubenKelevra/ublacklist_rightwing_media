@@ -1497,3 +1497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # El Universo (Ecuador)
 *://*.eluniverso.com/*
 
+# End Time Headlines (USA)
+*://*.endtimeheadlines.org/*
+
