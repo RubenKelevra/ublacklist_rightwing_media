@@ -2069,3 +2069,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Leading Britain’s Conversation (UK)
 *://*.lbc.co.uk/*
 
+# London Evening Standard (UK)
+*://*.standard.co.uk/*
+
