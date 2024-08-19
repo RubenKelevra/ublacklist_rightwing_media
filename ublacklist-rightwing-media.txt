@@ -1671,3 +1671,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Griffin Daily News (USA)
 *://*.griffindailynews.com/*
 
+# Guns.com (USA)
+*://*.guns.com/*
+
