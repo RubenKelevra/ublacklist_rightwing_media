@@ -1227,3 +1227,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Business Standard (India)
 *://*.business-standard.com/*
 
+# Calgary Herald (Canada)
+*://*.calgaryherald.com/*
+
