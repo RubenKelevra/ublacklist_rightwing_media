@@ -1738,3 +1738,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # I24 News (Israel)
 *://*.i24news.tv/*
 
+# ICitizen (USA)
+*://*.icitizen.com/*
+
