@@ -2654,3 +2654,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Free Press (USA)
 *://*.thefp.com/*
 
+# The Gazette (USA)
+*://*.thegazette.com/*
+
