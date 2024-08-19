@@ -1377,3 +1377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Daily Mining Gazette (USA)
 *://*.mininggazette.com/*
 
+# Daily Press (USA)
+*://*.dailypress.com/*
+
