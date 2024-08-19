@@ -2424,3 +2424,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Real Clear Investigations (USA)
 *://*.realclearinvestigations.com/*
 
+# RealClearMarkets (USA)
+*://*.realclearmarkets.com/*
+
