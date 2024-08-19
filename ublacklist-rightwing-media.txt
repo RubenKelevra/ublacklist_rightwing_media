@@ -2850,3 +2850,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tyler Morning Telegraph (USA)
 *://*.tylerpaper.com/*
 
+# Ukrinform (Ukraine)
+*://*.ukrinform.net/*
+
