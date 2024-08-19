@@ -1817,3 +1817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jewish Unpacked (USA)
 *://*.jewishunpacked.com/*
 
+# JonathanTurley.org (USA)
+*://*.jonathanturley.org/*
+
