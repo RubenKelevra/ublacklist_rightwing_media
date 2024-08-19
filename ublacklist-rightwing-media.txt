@@ -1389,3 +1389,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Danville Advocate-Messenger (USA)
 *://*.amnews.com/*
 
+# DC Journal (USA)
+*://*.dcjournal.com/*
+
