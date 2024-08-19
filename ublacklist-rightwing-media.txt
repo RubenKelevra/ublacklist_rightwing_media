@@ -2944,3 +2944,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WEAR TV (USA)
 *://*.weartv.com/*
 
+# West Central Tribune (USA)
+*://*.wctrib.com/*
+
