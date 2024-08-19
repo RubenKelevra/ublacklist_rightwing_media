@@ -2385,3 +2385,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # *://*.rivercitiesnews.com/* - already blocked by Point Pleasant Register (USA)
 
+# Portland Leader (USA)
+*://*.lebanondemocrat.com/*
+
