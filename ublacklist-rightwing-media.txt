@@ -3152,3 +3152,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yankee Institute for Public Policy (USA)
 *://*.yankeeinstitute.org/*
 
+# Yeshiva World News (USA)
+*://*.theyeshivaworld.com/*
+
