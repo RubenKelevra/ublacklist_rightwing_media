@@ -999,3 +999,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ABC (Spain)
 *://*.abc.es/*
 
+# Advocates for Self Government (USA)
+*://*.theadvocates.org/*
+
