@@ -2539,3 +2539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Simcoe Reformer (Canada)
 *://*.simcoereformer.ca/*
 
+# SOFREP (USA)
+*://*.sofrep.com/*
+
