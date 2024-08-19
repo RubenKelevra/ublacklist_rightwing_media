@@ -2473,3 +2473,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Russellville News-Democrat & Leader (USA)
 *://*.franklinfavorite.com/*
 
+# Saint John Telegraph-Journal (Canada)
+*://*.tj.news/*
+
