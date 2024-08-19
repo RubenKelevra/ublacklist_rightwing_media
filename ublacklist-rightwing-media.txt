@@ -2603,3 +2603,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tharawat Magazine (United Arab Emirates)
 *://*.tharawat-magazine.com/*
 
+# The Algemeiner Journal (USA)
+*://*.algemeiner.com/*
+
