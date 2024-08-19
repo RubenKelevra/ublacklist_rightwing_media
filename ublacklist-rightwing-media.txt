@@ -2380,3 +2380,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PolicyEd (USA)
 *://*.policyed.org/*
 
+# Pomeroy Daily Sentinel (USA)
+*://*.mydailysentinel.com/*
+
