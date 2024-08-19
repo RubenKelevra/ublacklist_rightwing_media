@@ -1695,3 +1695,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Heber Springs Sun-Times (USA)
 *://*.thesuntimes.com/*
 
+# Herald/Review Media (USA)
+*://*.myheraldreview.com/*
+
