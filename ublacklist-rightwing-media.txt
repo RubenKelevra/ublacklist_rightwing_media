@@ -1841,3 +1841,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KABB (USA)
 *://*.foxsanantonio.com/*
 
+# Kalamazoo News (USA)
+*://*.wwmt.com/*
+
