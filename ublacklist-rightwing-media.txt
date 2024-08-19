@@ -1629,3 +1629,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GEO TV (Pakistan)
 *://*.geo.tv/*
 
+# Goderich Signal-Star (Canada)
+*://*.goderichsignalstar.com/*
+
