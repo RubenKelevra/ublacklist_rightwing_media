@@ -1928,3 +1928,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KLEW TV (USA)
 *://*.klewtv.com/*
 
+# KMEG (USA)
+*://*.siouxlandnews.com/*
+
