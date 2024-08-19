@@ -2222,3 +2222,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Netherlands Radio and Television Association (Netherlands)
 *://*.nos.nl/*
 
+# Neue Zürcher Zeitung (Switzerland)
+*://*.nzz.ch/*
+
