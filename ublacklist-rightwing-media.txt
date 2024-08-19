@@ -2171,3 +2171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Miramichi Leader (Canada)
 *://*.tj.news/*
 
+# Mitchell Advocate (Canada)
+*://*.mitchelladvocate.com/*
+
