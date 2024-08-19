@@ -2624,3 +2624,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Chattanoogan (USA)
 *://*.chattanoogan.com/*
 
+# The Chosun Ilbo (South Korea)
+*://*.english.chosun.com/*
+
