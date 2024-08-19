@@ -1603,3 +1603,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fredericton Daily Gleaner (Canada)
 *://*.tj.news/*
 
+# Freedom Alliance (USA)
+*://*.freedomalliance.org/*
+
