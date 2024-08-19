@@ -2249,3 +2249,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newsroom New Zealand (New Zealand)
 *://*.newsroom.co.nz/*
 
+# Newstalk ZB (New Zealand)
+*://*.newstalkzb.co.nz/*
+
