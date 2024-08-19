@@ -2063,3 +2063,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ListVerse (UK)
 *://*.listverse.com/*
 
+# Log Cabin Democrat (USA)
+*://*.thecabin.net/*
+
