@@ -1467,3 +1467,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Eddyville Herald Ledger (USA)
 *://*.heraldledger.com/*
 
+# Edmonton Examiner (Canada)
+*://*.edmontonexaminer.com/*
+
