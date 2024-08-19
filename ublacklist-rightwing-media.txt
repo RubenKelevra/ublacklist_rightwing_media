@@ -1344,3 +1344,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Committee for a Responsible Federal Budget (USA)
 *://*.crfb.org/*
 
+# Connersville News Examiner (USA)
+*://*.newsexaminer.com/*
+
