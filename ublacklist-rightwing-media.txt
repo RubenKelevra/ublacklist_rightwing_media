@@ -1943,3 +1943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KOKH (USA)
 *://*.okcfox.com/*
 
+# KOMO 4 News (USA)
+*://*.komonews.com/*
+
