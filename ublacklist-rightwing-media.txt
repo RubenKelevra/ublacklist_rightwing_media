@@ -1704,3 +1704,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Het Laatste Nieuws (Belgium)
 *://*.hln.be/*
 
+# Hi-Desert Star (USA)
+*://*.hidesertstar.com/*
+
