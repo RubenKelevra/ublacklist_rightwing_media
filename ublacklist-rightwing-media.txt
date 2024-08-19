@@ -748,6 +748,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sputnik News (Russia)
 *://*.sputnikglobe.com/*
 
+# Sputnik News Agency – India (Russia)
+*://*.sputniknews.in/*
+
 # Talk TV (UK)
 *://*.talk.tv/*
 
