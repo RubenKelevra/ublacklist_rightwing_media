@@ -1796,3 +1796,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jacksonville Daily News (USA)
 *://*.jdnews.com/*
 
+# Jamestown Sun (USA)
+*://*.jamestownsun.com/*
+
