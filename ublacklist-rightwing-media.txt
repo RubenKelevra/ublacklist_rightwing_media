@@ -2750,3 +2750,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Straits Times (Singapore)
 *://*.straitstimes.com/*
 
+# TheStreet (USA)
+*://*.thestreet.com/*
+
