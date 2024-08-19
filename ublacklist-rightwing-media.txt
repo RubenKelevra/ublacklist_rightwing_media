@@ -1970,3 +1970,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KSAS (USA)
 *://*.foxkansas.com/*
 
+# KSCC (USA)
+*://*.fox38corpuschristi.com/*
+
