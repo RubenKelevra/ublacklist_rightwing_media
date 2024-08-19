@@ -1263,3 +1263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cato Institute (USA)
 *://*.cato.org/*
 
+# CCN.com (Norway)
+*://*.ccn.com/*
+
