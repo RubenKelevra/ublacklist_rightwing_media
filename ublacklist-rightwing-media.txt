@@ -1931,3 +1931,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KMEG (USA)
 *://*.siouxlandnews.com/*
 
+# KMPH (USA)
+*://*.kmph.com/*
+
