@@ -1047,3 +1047,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Council on Science and Health (USA)
 *://*.acsh.org/*
 
+# American Firearms Institute (USA)
+*://*.americanfirearms.org/*
+
