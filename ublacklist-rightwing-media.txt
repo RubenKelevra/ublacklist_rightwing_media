@@ -2591,3 +2591,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tablet Magazine (USA)
 *://*.tabletmag.com/*
 
+# Tallapoosa Journal (USA)
+*://*.times-georgian.com/*
+
