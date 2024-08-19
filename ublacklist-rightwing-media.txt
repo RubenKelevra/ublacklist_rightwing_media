@@ -2747,3 +2747,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Standard (Kenya)
 *://*.standardmedia.co.ke/*
 
+# The Straits Times (Singapore)
+*://*.straitstimes.com/*
+
