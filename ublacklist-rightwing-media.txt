@@ -1371,3 +1371,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Daily Corinthian (USA)
 *://*.heraldpalladium.com/*
 
+# Daily Herald (USA)
+*://*.dailyherald.com/*
+
