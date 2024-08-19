@@ -2412,3 +2412,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Punjabi Tribune (India)
 *://*.punjabitribuneonline.com/*
 
+# R Street Institute (USA)
+*://*.rstreet.org/*
+
