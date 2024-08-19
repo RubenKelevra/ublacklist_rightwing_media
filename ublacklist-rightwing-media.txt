@@ -1865,3 +1865,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KBSI (USA)
 *://*.kbsi23.com/*
 
+# KBTV (USA)
+*://*.fox4beaumont.com/*
+
