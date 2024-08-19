@@ -1113,3 +1113,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ayn Rand Institute (USA)
 *://*.newideal.aynrand.org/*
 
+# Bainbridge Post-Searchlight (USA)
+*://*.thepostsearchlight.com/*
+
