@@ -2956,3 +2956,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wetumpka Herald (USA)
 *://*.thewetumpkaherald.com/*
 
+# WEYI (USA)
+*://*.nbc25news.com/*
+*://*.midmichigannow.com/*
+
