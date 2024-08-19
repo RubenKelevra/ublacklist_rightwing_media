@@ -3047,3 +3047,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WNWO 24 News (USA)
 *://*.nbc24.com/*
 
+# WOAI (USA)
+*://*.news4sanantonio.com/*
+
