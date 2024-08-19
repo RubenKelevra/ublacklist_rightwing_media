@@ -1380,3 +1380,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Daily Press (USA)
 *://*.dailypress.com/*
 
+# DailyO (India)
+*://*.dailyo.in/*
+
