@@ -2941,3 +2941,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WDKY (USA)
 *://*.foxlexington.com/*
 
+# WEAR TV (USA)
+*://*.weartv.com/*
+
