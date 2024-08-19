@@ -1756,3 +1756,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # India.com (India)
 *://*.india.com/*
 
+# India Times (India)
+*://*.indiatimes.com/*
+
