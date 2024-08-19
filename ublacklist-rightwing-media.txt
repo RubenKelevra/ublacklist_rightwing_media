@@ -2895,3 +2895,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vulcan Advocate (Canada)
 *://*.vulcanadvocate.com/*
 
+# Wabash Plain Dealer (USA)
+*://*.wabashplaindealer.com/*
+*://*.plaindealerin.com/*
+
