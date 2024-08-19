@@ -2914,3 +2914,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Washington C H Record Herald (USA)
 *://*.recordherald.com/*
 
+# The Center Square (USA)
+*://*.thecentersquare.com/*
+
