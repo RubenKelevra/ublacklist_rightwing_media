@@ -2999,3 +2999,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Williamsport Sun-Gazette (USA)
 *://*.sungazette.com/*
 
+# Willoughby News-Herald (USA)
+*://*.news-herald.com/*
+
