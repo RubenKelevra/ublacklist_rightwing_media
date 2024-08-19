@@ -1722,3 +1722,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # HonestReporting (USA)
 *://*.honestreporting.com/*
 
+# Hoover Institution (USA)
+*://*.hoover.org/*
+
