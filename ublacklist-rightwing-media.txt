@@ -2448,3 +2448,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Regulation Magazine (USA)
 *://*.cato.org/*
 
+# Republican Voters Against Trump (USA)
+*://*.rvat.org/*
+
