@@ -1161,3 +1161,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Billings Gazette (USA)
 *://*.billingsgazette.com/*
 
+# The Bill of Rights Institute (USA)
+*://*.billofrightsinstitute.org/*
+
