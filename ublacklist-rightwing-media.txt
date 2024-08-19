@@ -2908,3 +2908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wall Street Journal (USA)
 *://*.wsj.com/*
 
+# Warrick County Standard (USA)
+*://*.warricknews.com/*
+
