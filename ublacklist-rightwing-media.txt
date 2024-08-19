@@ -1946,3 +1946,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KOMO 4 News (USA)
 *://*.komonews.com/*
 
+# Korea Herald (South Korea)
+*://*.koreaherald.com/*
+
