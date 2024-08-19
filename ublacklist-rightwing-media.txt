@@ -2318,3 +2318,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Orange County Register (USA)
 *://*.ocregister.com/*
 
+# Ottawa Citizen (Canada)
+*://*.ottawacitizen.com/*
+
