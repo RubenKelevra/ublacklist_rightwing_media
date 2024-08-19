@@ -546,437 +546,437 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mercatornet (Australia)
 *://*.mercatornet.com/*
 
-Minding the Campus (USA)
+# Minding the Campus (USA)
 *://*.mindingthecampus.org/*
 
-Minnesota Citizens Concerned for Life (USA)
+# Minnesota Citizens Concerned for Life (USA)
 *://*.mccl.org/*
 
-Mises Institute (USA)
+# Mises Institute (USA)
 *://*.mises.org/*
 
-Modern Diplomacy (Bulgaria)
+# Modern Diplomacy (Bulgaria)
 *://*.moderndiplomacy.eu/*
 
-MRC Free Speech America (USA)
+# MRC Free Speech America (USA)
 *://*.mrcfreespeechamerica.org/*
 
-MxM News (USA)
+# MxM News (USA)
 *://*.mxmnews.com/*
 
-National Association of Scholars (USA)
+# National Association of Scholars (USA)
 *://*.nas.org/*
 
-National Catholic Register (USA)
+# National Catholic Register (USA)
 *://*.ncregister.com/*
 
-National Center for Public Policy Research (USA)
+# National Center for Public Policy Research (USA)
 *://*.nationalcenter.org/*
 
-National Conservatism (USA)
+# National Conservatism (USA)
 *://*.nationalconservatism.org/*
 
-National Federation of Republican Women (USA)
+# National Federation of Republican Women (USA)
 *://*.nfrw.org/*
 
-National Health Freedom Coalition (USA)
+# National Health Freedom Coalition (USA)
 *://*.nationalhealthfreedom.org/*
 
-National Review (USA)
+# National Review (USA)
 *://*.nationalreview.com/*
 
-National Republican Congressional Committee (USA)
+# National Republican Congressional Committee (USA)
 *://*.nrcc.org/*
 
-National Republican Senatorial Committee (USA)
+# National Republican Senatorial Committee (USA)
 *://*.nrsc.org/*
 
-New Boston Post (USA)
+# New Boston Post (USA)
 *://*.newbostonpost.com/*
 
-Newsbusters (USA)
+# Newsbusters (USA)
 *://*.newsbusters.org/*
 
-NewsPageIndex.com (USA)
+# NewsPageIndex.com (USA)
 *://*.newspageindex.com/*
 
-New York Sun (USA)
+# New York Sun (USA)
 *://*.nysun.com/*
 
-NGO Monitor (Israel)
+# NGO Monitor (Israel)
 *://*.ngo-monitor.org/*
 
-Not The Bee (USA)
+# Not The Bee (USA)
 *://*.notthebee.com/*
 *://*.disrn.com/*
 
-Niche Gamer (USA)
+# Niche Gamer (USA)
 *://*.nichegamer.com/*
 
-Nova24TV (Slovenia)
+# Nova24TV (Slovenia)
 *://*.nova24tv.si/*
 
-NRA (USA)
+# NRA (USA)
 *://*.nraila.org/*
 
-NTK Network (USA)
+# NTK Network (USA)
 *://*.ntknetwork.com/*
 
-Numbers USA (USA)
+# Numbers USA (USA)
 *://*.numbersusa.com/*
 
-Offgrid Survival (USA)
+# Offgrid Survival (USA)
 *://*.offgridsurvival.com/*
 
-Off The Press (USA)
+# Off The Press (USA)
 *://*.offthepress.com/*
 
-Ontario Proud (Canada)
+# Ontario Proud (Canada)
 *://*.ontarioproud.ca/*
 
-Open The Books (USA)
+# Open The Books (USA)
 *://*.openthebooks.com/*
 
-OpenVaers (USA)
+# OpenVaers (USA)
 *://*.openvaers.com/*
 
-OpIndia (India)
+# OpIndia (India)
 *://*.opindia.com/*
 
-OpsLens (USA)
+# OpsLens (USA)
 *://*.opslens.com/*
 
-OutKick Bias Rating (USA)
+# OutKick Bias Rating (USA)
 *://*.outkick.com/*
 
-PanAm Post (USA)
+# PanAm Post (USA)
 *://*.panampost.com/*
 
-Pants on Fire News (USA)
+# Pants on Fire News (USA)
 *://*.pantsonfirenews.com/*
 
-Parents Defending Education (USA)
+# Parents Defending Education (USA)
 *://*.defendinged.org/*
 
-Patriot News Alerts (USA)
+# Patriot News Alerts (USA)
 *://*.patriotnewsalerts.com/*
 
-Patriot News Daily (USA)
+# Patriot News Daily (USA)
 *://*.patriotnewsdaily.com/*
 
-Philadelphia Jewish Exponent (USA)
+# Philadelphia Jewish Exponent (USA)
 *://*.jewishexponent.com/*
 
-Pluralist (USA)
+# Pluralist (USA)
 *://*.pluralist.com/*
 
-Politcalite UK (UK)
+# Politcalite UK (UK)
 *://*.politicalite.com/*
 
-Politichicks (USA)
+# Politichicks (USA)
 *://*.politichicks.com/*
 
-Power Line (USA)
+# Power Line (USA)
 *://*.powerlineblog.com/*
 
 # Press TV (Iran)
 *://*.presstv.ir/*
 
-Project 2025 (USA)
+# Project 2025 (USA)
 *://*.project2025.org/*
 
-Public Interest Legal Foundation (USA)
+# Public Interest Legal Foundation (USA)
 *://*.publicinterestlegal.org/*
 
-Quadrant Magazine (Australia)
+# Quadrant Magazine (Australia)
 *://*.quadrant.org.au/*
 
-Reader’s Digest (USA)
+# Reader’s Digest (USA)
 *://*.rd.com/*
 
-Real America’s Voice (USA)
+# Real America’s Voice (USA)
 *://*.americasvoice.news/*
 
-Reclaim The Net (Unknown)
+# Reclaim The Net (Unknown)
 *://*.reclaimthenet.org/*
 
-RedState (USA)
+# RedState (USA)
 *://*.redstate.com/*
 
-Regated (USA)
+# Regated (USA)
 *://*.regated.com/*
 
-Rhino Times (USA)
+# Rhino Times (USA)
 *://*.rhinotimes.com/*
 
-Ricochet (USA)
+# Ricochet (USA)
 *://*.ricochet.com/*
 
-Ron Paul Liberty Report (USA)
+# Ron Paul Liberty Report (USA)
 *://*.ronpaullibertyreport.com/*
 
-Rare News (USA)
+# Rare News (USA)
 *://*.rare.us/*
 
-Sabah (Turkey)
+# Sabah (Turkey)
 *://*.sabah.com.tr/*
 
-Save Jersey (USA)
+# Save Jersey (USA)
 *://*.savejersey.com/*
 
-Sentinel KSMO (USA)
+# Sentinel KSMO (USA)
 *://*.sentinelksmo.org/*
 
-Shore News Network (USA)
+# Shore News Network (USA)
 *://*.shorenewsnetwork.com/*
 
-Sinclair Broadcast Group (USA)
+# Sinclair Broadcast Group (USA)
 *://*.sbgi.net/*
 
-Sky News Australia (Australia)
+# Sky News Australia (Australia)
 *://*.skynews.com.au/*
 
-Sonoran News (USA)
+# Sonoran News (USA)
 *://*.sonorannews.com/*
 
-Sons of 1776 (USA)
+# Sons of 1776 (USA)
 *://*.sonsof1776.com/*
 
-Spiked Magazine (UK)
+# Spiked Magazine (UK)
 *://*.spiked-online.com/*
 
 # Sputnik News (Russia)
 *://*.sputnikglobe.com/*
 
-Talk TV (UK)
+# Talk TV (UK)
 *://*.talk.tv/*
 
-Tampa Free Press (USA)
+# Tampa Free Press (USA)
 *://*.tampafp.com/*
 
-Tatum Report (USA)
+# Tatum Report (USA)
 *://*.tatumreport.com/*
 
-Tenth Amendment Center (USA)
+# Tenth Amendment Center (USA)
 *://*.tenthamendmentcenter.com/*
 
-TFPP Wire (USA)
+# TFPP Wire (USA)
 *://*.tfppwire.com/*
 
-The Advertiser (Australia)
+# The Advertiser (Australia)
 *://*.adelaidenow.com.au/*
 
-The America First Policy Institute (USA)
+# The America First Policy Institute (USA)
 *://*.americafirstpolicy.com/*
 
-The American Cause (USA)
+# The American Cause (USA)
 *://*.theamericancause.org/*
 
-The American Mind (USA)
+# The American Mind (USA)
 *://*.americanmind.org/*
 
-The College Fix (USA)
+# The College Fix (USA)
 *://*.thecollegefix.com/*
 
-The Conservative Woman (UK)
+# The Conservative Woman (UK)
 *://*.conservativewoman.co.uk/*
 
-The Daily Telegraph (Australia)
+# The Daily Telegraph (Australia)
 *://*.dailytelegraph.com.au/*
 
-The Daily Wire (USA)
+# The Daily Wire (USA)
 *://*.dailywire.com/*
 
-The First TV (USA)
+# The First TV (USA)
 *://*.thefirsttv.com/*
 
-TheGreggJarrett.com (USA)
+# TheGreggJarrett.com (USA)
 *://*.thegreggjarrett.com/*
 
-The Honest Patriot (USA)
+# The Honest Patriot (USA)
 *://*.thehonestpatriot.net/*
 
-TheLeoTerrell.com (USA)
+# TheLeoTerrell.com (USA)
 *://*.theleoterrell.com/*
 
-The Library of Economics and Liberty (USA)
+# The Library of Economics and Liberty (USA)
 *://*.econlib.org/*
 
-The National Herald (USA)
+# The National Herald (USA)
 *://*.thenationalherald.com/*
 
-The New American (USA)
+# The New American (USA)
 *://*.thenewamerican.com/*
 
-The New Revere (USA)
+# The New Revere (USA)
 *://*.thenewrevere.com/*
 *://*.adracinnovations.com/*
 
-The Patriot Post (USA)
+# The Patriot Post (USA)
 *://*.patriotpost.us/*
 
-The Postil Magazine (USA)
+# The Postil Magazine (USA)
 *://*.thepostil.com/*
 
-The Post Millennial (Canada)
+# The Post Millennial (Canada)
 *://*.thepostmillennial.com/*
 
-The Star (Malaysia)
+# The Star (Malaysia)
 *://*.thestar.com.my/*
 
-The Sun UK (UK)
+# The Sun UK (UK)
 *://*.thesun.co.uk/*
 
-The Texan (USA)
+# The Texan (USA)
 *://*.thetexan.news/*
 
-The Truth About Guns (USA)
+# The Truth About Guns (USA)
 *://*.thetruthaboutguns.com/*
 
-The US Sun (USA)
+# The US Sun (USA)
 *://*.the-sun.com/*
 
-TimCast (USA)
+# TimCast (USA)
 *://*.timcast.com/*
 
-Time Now News (India)
+# Time Now News (India)
 *://*.timesnownews.com/*
 
-TIPP Insights (USA)
+# TIPP Insights (USA)
 *://*.tippinsights.com/*
 
-Toronto Sun (Canada)
+# Toronto Sun (Canada)
 *://*.torontosun.com/*
 
-My Daily Freedom (USA)
+# My Daily Freedom (USA)
 *://*.mydailyfreedom.com/*
 
-True North Centre for Public Policy (Canada)
+# True North Centre for Public Policy (Canada)
 *://*.tnc.news/*
 
-TRT World (Turkey)
+# TRT World (Turkey)
 *://*.trtworld.com/*
 
-TVP Info (Poland)
+# TVP Info (Poland)
 *://*.tvp.info/*
 
-Twitchy (USA)
+# Twitchy (USA)
 *://*.twitchy.com/*
 
-UN Watch (Switzerland)
+# UN Watch (Switzerland)
 *://*.unwatch.org/*
 
-Valiant News (USA)
+# Valiant News (USA)
 *://*.valiantnews.com/*
 
-Valuetainment (USA)
+# Valuetainment (USA)
 *://*.valuetainment.com/*
 
-WAAV (USA)
+# WAAV (USA)
 *://*.980waav.com/*
 
-WABC Radio (USA)
+# WABC Radio (USA)
 *://*.wabcradio.com/*
 
-Washington Examiner (USA)
+# Washington Examiner (USA)
 *://*.washingtonexaminer.com/*
 
-Washington Free Beacon (USA)
+# Washington Free Beacon (USA)
 *://*.freebeacon.com/*
 
-Watchdog Report (USA)
+# Watchdog Report (USA)
 *://*.watchdogreport.org/*
 
-WBAP (USA)
+# WBAP (USA)
 *://*.wbap.com/*
 
-WCOA (USA)
+# WCOA (USA)
 *://*.wcoapensacola.com/*
 
-Weasel Zippers (USA)
+# Weasel Zippers (USA)
 *://*.weaselzippers.us/*
 
-Western Standard (Canada)
+# Western Standard (Canada)
 *://*.westernstandard.news/*
 
-WFNC (USA)
+# WFNC (USA)
 *://*.wfnc640am.com/*
 
-WFTW (USA)
+# WFTW (USA)
 *://*.wftw.com/*
 
-WGOW (USA)
+# WGOW (USA)
 *://*.wgowam.com/*
 
-WHLD (USA)
+# WHLD (USA)
 *://*.talk1270.com/*
 
-WikiIslam (USA)
+# WikiIslam (USA)
 *://*.wikiislam.net/*
 
-WinRed (USA)
+# WinRed (USA)
 *://*.winred.com/*
 
-WJCW (USA)
+# WJCW (USA)
 *://*.wjcw.com/*
 
-WKIM (USA)
+# WKIM (USA)
 *://*.newstalk989.com/*
 
-WLS (USA)
+# WLS (USA)
 *://*.wlsam.com/*
 
-WLWI (USA)
+# WLWI (USA)
 *://*.newsradio1440.com/*
 
-WMAC (USA)
+# WMAC (USA)
 *://*.wmac-am.com/*
 
-WMAL (USA)
+# WMAL (USA)
 *://*.wmal.com/*
 
-WOKI (USA)
+# WOKI (USA)
 *://*.newstalk987.com/*
 
-World Israel News (Israel)
+# World Israel News (Israel)
 *://*.worldisraelnews.com/*
 
-World Magazine (USA)
+# World Magazine (USA)
 *://*.world.wng.org/*
 
-WOSH (USA)
+# WOSH (USA)
 *://*.1490wosh.com/*
 
-WPIC (USA)
+# WPIC (USA)
 *://*.790wpic.com/*
 
-WRQX (USA)
+# WRQX (USA)
 *://*.600wrqx.com/*
 
-WTMA (USA)
+# WTMA (USA)
 *://*.wtma.com/*
 
-KTUC (USA)
+# KTUC (USA)
 *://*.freedom1400.com/*
 
-WVLK (USA)
+# WVLK (USA)
 *://*.wvlkam.com/*
 
-WVNN (USA)
+# WVNN (USA)
 *://*.wvnn.com/*
 
-WWTN (USA)
+# WWTN (USA)
 *://*.997wtn.com/*
 
-WXLM (USA)
+# WXLM (USA)
 *://*.980wxlm.com/*
 
-WXQW (USA)
+# WXQW (USA)
 *://*.660wxqw.com/*
 
-YellowHammer News (USA)
+# YellowHammer News (USA)
 *://*.yellowhammernews.com/*
 
-Young America’s Foundation (USA)
+# Young America’s Foundation (USA)
 *://*.yaf.org/*
 
