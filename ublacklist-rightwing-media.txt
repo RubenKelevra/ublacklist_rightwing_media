@@ -3011,3 +3011,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Windsor Star (Canada)
 *://*.windsorstar.com/*
 
+# Winnipeg Sun (Canada)
+*://*.winnipegsun.com/*
+
