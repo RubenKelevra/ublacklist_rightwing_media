@@ -2756,3 +2756,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Sumter Item (USA)
 *://*.theitem.com/*
 
+# The Times Herald (USA)
+*://*.thetimesherald.com/*
+
