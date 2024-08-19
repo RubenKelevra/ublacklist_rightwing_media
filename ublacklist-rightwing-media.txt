@@ -3143,3 +3143,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WXLV (USA)
 *://*.wcyb.com/*
 
+# WZTV (USA)
+*://*.fox17.com/*
+
