@@ -1668,3 +1668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grey Bruce This Week (Canada)
 *://*.greybrucethisweek.ca/*
 
+# Griffin Daily News (USA)
+*://*.griffindailynews.com/*
+
