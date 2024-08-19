@@ -2570,3 +2570,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Thomas Times-Journal (Canada)
 *://*.stthomastimesjournal.com/*
 
+# Stanford Interior Journal (USA)
+*://*.theinteriorjournal.com/*
+
