@@ -1632,3 +1632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Goderich Signal-Star (Canada)
 *://*.goderichsignalstar.com/*
 
+# GodUpdates (USA)
+*://*.godupdates.com/*
+
