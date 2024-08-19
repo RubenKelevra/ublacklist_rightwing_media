@@ -2606,3 +2606,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Algemeiner Journal (USA)
 *://*.algemeiner.com/*
 
+# The American Conservative (USA)
+*://*.theamericanconservative.com/*
+
