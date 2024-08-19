@@ -1528,3 +1528,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FDD’s Long War Journal (USA)
 *://*.longwarjournal.org/*
 
+# Financial Express (India)
+*://*.financialexpress.com/*
+
