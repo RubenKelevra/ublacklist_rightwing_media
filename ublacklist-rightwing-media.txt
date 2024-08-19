@@ -1323,3 +1323,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cochrane Times-Post (Canada)
 *://*.cochranetimespost.ca/*
 
+# co/efficient (USA)
+*://*.coefficient.org/*
+
