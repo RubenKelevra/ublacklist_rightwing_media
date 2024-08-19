@@ -1281,3 +1281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Chatham Daily News (Canada)
 *://*.chathamdailynews.ca/*
 
+# Chatham-Kent This Week (Canada)
+*://*.chathamthisweek.com/*
+
