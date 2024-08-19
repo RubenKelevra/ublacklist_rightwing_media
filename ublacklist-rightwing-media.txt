@@ -1011,3 +1011,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # AL.com (USA)
 *://*.al.com/*
 
+# Alabama Today (USA)
+*://*.altoday.com/*
+
