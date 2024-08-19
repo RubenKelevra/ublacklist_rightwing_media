@@ -2457,3 +2457,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Richmond Times-Dispatch (USA)
 *://*.richmond.com/*
 
+# Roanoke Rapids Daily Herald (USA)
+*://*.rrdailyherald.com/*
+
