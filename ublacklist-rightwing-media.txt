@@ -3038,3 +3038,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WLOS (USA)
 *://*.wlos.com/*
 
+# WLUK Fox 11 (USA)
+*://*.fox11online.com/*
+
