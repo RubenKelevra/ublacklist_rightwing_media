@@ -1068,3 +1068,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Anchorage Press (USA)
 *://*.anchoragepress.com/*
 
+# Andalusia Star News (USA)
+*://*.andalusiastarnews.com/*
+
