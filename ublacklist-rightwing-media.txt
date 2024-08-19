@@ -1591,3 +1591,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Frankfurter Allgemeine Zeitung (Germany)
 *://*.faz.net/*
 
+# Franklin Daily Journal (USA)
+*://*.dailyjournal.net/*
+
