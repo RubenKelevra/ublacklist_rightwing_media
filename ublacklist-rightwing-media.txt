@@ -2814,3 +2814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TND (USA)
 *://*.thenationaldesk.com/*
 
+# Today Singapore (Singapore)
+*://*.todayonline.com/*
+
