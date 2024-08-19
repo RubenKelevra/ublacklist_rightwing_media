@@ -1185,3 +1185,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bowling Green Daily News (USA)
 *://*.bgdailynews.com/*
 
+# Bow Valley Crag & Canyon (Canada)
+*://*.thecragandcanyon.ca/*
+
