@@ -2717,3 +2717,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Post-Journal (USA)
 *://*.post-journal.com/*
 
+# The Press-Enterprise (USA)
+*://*.pe.com/*
+
