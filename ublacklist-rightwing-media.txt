@@ -2841,3 +2841,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TRT Afrika (Turkey)
 *://*.trtafrika.com/*
 
+# Truro Daily News (Canada)
+*://*.saltwire.com/*
+
