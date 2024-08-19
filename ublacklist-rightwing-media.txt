@@ -2759,3 +2759,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Times Herald (USA)
 *://*.thetimesherald.com/*
 
+# Times of India (India)
+*://*.timesofindia.indiatimes.com/*
+
