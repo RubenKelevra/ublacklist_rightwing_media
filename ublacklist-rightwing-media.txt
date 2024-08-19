@@ -1140,3 +1140,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Being Libertarian (USA)
 *://*.beinglibertarian.com/*
 
+# Belleville Community Press (Canada)
+*://*.communitypress.ca/*
+
