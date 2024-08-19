@@ -1707,3 +1707,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hi-Desert Star (USA)
 *://*.hidesertstar.com/*
 
+# High Point Enterprise (USA)
+*://*.hpenews.com/*
+
