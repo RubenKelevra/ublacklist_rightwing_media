@@ -3158,3 +3158,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yonhap News Agency (South Korea)
 *://*.en.yna.co.kr/*
 
+# Yucatan Times (Mexico)
+*://*.theyucatantimes.com/*
+
