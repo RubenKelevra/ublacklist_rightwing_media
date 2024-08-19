@@ -1443,3 +1443,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dowagiac Daily News (USA)
 *://*.leaderpub.com/*
 
+# Downsizing the Federal Government (USA)
+*://*.downsizinggovernment.org/*
+
