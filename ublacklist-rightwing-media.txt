@@ -1122,3 +1122,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Baptist Standard (USA)
 *://*.baptiststandard.com/*
 
+# Barron’s (USA)
+*://*.barrons.com/*
+
