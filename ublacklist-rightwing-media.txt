@@ -2972,3 +2972,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WGTU (USA)
 *://*.upnorthlive.com/*
 
+# WGXA News (USA)
+*://*.wgxa.tv/*
+
