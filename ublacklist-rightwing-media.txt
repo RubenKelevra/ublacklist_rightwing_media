@@ -1518,3 +1518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fairview Post (Canada)
 *://*.fairviewpost.com/*
 
+# Faith Family America (USA)
+*://*.faithfamilyamerica.com/*
+
