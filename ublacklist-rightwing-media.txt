@@ -1200,3 +1200,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Breakthrough Institute (USA)
 *://*.thebreakthrough.org/*
 
+# Brewton Standard (USA)
+*://*.brewtonstandard.com/*
+
