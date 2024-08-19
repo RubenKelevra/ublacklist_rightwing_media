@@ -1044,3 +1044,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Affairs Journal (USA)
 *://*.americanaffairsjournal.org/*
 
+# American Council on Science and Health (USA)
+*://*.acsh.org/*
+
