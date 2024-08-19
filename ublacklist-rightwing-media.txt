@@ -2899,3 +2899,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.wabashplaindealer.com/*
 *://*.plaindealerin.com/*
 
+# WACH (USA)
+*://*.wach.com/*
+
