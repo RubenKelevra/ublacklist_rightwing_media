@@ -2530,3 +2530,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Shelbyville News (USA)
 *://*.shelbynews.com/*
 
+# Sherwood Park News (Canada)
+*://*.sherwoodparknews.com/*
+
