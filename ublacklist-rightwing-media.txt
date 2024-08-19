@@ -2003,3 +2003,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lake Charles American Press (USA)
 *://*.americanpress.com/*
 
+# La Nacion (Costa Rica)
+*://*.nacion.com/*
+
