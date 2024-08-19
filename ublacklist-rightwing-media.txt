@@ -1482,3 +1482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Edwardsburg Argus (USA)
 *://*.leaderpub.com/*
 
+# El Financiero (Mexico)
+*://*.elfinanciero.com.mx/*
+
