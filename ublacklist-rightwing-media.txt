@@ -1907,3 +1907,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KHQA (USA)
 *://*.khqa.com/*
 
+# KIMA (USA)
+*://*.kimatv.com/*
+
