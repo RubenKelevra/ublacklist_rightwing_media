@@ -1674,3 +1674,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Guns.com (USA)
 *://*.guns.com/*
 
+# Halifax Chronicle Herald (Canada)
+*://*.saltwire.com/*
+
