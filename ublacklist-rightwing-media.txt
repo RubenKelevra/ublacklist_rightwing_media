@@ -2237,3 +2237,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Observer (USA)
 *://*.observer.com/*
 
+# New York Post (USA)
+*://*.nypost.com/*
+
