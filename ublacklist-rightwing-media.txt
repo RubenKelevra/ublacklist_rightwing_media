@@ -1832,3 +1832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Just Facts Daily (USA)
 *://*.justfactsdaily.com/*
 
+# Jyllands-Posten (Denmark)
+*://*.jyllands-posten.dk/*
+
