@@ -1107,3 +1107,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Atlantic Council (USA)
 *://*.atlanticcouncil.org/*
 
+# Atmore Advance (USA)
+*://*.atmoreadvance.com/*
+
