@@ -1008,3 +1008,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Airdrie Echo (Canada)
 *://*.airdrieecho.com/*
 
+# AL.com (USA)
+*://*.al.com/*
+
