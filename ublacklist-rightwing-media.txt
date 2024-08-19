@@ -1431,3 +1431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Devon Dispatch (Canada)
 *://*.devondispatch.ca/*
 
+# Die Presse (Austria)
+*://*.diepresse.com/*
+
