@@ -2892,3 +2892,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vincennes Sun-Commercial (USA)
 *://*.suncommercial.com/*
 
+# Vulcan Advocate (Canada)
+*://*.vulcanadvocate.com/*
+
