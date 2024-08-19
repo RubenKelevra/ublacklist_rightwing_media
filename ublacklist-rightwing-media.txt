@@ -1494,3 +1494,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # El Mundo (Spain)
 *://*.elmundo.es/*
 
+# El Universo (Ecuador)
+*://*.eluniverso.com/*
+
