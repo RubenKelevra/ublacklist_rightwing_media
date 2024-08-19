@@ -993,3 +993,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 9 News (Australia)
 *://*.9news.com.au/*
 
+# 1945 (USA)
+*://*.19fortyfive.com/*
+
