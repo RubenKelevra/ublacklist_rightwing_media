@@ -1176,3 +1176,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bogalusa Daily News (USA)
 *://*.bogalusadailynews.com/*
 
+# BoomLive (India)
+*://*.boomlive.in/*
+
