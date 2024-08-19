@@ -1062,3 +1062,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Americas Quarterly (USA)
 *://*.americasquarterly.org/*
 
+# Americus Times-Recorder (USA)
+*://*.americustimesrecorder.com/*
+
