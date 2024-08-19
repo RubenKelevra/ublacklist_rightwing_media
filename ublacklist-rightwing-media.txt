@@ -1461,3 +1461,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Eclectic Observer (USA)
 *://*.thewetumpkaherald.com/*
 
+# Ecuavisa (Ecuador)
+*://*.ecuavisa.com/*
+
