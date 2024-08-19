@@ -2781,3 +2781,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Yomiuri Shimbun (Japan)
 *://*.yomiuri.co.jp/*
 
+# This Day Live (Nigeria)
+*://*.thisdaylive.com/*
+
