@@ -2364,3 +2364,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.perutribune.com/*
 *://*.plaindealerin.com/*
 
+# Pincher Creek Echo (Canada)
+*://*.pinchercreekecho.com/*
+
