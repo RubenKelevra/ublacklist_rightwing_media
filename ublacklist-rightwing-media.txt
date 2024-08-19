@@ -2309,3 +2309,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Omaha World-Herald (USA)
 *://*.omaha.com/*
 
+# Open Doors (USA)
+*://*.opendoorsus.org/*
+
