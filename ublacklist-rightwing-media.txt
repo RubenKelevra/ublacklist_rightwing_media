@@ -2144,3 +2144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Media Entertainment Arts WorldWide (India)
 *://*.meaww.com/*
 
+# Melfort Journal (Canada)
+*://*.melfortjournal.com/*
+
