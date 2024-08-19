@@ -2240,3 +2240,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New York Post (USA)
 *://*.nypost.com/*
 
+# News.com.au (Australia)
+*://*.news.com.au/*
+
