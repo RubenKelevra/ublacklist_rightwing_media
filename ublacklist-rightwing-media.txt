@@ -3059,3 +3059,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Worthington Globe (USA)
 *://*.dglobe.com/*
 
+# WPDE (USA)
+*://*.wpde.com/*
+
