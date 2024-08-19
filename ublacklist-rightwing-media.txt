@@ -2600,3 +2600,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tax Foundation (USA)
 *://*.taxfoundation.org/*
 
+# Tharawat Magazine (United Arab Emirates)
+*://*.tharawat-magazine.com/*
+
