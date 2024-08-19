@@ -1104,3 +1104,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Atchison Daily Globe (USA)
 *://*.atchisonglobenow.com/*
 
+# Atlantic Council (USA)
+*://*.atlanticcouncil.org/*
+
