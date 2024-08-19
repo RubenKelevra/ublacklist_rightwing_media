@@ -1582,3 +1582,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Foxillinois.com (WRSP (USA)
 *://*.foxillinois.com/*
 
+# Frankfort State Journal (USA)
+*://*.state-journal.com/*
+
