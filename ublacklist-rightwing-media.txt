@@ -1017,3 +1017,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alabaster Reporter (USA)
 *://*.shelbycountyreporter.com/*
 
+# Albany Herald (USA)
+*://*.albanyherald.com/*
+
