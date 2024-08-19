@@ -1680,3 +1680,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hammond Daily Star (USA)
 *://*.hammondstar.com/*
 
+# Hanna Herald (Canada)
+*://*.hannaherald.com/*
+
