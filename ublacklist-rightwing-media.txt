@@ -2400,3 +2400,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Prince George Post (Canada)
 *://*.princegeorgepost.com/*
 
+# Princeton Daily Clarion (USA)
+*://*.pdclarion.com/*
+
