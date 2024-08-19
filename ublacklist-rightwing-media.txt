@@ -1029,3 +1029,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Aleteia (France)
 *://*.aleteia.org/*
 
+# Alexander City Outlook (USA)
+*://*.alexcityoutlook.com/*
+
