@@ -2555,3 +2555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Springfield Sun (USA)
 *://*.pmg-ky2.com/*
 
+# Spruce Grove Examiner (Canada)
+*://*.sprucegroveexaminer.com/*
+
