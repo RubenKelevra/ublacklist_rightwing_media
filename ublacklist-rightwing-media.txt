@@ -2339,3 +2339,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Paragould Daily Press (USA)
 *://*.paragoulddailypress.com/*
 
+# Paris Star (Canada)
+*://*.parisstaronline.com/*
+
