@@ -1732,3 +1732,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.h-ponline.com/*
 *://*.plaindealerin.com/*
 
+# Huntsville Times (USA)
+*://*.al.com/*
+
