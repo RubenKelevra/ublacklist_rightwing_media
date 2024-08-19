@@ -2297,3 +2297,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Observador (Portugal)
 *://*.observador.pt/*
 
+# O Canada / Canada.com (Canada)
+*://*.o.canada.com/*
+
