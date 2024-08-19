@@ -1035,3 +1035,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alexandria Echo Press (USA)
 *://*.echopress.com/*
 
+# American Action Forum (USA)
+*://*.americanactionforum.org/*
+
