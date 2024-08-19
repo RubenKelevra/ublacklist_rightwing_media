@@ -1257,3 +1257,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Capitalism Magazine (USA)
 *://*.capitalismmagazine.com/*
 
+# Cassopolis Vigilant (USA)
+*://*.leaderpub.com/*
+
