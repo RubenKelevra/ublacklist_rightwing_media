@@ -2168,3 +2168,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mid-North Monitor (Canada)
 *://*.midnorthmonitor.com/*
 
+# Miramichi Leader (Canada)
+*://*.tj.news/*
+
