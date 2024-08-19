@@ -1356,3 +1356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Corydon Democrat (USA)
 *://*.madisoncourier.com/*
 
+# Counter Extremism Project (USA)
+*://*.counterextremism.com/*
+
