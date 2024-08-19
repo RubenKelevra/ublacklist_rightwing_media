@@ -1973,3 +1973,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KSCC (USA)
 *://*.fox38corpuschristi.com/*
 
+# KSNV (USA)
+*://*.news3lv.com/*
+
