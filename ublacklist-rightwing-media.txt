@@ -2690,3 +2690,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Londoner (Canada)
 *://*.thelondoner.ca/*
 
+# The Nation Pakistan (Pakistan)
+*://*.nation.com.pk/*
+
