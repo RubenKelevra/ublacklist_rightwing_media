@@ -1802,3 +1802,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Jerusalem Post (Israel)
 *://*.jpost.com/*
 
+# Jessamine Journal (USA)
+*://*.jessaminejournal.com/*
+
