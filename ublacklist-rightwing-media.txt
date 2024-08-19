@@ -2880,3 +2880,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vatican Radio/News (Italy (Vatican City))
 *://*.vaticannews.va/*
 
+# Vermilion Standard (Canada)
+*://*.vermilionstandard.com/*
+
