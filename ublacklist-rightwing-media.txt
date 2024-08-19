@@ -1314,3 +1314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clinton News-Record (Canada)
 *://*.clintonnewsrecord.com/*
 
+# Clout Research (USA)
+*://*.cloutpolitical.com/*
+
