@@ -1254,3 +1254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Capital Magazine (France)
 *://*.capital.fr/*
 
+# Capitalism Magazine (USA)
+*://*.capitalismmagazine.com/*
+
