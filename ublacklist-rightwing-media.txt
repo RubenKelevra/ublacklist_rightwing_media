@@ -1248,3 +1248,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Canadian Taxpayers Federation (Canada)
 *://*.taxpayer.com/*
 
+# Cape Breton Post (Canada)
+*://*.saltwire.com/*
+
