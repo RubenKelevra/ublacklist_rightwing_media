@@ -2303,3 +2303,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Odessa American (USA)
 *://*.oaoa.com/*
 
+# OilPrice (UK)
+*://*.oilprice.com/*
+
