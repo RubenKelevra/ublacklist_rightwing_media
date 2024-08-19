@@ -2987,3 +2987,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wiarton Echo (Canada)
 *://*.wiartonecho.com/*
 
+# WICS (USA)
+*://*.newschannel20.com/*
+
