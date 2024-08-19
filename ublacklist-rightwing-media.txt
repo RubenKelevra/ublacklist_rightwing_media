@@ -1620,3 +1620,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Galveston County Daily News (USA)
 *://*.galvnews.com/*
 
+# Gananoque Reporter (Canada)
+*://*.gananoquereporter.com/*
+
