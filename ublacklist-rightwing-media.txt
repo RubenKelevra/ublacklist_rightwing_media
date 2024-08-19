@@ -2285,3 +2285,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Northwest Signal (USA)
 *://*.northwestsignal.net/*
 
+# Noticias R7– Bias and Credibility (Brazil)
+*://*.noticias.r7.com/*
+
