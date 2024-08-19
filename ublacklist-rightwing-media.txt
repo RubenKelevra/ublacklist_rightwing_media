@@ -2597,3 +2597,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tallassee Tribune (USA)
 *://*.tallasseetribune.com/*
 
+# Tax Foundation (USA)
+*://*.taxfoundation.org/*
+
