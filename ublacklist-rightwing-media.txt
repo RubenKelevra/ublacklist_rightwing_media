@@ -2409,3 +2409,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Public Square Magazine (USA)
 *://*.publicsquaremag.org/*
 
+# Punjabi Tribune (India)
+*://*.punjabitribuneonline.com/*
+
