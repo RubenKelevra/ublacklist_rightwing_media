@@ -2935,3 +2935,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WCTI (USA)
 *://*.wcti12.com/*
 
+# WCYB (USA)
+*://*.wcyb.com/*
+
