@@ -3014,3 +3014,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Winnipeg Sun (Canada)
 *://*.winnipegsun.com/*
 
+# WJAC NBC 6 (USA)
+*://*.wjactv.com/*
+
