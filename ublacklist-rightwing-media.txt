@@ -1302,3 +1302,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clanton Advertiser (USA)
 *://*.clantonadvertiser.com/*
 
+# Clarin (Argentina)
+*://*.clarin.com/*
+
