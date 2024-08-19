@@ -2351,3 +2351,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Peace Country Sun (Canada)
 *://*.peacecountrysun.com/*
 
+# Peace River Record-Gazette (Canada)
+*://*.prrecordgazette.com/*
+
