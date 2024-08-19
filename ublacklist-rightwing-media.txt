@@ -2488,3 +2488,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sanford Herald (USA)
 *://*.sanfordherald.com/*
 
+# Sarnia Observer (Canada)
+*://*.theobserver.ca/*
+
