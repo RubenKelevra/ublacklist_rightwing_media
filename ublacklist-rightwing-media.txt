@@ -2796,3 +2796,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Times-News (USA)
 *://*.tnonline.com/*
 
+# Times of South Africa (South Africa)
+*://*.timeslive.co.za/*
+
