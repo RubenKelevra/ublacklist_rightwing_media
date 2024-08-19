@@ -1771,3 +1771,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # InsideSources (USA)
 *://*.insidesources.com/*
 
+# Institute for Humane Studies (USA)
+*://*.theihs.org/*
+
