@@ -1644,3 +1644,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grand Forks Herald (USA)
 *://*.grandforksherald.com/*
 
+# Grand Haven Tribune (USA)
+*://*.grandhaventribune.com/*
+
