@@ -1266,3 +1266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CCN.com (Norway)
 *://*.ccn.com/*
 
+# Center for European Policy Analysis (USA)
+*://*.cepa.org/*
+
