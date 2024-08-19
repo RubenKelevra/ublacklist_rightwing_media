@@ -1050,3 +1050,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Firearms Institute (USA)
 *://*.americanfirearms.org/*
 
+# American Institute for Economic Research (USA)
+*://*.aier.org/*
+
