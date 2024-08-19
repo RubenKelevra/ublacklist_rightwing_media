@@ -2753,3 +2753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TheStreet (USA)
 *://*.thestreet.com/*
 
+# The Sumter Item (USA)
+*://*.theitem.com/*
+
