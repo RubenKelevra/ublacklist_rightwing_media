@@ -2561,3 +2561,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. John’s Telegram (Canada)
 *://*.saltwire.com/*
 
+# St. Joseph Herald-Palladium (USA)
+*://*.heraldpalladium.com/*
+
