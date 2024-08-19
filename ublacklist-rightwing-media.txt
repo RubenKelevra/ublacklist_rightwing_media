@@ -2279,3 +2279,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Bay Nugget (Canada)
 *://*.nugget.ca/*
 
+# Northwest Arkansas Democrat-Gazette (USA)
+*://*.nwaonline.com/*
+
