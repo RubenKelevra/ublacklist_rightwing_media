@@ -2823,3 +2823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # To Vima (Greece)
 *://*.tovima.gr/*
 
+# Transparent California (USA)
+*://*.transparentcalifornia.com/*
+
