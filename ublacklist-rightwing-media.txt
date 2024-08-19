@@ -1617,3 +1617,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.mydailytribune.com/*
 *://*.rivercitiesnews.com/*
 
+# Galveston County Daily News (USA)
+*://*.galvnews.com/*
+
