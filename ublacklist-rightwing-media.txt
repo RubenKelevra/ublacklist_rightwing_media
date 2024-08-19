@@ -2708,3 +2708,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Objective Standard (USA)
 *://*.theobjectivestandard.com/*
 
+# The Oklahoman (USA)
+*://*.oklahoman.com/*
+
