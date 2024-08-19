@@ -2027,3 +2027,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Learn Liberty (USA)
 *://*.learnliberty.org/*
 
+# Lebanon Democrat (USA)
+*://*.lebanondemocrat.com/*
+
