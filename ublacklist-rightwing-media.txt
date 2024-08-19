@@ -3104,3 +3104,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WSYX (USA)
 *://*.kpic.com/*
 
+# WTGS (USA)
+*://*.fox28media.com/*
+*://*.fox28savannah.com/*
+
