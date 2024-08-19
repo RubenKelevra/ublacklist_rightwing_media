@@ -2978,3 +2978,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WHAM (USA)
 *://*.13wham.com/*
 
+# Whitecourt Star (Canada)
+*://*.whitecourtstar.com/*
+
