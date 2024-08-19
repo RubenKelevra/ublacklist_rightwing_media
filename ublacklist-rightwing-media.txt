@@ -2009,3 +2009,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # La Nacion (Argentina)
 *://*.lanacion.com.ar/*
 
+# Lanett Valley Times-News (USA)
+*://*.valleytimes-news.com/*
+
