@@ -1278,3 +1278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Charlottetown Guardian (Canada)
 *://*.saltwire.com/*
 
+# Chatham Daily News (Canada)
+*://*.chathamdailynews.ca/*
+
