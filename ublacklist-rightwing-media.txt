@@ -1038,3 +1038,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Action Forum (USA)
 *://*.americanactionforum.org/*
 
+# American Action Network (USA)
+*://*.americanactionnetwork.org/*
+
