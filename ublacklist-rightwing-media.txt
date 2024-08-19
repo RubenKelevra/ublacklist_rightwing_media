@@ -2081,3 +2081,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lowndes Signal (USA)
 *://*.lowndessignal.com/*
 
+# Lowy Institute (Australia)
+*://*.lowyinstitute.org/*
+
