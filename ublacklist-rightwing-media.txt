@@ -1576,3 +1576,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Foundation for Economic Education (USA)
 *://*.fee.org/*
 
+# Fox Business (USA)
+*://*.foxbusiness.com/*
+
