@@ -2060,3 +2060,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Liberty Courier-Tribune (USA)
 *://*.mycouriertribune.com/*
 
+# ListVerse (UK)
+*://*.listverse.com/*
+
