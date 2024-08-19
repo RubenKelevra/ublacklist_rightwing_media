@@ -2868,3 +2868,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ValueWalk (USA)
 *://*.valuewalk.com/*
 
+# Van Buren County Democrat (USA)
+*://*.thecabin.net/*
+
