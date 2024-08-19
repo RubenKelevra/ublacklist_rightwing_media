@@ -1919,3 +1919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kingston This Week (Canada)
 *://*.kingstonthisweek.com/*
 
+# Kinston Free Press (USA)
+*://*.kinston.com/*
+
