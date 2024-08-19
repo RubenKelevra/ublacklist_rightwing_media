@@ -1665,3 +1665,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Greenville Daily Advocate (USA)
 *://*.dailyadvocate.com/*
 
+# Grey Bruce This Week (Canada)
+*://*.greybrucethisweek.ca/*
+
