@@ -1101,3 +1101,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Asian News International (India)
 *://*.aninews.in/*
 
+# Atchison Daily Globe (USA)
+*://*.atchisonglobenow.com/*
+
