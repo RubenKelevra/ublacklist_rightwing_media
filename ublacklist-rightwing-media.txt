@@ -2787,3 +2787,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # This Is Money (UK)
 *://*.thisismoney.co.uk/*
 
+# Thomasville Times (USA)
+*://*.hpenews.com/*
+
