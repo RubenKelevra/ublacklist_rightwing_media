@@ -1925,3 +1925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kirkland Lake Northern News (Canada)
 *://*.northernnews.ca/*
 
+# KLEW TV (USA)
+*://*.klewtv.com/*
+
