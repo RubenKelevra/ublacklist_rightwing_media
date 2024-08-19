@@ -1626,3 +1626,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Geopolitical Intelligence Services (Liechtenstein)
 *://*.gisreportsonline.com/*
 
+# GEO TV (Pakistan)
+*://*.geo.tv/*
+
