@@ -1290,3 +1290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Chicago Tribune (USA)
 *://*.chicagotribune.com/*
 
+# China Digital Times (USA)
+*://*.chinadigitaltimes.net/*
+
