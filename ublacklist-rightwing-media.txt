@@ -3056,3 +3056,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Woodstock Sentinel-Review (Canada)
 *://*.woodstocksentinelreview.com/*
 
+# Worthington Globe (USA)
+*://*.dglobe.com/*
+
