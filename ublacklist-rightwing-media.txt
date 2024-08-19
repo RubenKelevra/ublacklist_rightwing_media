@@ -1359,3 +1359,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Counter Extremism Project (USA)
 *://*.counterextremism.com/*
 
+# Critical Threats (USA)
+*://*.criticalthreats.org/*
+
