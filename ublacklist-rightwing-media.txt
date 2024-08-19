@@ -2445,3 +2445,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Regina Leader-Post (Canada)
 *://*.leaderpost.com/*
 
+# Regulation Magazine (USA)
+*://*.cato.org/*
+
