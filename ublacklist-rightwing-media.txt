@@ -2588,3 +2588,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sudbury Star (Canada)
 *://*.thesudburystar.com/*
 
+# Tablet Magazine (USA)
+*://*.tabletmag.com/*
+
