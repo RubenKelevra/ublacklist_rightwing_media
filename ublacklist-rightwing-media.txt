@@ -1470,3 +1470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Edmonton Examiner (Canada)
 *://*.edmontonexaminer.com/*
 
+# Edmonton Journal (Canada)
+*://*.edmontonjournal.com/*
+
