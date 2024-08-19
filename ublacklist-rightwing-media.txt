@@ -1609,3 +1609,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freedom House (USA)
 *://*.freedomhouse.org/*
 
+# Fulton County Expositor (USA)
+*://*.fcnews.org/*
+*://*.northwestsignal.net/*
+
