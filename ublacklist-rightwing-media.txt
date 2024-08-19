@@ -2201,3 +2201,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mountain Democrat (USA)
 *://*.mtdemocrat.com/*
 
+# Mount Carmel Register (USA)
+*://*.hometownregister.com/*
+
