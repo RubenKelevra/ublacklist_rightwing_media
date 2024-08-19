@@ -2276,3 +2276,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Norfolk & Tillsonburg News (Canada)
 *://*.norfolkandtillsonburgnews.com/*
 
+# North Bay Nugget (Canada)
+*://*.nugget.ca/*
+
