@@ -2564,3 +2564,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Joseph Herald-Palladium (USA)
 *://*.heraldpalladium.com/*
 
+# St. Paul Pioneer Press (USA)
+*://*.twincities.com/*
+
