@@ -2503,3 +2503,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sault Ste. Marie This Week (Canada)
 *://*.saultthisweek.com/*
 
+# Savannah Morning News (USA)
+*://*.savannahnow.com/*
+
