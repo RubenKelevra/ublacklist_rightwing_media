@@ -2506,3 +2506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Savannah Morning News (USA)
 *://*.savannahnow.com/*
 
+# Scope Ratings (Germany)
+*://*.scoperatings.com/*
+
