@@ -2693,3 +2693,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Nation Pakistan (Pakistan)
 *://*.nation.com.pk/*
 
+# The New Atlantis (USA)
+*://*.thenewatlantis.com/*
+
