@@ -2033,3 +2033,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lebanon Enterprise (USA)
 *://*.pmg-ky2.com/*
 
+# Leduc Representative (Canada)
+*://*.leducrep.com/*
+
