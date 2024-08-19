@@ -1251,3 +1251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cape Breton Post (Canada)
 *://*.saltwire.com/*
 
+# Capital Magazine (France)
+*://*.capital.fr/*
+
