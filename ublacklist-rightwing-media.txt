@@ -2360,3 +2360,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pembroke Observer & News (Canada)
 *://*.pembrokeobserver.com/*
 
+# Peru Tribune (USA)
+*://*.perutribune.com/*
+*://*.plaindealerin.com/*
+
