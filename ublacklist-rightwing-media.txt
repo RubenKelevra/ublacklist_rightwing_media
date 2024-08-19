@@ -2054,3 +2054,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lexington Institute (USA)
 *://*.lexingtoninstitute.org/*
 
+# Libertarianism.org (USA)
+*://*.libertarianism.org/*
+
