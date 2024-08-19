@@ -2057,3 +2057,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Libertarianism.org (USA)
 *://*.libertarianism.org/*
 
+# Liberty Courier-Tribune (USA)
+*://*.mycouriertribune.com/*
+
