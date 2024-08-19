@@ -2702,3 +2702,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The News International (Pakistan)
 *://*.thenews.com.pk/*
 
+# The News (Canada)
+*://*.saltwire.com/*
+
