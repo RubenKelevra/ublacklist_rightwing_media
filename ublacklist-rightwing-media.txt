@@ -2651,3 +2651,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Fiscal Times (USA)
 *://*.thefiscaltimes.com/*
 
+# The Free Press (USA)
+*://*.thefp.com/*
+
