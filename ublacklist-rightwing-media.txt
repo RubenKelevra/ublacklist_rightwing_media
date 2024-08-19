@@ -2105,3 +2105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Madisonville Messenger (USA)
 *://*.the-messenger.com/*
 
+# Malay Mail (Malaysia)
+*://*.malaymail.com/*
+
