@@ -1889,3 +1889,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KEPR (USA)
 *://*.keprtv.com/*
 
+# KFDM (USA)
+*://*.kfdm.com/*
+
