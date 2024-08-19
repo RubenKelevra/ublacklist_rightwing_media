@@ -2621,3 +2621,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Bulwark (USA)
 *://*.thebulwark.com/*
 
+# The Chattanoogan (USA)
+*://*.chattanoogan.com/*
+
