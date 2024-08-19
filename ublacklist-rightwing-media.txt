@@ -3146,3 +3146,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WZTV (USA)
 *://*.fox17.com/*
 
+# Xenia Gazette (USA)
+*://*.xeniagazette.com/*
+
