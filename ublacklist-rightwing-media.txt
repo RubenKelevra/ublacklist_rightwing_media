@@ -2491,3 +2491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sarnia Observer (Canada)
 *://*.theobserver.ca/*
 
+# Sarnia This Week (Canada)
+*://*.sarniathisweek.com/*
+
