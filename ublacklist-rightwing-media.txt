@@ -1410,3 +1410,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Demopolis Times (USA)
 *://*.demopolistimes.com/*
 
+# Denver Gazette (USA)
+*://*.denvergazette.com/*
+
