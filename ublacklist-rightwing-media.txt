@@ -2744,3 +2744,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Spokesman-Review (USA)
 *://*.spokesman.com/*
 
+# The Standard (Kenya)
+*://*.standardmedia.co.ke/*
+
