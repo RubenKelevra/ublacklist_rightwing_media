@@ -1350,3 +1350,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cordele Dispatch (USA)
 *://*.cordeledispatch.com/*
 
+# Cornwall Standard-Freeholder (Canada)
+*://*.standard-freeholder.com/*
+
