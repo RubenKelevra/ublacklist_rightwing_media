@@ -1164,3 +1164,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Bill of Rights Institute (USA)
 *://*.billofrightsinstitute.org/*
 
+# Bipartisan Policy Center (USA)
+*://*.bipartisanpolicy.org/*
+
