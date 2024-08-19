@@ -2923,3 +2923,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WBFF (USA)
 *://*.foxbaltimore.com/*
 
+# WBMA (USA)
+*://*.abc3340.com/*
+
