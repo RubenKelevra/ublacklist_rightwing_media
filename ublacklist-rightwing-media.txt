@@ -1026,3 +1026,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Albuquerque Journal (USA)
 *://*.abqjournal.com/*
 
+# Aleteia (France)
+*://*.aleteia.org/*
+
