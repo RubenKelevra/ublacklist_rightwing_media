@@ -1829,3 +1829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Just Facts (USA)
 *://*.justfacts.com/*
 
+# Just Facts Daily (USA)
+*://*.justfactsdaily.com/*
+
