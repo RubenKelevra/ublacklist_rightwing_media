@@ -3002,3 +3002,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Willoughby News-Herald (USA)
 *://*.news-herald.com/*
 
+# Wilmington News Journal (USA)
+*://*.wnewsj.com/*
+
