@@ -1555,3 +1555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Forest City Daily Courier (USA)
 *://*.thedigitalcourier.com/*
 
+# Fort Bend Herald (USA)
+*://*.fbherald.com/*
+
