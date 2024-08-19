@@ -2216,3 +2216,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # National Interest (USA)
 *://*.nationalinterest.org/*
 
+# National Post (Canada)
+*://*.nationalpost.com/*
+
