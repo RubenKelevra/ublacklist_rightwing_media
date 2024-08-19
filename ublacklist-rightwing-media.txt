@@ -2270,3 +2270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nine.com.au (Australia)
 *://*.nine.com.au/*
 
+# NJ1015.com (USA)
+*://*.nj1015.com/*
+
