@@ -2966,3 +2966,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WGME (USA)
 *://*.wgme.com/*
 
+# WGTQ (USA)
+*://*.upnorthlive.com/*
+
