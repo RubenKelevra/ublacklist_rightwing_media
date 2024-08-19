@@ -1847,3 +1847,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kathimerini (Greece)
 *://*.kathimerini.gr/*
 
+# Khaleej Times (United Arab Emirates)
+*://*.khaleejtimes.com/*
+
