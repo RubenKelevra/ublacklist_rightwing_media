@@ -1774,3 +1774,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Institute for Humane Studies (USA)
 *://*.theihs.org/*
 
+# Interfax (Russia)
+*://*.interfax.ru/*
+
