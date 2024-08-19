@@ -1686,3 +1686,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hanover Post (Canada)
 *://*.thepost.on.ca/*
 
+# Haralson County Gateway-Beacon (USA)
+*://*.times-georgian.com/*
+
