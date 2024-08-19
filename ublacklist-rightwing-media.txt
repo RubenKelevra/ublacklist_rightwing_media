@@ -2775,3 +2775,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The West Australian (Australia)
 *://*.thewest.com.au/*
 
+# The Winchester Star (USA)
+*://*.winchesterstar.com/*
+
