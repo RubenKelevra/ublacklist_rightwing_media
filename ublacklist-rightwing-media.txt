@@ -2853,3 +2853,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ukrinform (Ukraine)
 *://*.ukrinform.net/*
 
+# Uncommon Ground Media (UK)
+*://*.uncommongroundmedia.com/*
+
