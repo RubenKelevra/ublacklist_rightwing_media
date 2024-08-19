@@ -1095,3 +1095,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Arutz Sheva (Israel)
 *://*.israelnationalnews.com/*
 
+# Asharq Al-Awsat (UK)
+*://*.aawsat.com/*
+
