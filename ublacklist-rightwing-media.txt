@@ -1540,3 +1540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # First Post (India)
 *://*.firstpost.com/*
 
+# Fitch Ratings (USA)
+*://*.fitchratings.com/*
+
