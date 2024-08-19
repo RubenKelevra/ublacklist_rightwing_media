@@ -3135,3 +3135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WUTV (USA)
 *://*.wutv29.com/*
 
+# WVAH (USA)
+*://*.wvah.com/*
+
