@@ -1476,3 +1476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Edmonton Sun (Canada)
 *://*.edmontonsun.com/*
 
+# Education Next (USA)
+*://*.educationnext.org/*
+
