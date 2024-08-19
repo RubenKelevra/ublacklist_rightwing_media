@@ -2862,3 +2862,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Upward News (USA)
 *://*.upward.news/*
 
+# Valley Journal Advertiser (Canada)
+*://*.saltwire.com/*
+
