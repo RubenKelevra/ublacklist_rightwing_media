@@ -1362,3 +1362,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Critical Threats (USA)
 *://*.criticalthreats.org/*
 
+# Dadeville Record (USA)
+*://*.alexcityoutlook.com/*
+
