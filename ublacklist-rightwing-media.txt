@@ -1224,3 +1224,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # BusinessLIVE (South Africa)
 *://*.businesslive.co.za/*
 
+# Business Standard (India)
+*://*.business-standard.com/*
+
