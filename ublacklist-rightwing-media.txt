@@ -2548,3 +2548,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Haven Tribune (USA)
 *://*.heraldpalladium.com/*
 
+# Southwest Daily News (USA)
+*://*.southwestdailynews.com/*
+*://*.americanpress.com/*
+
