@@ -1521,3 +1521,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Faith Family America (USA)
 *://*.faithfamilyamerica.com/*
 
+# Farmington Daily Times (USA)
+*://*.daily-times.com/*
+*://*.tricityrecordnm.com/*
+
