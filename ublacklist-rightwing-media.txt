@@ -2246,3 +2246,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Champaign News-Gazette (USA)
 *://*.news-gazette.com/*
 
+# Newsroom New Zealand (New Zealand)
+*://*.newsroom.co.nz/*
+
