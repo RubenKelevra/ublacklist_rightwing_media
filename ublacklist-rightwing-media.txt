@@ -2099,3 +2099,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Macon County Times (USA)
 *://*.lebanondemocrat.com/*
 
+# Madison Courier (USA)
+*://*.madisoncourier.com/*
+
