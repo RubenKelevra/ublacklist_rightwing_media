@@ -2950,3 +2950,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Elgin Chronicle (Canada)
 *://*.thechronicle-online.com/*
 
+# Wetaskiwin Times (Canada)
+*://*.wetaskiwintimes.com/*
+
