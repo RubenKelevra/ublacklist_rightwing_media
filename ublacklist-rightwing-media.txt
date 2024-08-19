@@ -2847,3 +2847,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tulsa World (USA)
 *://*.tulsaworld.com/*
 
+# Tyler Morning Telegraph (USA)
+*://*.tylerpaper.com/*
+
