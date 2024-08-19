@@ -1125,3 +1125,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Barron’s (USA)
 *://*.barrons.com/*
 
+# Batesville Daily Guard (USA)
+*://*.guardonline.com/*
+
