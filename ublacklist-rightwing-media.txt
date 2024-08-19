@@ -1341,3 +1341,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Compact Magazine (USA)
 *://*.compactmag.com/*
 
+# Committee for a Responsible Federal Budget (USA)
+*://*.crfb.org/*
+
