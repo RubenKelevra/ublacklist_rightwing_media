@@ -2636,3 +2636,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Courier-Mail (Australia)
 *://*.couriermail.com.au/*
 
+# The Dickinson Press (USA)
+*://*.thedickinsonpress.com/*
+
