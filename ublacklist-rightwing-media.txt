@@ -1215,3 +1215,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Buenos Aires Times (Argentina)
 *://*.batimes.com.ar/*
 
+# Bugle Observer (Canada)
+*://*.tj.news/*
+
