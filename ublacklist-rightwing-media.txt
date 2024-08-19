@@ -1886,3 +1886,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kentucky New Era (USA)
 *://*.kentuckynewera.com/*
 
+# KEPR (USA)
+*://*.keprtv.com/*
+
