@@ -2902,3 +2902,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WACH (USA)
 *://*.wach.com/*
 
+# Wallaceburg Courier Press (Canada)
+*://*.wallaceburgcourierpress.com/*
+
