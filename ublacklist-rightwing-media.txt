@@ -2790,3 +2790,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Thomasville Times (USA)
 *://*.hpenews.com/*
 
+# Times-Georgian (USA)
+*://*.times-georgian.com/*
+
