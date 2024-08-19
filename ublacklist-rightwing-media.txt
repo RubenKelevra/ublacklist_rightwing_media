@@ -1561,3 +1561,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fort McMurray Today (Canada)
 *://*.fortmcmurraytoday.com/*
 
+# Fort Saskatchewan Record (Canada)
+*://*.fortsaskatchewanrecord.com/*
+
