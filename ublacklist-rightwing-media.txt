@@ -1491,3 +1491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Elliot Lake Standard (Canada)
 *://*.elliotlakestandard.ca/*
 
+# El Mundo (Spain)
+*://*.elmundo.es/*
+
