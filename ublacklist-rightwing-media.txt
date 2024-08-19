@@ -2075,3 +2075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # London Free Press (Canada)
 *://*.lfpress.com/*
 
+# Los Angeles Daily News (USA)
+*://*.dailynews.com/*
+
