@@ -1212,3 +1212,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # B.T. Denmark (Denmark)
 *://*.bt.dk/*
 
+# Buenos Aires Times (Argentina)
+*://*.batimes.com.ar/*
+
