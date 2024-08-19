@@ -2729,3 +2729,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Seymour Tribune (USA)
 *://*.tribtown.com/*
 
+# The Spectator (UK)
+*://*.spectator.co.uk/*
+
