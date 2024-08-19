@@ -1868,3 +1868,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KBTV (USA)
 *://*.fox4beaumont.com/*
 
+# KBVK (USA)
+*://*.siouxlandnews.com/*
+
