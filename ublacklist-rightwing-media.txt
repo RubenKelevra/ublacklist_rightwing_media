@@ -2225,3 +2225,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Neue Zürcher Zeitung (Switzerland)
 *://*.nzz.ch/*
 
+# New Bern Sun Journal (USA)
+*://*.newbernsj.com/*
+
