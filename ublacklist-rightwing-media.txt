@@ -2990,3 +2990,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WICS (USA)
 *://*.newschannel20.com/*
 
+# Wilkes Journal-Patriot (USA)
+*://*.journalpatriot.com/*
+
