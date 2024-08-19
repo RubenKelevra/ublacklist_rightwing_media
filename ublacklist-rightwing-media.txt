@@ -1146,3 +1146,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Belleville Intelligencer (Canada)
 *://*.intelligencer.ca/*
 
+# Bellingham Metro News (USA)
+*://*.bellinghammetronews.com/*
+
