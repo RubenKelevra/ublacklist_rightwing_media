@@ -3101,3 +3101,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WSTM (USA)
 *://*.cnycentral.com/*
 
+# WSYX (USA)
+*://*.kpic.com/*
+
