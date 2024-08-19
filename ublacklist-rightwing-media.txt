@@ -1002,3 +1002,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Advocates for Self Government (USA)
 *://*.theadvocates.org/*
 
+# Ahram Online (Egypt)
+*://*.english.ahram.org.eg/*
+
