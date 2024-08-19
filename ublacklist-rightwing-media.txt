@@ -2427,3 +2427,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # RealClearMarkets (USA)
 *://*.realclearmarkets.com/*
 
+# Real Clear Policy (USA)
+*://*.realclearpolicy.com/*
+
