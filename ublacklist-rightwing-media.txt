@@ -2252,3 +2252,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newstalk ZB (New Zealand)
 *://*.newstalkzb.co.nz/*
 
+# Newsweek (USA)
+*://*.newsweek.com/*
+
