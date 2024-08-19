@@ -987,3 +987,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Young America’s Foundation (USA)
 *://*.yaf.org/*
 
+# 7News (Australia)
+*://*.7news.com.au/*
+
