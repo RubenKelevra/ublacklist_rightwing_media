@@ -2835,3 +2835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tri-County Vanguard (Canada)
 *://*.saltwire.com/*
 
+# Troy Messenger (USA)
+*://*.troymessenger.com/*
+
