@@ -2189,3 +2189,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Montreal Gazette (Canada)
 *://*.montrealgazette.com/*
 
+# Morocco World News (USA)
+*://*.moroccoworldnews.com/*
+
