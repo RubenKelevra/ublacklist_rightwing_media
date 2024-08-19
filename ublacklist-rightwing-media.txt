@@ -1509,3 +1509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Exeter Lakeshore Times-Advance (Canada)
 *://*.lakeshoreadvance.com/*
 
+# Expressen (Sweden)
+*://*.expressen.se/*
+
