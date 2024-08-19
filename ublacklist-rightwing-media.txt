@@ -2984,3 +2984,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WHP (USA)
 *://*.local21news.com/*
 
+# Wiarton Echo (Canada)
+*://*.wiartonecho.com/*
+
