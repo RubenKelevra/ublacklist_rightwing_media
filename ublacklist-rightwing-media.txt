@@ -2975,3 +2975,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WGXA News (USA)
 *://*.wgxa.tv/*
 
+# WHAM (USA)
+*://*.13wham.com/*
+
