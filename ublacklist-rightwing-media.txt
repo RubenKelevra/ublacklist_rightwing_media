@@ -1783,3 +1783,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Institute for the Study of War (USA)
 *://*.understandingwar.org/*
 
+# Investor Times (Andorra)
+*://*.investortimes.com/*
+*://*.equityatlas.org/*
+
