@@ -1272,3 +1272,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Center for the National Interest (USA)
 *://*.cftni.org/*
 
+# Central Kentucky News-Journal (USA)
+*://*.pmg-ky2.com/*
+
