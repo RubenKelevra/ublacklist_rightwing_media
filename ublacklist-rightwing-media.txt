@@ -2996,3 +2996,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Willcox Range News (USA)
 *://*.myheraldreview.com/*
 
+# Williamsport Sun-Gazette (USA)
+*://*.sungazette.com/*
+
