@@ -1901,3 +1901,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KFXL (USA)
 *://*.foxnebraska.com/*
 
+# KGAN (USA)
+*://*.cbs2iowa.com/*
+
