@@ -1662,3 +1662,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Greenville Advocate (USA)
 *://*.greenvilleadvocate.com/*
 
+# Greenville Daily Advocate (USA)
+*://*.dailyadvocate.com/*
+
