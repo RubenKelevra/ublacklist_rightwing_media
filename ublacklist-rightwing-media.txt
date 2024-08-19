@@ -2494,3 +2494,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sarnia This Week (Canada)
 *://*.sarniathisweek.com/*
 
+# Saskatoon StarPhoenix (Canada)
+*://*.thestarphoenix.com/*
+
