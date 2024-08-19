@@ -1395,3 +1395,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # de Volkskrant (Netherlands)
 *://*.volkskrant.nl/*
 
+# Deccan Chronicle (India)
+*://*.deccanchronicle.com/*
+
