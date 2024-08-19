@@ -2960,3 +2960,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.nbc25news.com/*
 *://*.midmichigannow.com/*
 
+# WFXL (USA)
+*://*.wfxl.com/*
+
