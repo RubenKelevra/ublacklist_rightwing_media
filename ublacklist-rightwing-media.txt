@@ -3120,3 +3120,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WTVC (USA)
 *://*.newschannel9.com/*
 
+# WTVC (USA)
+*://*.foxchattanooga.com/*
+
