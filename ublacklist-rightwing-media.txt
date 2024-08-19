@@ -2817,3 +2817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Today Singapore (Singapore)
 *://*.todayonline.com/*
 
+# Toledo Blade (USA)
+*://*.toledoblade.com/*
+
