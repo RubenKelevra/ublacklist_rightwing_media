@@ -2521,3 +2521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Selma Times-Journal (USA)
 *://*.selmatimesjournal.com/*
 
+# Sevierville Mountain Press (USA)
+*://*.themountainpress.com/*
+
