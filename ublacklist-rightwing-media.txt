@@ -1985,3 +1985,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KUTV Salt Lake City (USA)
 *://*.kutv.com/*
 
+# KVAL (USA)
+*://*.kval.com/*
+
