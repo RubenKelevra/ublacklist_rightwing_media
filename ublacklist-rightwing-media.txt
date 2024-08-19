@@ -1242,3 +1242,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Campaign for Liberty (USA)
 *://*.campaignforliberty.org/*
 
+# Canadian Jewish News (Canada)
+*://*.thecjn.ca/*
+
