@@ -3095,3 +3095,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WSBT 22 News (USA)
 *://*.wsbt.com/*
 
+# WSET (USA)
+*://*.wset.com/*
+
