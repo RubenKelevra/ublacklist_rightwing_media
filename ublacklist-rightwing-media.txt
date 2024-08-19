@@ -1311,3 +1311,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cleveland Daily Banner (USA)
 *://*.clevelandbanner.com/*
 
+# Clinton News-Record (Canada)
+*://*.clintonnewsrecord.com/*
+
