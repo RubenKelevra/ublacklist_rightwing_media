@@ -2736,3 +2736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.spectator.us/*
 *://*.thespectator.com/*
 
+# The Spectator World (UK)
+*://*.spectatorworld.com/*
+
