@@ -1967,3 +1967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KRXI (USA)
 *://*.foxreno.com/*
 
+# KSAS (USA)
+*://*.foxkansas.com/*
+
