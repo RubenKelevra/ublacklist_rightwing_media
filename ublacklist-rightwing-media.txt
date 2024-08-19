@@ -2439,3 +2439,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Reason (USA)
 *://*.reason.com/*
 
+# Red River Valley News (USA)
+*://*.valleynewslive.com/*
+
