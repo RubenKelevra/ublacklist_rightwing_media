@@ -4075,3 +4075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Analyzing America (USA)
 *://*.analyzingamerica.org/*
 
+# Anderson Reporter (USA)
+*://*.andersonreporter.com/*
+
