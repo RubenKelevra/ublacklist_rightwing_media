@@ -4177,3 +4177,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Big Island Times (USA)
 *://*.bigislandtimes.com/*
 
+# Big League Politics (USA)
+*://*.bigleaguepolitics.com/*
+*://*.bigleaguepolitics.substack.com/*
+
