@@ -3522,3 +3522,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Infowars-Alex Jones (USA)
 *://*.infowars.com/*
 
+# Ingredients.News (USA)
+*://*.ingredients.news/*
+
