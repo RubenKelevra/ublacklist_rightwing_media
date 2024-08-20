@@ -3816,3 +3816,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Trumpet (USA)
 *://*.thetrumpet.com/*
 
+# The Truth About Cancer (USA)
+*://*.thetruthaboutcancer.com/*
+
