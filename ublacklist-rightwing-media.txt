@@ -4983,3 +4983,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FDA Reporter (USA)
 *://*.fdareporter.com/*
 
+# Federalist Press (USA)
+*://*.federalistpress.com/*
+
