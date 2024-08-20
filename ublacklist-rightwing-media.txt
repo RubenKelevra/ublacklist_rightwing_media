@@ -3465,3 +3465,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gear.News (USA)
 *://*.gear.news/*
 
+# Gender.news (USA)
+*://*.gender.news/*
+
