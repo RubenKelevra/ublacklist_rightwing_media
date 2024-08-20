@@ -5100,3 +5100,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Genesee News (USA)
 *://*.geneseenews.com/*
 
+# Gen Z Conservative (USA)
+*://*.genzconservative.com/*
+
