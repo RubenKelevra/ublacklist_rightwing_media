@@ -3918,3 +3918,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # World Council for Health (UK)
 *://*.worldcouncilforhealth.org/*
 
+# World Truth TV (USA)
+*://*.worldtruth.tv/*
+
