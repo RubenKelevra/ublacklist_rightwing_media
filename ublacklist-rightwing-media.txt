@@ -3332,3 +3332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christian Truth Center (Kenya)
 *://*.christiantruthcenter.com/*
 
+# Citizens for Legitimate Government (USA)
+*://*.legitgov.org/*
+
