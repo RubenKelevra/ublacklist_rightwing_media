@@ -5049,3 +5049,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Free West Media (Sweden)
 *://*.freewestmedia.com/*
 
+# Fresh Off The Press (USA)
+*://*.freshoffthepress.org/*
+
