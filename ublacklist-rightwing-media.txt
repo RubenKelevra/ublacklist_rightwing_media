@@ -3743,3 +3743,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Front (Russia)
 *://*.southfront.org/*
 
+# Space.News (USA)
+*://*.space.news/*
+
