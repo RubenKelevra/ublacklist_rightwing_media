@@ -4668,3 +4668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Darntons (USA)
 *://*.darntons.com/*
 
+# DavidHarrisJr.com (USA)
+*://*.davidharrisjr.com/*
+
