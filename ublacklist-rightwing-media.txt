@@ -4857,3 +4857,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East SFV Today (USA)
 *://*.eastsfvtoday.com/*
 
+# East Sierra News (USA)
+*://*.eastsierranews.com/*
+
