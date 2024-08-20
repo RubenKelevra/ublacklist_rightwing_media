@@ -4371,3 +4371,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cape News (USA)
 *://*.capemonews.com/*
 
+# Capstone Report (USA)
+*://*.capstonereport.com/*
+
