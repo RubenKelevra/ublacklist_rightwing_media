@@ -4628,3 +4628,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cultural Action Party of Canada (Canada)
 *://*.capforcanada.com/*
 
+# Culture Watch News (USA)
+*://*.culturewatchnews.com/*
+
