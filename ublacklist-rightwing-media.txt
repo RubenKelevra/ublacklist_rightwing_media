@@ -4404,3 +4404,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cedar Rapids Today (USA)
 *://*.cedarrapidstoday.com/*
 
+# Centennial State News (USA)
+*://*.centennialstatenews.com/*
+
