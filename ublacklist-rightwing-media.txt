@@ -4099,3 +4099,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Arab News (Saudi Arabia)
 *://*.arabnews.com/*
 
+# Arizona Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
