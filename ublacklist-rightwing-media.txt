@@ -3840,3 +3840,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Truth for Health Foundation (USA)
 *://*.truthforhealth.org/*
 
+# Twisted.News (USA)
+*://*.twisted.news/*
+
