@@ -3801,3 +3801,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.newnationalist.net/*
 *://*.15mfinance.com/*
 
+# The Organic Prepper (USA)
+*://*.theorganicprepper.com/*
+
