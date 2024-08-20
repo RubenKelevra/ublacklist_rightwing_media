@@ -3685,3 +3685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Praying Medic (USA)
 *://*.prayingmedic.com/*
 
+# Press for Truth (Canada)
+*://*.pressfortruth.ca/*
+
