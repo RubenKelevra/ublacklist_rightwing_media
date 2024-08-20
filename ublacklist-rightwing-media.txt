@@ -4347,3 +4347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Caldron Pool (Australia)
 *://*.caldronpool.com/*
 
+# California Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
