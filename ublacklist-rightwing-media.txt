@@ -4713,3 +4713,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Des Moines Sun (USA)
 *://*.desmoinessun.com/*
 
+# DeSantis Daily (USA)
+*://*.desantisdaily.com/*
+
