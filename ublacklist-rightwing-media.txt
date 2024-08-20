@@ -4150,3 +4150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Baton Rouge Reporter (USA)
 *://*.batonrougereporter.com/*
 
+# Battle Creek Times (USA)
+*://*.battlecreektimes.com/*
+
