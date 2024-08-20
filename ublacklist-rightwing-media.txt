@@ -3966,3 +3966,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alaska Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# All News Pipeline (USA)
+*://*.allnewspipeline.com/*
+
