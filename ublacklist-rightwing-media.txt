@@ -4084,3 +4084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Anne Arundel Today (USA)
 *://*.annearundeltoday.com/*
 
+# Anoka Times (USA)
+*://*.anokatimes.com/*
+
