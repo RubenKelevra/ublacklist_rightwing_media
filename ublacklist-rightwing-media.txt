@@ -4537,3 +4537,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.concernedwomen.org/*
 *://*.cwfa.org/*
 
+# Concord Ledger (USA)
+*://*.concordledger.com/*
+
