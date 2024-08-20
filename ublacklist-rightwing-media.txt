@@ -5007,3 +5007,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Florida Capital Star (USA)
 *://*.floridacapitalstar.com/*
 
+# Florida Parish News (USA)
+*://*.floridaparishnews.com/*
+
