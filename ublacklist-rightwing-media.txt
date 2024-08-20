@@ -4872,3 +4872,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Ventura News (USA)
 *://*.eastventuranews.com/*
 
+# East Volusia News (USA)
+*://*.eastvolusianews.com/*
+
