@@ -4301,3 +4301,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # C19melatonin.com (Unknown)
 *://*.c19melatonin.com/*
 
+# C19mp.com (Unknown)
+*://*.c19mp.com/*
+
