@@ -3676,3 +3676,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Philosophers Stone (UK)
 *://*.philosophers-stone.info/*
 
+# Planeta Prisão (Brazil)
+*://*.planetaprisao.com.br/*
+
