@@ -4659,3 +4659,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Daily Stormer (USA)
 *://*.dailystormer.in/*
 
+# Dakota Times (USA)
+*://*.dakotatimes.com/*
+
