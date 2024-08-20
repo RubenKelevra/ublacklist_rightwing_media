@@ -5091,3 +5091,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GB News UK (UK)
 *://*.gbnews.com/*
 
+# Geller Report (USA)
+*://*.gellerreport.com/*
+
