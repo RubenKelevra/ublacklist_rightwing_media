@@ -5127,3 +5127,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GiveSendGo (USA)
 *://*.givesendgo.com/*
 
+# Glacier Country News (USA)
+*://*.glaciercountrynews.com/*
+
