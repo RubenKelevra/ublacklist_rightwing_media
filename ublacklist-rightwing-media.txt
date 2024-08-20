@@ -3652,3 +3652,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Now the End Begins (USA)
 *://*.nowtheendbegins.com/*
 
+# NutrientReference.com (USA)
+*://*.nutrientreference.com/*
+
