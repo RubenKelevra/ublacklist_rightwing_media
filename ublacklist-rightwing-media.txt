@@ -4141,3 +4141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Baldwin Times (USA)
 *://*.baldwintimes.com/*
 
+# Baltimore City Wire (USA)
+*://*.baltimorecitywire.com/*
+
