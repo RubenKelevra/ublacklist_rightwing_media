@@ -3290,3 +3290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CampusInsanity.com (USA)
 *://*.campusinsanity.com/*
 
+# Canberra Declaration (Australia)
+*://*.canberradeclaration.org.au/*
+
