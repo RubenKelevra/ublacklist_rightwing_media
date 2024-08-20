@@ -4824,3 +4824,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Little Rock Times (USA)
 *://*.eastlittlerocktimes.com/*
 
+# East Louisville News (USA)
+*://*.eastlouisvillenews.com/*
+
