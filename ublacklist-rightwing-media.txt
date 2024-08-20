@@ -5061,3 +5061,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Frontpage Magazine (USA)
 *://*.frontpagemag.com/*
 
+# FT Wayne Times (USA)
+*://*.ftwaynetimes.com/*
+
