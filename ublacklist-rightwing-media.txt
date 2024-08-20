@@ -4992,3 +4992,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Findlay Times (USA)
 *://*.findlaytimes.com/*
 
+# Finger Lakes Today (USA)
+*://*.fingerlakestoday.com/*
+
