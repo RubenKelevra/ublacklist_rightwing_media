@@ -4123,3 +4123,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Association of American Physicians and Surgeons (USA)
 *://*.aapsonline.org/*
 
+# Athens Reporter (USA)
+*://*.athensreporter.com/*
+
