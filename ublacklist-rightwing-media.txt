@@ -4662,3 +4662,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dakota Times (USA)
 *://*.dakotatimes.com/*
 
+# Daily Veracity (USA)
+*://*.dailyveracity.com/*
+
