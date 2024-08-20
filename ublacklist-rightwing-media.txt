@@ -3885,3 +3885,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # VoteFraud.News (USA)
 *://*.votefraud.news/*
 
+# We Are Change (USA)
+*://*.wearechange.org/*
+
