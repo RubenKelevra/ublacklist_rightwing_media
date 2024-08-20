@@ -3661,3 +3661,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Odysee (USA)
 *://*.odysee.com/*
 
+# Off the Grid News (USA)
+*://*.offthegridnews.com/*
+
