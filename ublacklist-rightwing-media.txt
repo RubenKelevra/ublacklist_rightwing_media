@@ -4407,3 +4407,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Centennial State News (USA)
 *://*.centennialstatenews.com/*
 
+# Center for Security Policy (USA)
+*://*.centerforsecuritypolicy.org/*
+
