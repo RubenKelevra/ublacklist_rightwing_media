@@ -4278,3 +4278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # C19curcumin.com (Unknown)
 *://*.c19curcumin.com/*
 
+# c19ly.com (Unknown)
+*://*.c19ly.com/*
+
