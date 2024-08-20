@@ -4202,3 +4202,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Blue State Blues News (USA)
 *://*.bluestatebluesnews.com/*
 
+# Blunt Force Truth (USA)
+*://*.bluntforcetruth.com/*
+
