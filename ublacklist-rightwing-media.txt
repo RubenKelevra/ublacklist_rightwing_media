@@ -4671,3 +4671,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DavidHarrisJr.com (USA)
 *://*.davidharrisjr.com/*
 
+# Dayton Reporter (USA)
+*://*.daytonreporter.com/*
+
