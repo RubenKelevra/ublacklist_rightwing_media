@@ -3725,3 +3725,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.science.news/*
 *://*.CensoredScience.com/*
 
+# SGT Report (USA)
+*://*.sgtreport.com/*
+
