@@ -3383,3 +3383,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CultureWatch (Australia)
 *://*.billmuehlenberg.com/*
 
+# CyberWar.News (USA)
+*://*.cyberwar.news/*
+
