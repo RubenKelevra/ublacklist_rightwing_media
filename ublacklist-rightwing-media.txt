@@ -4938,3 +4938,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # End the Fed (USA)
 *://*.endthefed.org/*
 
+# Europe-Israel News (Israel)
+*://*.europe-israel.org/*
+
