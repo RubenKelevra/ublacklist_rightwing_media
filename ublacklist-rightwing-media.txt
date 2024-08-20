@@ -3969,3 +3969,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # All News Pipeline (USA)
 *://*.allnewspipeline.com/*
 
+# Alliance Defending Freedom (USA)
+*://*.adflegal.org/*
+
