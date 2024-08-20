@@ -3501,3 +3501,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Health Nut News (USA)
 *://*.healthnutnews.com/*
 
+# HealthRangerInventions.com (USA)
+*://*.healthrangerinventions.com/*
+
