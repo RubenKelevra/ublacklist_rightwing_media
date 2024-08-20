@@ -3459,3 +3459,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Front Line Covid-19 Critical Care Alliance (USA)
 *://*.covid19criticalcare.com/*
 
+# Fully Human (Unknown)
+*://*.fully-human.org/*
+
