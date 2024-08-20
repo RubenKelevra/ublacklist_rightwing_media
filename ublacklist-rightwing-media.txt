@@ -4090,3 +4090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Anonymous Wire (Unknown)
 *://*.anonymouswire.com/*
 
+# Antelope Valley Today (USA)
+*://*.antelopevalleytoday.com/*
+
