@@ -3371,3 +3371,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Creation-Evolution Headlines (USA)
 *://*.crev.info/*
 
+# CreationWiki (USA)
+*://*.creationwiki.org/*
+
