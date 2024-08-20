@@ -3180,3 +3180,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Addiction.News (USA)
 *://*.addiction.news/*
 
+# Age of Autism (USA)
+*://*.ageofautism.com/*
+
