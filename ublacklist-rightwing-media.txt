@@ -3389,3 +3389,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DailyClout (USA)
 *://*.dailyclout.io/*
 
+# Daily Sceptic (UK)
+*://*.dailysceptic.org/*
+
