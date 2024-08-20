@@ -5001,3 +5001,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # First State Times (USA)
 *://*.firststatetimes.com/*
 
+# Flashout (Unknown)
+*://*.thecareerbd.com/*
+
