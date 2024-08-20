@@ -4033,3 +4033,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.americanmediaperiscope.com/*
 *://*.patriot.tv/*
 
+# American Partisan (USA)
+*://*.americanpartisan.org/*
+
