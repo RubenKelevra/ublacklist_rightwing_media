@@ -3471,3 +3471,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Geoengineering.News (USA)
 *://*.geoengineering.news/*
 
+# Glitch.News (USA)
+*://*.glitch.news/*
+
