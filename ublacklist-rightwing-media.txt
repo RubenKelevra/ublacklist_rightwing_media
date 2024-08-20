@@ -3407,3 +3407,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Dollar Vigilante (Unknown)
 *://*.dollarvigilante.com/*
 
+# DrugCartels.News (USA)
+*://*.drugcartels.news/*
+
