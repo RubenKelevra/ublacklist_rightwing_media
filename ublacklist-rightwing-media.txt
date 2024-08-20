@@ -3347,3 +3347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CNN So Fake News (USA)
 *://*.cnnsofake.news/*
 
+# Collapse.News (USA)
+*://*.collapse.news/*
+
