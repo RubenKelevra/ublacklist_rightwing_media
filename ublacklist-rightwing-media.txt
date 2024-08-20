@@ -2383,8 +2383,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pomeroy Daily Sentinel (USA)
 *://*.mydailysentinel.com/*
 
-# *://*.rivercitiesnews.com/* - already blocked by Point Pleasant Register (USA)
-
 # Portland Leader (USA)
 *://*.lebanondemocrat.com/*
 
@@ -2738,8 +2736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Spectator World (UK)
 *://*.spectatorworld.com/*
-
-# *://*.thespectator.com/* - already blocked by The Spectator (UK)
 
 # The Spokesman-Review (USA)
 *://*.spokesman.com/*
@@ -3137,8 +3133,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # WVAH (USA)
 *://*.wvah.com/*
-
-# *://*.wchstv.com/* - already blocked by WCHS (USA)
 
 # WXLV (USA)
 *://*.wcyb.com/*
