@@ -4458,3 +4458,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Channel One Russia (Russia)
 *://*.1tv.ru/*
 
+# Chapel Hill Review (USA)
+*://*.chapelhillreview.com/*
+
