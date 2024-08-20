@@ -3601,3 +3601,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Media Fact Watch (USA)
 *://*.mediafactwatch.com/*
 
+# Medical Censorship News (USA)
+*://*.medicalcensorship.com/*
+
