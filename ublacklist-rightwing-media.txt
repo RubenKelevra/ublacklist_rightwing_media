@@ -5109,3 +5109,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Georgia Mountain News (USA)
 *://*.georgiamountainnews.com/*
 
+# Georgia Record (USA)
+*://*.georgiarecord.com/*
+
