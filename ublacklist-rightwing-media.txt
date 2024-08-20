@@ -3658,3 +3658,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NWO Report (USA)
 *://*.nworeport.me/*
 
+# Odysee (USA)
+*://*.odysee.com/*
+
