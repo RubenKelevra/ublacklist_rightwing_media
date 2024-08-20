@@ -3903,3 +3903,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wikispooks (Unknown)
 *://*.wikispooks.com/*
 
+# Wine Press News (USA)
+*://*.winepressnews.com/*
+
