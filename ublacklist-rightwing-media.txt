@@ -4615,3 +4615,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Council of Conservative Citizens (USA)
 *://*.conservative-headlines.org/*
 
+# CovidAnalysis Network (Unknown)
+*://*.c19early.com/*
+*://*.c19early.org/*
+
