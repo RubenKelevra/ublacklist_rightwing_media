@@ -4017,3 +4017,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Family News (USA)
 *://*.afn.net/*
 
+# Americas Freedom Fighters (USA)
+*://*.americasfreedomfighters.com/*
+
