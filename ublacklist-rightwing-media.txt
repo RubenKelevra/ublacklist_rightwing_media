@@ -3589,3 +3589,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # London Real (UK)
 *://*.londonreal.tv/*
 
+# Macroevolution.net (USA)
+*://*.macroevolution.net/*
+
