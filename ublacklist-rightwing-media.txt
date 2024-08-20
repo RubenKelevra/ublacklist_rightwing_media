@@ -3562,3 +3562,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.larouchepac.com/*
 *://*.prometheanpac.com/*
 
+# LeftCult (USA)
+*://*.leftcult.com/*
+
