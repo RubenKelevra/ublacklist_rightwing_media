@@ -3888,3 +3888,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # We Are Change (USA)
 *://*.wearechange.org/*
 
+# What Really Happened (USA)
+*://*.whatreallyhappened.com/*
+
