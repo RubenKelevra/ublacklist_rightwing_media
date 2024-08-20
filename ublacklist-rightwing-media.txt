@@ -4440,3 +4440,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central ND News (USA)
 *://*.centralndnews.com/*
 
+# Central OC Times (USA)
+*://*.centraloctimes.com/*
+
