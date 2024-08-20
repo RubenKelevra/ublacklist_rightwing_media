@@ -5130,3 +5130,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Glacier Country News (USA)
 *://*.glaciercountrynews.com/*
 
+# Gloucester Today (USA)
+*://*.gloucestertoday.com/*
+
