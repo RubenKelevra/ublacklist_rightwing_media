@@ -3858,3 +3858,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # VaccineDamage.News (USA)
 *://*.vaccinedamage.news/*
 
+# Vaccine Impact (USA)
+*://*.vaccineimpact.com/*
+
