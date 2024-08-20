@@ -3362,3 +3362,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Corey’s Digs (USA)
 *://*.coreysdigs.com/*
 
+# CounterThink.com (USA)
+*://*.counterthink.com/*
+
