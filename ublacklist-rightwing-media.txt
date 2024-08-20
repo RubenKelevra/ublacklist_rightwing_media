@@ -4419,3 +4419,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Florida Post (USA)
 *://*.centralfloridapost.com/*
 
+# Central Georgia News (USA)
+*://*.centralgeorgianews.com/*
+
