@@ -5103,3 +5103,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gen Z Conservative (USA)
 *://*.genzconservative.com/*
 
+# Georgia Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
