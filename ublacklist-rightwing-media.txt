@@ -3183,3 +3183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Age of Autism (USA)
 *://*.ageofautism.com/*
 
+# altCensored (USA)
+*://*.altcensored.com/*
+
