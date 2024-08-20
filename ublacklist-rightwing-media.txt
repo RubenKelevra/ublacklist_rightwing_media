@@ -3189,3 +3189,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alternative Media Television (USA)
 *://*.amtvmedia.com/*
 
+# AlternativeNews.com (USA)
+*://*.alternativenews.com/*
+
