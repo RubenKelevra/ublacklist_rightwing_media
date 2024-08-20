@@ -5094,3 +5094,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Geller Report (USA)
 *://*.gellerreport.com/*
 
+# Gem State Wire (USA)
+*://*.gemstatewire.com/*
+
