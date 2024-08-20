@@ -3891,3 +3891,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # What Really Happened (USA)
 *://*.whatreallyhappened.com/*
 
+# WhatDoesItMean (Unknown)
+*://*.whatdoesitmean.com/*
+
