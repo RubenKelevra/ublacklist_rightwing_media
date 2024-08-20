@@ -4587,3 +4587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservative Politics Today (USA)
 *://*.facebook.com/conservativepoliticstoday/*
 
+# Conservative Post (USA)
+*://*.conservativepost.com/*
+
