@@ -3737,3 +3737,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Signs of the Times (USA)
 *://*.sott.net/*
 
+# Snopes.News (USA)
+*://*.snopes.news/*
+
