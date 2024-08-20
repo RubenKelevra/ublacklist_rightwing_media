@@ -3296,3 +3296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cancer.news (USA)
 *://*.cancer.news/*
 
+# Catholic Online (USA)
+*://*.catholic.org/*
+
