@@ -3906,3 +3906,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wine Press News (USA)
 *://*.winepressnews.com/*
 
+# Winter Watch (USA)
+*://*.winterwatch.net/*
+
