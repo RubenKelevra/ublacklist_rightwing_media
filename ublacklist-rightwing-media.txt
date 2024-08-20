@@ -3425,3 +3425,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Exopolitics (USA)
 *://*.exopolitics.org/*
 
+# Extinction.News (USA)
+*://*.extinction.news/*
+
