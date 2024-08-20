@@ -3963,3 +3963,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alabama Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Alaska Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
