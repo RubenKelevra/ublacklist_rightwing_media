@@ -3948,3 +3948,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ABQ Times (USA)
 *://*.abqtimes.com/*
 
+# Activist Mommy/Elizabeth Johnston (USA)
+*://*.elizabethjohnston.org/*
+
