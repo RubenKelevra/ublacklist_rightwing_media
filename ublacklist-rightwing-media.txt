@@ -4734,3 +4734,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Disntr (USA)
 *://*.disntr.com/*
 
+# District of Columbia Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
