@@ -4341,3 +4341,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cabarrus Today (USA)
 *://*.cabarrustoday.com/*
 
+# Caixin Global (China)
+*://*.caixinglobal.com/*
+
