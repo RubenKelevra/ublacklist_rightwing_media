@@ -4229,3 +4229,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Breitbart (USA)
 *://*.breitbart.com/*
 
+# Brevard Sun (USA)
+*://*.brevardsun.com/*
+
