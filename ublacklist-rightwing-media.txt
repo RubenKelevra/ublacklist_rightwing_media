@@ -3852,3 +3852,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # UK Column (UK)
 *://*.ukcolumn.org/*
 
+# USAWatchdog.com (USA)
+*://*.usawatchdog.com/*
+
