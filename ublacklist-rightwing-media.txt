@@ -4565,3 +4565,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservative Choice Campaign (USA)
 *://*.conservativechoicecampaign.com/*
 
+# Conservative Daily News (USA)
+*://*.conservativedailynews.com/*
+
