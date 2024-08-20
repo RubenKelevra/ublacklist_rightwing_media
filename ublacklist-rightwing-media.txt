@@ -4757,3 +4757,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Down River Today (USA)
 *://*.downrivertoday.com/*
 
+# Druthers (Canada)
+*://*.druthers.net/*
+*://*.druthers.ca/*
+
