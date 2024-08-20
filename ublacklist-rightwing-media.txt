@@ -4596,3 +4596,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservative Underground News (USA)
 *://*.conservativeundergroundnews.com/*
 
+# Constative (Unknown)
+*://*.constative.com/*
+
