@@ -4653,3 +4653,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Daily Presser (USA)
 *://*.dailypresser.com/*
 
+# Daily Star UK (UK)
+*://*.dailystar.co.uk/*
+
