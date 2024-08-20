@@ -5079,3 +5079,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gastonia Times (USA)
 *://*.gastoniatimes.com/*
 
+# Gatestone Institute (USA)
+*://*.gatestoneinstitute.org/*
+
