@@ -4917,3 +4917,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Elizabethtown Times (USA)
 *://*.elizabethtowntimes.com/*
 
+# Elkhart Times (USA)
+*://*.elkharttimes.com/*
+
