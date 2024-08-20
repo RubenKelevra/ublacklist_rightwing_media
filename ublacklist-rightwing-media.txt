@@ -4437,3 +4437,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Montana Times (USA)
 *://*.centralmontanatimes.com/*
 
+# Central ND News (USA)
+*://*.centralndnews.com/*
+
