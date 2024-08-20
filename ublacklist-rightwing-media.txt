@@ -4500,3 +4500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clay Reporter (USA)
 *://*.clayreporter.com/*
 
+# Clermont Times (USA)
+*://*.clermonttimes.com/*
+
