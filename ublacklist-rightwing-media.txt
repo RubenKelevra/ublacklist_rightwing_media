@@ -3571,3 +3571,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Liberty.News (USA)
 *://*.liberty.news/*
 
+# Liberty Planet (USA)
+*://*.libertyplanets.com/*
+
