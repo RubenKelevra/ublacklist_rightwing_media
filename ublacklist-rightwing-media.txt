@@ -3728,3 +3728,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SGT Report (USA)
 *://*.sgtreport.com/*
 
+# Sheep Killers (Unknown)
+*://*.sheepkillers.com/*
+
