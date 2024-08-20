@@ -4546,3 +4546,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Connecticut Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Connecticut Centinal (USA)
+*://*.connecticutcentinal.com/*
+
