@@ -3849,3 +3849,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Unlimited Hangout (USA)
 *://*.unlimitedhangout.com/*
 
+# UK Column (UK)
+*://*.ukcolumn.org/*
+
