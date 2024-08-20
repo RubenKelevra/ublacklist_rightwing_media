@@ -3975,3 +3975,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Al Manar (Lebanon)
 *://*.english.almanar.com.lb/*
 
+# Aloha State News (USA)
+*://*.alohastatenews.com/*
+
