@@ -3217,3 +3217,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # AND Magazine (USA)
 *://*.andmagazine.com/*
 
+# Answers in Genesis (USA)
+*://*.answersingenesis.org/*
+
