@@ -4540,3 +4540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Concord Ledger (USA)
 *://*.concordledger.com/*
 
+# Congressional Agenda (USA)
+*://*.congressionalagenda.com/*
+
