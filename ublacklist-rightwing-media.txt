@@ -4899,3 +4899,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # EC Mississippi News (USA)
 *://*.ecmissnews.com/*
 
+# EC Nebraska News (USA)
+*://*.ecnebraskanews.com/*
+
