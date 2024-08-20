@@ -3198,3 +3198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Aluminum.News (USA)
 *://*.aluminum.news/*
 
+# American Free Press (USA)
+*://*.americanfreepress.net/*
+
