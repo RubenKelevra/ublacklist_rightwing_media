@@ -5040,3 +5040,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freedom News Report (USA)
 *://*.freedomnewsreport.com/*
 
+# FreedomProject Media (USA)
+*://*.freedomproject.com/*
+
