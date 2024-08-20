@@ -4244,3 +4244,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Buckeye Reporter (USA)
 *://*.buckeyereporter.com/*
 
+# Buffalo Ledger (USA)
+*://*.buffaloledger.com/*
+
