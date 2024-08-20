@@ -4485,3 +4485,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Citizens Journal (USA)
 *://*.citizensjournal.us/*
 
+# Clarion Project (USA)
+*://*.clarionproject.org/*
+
