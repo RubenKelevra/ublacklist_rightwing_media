@@ -4045,3 +4045,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Pharmacy News (USA)
 *://*.americanpharmacynews.com/*
 
+# American Principles Project (USA)
+*://*.americanprinciplesproject.org/*
+
