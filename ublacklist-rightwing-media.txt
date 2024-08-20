@@ -4568,3 +4568,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservative Daily News (USA)
 *://*.conservativedailynews.com/*
 
+# Conservative Firing Line (USA)
+*://*.conservativefiringline.com/*
+
