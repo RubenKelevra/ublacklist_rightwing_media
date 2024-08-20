@@ -3474,3 +3474,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Glitch.News (USA)
 *://*.glitch.news/*
 
+# Godlike Productions (Unknown)
+*://*.godlikeproductions.com/*
+
