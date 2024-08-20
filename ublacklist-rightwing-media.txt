@@ -4887,3 +4887,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Echo Check (USA)
 *://*.echocheck.org/*
 
+# EC Georgia News (USA)
+*://*.ecgeorgianews.com/*
+
