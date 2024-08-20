@@ -4060,3 +4060,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Thinker (USA)
 *://*.americanthinker.com/*
 
+# American Web Media (USA)
+*://*.awm.com/*
+
