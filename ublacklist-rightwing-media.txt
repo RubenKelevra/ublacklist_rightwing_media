@@ -3419,3 +3419,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Eugenics.News (USA)
 *://*.eugenics.news/*
 
+# Europe Reloaded (USA)
+*://*.europereloaded.com/*
+
