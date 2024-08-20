@@ -4344,3 +4344,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Caixin Global (China)
 *://*.caixinglobal.com/*
 
+# Caldron Pool (Australia)
+*://*.caldronpool.com/*
+
