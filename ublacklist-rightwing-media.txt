@@ -4692,3 +4692,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Defending the Republic (USA)
 *://*.defendingtherepublic.org/*
 
+# Defiant America (USA)
+*://*.defiantamerica.com/*
+
