@@ -4908,3 +4908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # EC Ohio News (USA)
 *://*.ecohionews.com/*
 
+# EC Oklahoma News (USA)
+*://*.ecoklahomanews.com/*
+
