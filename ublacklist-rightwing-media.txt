@@ -3404,3 +3404,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DoctorOz.com (USA)
 *://*.doctoroz.com/*
 
+# The Dollar Vigilante (Unknown)
+*://*.dollarvigilante.com/*
+
