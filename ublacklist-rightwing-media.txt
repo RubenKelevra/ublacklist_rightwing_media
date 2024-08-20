@@ -4791,3 +4791,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Central Alabama News (USA)
 *://*.ecalabamanews.com/*
 
+# East Central Reporter (USA)
+*://*.eastcentralreporter.com/*
+
