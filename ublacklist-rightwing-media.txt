@@ -4105,3 +4105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Arizona Sun Times (USA)
 *://*.arizonasuntimes.com/*
 
+# Arkansas Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
