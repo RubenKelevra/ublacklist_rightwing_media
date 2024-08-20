@@ -4138,3 +4138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # AustraliaOne (Australia)
 *://*.australiaoneparty.com/*
 
+# Baldwin Times (USA)
+*://*.baldwintimes.com/*
+
