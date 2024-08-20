@@ -3791,3 +3791,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Health Ranger (USA)
 *://*.healthranger.com/*
 
+# The Healthy American (USA)
+*://*.thehealthyamerican.org/*
+
