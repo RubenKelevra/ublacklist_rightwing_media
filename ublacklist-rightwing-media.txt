@@ -3873,3 +3873,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vaccine Safety Research Foundation (USA)
 *://*.vacsafety.org/*
 
+# Vaxxter (USA)
+*://*.vaxxter.com/*
+
