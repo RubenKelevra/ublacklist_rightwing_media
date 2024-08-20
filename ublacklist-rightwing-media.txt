@@ -4764,3 +4764,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dubuque Times (USA)
 *://*.dubuquetimes.com/*
 
+# Dupage Policy Journal (USA)
+*://*.dupagepolicyjournal.com/*
+
