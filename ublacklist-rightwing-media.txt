@@ -3785,3 +3785,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The European Union Times (Unknown)
 *://*.eutimes.net/*
 
+# The Fullerton Informer (USA)
+*://*.thefullertoninformer.com/*
+
