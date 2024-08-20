@@ -3186,3 +3186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # altCensored (USA)
 *://*.altcensored.com/*
 
+# Alternative Media Television (USA)
+*://*.amtvmedia.com/*
+
