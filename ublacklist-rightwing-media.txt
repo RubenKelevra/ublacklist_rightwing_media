@@ -5046,3 +5046,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Free-Speech Front (Unknown)
 *://*.free-speechfront.info/*
 
+# Free West Media (Sweden)
+*://*.freewestmedia.com/*
+
