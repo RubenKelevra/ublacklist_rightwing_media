@@ -4005,3 +4005,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Catholic Tribune (USA)
 *://*.americancatholictribune.com/*
 
+# American College of Pediatricians (USA)
+*://*.acpeds.org/*
+
