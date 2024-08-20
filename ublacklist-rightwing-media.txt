@@ -3450,3 +3450,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freedom.News (USA)
 *://*.freedom.news/*
 
+# Freeworldnews.TV (USA)
+*://*.freeworldnews.tv/*
+
