@@ -3867,3 +3867,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vaccines News (USA)
 *://*.vaccines.news/*
 
+# Vaccines and Christianity (USA)
+*://*.vaccinesandchristianity.org/*
+
