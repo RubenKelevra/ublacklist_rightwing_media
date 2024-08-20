@@ -4965,3 +4965,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fargo Standard (USA)
 *://*.fargostandard.com/*
 
+# Farm Insurance News (USA)
+*://*.farminsurancenews.com/*
+
