@@ -3447,3 +3447,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.freedomainradio.com/*
 *://*.freedomain.com/*
 
+# Freedom.News (USA)
+*://*.freedom.news/*
+
