@@ -3942,3 +3942,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 2020 Conservative (Unknown)
 *://*.2020conservative.com/*
 
+# A Voice for Men (USA)
+*://*.avoiceformen.com/*
+
