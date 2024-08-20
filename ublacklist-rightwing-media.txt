@@ -4482,3 +4482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CitizenGO (Spain)
 *://*.citizengo.org/*
 
+# Citizens Journal (USA)
+*://*.citizensjournal.us/*
+
