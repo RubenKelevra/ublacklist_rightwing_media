@@ -3797,3 +3797,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Liberty Beacon (USA)
 *://*.thelibertybeacon.com/*
 
+# The New Nationalist (USA)
+*://*.newnationalist.net/*
+*://*.15mfinance.com/*
+
