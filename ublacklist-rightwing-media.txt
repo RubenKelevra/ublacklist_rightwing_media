@@ -4509,3 +4509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Coachella Today (USA)
 *://*.coachellatoday.com/*
 
+# Coastal GA News (USA)
+*://*.coastalganews.com/*
+
