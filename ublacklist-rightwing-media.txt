@@ -3813,3 +3813,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Stream (USA)
 *://*.stream.org/*
 
+# The Trumpet (USA)
+*://*.thetrumpet.com/*
+
