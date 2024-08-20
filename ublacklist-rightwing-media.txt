@@ -4905,3 +4905,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # EC North Carolina News (USA)
 *://*.ecnorthcarolinanews.com/*
 
+# EC Ohio News (USA)
+*://*.ecohionews.com/*
+
