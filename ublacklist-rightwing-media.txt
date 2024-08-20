@@ -3293,3 +3293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Canberra Declaration (Australia)
 *://*.canberradeclaration.org.au/*
 
+# Cancer.news (USA)
+*://*.cancer.news/*
+
