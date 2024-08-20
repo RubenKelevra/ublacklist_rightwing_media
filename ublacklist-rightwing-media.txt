@@ -4129,3 +4129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Atlantic County Times (USA)
 *://*.atlanticcotimes.com/*
 
+# ATL Standard (USA)
+*://*.atlstandard.com/*
+
