@@ -3712,3 +3712,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Renegade Tribune (USA)
 *://*.renegadetribune.com/*
 
+# Rense (USA)
+*://*.rense.com/*
+
