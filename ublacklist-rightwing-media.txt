@@ -4335,3 +4335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # C19VitaminD.com (Unknown)
 *://*.c19vitamind.com/*
 
+# C19Zinc.com (Unknown)
+*://*.c19zinc.com/*
+
