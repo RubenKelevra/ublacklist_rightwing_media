@@ -4093,3 +4093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Antelope Valley Today (USA)
 *://*.antelopevalleytoday.com/*
 
+# Anti-War (USA)
+*://*.antiwar.com/*
+
