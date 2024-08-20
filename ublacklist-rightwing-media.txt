@@ -4953,3 +4953,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fairfield Reporter (USA)
 *://*.fairfieldreporter.com/*
 
+# Fairport Educational Alliance (USA)
+*://*.fairporteducationalalliance.org/*
+
