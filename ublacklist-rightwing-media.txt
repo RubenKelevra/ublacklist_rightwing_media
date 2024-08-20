@@ -4223,3 +4223,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Breaking Christian News (USA)
 *://*.breakingchristiannews.com/*
 
+# Breaking First (Unknown)
+*://*.breakingfirst.com/*
+
