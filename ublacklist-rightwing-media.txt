@@ -3978,3 +3978,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Aloha State News (USA)
 *://*.alohastatenews.com/*
 
+# Alpha News (USA)
+*://*.alphanews.org/*
+
