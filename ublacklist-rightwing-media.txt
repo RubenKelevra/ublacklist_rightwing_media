@@ -3670,3 +3670,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriots For Truth (USA)
 *://*.patriots4truth.org/*
 
+# PaulCraigRoberts.org (USA)
+*://*.paulcraigroberts.org/*
+
