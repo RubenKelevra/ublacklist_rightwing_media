@@ -3220,3 +3220,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Answers in Genesis (USA)
 *://*.answersingenesis.org/*
 
+# Anti-Empire (Unknown)
+*://*.anti-empire.com/*
+
