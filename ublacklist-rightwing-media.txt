@@ -4788,3 +4788,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Arizona News (USA)
 *://*.eastarizonanews.com/*
 
+# East Central Alabama News (USA)
+*://*.ecalabamanews.com/*
+
