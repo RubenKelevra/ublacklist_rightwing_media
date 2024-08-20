@@ -3335,3 +3335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Citizens for Legitimate Government (USA)
 *://*.legitgov.org/*
 
+# Climate Depot (USA)
+*://*.climatedepot.com/*
+
