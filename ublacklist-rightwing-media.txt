@@ -4377,3 +4377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Carbondale Reporter (USA)
 *://*.carbondalereporter.com/*
 
+# Catholic Tribune (USA)
+*://*.azcatholictribune.com/*
+
