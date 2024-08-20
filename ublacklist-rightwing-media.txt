@@ -4205,3 +4205,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Blunt Force Truth (USA)
 *://*.bluntforcetruth.com/*
 
+# Boise City Wire (USA)
+*://*.boisecitywire.com/*
+
