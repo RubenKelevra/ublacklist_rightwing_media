@@ -4455,3 +4455,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Chambana Sun (USA)
 *://*.chambanasun.com/*
 
+# Channel One Russia (Russia)
+*://*.1tv.ru/*
+
