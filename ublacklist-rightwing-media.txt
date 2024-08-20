@@ -4637,3 +4637,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dagospia (Italy)
 *://*.dagospia.com/*
 
+# Daily Citizen (USA)
+*://*.dailycitizen.focusonthefamily.com/*
+*://*.focusonthefamily.com/*
+
