@@ -4238,3 +4238,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bristol Reporter (USA)
 *://*.bristolreporter.com/*
 
+# Britain First (UK)
+*://*.britainfirst.org/*
+
