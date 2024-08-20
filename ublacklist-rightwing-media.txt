@@ -3223,3 +3223,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Anti-Empire (Unknown)
 *://*.anti-empire.com/*
 
+# Antioxidants.News (USA)
+*://*.antioxidants.news/*
+
