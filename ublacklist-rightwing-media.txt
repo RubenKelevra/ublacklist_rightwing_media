@@ -5016,3 +5016,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Foothills Review (USA)
 *://*.foothillsreview.com/*
 
+# Forbidden News Network (Unknown)
+*://*.bannedbook.org/*
+
