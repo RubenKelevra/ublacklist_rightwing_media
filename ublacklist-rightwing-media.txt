@@ -3555,3 +3555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Just One Focus (Australia)
 *://*.justonefocus.org/*
 
+# Kla.TV (Switzerland)
+*://*.kla.tv/*
+
