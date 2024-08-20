@@ -4359,3 +4359,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Canton Reporter (USA)
 *://*.cantonreporter.com/*
 
+# Cape Cod Ledger (USA)
+*://*.capecodledger.com/*
+
