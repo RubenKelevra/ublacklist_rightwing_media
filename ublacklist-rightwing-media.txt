@@ -4241,3 +4241,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Britain First (UK)
 *://*.britainfirst.org/*
 
+# Buckeye Reporter (USA)
+*://*.buckeyereporter.com/*
+
