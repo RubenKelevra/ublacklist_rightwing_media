@@ -3767,3 +3767,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Technocracy News (USA)
 *://*.technocracy.news/*
 
+# Technocrats.News (USA)
+*://*.technocrats.news/*
+
