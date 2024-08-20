@@ -4250,3 +4250,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Burlington Reporter (USA)
 *://*.burlingtonreporter.com/*
 
+# Burlington Review (USA)
+*://*.burlingtonreview.com/*
+
