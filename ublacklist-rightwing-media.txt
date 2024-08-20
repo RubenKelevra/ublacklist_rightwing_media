@@ -4845,3 +4845,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East PDX Today (USA)
 *://*.eastpdxtoday.com/*
 
+# East Pennyroyal News (USA)
+*://*.eastpennyroyalnews.com/*
+
