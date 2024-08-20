@@ -3241,3 +3241,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Banned.News (USA)
 *://*.banned.news/*
 
+# Banned.Video (USA)
+*://*.banned.video/*
+
