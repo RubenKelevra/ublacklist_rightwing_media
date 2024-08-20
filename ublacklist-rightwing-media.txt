@@ -4256,3 +4256,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Business Day Nigeria (Nigeria)
 *://*.businessday.ng/*
 
+# Butler County Today (USA)
+*://*.butlercountytoday.com/*
+
