@@ -3568,3 +3568,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Les Moutons Rebelles (France)
 *://*.lesmoutonsrebelles.com/*
 
+# Liberty.News (USA)
+*://*.liberty.news/*
+
