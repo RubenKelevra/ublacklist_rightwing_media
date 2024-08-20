@@ -5097,3 +5097,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gem State Wire (USA)
 *://*.gemstatewire.com/*
 
+# Genesee News (USA)
+*://*.geneseenews.com/*
+
