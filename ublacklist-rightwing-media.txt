@@ -3528,3 +3528,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Institute for Creation Research (USA)
 *://*.icr.org/*
 
+# ICIC.Law (Bulgaria)
+*://*.icic.law/*
+
