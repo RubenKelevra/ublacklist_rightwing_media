@@ -4995,3 +4995,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Finger Lakes Today (USA)
 *://*.fingerlakestoday.com/*
 
+# First in Freedom Daily (USA)
+*://*.firstinfreedomdaily.com/*
+
