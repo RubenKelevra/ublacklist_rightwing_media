@@ -4464,3 +4464,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Chicago City Wire (USA)
 *://*.chicagocitywire.com/*
 
+# Chico Times (USA)
+*://*.chicotimes.com/*
+
