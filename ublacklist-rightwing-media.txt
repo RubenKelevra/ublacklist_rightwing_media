@@ -5112,3 +5112,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Georgia Record (USA)
 *://*.georgiarecord.com/*
 
+# Georgia Star News (USA)
+*://*.georgiastarnews.com/*
+
