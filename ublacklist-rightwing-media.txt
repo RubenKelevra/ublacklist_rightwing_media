@@ -3673,3 +3673,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PaulCraigRoberts.org (USA)
 *://*.paulcraigroberts.org/*
 
+# Philosophers Stone (UK)
+*://*.philosophers-stone.info/*
+
