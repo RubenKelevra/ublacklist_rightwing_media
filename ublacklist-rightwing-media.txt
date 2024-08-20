@@ -4226,3 +4226,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Breaking First (Unknown)
 *://*.breakingfirst.com/*
 
+# Breitbart (USA)
+*://*.breitbart.com/*
+
