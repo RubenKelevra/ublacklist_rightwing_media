@@ -3939,3 +3939,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 24Jours.com (Cameroon)
 *://*.24jours.com/*
 
+# 2020 Conservative (Unknown)
+*://*.2020conservative.com/*
+
