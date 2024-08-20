@@ -3167,3 +3167,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 911Truth.org (USA)
 *://*.911truth.org/*
 
+# Above Top Secret (USA)
+*://*.abovetopsecret.com/*
+*://*.youtube.com/@thenlbs*
+
