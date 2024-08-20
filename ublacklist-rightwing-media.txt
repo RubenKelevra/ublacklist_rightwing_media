@@ -3368,3 +3368,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Covid Call to Humanity (Philippines)
 *://*.covidcalltohumanity.org/*
 
+# Creation-Evolution Headlines (USA)
+*://*.crev.info/*
+
