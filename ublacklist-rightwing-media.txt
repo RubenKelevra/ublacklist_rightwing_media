@@ -3776,3 +3776,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Common Sense Show (USA)
 *://*.thecommonsenseshow.com/*
 
+# The Corbett Report (Japan)
+*://*.corbettreport.com/*
+
