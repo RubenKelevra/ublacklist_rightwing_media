@@ -4818,3 +4818,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Kentucky Times (USA)
 *://*eastkentuckytimes.com/*
 
+# East Lake Norman News (USA)
+*://*.eastlakenormannews.com/*
+
