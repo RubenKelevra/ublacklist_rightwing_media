@@ -4754,3 +4754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.download.news/*
 *://*.downloaddotnews.substack.com/*
 
+# Down River Today (USA)
+*://*.downrivertoday.com/*
+
