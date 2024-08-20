@@ -4042,3 +4042,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American People Daily (USA)
 *://*.americanpeopledaily.com/*
 
+# American Pharmacy News (USA)
+*://*.americanpharmacynews.com/*
+
