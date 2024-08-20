@@ -3489,3 +3489,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Healing Food Reference (USA)
 *://*.healingfoodreference.com/*
 
+# Health Helpline (New Zealand)
+*://*.health-helpline.co.nz/*
+
