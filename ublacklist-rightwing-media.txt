@@ -3894,3 +3894,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WhatDoesItMean (Unknown)
 *://*.whatdoesitmean.com/*
 
+# WhiteHouse.News (USA)
+*://*.whitehouse.news/*
+
