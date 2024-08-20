@@ -4181,3 +4181,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.bigleaguepolitics.com/*
 *://*.bigleaguepolitics.substack.com/*
 
+# Big Sky Times (USA)
+*://*.bigskytimes.com/*
+
