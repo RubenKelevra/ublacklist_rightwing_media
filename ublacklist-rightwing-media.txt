@@ -3552,3 +3552,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # JunkScience.com (USA)
 *://*.junkscience.com/*
 
+# Just One Focus (Australia)
+*://*.justonefocus.org/*
+
