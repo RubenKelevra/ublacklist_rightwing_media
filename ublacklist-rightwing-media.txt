@@ -5082,3 +5082,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gatestone Institute (USA)
 *://*.gatestoneinstitute.org/*
 
+# Gays Against Groomers (USA)
+*://*.gaysagainstgroomers.com/*
+
