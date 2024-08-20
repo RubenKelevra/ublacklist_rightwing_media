@@ -3634,3 +3634,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NaturalNewsBlogs (USA)
 *://*.naturalnewsblogs.com/*
 
+# Natural News Radio (USA)
+*://*.naturalnewsradio.com/*
+
