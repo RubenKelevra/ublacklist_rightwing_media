@@ -3229,3 +3229,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # AskingAngels.com (Australia)
 *://*.askingangels.com/*
 
+# Australian National Review (Australia)
+*://*.australiannationalreview.com/*
+
