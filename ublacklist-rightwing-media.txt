@@ -3278,3 +3278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Breakthrough.News (USA)
 *://*.breakthrough.news/*
 
+# Brighteon (USA)
+*://*.brighteon.com/*
+
