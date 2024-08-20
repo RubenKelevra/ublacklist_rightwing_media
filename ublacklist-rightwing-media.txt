@@ -3610,3 +3610,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # MedicalTyranny (USA)
 *://*.medicaltyranny.com/*
 
+# Medicine News (USA)
+*://*.medicine.news/*
+
