@@ -3453,3 +3453,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freeworldnews.TV (USA)
 *://*.freeworldnews.tv/*
 
+# Friends of Science (Canada)
+*://*.friendsofscience.org/*
+
