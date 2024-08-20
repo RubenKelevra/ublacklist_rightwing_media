@@ -4923,3 +4923,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Emerald Coast Times (USA)
 *://*.emeraldcoasttimes.com/*
 
+# Emirates 24/7 (United Arab Emirates)
+*://*.emirates247.com/*
+
