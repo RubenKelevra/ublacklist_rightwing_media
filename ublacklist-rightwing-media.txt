@@ -4750,3 +4750,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Down East Times (USA)
 *://*.downeasttimes.com/*
 
+# Download.News (USA)
+*://*.download.news/*
+*://*.downloaddotnews.substack.com/*
+
