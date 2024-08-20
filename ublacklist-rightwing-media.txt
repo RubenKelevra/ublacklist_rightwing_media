@@ -5121,3 +5121,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ghost.Report (USA)
 *://*.ghost.report/*
 
+# Gingrich 360 (USA)
+*://*.gingrich360.com/*
+
