@@ -5076,3 +5076,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Garden State Times (USA)
 *://*.gardenstatetimes.com/*
 
+# Gastonia Times (USA)
+*://*.gastoniatimes.com/*
+
