@@ -4461,3 +4461,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Chapel Hill Review (USA)
 *://*.chapelhillreview.com/*
 
+# Chicago City Wire (USA)
+*://*.chicagocitywire.com/*
+
