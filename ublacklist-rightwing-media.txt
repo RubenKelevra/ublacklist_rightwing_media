@@ -3338,3 +3338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Climate Depot (USA)
 *://*.climatedepot.com/*
 
+# Climate.News (USA)
+*://*.climate.news/*
+
