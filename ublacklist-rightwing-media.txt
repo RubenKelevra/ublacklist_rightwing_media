@@ -5067,3 +5067,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GAB News (USA)
 *://*.news.gab.com/*
 
+# Gadsden Today (USA)
+*://*.gadsdentoday.com/*
+
