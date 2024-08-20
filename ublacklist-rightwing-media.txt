@@ -3326,3 +3326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Creation Ministries International (Australia)
 *://*.creation.com/*
 
+# Christian Science (USA)
+*://*.christianscience.com/*
+
