@@ -3746,3 +3746,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Space.News (USA)
 *://*.space.news/*
 
+# Stillness in the Storm (USA)
+*://*.stillnessinthestorm.com/*
+
