@@ -4998,3 +4998,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # First in Freedom Daily (USA)
 *://*.firstinfreedomdaily.com/*
 
+# First State Times (USA)
+*://*.firststatetimes.com/*
+
