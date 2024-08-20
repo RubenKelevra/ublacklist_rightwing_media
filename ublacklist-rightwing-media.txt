@@ -4866,3 +4866,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Easton Gazette (USA)
 *://*.eastongazette.com/*
 
+# East Twin Cities (USA)
+*://*.easttwincities.com/*
+
