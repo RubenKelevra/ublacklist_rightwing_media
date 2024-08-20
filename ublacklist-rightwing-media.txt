@@ -4029,3 +4029,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Lookout (USA)
 *://*.americanlookout.com/*
 
+# American Media Periscope (USA)
+*://*.americanmediaperiscope.com/*
+*://*.patriot.tv/*
+
