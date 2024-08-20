@@ -4096,3 +4096,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Anti-War (USA)
 *://*.antiwar.com/*
 
+# Arab News (Saudi Arabia)
+*://*.arabnews.com/*
+
