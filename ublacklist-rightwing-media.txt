@@ -3843,3 +3843,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Twisted.News (USA)
 *://*.twisted.news/*
 
+# Tyranny.News (USA)
+*://*.tyranny.news/*
+
