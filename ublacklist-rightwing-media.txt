@@ -4842,3 +4842,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Panhandle News (USA)
 *://*.eastpanhandlenews.com/*
 
+# East PDX Today (USA)
+*://*.eastpdxtoday.com/*
+
