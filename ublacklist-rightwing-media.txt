@@ -4389,3 +4389,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Catholic Tribune (USA)
 *://*.mncatholictribune.com/*
 
+# Catholic Tribune (USA)
+*://*.pacatholictribune.com/*
+
