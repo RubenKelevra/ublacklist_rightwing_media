@@ -4562,3 +4562,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.conservativebeaver.com/*
 *://*.ice-energy.com/*
 
+# Conservative Choice Campaign (USA)
+*://*.conservativechoicecampaign.com/*
+
