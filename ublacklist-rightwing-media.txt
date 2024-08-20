@@ -3897,3 +3897,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WhiteHouse.News (USA)
 *://*.whitehouse.news/*
 
+# Wide Awake Media (USA)
+*://*.wide-awake-media.com/*
+
