@@ -4069,3 +4069,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ames Today (USA)
 *://*.amestoday.com/*
 
+# Amic.ru (Russia)
+*://*.amic.ru/*
+
