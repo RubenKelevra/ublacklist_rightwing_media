@@ -4830,3 +4830,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Michigan News (USA)
 *://*.eastmichigannews.com/*
 
+# East New Mexico News (USA)
+*://*.eastnewmexiconews.com/*
+
