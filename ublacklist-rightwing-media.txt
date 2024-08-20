@@ -5022,3 +5022,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # For the Right News (USA)
 *://*.conservativeglobe.com/*
 
+# Fort Smith Times (USA)
+*://*.fortsmithtimes.com/*
+
