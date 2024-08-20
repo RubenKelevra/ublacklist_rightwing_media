@@ -4767,3 +4767,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dupage Policy Journal (USA)
 *://*.dupagepolicyjournal.com/*
 
+# Durham Reporter (USA)
+*://*.durhamreporter.com/*
+
