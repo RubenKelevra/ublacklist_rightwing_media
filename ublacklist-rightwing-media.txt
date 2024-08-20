@@ -4527,3 +4527,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Columbia News (USA)
 *://*.columbiamonews.com/*
 
+# Columbus Standard (USA)
+*://*.columbusstandard.com/*
+
