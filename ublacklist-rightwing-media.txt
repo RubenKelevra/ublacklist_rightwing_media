@@ -4797,3 +4797,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Cleveland News (USA)
 *://*.eastclevelandnews.com/*
 
+# East Contra Costa News (USA)
+*://*.eastcontracostanews.com/*
+
