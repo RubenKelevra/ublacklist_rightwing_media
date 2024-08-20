@@ -3486,3 +3486,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ground Zero Media (USA)
 *://*.groundzeromedia.org/*
 
+# Healing Food Reference (USA)
+*://*.healingfoodreference.com/*
+
