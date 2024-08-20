@@ -3825,3 +3825,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Thought Crime Radio (USA)
 *://*.thoughtcrimeradio.net/*
 
+# Totality of Evidence (Australia)
+*://*.totalityofevidence.com/*
+
