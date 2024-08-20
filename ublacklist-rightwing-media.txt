@@ -4722,3 +4722,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DiamondandSilkinc.com (USA)
 *://*.diamondandsilkinc.com/*
 
+# Discern Report (USA)
+*://*.discernreport.com/*
+
