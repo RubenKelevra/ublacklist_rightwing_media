@@ -3353,3 +3353,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Committee For A Constructive Tomorrow (USA)
 *://*.cfact.org/*
 
+# Conspiracy Daily Update (Australia)
+*://*.conspiracydailyupdate.com/*
+
