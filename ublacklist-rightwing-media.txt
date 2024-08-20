@@ -3682,3 +3682,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pollution.News (USA)
 *://*.pollution.news/*
 
+# Praying Medic (USA)
+*://*.prayingmedic.com/*
+
