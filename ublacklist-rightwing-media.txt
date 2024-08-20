@@ -3268,3 +3268,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Blckbx.tv (Netherlands)
 *://*.blckbx.tv/*
 
+# BonSens (France)
+*://*.bonsens.info/*
+
