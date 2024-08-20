@@ -3807,3 +3807,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Phaser (USA)
 *://*.thephaser.com/*
 
+# TheQAnons.com (USA)
+*://*.theqanons.com/*
+
