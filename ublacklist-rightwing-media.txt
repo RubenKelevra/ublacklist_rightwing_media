@@ -4989,3 +4989,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Felix Rex (Canada)
 *://*.felixrex.net/*
 
+# Findlay Times (USA)
+*://*.findlaytimes.com/*
+
