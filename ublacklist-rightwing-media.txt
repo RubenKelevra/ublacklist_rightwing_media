@@ -5106,3 +5106,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Georgia Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Georgia Mountain News (USA)
+*://*.georgiamountainnews.com/*
+
