@@ -4710,3 +4710,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Denver City Wire (USA)
 *://*.denvercitywire.com/*
 
+# Des Moines Sun (USA)
+*://*.desmoinessun.com/*
+
