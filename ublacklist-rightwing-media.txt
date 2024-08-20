@@ -3909,3 +3909,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Winter Watch (USA)
 *://*.winterwatch.net/*
 
+# World Affairs Blog (USA)
+*://*.worldaffairs.blog/*
+
