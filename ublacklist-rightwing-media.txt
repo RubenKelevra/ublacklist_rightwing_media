@@ -4416,3 +4416,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Colorado News (USA)
 *://*.centralcoloradonews.com/*
 
+# Central Florida Post (USA)
+*://*.centralfloridapost.com/*
+
