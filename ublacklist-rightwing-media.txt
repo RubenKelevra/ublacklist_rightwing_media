@@ -3250,3 +3250,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Best News Here (Macedonia)
 *://*.bestnewshere.com/*
 
+# Biased.News (USA)
+*://*.biased.news/*
+
