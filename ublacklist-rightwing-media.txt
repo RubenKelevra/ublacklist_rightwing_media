@@ -4126,3 +4126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Athens Reporter (USA)
 *://*.athensreporter.com/*
 
+# Atlantic County Times (USA)
+*://*.atlanticcotimes.com/*
+
