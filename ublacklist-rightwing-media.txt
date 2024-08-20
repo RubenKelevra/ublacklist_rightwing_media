@@ -3990,3 +3990,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Al Youm Al Sabea (Egypt)
 *://*.youm7.com/*
 
+# America First Legal (USA)
+*://*.aflegal.org/*
+
