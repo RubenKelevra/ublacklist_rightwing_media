@@ -3314,3 +3314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ChlorellaFactor.com (USA)
 *://*.chlorellafactor.com/*
 
+# ChristianAnswers.net (USA)
+*://*.christiananswers.net/*
+
