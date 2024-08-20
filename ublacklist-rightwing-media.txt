@@ -4686,3 +4686,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Decatur Times (USA)
 *://*.decaturtimes.com/*
 
+# Def-Con News (USA)
+*://*.defconnews.com/*
+
