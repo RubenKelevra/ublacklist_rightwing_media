@@ -4108,3 +4108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Arkansas Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Armed Forces Press (USA)
+*://*.armedforces.press/*
+
