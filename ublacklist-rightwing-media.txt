@@ -4890,3 +4890,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # EC Georgia News (USA)
 *://*.ecgeorgianews.com/*
 
+# EC Indiana News (USA)
+*://*.ecindiananews.com/*
+
