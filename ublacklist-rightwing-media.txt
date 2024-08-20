@@ -4020,3 +4020,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Americas Freedom Fighters (USA)
 *://*.americasfreedomfighters.com/*
 
+# American Gulag (USA)
+*://*.americangulag.org/*
+
