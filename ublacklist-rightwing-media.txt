@@ -3586,3 +3586,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lockdown Resistance (USA)
 *://*.endlockdowns.org/*
 
+# London Real (UK)
+*://*.londonreal.tv/*
+
