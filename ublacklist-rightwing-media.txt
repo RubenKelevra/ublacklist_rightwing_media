@@ -3870,3 +3870,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vaccines and Christianity (USA)
 *://*.vaccinesandchristianity.org/*
 
+# Vaccine Safety Research Foundation (USA)
+*://*.vacsafety.org/*
+
