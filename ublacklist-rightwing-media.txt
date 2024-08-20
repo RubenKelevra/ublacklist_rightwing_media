@@ -4926,3 +4926,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Emirates 24/7 (United Arab Emirates)
 *://*.emirates247.com/*
 
+# Empire State Today (USA)
+*://*.empirestatetoday.com/*
+
