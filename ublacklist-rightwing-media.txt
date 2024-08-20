@@ -4609,3 +4609,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.corona-transition.org/*
 *://*.transition-news.org/*
 
+# Council on American-Islamic Relations (USA)
+*://*.cair.com/*
+
