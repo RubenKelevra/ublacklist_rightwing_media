@@ -3232,3 +3232,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Australian National Review (Australia)
 *://*.australiannationalreview.com/*
 
+# Awake Canada (Canada)
+*://*.awakecanada.org/*
+
