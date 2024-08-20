@@ -4815,3 +4815,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Central Iowa News (USA)
 *://*.eciowanews.com/*
 
+# East Kentucky Times (USA)
+*://*eastkentuckytimes.com/*
+
