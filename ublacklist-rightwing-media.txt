@@ -3972,3 +3972,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alliance Defending Freedom (USA)
 *://*.adflegal.org/*
 
+# Al Manar (Lebanon)
+*://*.english.almanar.com.lb/*
+
