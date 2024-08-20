@@ -4362,3 +4362,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cape Cod Ledger (USA)
 *://*.capecodledger.com/*
 
+# Capital District Times (USA)
+*://*.capitaldistricttimes.com/*
+
