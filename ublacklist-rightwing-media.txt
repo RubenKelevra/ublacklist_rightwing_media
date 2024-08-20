@@ -3583,3 +3583,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Living Whole (Canada)
 *://*.livingwhole.org/*
 
+# Lockdown Resistance (USA)
+*://*.endlockdowns.org/*
+
