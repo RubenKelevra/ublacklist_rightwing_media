@@ -3356,3 +3356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conspiracy Daily Update (Australia)
 *://*.conspiracydailyupdate.com/*
 
+# Consumer Wellness Center (USA)
+*://*.consumerwellness.org/*
+
