@@ -4911,3 +4911,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # EC Oklahoma News (USA)
 *://*.ecoklahomanews.com/*
 
+# Education Daily Wire (USA)
+*://*.educationdailywire.com/*
+
