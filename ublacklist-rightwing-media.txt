@@ -3468,3 +3468,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gender.news (USA)
 *://*.gender.news/*
 
+# Geoengineering.News (USA)
+*://*.geoengineering.news/*
+
