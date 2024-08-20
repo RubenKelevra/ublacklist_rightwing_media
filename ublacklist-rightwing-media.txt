@@ -3837,3 +3837,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Truth11.com (Unknown)
 *://*.truth11.com/*
 
+# Truth for Health Foundation (USA)
+*://*.truthforhealth.org/*
+
