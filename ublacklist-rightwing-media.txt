@@ -3275,3 +3275,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.brandnewtube.com/*
 *://*.onevsp.com/*
 
+# Breakthrough.News (USA)
+*://*.breakthrough.news/*
+
