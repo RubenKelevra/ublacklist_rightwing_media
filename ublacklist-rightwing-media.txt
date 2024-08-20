@@ -3819,3 +3819,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Truth About Cancer (USA)
 *://*.thetruthaboutcancer.com/*
 
+# The Wellness Company (USA)
+*://*.twc.health/*
+
