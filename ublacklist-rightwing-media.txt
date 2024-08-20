@@ -5052,3 +5052,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fresh Off The Press (USA)
 *://*.freshoffthepress.org/*
 
+# Fresno Leader (USA)
+*://*.fresnoleader.com/*
+
