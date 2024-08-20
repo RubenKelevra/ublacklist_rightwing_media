@@ -3440,3 +3440,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Food.News (USA)
 *://*.food.news/*
 
+# Freedom Advocates: Agenda 21 (USA)
+*://*.freedomadvocates.org/*
+
