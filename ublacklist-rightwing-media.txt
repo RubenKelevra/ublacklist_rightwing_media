@@ -5010,3 +5010,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Florida Parish News (USA)
 *://*.floridaparishnews.com/*
 
+# Focus on the Family (USA)
+*://*.focusonthefamily.com/*
+
