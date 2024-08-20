@@ -4063,3 +4063,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Web Media (USA)
 *://*.awm.com/*
 
+# Amerika (USA)
+*://*.amerika.org/*
+
