@@ -3480,3 +3480,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Government Slaves (USA)
 *://*.govtslaves.com/*
 
+# Great Awakening (Unknown)
+*://*.greatawakening.win/*
+
