@@ -3565,3 +3565,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # LeftCult (USA)
 *://*.leftcult.com/*
 
+# Les Moutons Rebelles (France)
+*://*.lesmoutonsrebelles.com/*
+
