@@ -3253,3 +3253,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Biased.News (USA)
 *://*.biased.news/*
 
+# Big Government News (USA)
+*://*.biggovernment.news/*
+
