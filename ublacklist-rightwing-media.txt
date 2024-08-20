@@ -4612,3 +4612,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Council on American-Islamic Relations (USA)
 *://*.cair.com/*
 
+# Council of Conservative Citizens (USA)
+*://*.conservative-headlines.org/*
+
