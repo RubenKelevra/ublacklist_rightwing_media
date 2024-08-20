@@ -3158,3 +3158,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Zebra Fact Check (USA)
 *://*.zebrafactcheck.com/*
 
+# 2020ElectionCenter.com (USA)
+*://*.freeworldnews.tv/*
+
