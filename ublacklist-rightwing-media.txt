@@ -3773,3 +3773,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Automatic Earth (USA)
 *://*.theautomaticearth.com/*
 
+# The Common Sense Show (USA)
+*://*.thecommonsenseshow.com/*
+
