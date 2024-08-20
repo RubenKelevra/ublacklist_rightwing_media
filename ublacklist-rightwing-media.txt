@@ -3161,3 +3161,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 2020ElectionCenter.com (USA)
 *://*.freeworldnews.tv/*
 
+# 79Days.News (USA)
+*://*.79days.news/*
+
