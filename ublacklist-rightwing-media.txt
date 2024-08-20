@@ -3945,3 +3945,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # A Voice for Men (USA)
 *://*.avoiceformen.com/*
 
+# ABQ Times (USA)
+*://*.abqtimes.com/*
+
