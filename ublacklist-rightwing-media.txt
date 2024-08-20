@@ -3758,3 +3758,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Swiss Policy Research (Unknown)
 *://*.swprs.org/*
 
+# Talknetwork.com (USA)
+*://*.talknetwork.com/*
+
