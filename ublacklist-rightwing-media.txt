@@ -3718,3 +3718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rumor Mill News (USA)
 *://*.rumormillnews.com/*
 
+# ScienceClowns (USA)
+*://*.scienceclowns.com/*
+
