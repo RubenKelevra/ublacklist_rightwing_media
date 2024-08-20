@@ -3256,3 +3256,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Big Government News (USA)
 *://*.biggovernment.news/*
 
+# BioDefense (USA)
+*://*.biodefense.com/*
+
