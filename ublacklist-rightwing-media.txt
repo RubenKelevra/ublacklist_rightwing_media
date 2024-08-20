@@ -4054,3 +4054,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Security News (USA)
 *://*.americansecuritynews.com/*
 
+# American Society for the Defense of Tradition, Family, and Property (USA)
+*://*.tfp.org/*
+
