@@ -3595,3 +3595,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # MadMaxWorld.tv (USA)
 *://*.madmaxworld.tv/*
 
+# Malone Institute (USA)
+*://*.maloneinstitute.org/*
+
