@@ -4026,3 +4026,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Liberty Report (USA)
 *://*.americanlibertyemail.com/*
 
+# American Lookout (USA)
+*://*.americanlookout.com/*
+
