@@ -4680,3 +4680,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DC Weekly (Russia)
 *://*.dcweekly.org/*
 
+# DEBKAfile (Israel)
+*://*.debka.com/*
+
