@@ -4851,3 +4851,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East San Diego News (USA)
 *://*.eastsandiegonews.com/*
 
+# East SBV Times (USA)
+*://*.eastsbvtimes.com/*
+
