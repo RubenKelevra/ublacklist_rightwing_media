@@ -3214,3 +3214,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.americasfrontlinedoctors.com/*
 *://*.aflds.org/*
 
+# AND Magazine (USA)
+*://*.andmagazine.com/*
+
