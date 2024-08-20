@@ -4869,3 +4869,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Twin Cities (USA)
 *://*.easttwincities.com/*
 
+# East Ventura News (USA)
+*://*.eastventuranews.com/*
+
