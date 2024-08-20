@@ -4431,3 +4431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Louisiana News (USA)
 *://*.centrallouisiananews.com/*
 
+# Central Missouri News (USA)
+*://*.centralmissourinews.com/*
+
