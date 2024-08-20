@@ -4863,3 +4863,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Stark News (USA)
 *://*.eaststarknews.com/*
 
+# Easton Gazette (USA)
+*://*.eastongazette.com/*
+
