@@ -4914,3 +4914,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Education Daily Wire (USA)
 *://*.educationdailywire.com/*
 
+# Elizabethtown Times (USA)
+*://*.elizabethtowntimes.com/*
+
