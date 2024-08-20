@@ -3210,3 +3210,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Policy Center (USA)
 *://*.americanpolicy.org/*
 
+# America’s Frontline Doctors (USA)
+*://*.americasfrontlinedoctors.com/*
+*://*.aflds.org/*
+
