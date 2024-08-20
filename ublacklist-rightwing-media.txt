@@ -4549,3 +4549,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Connecticut Centinal (USA)
 *://*.connecticutcentinal.com/*
 
+# Connecticut Star (USA)
+*://*.theconnecticutstar.com/*
+
