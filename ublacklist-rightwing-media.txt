@@ -4571,3 +4571,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservative Firing Line (USA)
 *://*.conservativefiringline.com/*
 
+# Conservative Fighters (USA)
+*://*.cf.org/*
+
