@@ -5043,3 +5043,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FreedomProject Media (USA)
 *://*.freedomproject.com/*
 
+# Free-Speech Front (Unknown)
+*://*.free-speechfront.info/*
+
