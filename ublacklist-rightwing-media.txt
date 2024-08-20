@@ -4971,3 +4971,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dissident Mag (USA)
 *://*.dissident-mag.com/*
 
+# Fayetteville Standard (USA)
+*://*.fayettevillestandard.com/*
+
