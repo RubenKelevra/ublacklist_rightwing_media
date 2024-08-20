@@ -3628,3 +3628,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NaturalMedicine.News (USA)
 *://*.naturalmedicine.news/*
 
+# Natural News (USA)
+*://*.naturalnews.com/*
+
