@@ -5019,3 +5019,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Forbidden News Network (Unknown)
 *://*.bannedbook.org/*
 
+# For the Right News (USA)
+*://*.conservativeglobe.com/*
+
