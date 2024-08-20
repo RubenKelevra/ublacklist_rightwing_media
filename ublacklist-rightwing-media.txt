@@ -3431,3 +3431,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FactCheck.News (USA)
 *://*.factcheck.news/*
 
+# FaithIt (USA)
+*://*.faithit.com/*
+
