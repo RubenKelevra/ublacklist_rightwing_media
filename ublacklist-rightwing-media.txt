@@ -4884,3 +4884,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Eastern Wayne Today (USA)
 *://*.easternwaynetoday.com/*
 
+# Echo Check (USA)
+*://*.echocheck.org/*
+
