@@ -4208,3 +4208,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Boise City Wire (USA)
 *://*.boisecitywire.com/*
 
+# Bongino.com (USA)
+*://*.bongino.com/*
+
