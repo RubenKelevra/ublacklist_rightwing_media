@@ -3882,3 +3882,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vigilante.tv (Unknown)
 *://*.vigilante.tv/*
 
+# VoteFraud.News (USA)
+*://*.votefraud.news/*
+
