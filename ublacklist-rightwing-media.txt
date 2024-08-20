@@ -3546,3 +3546,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jesus is Savior (USA)
 *://*.jesus-is-savior.com/*
 
+# JoeBiden.News (USA)
+*://*.joebiden.news/*
+
