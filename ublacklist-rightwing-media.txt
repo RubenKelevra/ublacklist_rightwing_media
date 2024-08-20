@@ -4491,3 +4491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clash Daily (USA)
 *://*.clashdaily.com/*
 
+# ClayandBuck.com (USA)
+*://*.clayandbuck.com/*
+
