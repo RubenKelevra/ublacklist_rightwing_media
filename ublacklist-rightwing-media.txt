@@ -3204,3 +3204,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Intelligence Media (USA)
 *://*.aim4truth.org/*
 
+# American Media Group (Romania)
+*://*.amg-news.com/*
+
