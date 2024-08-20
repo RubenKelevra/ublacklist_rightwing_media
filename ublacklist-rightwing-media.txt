@@ -3761,3 +3761,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Talknetwork.com (USA)
 *://*.talknetwork.com/*
 
+# TechGiants.News (USA)
+*://*.techgiants.news/*
+
