@@ -3271,3 +3271,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # BonSens (France)
 *://*.bonsens.info/*
 
+# Brand New Tube (UK)
+*://*.brandnewtube.com/*
+*://*.onevsp.com/*
+
