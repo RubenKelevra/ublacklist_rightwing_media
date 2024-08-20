@@ -4473,3 +4473,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christians for Truth (Unknown)
 *://*.christiansfortruth.com/*
 
+# Church Militant (USA)
+*://*.churchmilitant.com/*
+
