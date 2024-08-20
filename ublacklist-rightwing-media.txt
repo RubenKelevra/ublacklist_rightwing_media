@@ -4634,3 +4634,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Current Science Daily (USA)
 *://*.currentsciencedaily.com/*
 
+# Dagospia (Italy)
+*://*.dagospia.com/*
+
