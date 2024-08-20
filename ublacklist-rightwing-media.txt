@@ -4220,3 +4220,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Branson Times (USA)
 *://*.bransontimes.com/*
 
+# Breaking Christian News (USA)
+*://*.breakingchristiannews.com/*
+
