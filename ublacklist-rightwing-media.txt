@@ -3804,3 +3804,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Organic Prepper (USA)
 *://*.theorganicprepper.com/*
 
+# The Phaser (USA)
+*://*.thephaser.com/*
+
