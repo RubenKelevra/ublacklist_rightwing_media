@@ -3703,3 +3703,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Real Climate Science (USA)
 *://*.realclimatescience.com/*
 
+# Redoubt News (USA)
+*://*.redoubtnews.com/*
+
