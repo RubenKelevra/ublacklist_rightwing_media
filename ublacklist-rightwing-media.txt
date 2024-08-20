@@ -4494,3 +4494,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ClayandBuck.com (USA)
 *://*.clayandbuck.com/*
 
+# Clay County Times (USA)
+*://*.claycotimes.com/*
+
