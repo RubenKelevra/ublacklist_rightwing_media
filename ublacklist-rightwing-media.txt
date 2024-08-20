@@ -4401,3 +4401,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CDA Reporter (USA)
 *://*.cdareporter.com/*
 
+# Cedar Rapids Today (USA)
+*://*.cedarrapidstoday.com/*
+
