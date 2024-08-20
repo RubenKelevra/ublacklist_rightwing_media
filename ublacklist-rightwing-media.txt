@@ -4794,3 +4794,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Central Reporter (USA)
 *://*.eastcentralreporter.com/*
 
+# East Cleveland News (USA)
+*://*.eastclevelandnews.com/*
+
