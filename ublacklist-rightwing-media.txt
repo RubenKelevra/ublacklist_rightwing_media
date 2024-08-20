@@ -4785,3 +4785,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Arapahoe News (USA)
 *://*.eastarapahoenews.com/*
 
+# East Arizona News (USA)
+*://*.eastarizonanews.com/*
+
