@@ -4111,3 +4111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Armed Forces Press (USA)
 *://*.armedforces.press/*
 
+# Aroostook News (USA)
+*://*.aroostooknews.com/*
+
