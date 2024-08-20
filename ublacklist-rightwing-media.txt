@@ -3238,3 +3238,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Awakening.News (USA)
 *://*.awakening.news/*
 
+# Banned.News (USA)
+*://*.banned.news/*
+
