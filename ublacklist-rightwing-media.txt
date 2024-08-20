@@ -3543,3 +3543,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Israel365 News (Israel)
 *://*.israel365news.com/*
 
+# Jesus is Savior (USA)
+*://*.jesus-is-savior.com/*
+
