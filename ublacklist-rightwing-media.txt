@@ -3993,3 +3993,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # America First Legal (USA)
 *://*.aflegal.org/*
 
+# America First Report (USA)
+*://*.americafirstreport.com/*
+
