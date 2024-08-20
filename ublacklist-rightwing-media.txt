@@ -4156,3 +4156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bay State News (USA)
 *://*.baystatenews.com/*
 
+# Beach Broadcast News (USA)
+*://*.beachbroadcastnews.com/*
+
