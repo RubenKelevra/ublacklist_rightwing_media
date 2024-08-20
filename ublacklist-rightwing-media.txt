@@ -4806,3 +4806,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Hudson Valley News (USA)
 *://*.easthudvalleynews.com/*
 
+# East Idaho Times (USA)
+*://*.eastidahotimes.com/*
+
