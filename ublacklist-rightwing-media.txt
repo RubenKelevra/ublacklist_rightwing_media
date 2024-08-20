@@ -3317,3 +3317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ChristianAnswers.net (USA)
 *://*.christiananswers.net/*
 
+# Christian Apologetics & Research Ministry (USA)
+*://*.carm.org/*
+
