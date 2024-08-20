@@ -4944,3 +4944,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Evie Magazine (USA)
 *://*.eviemagazine.com/*
 
+# Evil.News (USA)
+*://*.evil.news/*
+
