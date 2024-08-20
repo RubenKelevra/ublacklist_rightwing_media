@@ -3788,3 +3788,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Fullerton Informer (USA)
 *://*.thefullertoninformer.com/*
 
+# The Health Ranger (USA)
+*://*.healthranger.com/*
+
