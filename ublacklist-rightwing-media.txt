@@ -4350,3 +4350,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # California Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Canada Free Press (Canada)
+*://*.canadafreepress.com/*
+
