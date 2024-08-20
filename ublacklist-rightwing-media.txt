@@ -3957,3 +3957,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Adams County Times (USA)
 *://*.adamscountytimes.com/*
 
+# Akron Reporter (USA)
+*://*.akronreporter.com/*
+
