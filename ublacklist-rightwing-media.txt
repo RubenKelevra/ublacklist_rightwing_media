@@ -3828,3 +3828,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Totality of Evidence (Australia)
 *://*.totalityofevidence.com/*
 
+# Treason.News (USA)
+*://*.treason.news/*
+
