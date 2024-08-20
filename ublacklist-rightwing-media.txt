@@ -4269,3 +4269,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.c19bromhexine.com/*
 *://*.c19early.org/*
 
+# C19Budesonide.com (Unknown)
+*://*.c19budesonide.com/*
+
