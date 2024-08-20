@@ -3305,3 +3305,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Censorship.News (USA)
 *://*.censorship.news/*
 
+# Charisma News (USA)
+*://*.charismanews.com/*
+
