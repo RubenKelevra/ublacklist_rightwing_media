@@ -3879,3 +3879,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vigilant Citizen (USA)
 *://*.vigilantcitizen.com/*
 
+# Vigilante.tv (Unknown)
+*://*.vigilante.tv/*
+
