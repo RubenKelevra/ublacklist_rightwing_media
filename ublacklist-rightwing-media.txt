@@ -4854,3 +4854,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East SBV Times (USA)
 *://*.eastsbvtimes.com/*
 
+# East SFV Today (USA)
+*://*.eastsfvtoday.com/*
+
