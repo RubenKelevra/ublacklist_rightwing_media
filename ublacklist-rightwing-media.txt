@@ -3507,3 +3507,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Health Ranger Report (USA)
 *://*.healthrangerreport.com/*
 
+# Henry Makow (Canada)
+*://*.savethemales.ca/*
+
