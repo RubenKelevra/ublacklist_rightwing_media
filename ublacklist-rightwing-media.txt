@@ -3667,3 +3667,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pandemic News (USA)
 *://*.pandemic.news/*
 
+# Patriots For Truth (USA)
+*://*.patriots4truth.org/*
+
