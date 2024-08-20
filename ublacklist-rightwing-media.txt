@@ -4812,3 +4812,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Indy News (USA)
 *://*.eastindynews.com/*
 
+# East Central Iowa News (USA)
+*://*.eciowanews.com/*
+
