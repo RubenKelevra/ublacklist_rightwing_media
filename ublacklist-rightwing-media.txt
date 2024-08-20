@@ -3437,3 +3437,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FDA.News (USA)
 *://*.fda.news/*
 
+# Food.News (USA)
+*://*.food.news/*
+
