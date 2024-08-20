@@ -4159,3 +4159,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Beach Broadcast News (USA)
 *://*.beachbroadcastnews.com/*
 
+# Bean Town Times (USA)
+*://*.beantowntimes.com/*
+
