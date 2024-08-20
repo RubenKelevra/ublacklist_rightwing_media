@@ -3344,3 +3344,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ClimateScienceNews (USA)
 *://*.climatesciencenews.com/*
 
+# CNN So Fake News (USA)
+*://*.cnnsofake.news/*
+
