@@ -4265,3 +4265,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # c19aspirin.com (Unknown)
 *://*.c19aspirin.com/*
 
+# c19bromhexine.com (Unknown)
+*://*.c19bromhexine.com/*
+*://*.c19early.org/*
+
