@@ -4368,3 +4368,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Capitol News (USA)
 *://*.micapitolnews.com/*
 
+# Cape News (USA)
+*://*.capemonews.com/*
+
