@@ -4503,3 +4503,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clermont Times (USA)
 *://*.clermonttimes.com/*
 
+# Cleveland Reporter (USA)
+*://*.clevelandreporter.com/*
+
