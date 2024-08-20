@@ -3649,3 +3649,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NoTricksZone (Germany)
 *://*.notrickszone.com/*
 
+# Now the End Begins (USA)
+*://*.nowtheendbegins.com/*
+
