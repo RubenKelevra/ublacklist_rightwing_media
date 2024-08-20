@@ -3925,3 +3925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.worldviewweekend.com/*
 *://*.worldviewtube.com/*
 
+# ZeroHedge (Bulgaria)
+*://*.zerohedge.com/*
+
