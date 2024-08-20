@@ -4023,3 +4023,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Gulag (USA)
 *://*.americangulag.org/*
 
+# American Liberty Report (USA)
+*://*.americanlibertyemail.com/*
+
