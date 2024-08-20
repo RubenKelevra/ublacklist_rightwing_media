@@ -3192,3 +3192,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # AlternativeNews.com (USA)
 *://*.alternativenews.com/*
 
+# AltLeft.news (USA)
+*://*.altleft.news/*
+
