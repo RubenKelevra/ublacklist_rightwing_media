@@ -4087,3 +4087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Anoka Times (USA)
 *://*.anokatimes.com/*
 
+# Anonymous Wire (Unknown)
+*://*.anonymouswire.com/*
+
