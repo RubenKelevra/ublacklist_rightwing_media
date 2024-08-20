@@ -5085,3 +5085,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gays Against Groomers (USA)
 *://*.gaysagainstgroomers.com/*
 
+# Gazeta.ru (Russia)
+*://*.gazeta.ru/*
+
