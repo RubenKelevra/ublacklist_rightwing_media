@@ -3912,3 +3912,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # World Affairs Blog (USA)
 *://*.worldaffairs.blog/*
 
+# World Affairs Brief (USA)
+*://*.worldaffairsbrief.com/*
+
