@@ -3846,3 +3846,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tyranny.News (USA)
 *://*.tyranny.news/*
 
+# Unlimited Hangout (USA)
+*://*.unlimitedhangout.com/*
+
