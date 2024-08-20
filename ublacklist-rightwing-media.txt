@@ -3640,3 +3640,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NaturalPedia.com (USA)
 *://*.naturalpedia.com/*
 
+# New Zealand Doctors Speaking Out With Science (New Zealand)
+*://*.nzdsos.com/*
+
