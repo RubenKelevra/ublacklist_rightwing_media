@@ -4174,3 +4174,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Benton Times (USA)
 *://*.bentontimes.com/*
 
+# Big Island Times (USA)
+*://*.bigislandtimes.com/*
+
