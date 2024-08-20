@@ -4467,3 +4467,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Chico Times (USA)
 *://*.chicotimes.com/*
 
+# Christian Action Network (USA)
+*://*.christianaction.org/*
+
