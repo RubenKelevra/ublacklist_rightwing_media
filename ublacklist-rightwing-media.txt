@@ -3428,3 +3428,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Extinction.News (USA)
 *://*.extinction.news/*
 
+# FactCheck.News (USA)
+*://*.factcheck.news/*
+
