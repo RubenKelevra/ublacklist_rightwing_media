@@ -3443,3 +3443,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freedom Advocates: Agenda 21 (USA)
 *://*.freedomadvocates.org/*
 
+# Freedomain (Canada)
+*://*.freedomainradio.com/*
+*://*.freedomain.com/*
+
