@@ -3679,3 +3679,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Planeta Prisão (Brazil)
 *://*.planetaprisao.com.br/*
 
+# Pollution.News (USA)
+*://*.pollution.news/*
+
