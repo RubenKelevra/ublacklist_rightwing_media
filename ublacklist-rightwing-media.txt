@@ -3592,3 +3592,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Macroevolution.net (USA)
 *://*.macroevolution.net/*
 
+# MadMaxWorld.tv (USA)
+*://*.madmaxworld.tv/*
+
