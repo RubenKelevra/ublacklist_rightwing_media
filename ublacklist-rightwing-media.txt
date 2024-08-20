@@ -3604,3 +3604,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Medical Censorship News (USA)
 *://*.medicalcensorship.com/*
 
+# Medical Kidnap (USA)
+*://*.medicalkidnap.com/*
+
