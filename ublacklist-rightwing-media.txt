@@ -4543,3 +4543,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Congressional Agenda (USA)
 *://*.congressionalagenda.com/*
 
+# Connecticut Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
