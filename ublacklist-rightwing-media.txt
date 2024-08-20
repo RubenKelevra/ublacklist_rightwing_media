@@ -4698,3 +4698,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DeKalb GA News (USA)
 *://*.dekalbganews.com/*
 
+# DeKalb Times (USA)
+*://*.dekalbtimes.com/*
+
