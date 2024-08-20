@@ -3646,3 +3646,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NoMoreFakeNews.com (USA)
 *://*.nomorefakenews.com/*
 
+# NoTricksZone (Germany)
+*://*.notrickszone.com/*
+
