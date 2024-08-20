@@ -4656,3 +4656,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Daily Star UK (UK)
 *://*.dailystar.co.uk/*
 
+# Daily Stormer (USA)
+*://*.dailystormer.in/*
+
