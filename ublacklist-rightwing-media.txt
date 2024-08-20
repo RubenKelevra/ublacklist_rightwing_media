@@ -3540,3 +3540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Irish Sentinel (Ireland)
 *://*.theirishsentinel.com/*
 
+# Israel365 News (Israel)
+*://*.israel365news.com/*
+
