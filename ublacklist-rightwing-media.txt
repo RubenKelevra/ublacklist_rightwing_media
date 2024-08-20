@@ -5118,3 +5118,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GETTR (USA)
 *://*.gettr.com/*
 
+# Ghost.Report (USA)
+*://*.ghost.report/*
+
