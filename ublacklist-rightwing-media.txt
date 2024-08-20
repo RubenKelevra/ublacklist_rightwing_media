@@ -4776,3 +4776,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Dzen.ru (Russia)
 *://*.dzen.ru/*
 
+# Eagle Valley Times (USA)
+*://*.eaglevalleytimes.com/*
+
