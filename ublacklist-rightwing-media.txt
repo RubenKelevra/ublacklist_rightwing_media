@@ -4737,3 +4737,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # District of Columbia Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# DJHJ Media (USA)
+*://*.djhjmedia.com/*
+*://*.davidharrisjr.store/*
+
