@@ -4941,3 +4941,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Europe-Israel News (Israel)
 *://*.europe-israel.org/*
 
+# Evie Magazine (USA)
+*://*.eviemagazine.com/*
+
