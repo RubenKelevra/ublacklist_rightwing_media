@@ -4902,3 +4902,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # EC Nebraska News (USA)
 *://*.ecnebraskanews.com/*
 
+# EC North Carolina News (USA)
+*://*.ecnorthcarolinanews.com/*
+
