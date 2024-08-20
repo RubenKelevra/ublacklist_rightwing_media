@@ -4153,3 +4153,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Battle Creek Times (USA)
 *://*.battlecreektimes.com/*
 
+# Bay State News (USA)
+*://*.baystatenews.com/*
+
