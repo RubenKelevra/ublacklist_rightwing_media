@@ -3320,3 +3320,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christian Apologetics & Research Ministry (USA)
 *://*.carm.org/*
 
+# Christian Broadcasting Network (USA)
+*://*.cbn.com/*
+
