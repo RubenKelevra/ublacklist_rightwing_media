@@ -4512,3 +4512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Coastal GA News (USA)
 *://*.coastalganews.com/*
 
+# Cobb Reporter (USA)
+*://*.cobbreporter.com/*
+
