@@ -4011,3 +4011,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Conservative Movement (USA)
 *://*.americanconservativemovement.com/*
 
+# American Family Association (USA)
+*://*.afa.net/*
+
