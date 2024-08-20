@@ -4977,3 +4977,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fayetteville Today (USA)
 *://*.fayettevilletoday.com/*
 
+# FDA Health News (USA)
+*://*.fdahealthnews.com/*
+
