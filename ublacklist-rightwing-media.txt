@@ -3755,3 +3755,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Survival.News (USA)
 *://*.survival.news/*
 
+# Swiss Policy Research (Unknown)
+*://*.swprs.org/*
+
