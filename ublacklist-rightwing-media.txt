@@ -3226,3 +3226,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Antioxidants.News (USA)
 *://*.antioxidants.news/*
 
+# AskingAngels.com (Australia)
+*://*.askingangels.com/*
+
