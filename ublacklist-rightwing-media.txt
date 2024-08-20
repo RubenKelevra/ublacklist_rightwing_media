@@ -4356,3 +4356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Canary Mission (USA)
 *://*.canarymission.org/*
 
+# Canton Reporter (USA)
+*://*.cantonreporter.com/*
+
