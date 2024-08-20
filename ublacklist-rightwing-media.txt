@@ -3498,3 +3498,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Health.News (USA)
 *://*.health.news/*
 
+# Health Nut News (USA)
+*://*.healthnutnews.com/*
+
