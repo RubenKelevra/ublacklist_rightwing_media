@@ -3770,3 +3770,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Technocrats.News (USA)
 *://*.technocrats.news/*
 
+# The Automatic Earth (USA)
+*://*.theautomaticearth.com/*
+
