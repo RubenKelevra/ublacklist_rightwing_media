@@ -3359,3 +3359,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Consumer Wellness Center (USA)
 *://*.consumerwellness.org/*
 
+# Corey’s Digs (USA)
+*://*.coreysdigs.com/*
+
