@@ -4683,3 +4683,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DEBKAfile (Israel)
 *://*.debka.com/*
 
+# Decatur Times (USA)
+*://*.decaturtimes.com/*
+
