@@ -3395,3 +3395,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DiedSuddenly.info (USA)
 *://*.diedsuddenly.info/*
 
+# Discoveries.News (USA)
+*://*.discoveries.news/*
+
