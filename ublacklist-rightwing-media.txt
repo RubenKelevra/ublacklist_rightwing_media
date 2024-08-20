@@ -3558,3 +3558,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kla.TV (Switzerland)
 *://*.kla.tv/*
 
+# LaRouche PAC (USA)
+*://*.larouchepac.com/*
+*://*.prometheanpac.com/*
+
