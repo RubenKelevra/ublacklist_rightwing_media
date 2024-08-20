@@ -4552,3 +4552,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Connecticut Star (USA)
 *://*.theconnecticutstar.com/*
 
+# Conservapedia (USA)
+*://*.conservapedia.com/*
+
