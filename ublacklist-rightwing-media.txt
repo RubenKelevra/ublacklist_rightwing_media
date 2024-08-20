@@ -3749,3 +3749,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Stillness in the Storm (USA)
 *://*.stillnessinthestorm.com/*
 
+# SupplementReference.com (USA)
+*://*.supplementreference.com/*
+
