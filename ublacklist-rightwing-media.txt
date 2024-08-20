@@ -3323,3 +3323,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christian Broadcasting Network (USA)
 *://*.cbn.com/*
 
+# Creation Ministries International (Australia)
+*://*.creation.com/*
+
