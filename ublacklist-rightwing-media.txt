@@ -3483,3 +3483,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Great Awakening (Unknown)
 *://*.greatawakening.win/*
 
+# Ground Zero Media (USA)
+*://*.groundzeromedia.org/*
+
