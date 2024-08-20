@@ -3930,3 +3930,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Our Finite World (USA)
 *://*.ourfiniteworld.com/*
+# 4Chan (USA)
+*://*.4chan.org/*
+
