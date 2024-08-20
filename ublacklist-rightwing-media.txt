@@ -4338,3 +4338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # C19Zinc.com (Unknown)
 *://*.c19zinc.com/*
 
+# Cabarrus Today (USA)
+*://*.cabarrustoday.com/*
+
