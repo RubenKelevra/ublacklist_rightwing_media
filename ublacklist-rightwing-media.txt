@@ -3477,3 +3477,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Godlike Productions (Unknown)
 *://*.godlikeproductions.com/*
 
+# Government Slaves (USA)
+*://*.govtslaves.com/*
+
