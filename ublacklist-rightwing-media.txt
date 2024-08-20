@@ -5115,3 +5115,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Georgia Star News (USA)
 *://*.georgiastarnews.com/*
 
+# GETTR (USA)
+*://*.gettr.com/*
+
