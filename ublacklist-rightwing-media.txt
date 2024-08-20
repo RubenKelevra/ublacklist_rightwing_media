@@ -4476,3 +4476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Church Militant (USA)
 *://*.churchmilitant.com/*
 
+# Cincy Reporter (USA)
+*://*.cincyreporter.com/*
+
