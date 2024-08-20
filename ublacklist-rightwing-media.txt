@@ -4631,3 +4631,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Culture Watch News (USA)
 *://*.culturewatchnews.com/*
 
+# Current Science Daily (USA)
+*://*.currentsciencedaily.com/*
+
