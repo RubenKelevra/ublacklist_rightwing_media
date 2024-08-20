@@ -3287,3 +3287,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CaliforniaCollapse.News (USA)
 *://*.californiacollapse.news/*
 
+# CampusInsanity.com (USA)
+*://*.campusinsanity.com/*
+
