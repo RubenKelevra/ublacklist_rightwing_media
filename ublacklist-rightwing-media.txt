@@ -3577,3 +3577,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Libtards.News (USA)
 *://*.libtards.news/*
 
+# Live Action (USA)
+*://*.liveaction.org/*
+
