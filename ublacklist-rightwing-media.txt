@@ -3625,3 +3625,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NationalSecurity.News (USA)
 *://*.nationalsecurity.news/*
 
+# NaturalMedicine.News (USA)
+*://*.naturalmedicine.news/*
+
