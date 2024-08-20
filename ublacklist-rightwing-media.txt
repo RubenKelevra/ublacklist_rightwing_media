@@ -4574,3 +4574,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservative Fighters (USA)
 *://*.cf.org/*
 
+# Conservative Free Press (USA)
+*://*.conservativefreepress.com/*
+
