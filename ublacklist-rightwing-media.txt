@@ -4959,3 +4959,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Family Research Council (USA)
 *://*.frc.org/*
 
+# Family Survival Headlines (USA)
+*://*.familysurvivalheadlines.com/*
+
