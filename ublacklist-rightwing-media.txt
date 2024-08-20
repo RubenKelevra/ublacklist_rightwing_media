@@ -4294,3 +4294,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # C19ic.com (Unknown)
 *://*.c19ic.com/*
 
+# C19ivermectin.com (Unknown)
+*://*.c19ivermectin.com/*
+*://*.c19ivm.org/*
+
