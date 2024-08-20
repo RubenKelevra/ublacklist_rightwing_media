@@ -4422,3 +4422,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Georgia News (USA)
 *://*.centralgeorgianews.com/*
 
+# Central Idaho Times (USA)
+*://*.centralidahotimes.com/*
+
