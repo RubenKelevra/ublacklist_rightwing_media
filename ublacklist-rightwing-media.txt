@@ -3177,3 +3177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Adams.News (USA)
 *://*.adams.news/*
 
+# Addiction.News (USA)
+*://*.addiction.news/*
+
