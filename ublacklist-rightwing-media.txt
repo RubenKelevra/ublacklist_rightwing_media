@@ -4410,3 +4410,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Center for Security Policy (USA)
 *://*.centerforsecuritypolicy.org/*
 
+# Central Broward News (USA)
+*://*.centralbrowardnews.com/*
+
