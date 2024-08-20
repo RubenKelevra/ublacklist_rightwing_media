@@ -3265,3 +3265,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bioterrorism.News (USA)
 *://*.bioterrorism.news/*
 
+# Blckbx.tv (Netherlands)
+*://*.blckbx.tv/*
+
