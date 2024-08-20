@@ -4072,3 +4072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Amic.ru (Russia)
 *://*.amic.ru/*
 
+# Analyzing America (USA)
+*://*.analyzingamerica.org/*
+
