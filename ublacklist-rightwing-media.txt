@@ -3377,3 +3377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # CrossExamined.org (USA)
 *://*.crossexamined.org/*
 
+# Culture Wars Magazine (USA)
+*://*.culturewars.com/*
+
