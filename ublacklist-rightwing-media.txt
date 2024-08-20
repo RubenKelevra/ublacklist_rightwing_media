@@ -4171,3 +4171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Before it’s News (USA)
 *://*.beforeitsnews.com/*
 
+# Benton Times (USA)
+*://*.bentontimes.com/*
+
