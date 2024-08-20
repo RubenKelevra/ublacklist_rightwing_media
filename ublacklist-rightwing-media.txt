@@ -5088,3 +5088,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gazeta.ru (Russia)
 *://*.gazeta.ru/*
 
+# GB News UK (UK)
+*://*.gbnews.com/*
+
