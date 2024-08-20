@@ -4232,3 +4232,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Brevard Sun (USA)
 *://*.brevardsun.com/*
 
+# Bridgeport Times (USA)
+*://*.bridgeporttimes.com/*
+
