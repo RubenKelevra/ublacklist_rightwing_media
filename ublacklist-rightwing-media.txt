@@ -3380,3 +3380,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Culture Wars Magazine (USA)
 *://*.culturewars.com/*
 
+# CultureWatch (Australia)
+*://*.billmuehlenberg.com/*
+
