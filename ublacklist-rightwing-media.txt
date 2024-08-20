@@ -5004,3 +5004,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Flashout (Unknown)
 *://*.thecareerbd.com/*
 
+# Florida Capital Star (USA)
+*://*.floridacapitalstar.com/*
+
