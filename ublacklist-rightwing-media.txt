@@ -4932,3 +4932,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # En Volve (USA)
 *://*.en-volve.com/*
 
+# Enchantment State News (USA)
+*://*.enchantmentstatenews.com/*
+
