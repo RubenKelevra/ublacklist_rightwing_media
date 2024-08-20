@@ -3513,3 +3513,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Herbreference.com (USA)
 *://*.herbreference.com/*
 
+# Humans Are Free (USA)
+*://*.humansarefree.com/*
+
