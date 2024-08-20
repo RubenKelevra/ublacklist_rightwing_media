@@ -3709,3 +3709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # RedPill Project (USA)
 *://*.redpillpodcasts.com/*
 
+# Renegade Tribune (USA)
+*://*.renegadetribune.com/*
+
