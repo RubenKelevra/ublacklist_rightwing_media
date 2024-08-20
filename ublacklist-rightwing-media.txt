@@ -3171,3 +3171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.abovetopsecret.com/*
 *://*.youtube.com/@thenlbs*
 
+# A Call for an Uprising (USA)
+*://*.acallforanuprising.com/*
+
