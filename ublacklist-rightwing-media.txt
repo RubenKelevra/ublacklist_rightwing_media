@@ -4533,3 +4533,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Competitive Enterprise Institute (USA)
 *://*.cei.org/*
 
+# Concerned Women for America (USA)
+*://*.concernedwomen.org/*
+*://*.cwfa.org/*
+
