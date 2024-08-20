@@ -4875,3 +4875,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Volusia News (USA)
 *://*.eastvolusianews.com/*
 
+# East Wake Times (USA)
+*://*.eastwaketimes.com/*
+
