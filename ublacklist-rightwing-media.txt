@@ -4518,3 +4518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Coconino News (USA)
 *://*.coconinonews.com/*
 
+# Colorado Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
