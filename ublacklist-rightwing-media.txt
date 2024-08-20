@@ -4555,3 +4555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Conservapedia (USA)
 *://*.conservapedia.com/*
 
+# Conservative Ammo (USA)
+*://*.conservativeammo.com/*
+
