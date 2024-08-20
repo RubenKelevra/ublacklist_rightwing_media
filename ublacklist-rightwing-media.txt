@@ -4353,3 +4353,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Canada Free Press (Canada)
 *://*.canadafreepress.com/*
 
+# Canary Mission (USA)
+*://*.canarymission.org/*
+
