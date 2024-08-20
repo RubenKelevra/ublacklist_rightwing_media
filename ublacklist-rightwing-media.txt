@@ -4211,3 +4211,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bongino.com (USA)
 *://*.bongino.com/*
 
+# Boston Broadside (USA)
+*://*.bostonbroadside.com/*
+
