@@ -3834,3 +3834,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TruNews (USA)
 *://*.trunews.com/*
 
+# Truth11.com (Unknown)
+*://*.truth11.com/*
+
