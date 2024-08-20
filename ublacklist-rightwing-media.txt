@@ -3752,3 +3752,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SupplementReference.com (USA)
 *://*.supplementreference.com/*
 
+# Survival.News (USA)
+*://*.survival.news/*
+
