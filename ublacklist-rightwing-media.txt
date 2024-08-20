@@ -3691,3 +3691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Prevent Genocide 2030 (USA)
 *://*.preventgenocide2030.org/*
 
+# Principia Scientific International (UK)
+*://*.principia-scientific.org/*
+
