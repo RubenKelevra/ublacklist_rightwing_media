@@ -4314,3 +4314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # C19proxalutamide.com (Unknown)
 *://*.c19proxalutamide.com/*
 
+# C19pvpi.com (Unknown)
+*://*.c19pvpi.com/*
+
