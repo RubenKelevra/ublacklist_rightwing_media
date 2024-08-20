@@ -4048,3 +4048,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Principles Project (USA)
 *://*.americanprinciplesproject.org/*
 
+# American Renaissance Magazine (USA)
+*://*.amren.com/*
+
