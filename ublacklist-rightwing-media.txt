@@ -3510,3 +3510,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Henry Makow (Canada)
 *://*.savethemales.ca/*
 
+# Herbreference.com (USA)
+*://*.herbreference.com/*
+
