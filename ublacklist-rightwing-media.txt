@@ -4214,3 +4214,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Boston Broadside (USA)
 *://*.bostonbroadside.com/*
 
+# Bowling Green Today (USA)
+*://*.bowlinggreentoday.com/*
+
