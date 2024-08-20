@@ -3164,3 +3164,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 79Days.News (USA)
 *://*.79days.news/*
 
+# 911Truth.org (USA)
+*://*.911truth.org/*
+
