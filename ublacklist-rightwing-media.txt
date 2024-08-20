@@ -4425,3 +4425,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central Idaho Times (USA)
 *://*.centralidahotimes.com/*
 
+# Central Iowa Times (USA)
+*://*.centraliowatimes.com/*
+
