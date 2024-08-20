@@ -3655,3 +3655,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NutrientReference.com (USA)
 *://*.nutrientreference.com/*
 
+# NWO Report (USA)
+*://*.nworeport.me/*
+
