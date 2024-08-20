@@ -3580,3 +3580,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Live Action (USA)
 *://*.liveaction.org/*
 
+# Living Whole (Canada)
+*://*.livingwhole.org/*
+
