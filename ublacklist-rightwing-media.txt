@@ -4521,3 +4521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Colorado Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Colorado Free Press (USA)
+*://*.coloradofreepress.com/*
+
