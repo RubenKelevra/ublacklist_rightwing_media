@@ -3715,3 +3715,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rense (USA)
 *://*.rense.com/*
 
+# Rumor Mill News (USA)
+*://*.rumormillnews.com/*
+
