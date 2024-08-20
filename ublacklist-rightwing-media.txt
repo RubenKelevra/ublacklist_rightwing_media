@@ -3734,3 +3734,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Shoebat (USA)
 *://*.shoebat.com/*
 
+# Signs of the Times (USA)
+*://*.sott.net/*
+
