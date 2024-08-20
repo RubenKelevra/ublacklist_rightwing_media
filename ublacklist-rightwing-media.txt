@@ -4947,3 +4947,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Evil.News (USA)
 *://*.evil.news/*
 
+# Fact-Checking Turkey (Turkey)
+*://*.factcheckingturkey.com/*
+
