@@ -4051,3 +4051,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Renaissance Magazine (USA)
 *://*.amren.com/*
 
+# American Security News (USA)
+*://*.americansecuritynews.com/*
+
