@@ -4452,3 +4452,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central STL News (USA)
 *://*.centralstlnews.com/*
 
+# Chambana Sun (USA)
+*://*.chambanasun.com/*
+
