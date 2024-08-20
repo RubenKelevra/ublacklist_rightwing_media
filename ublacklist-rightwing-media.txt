@@ -4190,3 +4190,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # BitChute (UK)
 *://*.bitchute.com/*
 
+# Black Genocide (USA)
+*://*.blackgenocide.org/*
+
