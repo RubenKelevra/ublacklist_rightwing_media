@@ -3616,3 +3616,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # MichaelSalla.com (USA)
 *://*.michaelsalla.com/*
 
+# Mind Matters (USA)
+*://*.mindmatters.ai/*
+
