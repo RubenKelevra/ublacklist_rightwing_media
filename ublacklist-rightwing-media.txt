@@ -4515,3 +4515,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cobb Reporter (USA)
 *://*.cobbreporter.com/*
 
+# Coconino News (USA)
+*://*.coconinonews.com/*
+
