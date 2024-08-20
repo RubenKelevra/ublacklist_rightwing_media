@@ -5013,3 +5013,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Focus on the Family (USA)
 *://*.focusonthefamily.com/*
 
+# Foothills Review (USA)
+*://*.foothillsreview.com/*
+
