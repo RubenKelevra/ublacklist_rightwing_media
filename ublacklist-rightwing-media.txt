@@ -3531,3 +3531,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ICIC.Law (Bulgaria)
 *://*.icic.law/*
 
+# Investment Watch Blog (USA)
+*://*.investmentwatchblog.com/*
+
