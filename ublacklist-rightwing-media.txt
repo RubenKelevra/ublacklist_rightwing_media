@@ -3822,3 +3822,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Wellness Company (USA)
 *://*.twc.health/*
 
+# Thought Crime Radio (USA)
+*://*.thoughtcrimeradio.net/*
+
