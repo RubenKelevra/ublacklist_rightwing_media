@@ -4196,3 +4196,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bloomington Leader (USA)
 *://*.bloomingtonleader.com/*
 
+# Bluegrass Times (USA)
+*://*.bluegrasstimes.com/*
+
