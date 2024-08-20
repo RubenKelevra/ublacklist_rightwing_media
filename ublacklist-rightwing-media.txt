@@ -3954,3 +3954,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ada Reporter (USA)
 *://*.adareporter.com/*
 
+# Adams County Times (USA)
+*://*.adamscountytimes.com/*
+
