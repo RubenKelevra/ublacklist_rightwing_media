@@ -3462,3 +3462,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fully Human (Unknown)
 *://*.fully-human.org/*
 
+# Gear.News (USA)
+*://*.gear.news/*
+
