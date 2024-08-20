@@ -4770,3 +4770,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Durham Reporter (USA)
 *://*.durhamreporter.com/*
 
+# Duval Times (USA)
+*://*.duvaltimes.com/*
+
