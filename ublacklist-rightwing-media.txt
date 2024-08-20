@@ -4443,3 +4443,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Central OC Times (USA)
 *://*.centraloctimes.com/*
 
+# Central Ohio Today (USA)
+*://*.centralohiotoday.com/*
+
