@@ -3697,3 +3697,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Primary Doctor Medical Journal (USA)
 *://*.pdmj.org/*
 
+# RandPaul.News (USA)
+*://*.randpaul.news/*
+
