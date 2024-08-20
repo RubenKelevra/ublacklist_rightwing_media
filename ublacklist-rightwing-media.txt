@@ -3794,3 +3794,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Healthy American (USA)
 *://*.thehealthyamerican.org/*
 
+# The Liberty Beacon (USA)
+*://*.thelibertybeacon.com/*
+
