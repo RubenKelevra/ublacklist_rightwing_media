@@ -3706,3 +3706,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Redoubt News (USA)
 *://*.redoubtnews.com/*
 
+# RedPill Project (USA)
+*://*.redpillpodcasts.com/*
+
