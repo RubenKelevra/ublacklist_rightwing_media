@@ -3664,3 +3664,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Off the Grid News (USA)
 *://*.offthegridnews.com/*
 
+# Pandemic News (USA)
+*://*.pandemic.news/*
+
