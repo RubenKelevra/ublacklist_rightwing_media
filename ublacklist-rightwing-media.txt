@@ -3195,3 +3195,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # AltLeft.news (USA)
 *://*.altleft.news/*
 
+# Aluminum.News (USA)
+*://*.aluminum.news/*
+
