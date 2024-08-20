@@ -4625,3 +4625,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Creative Destruction Media (USA)
 *://*.creativedestructionmedia.com/*
 
+# Cultural Action Party of Canada (Canada)
+*://*.capforcanada.com/*
+
