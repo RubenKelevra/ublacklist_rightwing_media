@@ -3434,3 +3434,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FaithIt (USA)
 *://*.faithit.com/*
 
+# FDA.News (USA)
+*://*.fda.news/*
+
