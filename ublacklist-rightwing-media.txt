@@ -3622,3 +3622,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # National File (USA)
 *://*.nationalfile.com/*
 
+# NationalSecurity.News (USA)
+*://*.nationalsecurity.news/*
+
