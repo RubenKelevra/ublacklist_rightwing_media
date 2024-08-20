@@ -4199,3 +4199,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bluegrass Times (USA)
 *://*.bluegrasstimes.com/*
 
+# Blue State Blues News (USA)
+*://*.bluestatebluesnews.com/*
+
