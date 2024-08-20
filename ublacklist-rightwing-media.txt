@@ -3262,3 +3262,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Biotech Express Magazine (India)
 *://*.biotechexpressmag.com/*
 
+# Bioterrorism.News (USA)
+*://*.bioterrorism.news/*
+
