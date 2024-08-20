@@ -4008,3 +4008,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American College of Pediatricians (USA)
 *://*.acpeds.org/*
 
+# American Conservative Movement (USA)
+*://*.americanconservativemovement.com/*
+
