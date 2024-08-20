@@ -4132,3 +4132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ATL Standard (USA)
 *://*.atlstandard.com/*
 
+# Auburn Times (USA)
+*://*.auburntimes.com/*
+
