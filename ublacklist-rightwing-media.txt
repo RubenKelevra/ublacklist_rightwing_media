@@ -4147,3 +4147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bare Naked Islam (USA)
 *://*.barenakedislam.com/*
 
+# Baton Rouge Reporter (USA)
+*://*.batonrougereporter.com/*
+
