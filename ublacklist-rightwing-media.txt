@@ -4235,3 +4235,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bridgeport Times (USA)
 *://*.bridgeporttimes.com/*
 
+# Bristol Reporter (USA)
+*://*.bristolreporter.com/*
+
