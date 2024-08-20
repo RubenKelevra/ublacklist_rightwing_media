@@ -4036,3 +4036,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Partisan (USA)
 *://*.americanpartisan.org/*
 
+# American Patriot Daily (USA)
+*://*.americanpatriotdaily.com/*
+
