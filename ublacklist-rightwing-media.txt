@@ -5064,3 +5064,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # FT Wayne Times (USA)
 *://*.ftwaynetimes.com/*
 
+# GAB News (USA)
+*://*.news.gab.com/*
+
