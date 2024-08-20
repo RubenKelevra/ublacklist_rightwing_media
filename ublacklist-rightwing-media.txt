@@ -3504,3 +3504,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # HealthRangerInventions.com (USA)
 *://*.healthrangerinventions.com/*
 
+# Health Ranger Report (USA)
+*://*.healthrangerreport.com/*
+
