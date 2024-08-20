@@ -3779,3 +3779,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Corbett Report (Japan)
 *://*.corbettreport.com/*
 
+# The Defender (USA)
+*://*.childrenshealthdefense.org/*
+
