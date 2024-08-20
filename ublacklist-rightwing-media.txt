@@ -3413,3 +3413,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ecology News (USA)
 *://*.ecology.news/*
 
+# Escape All These Things (USA)
+*://*.escapeallthesethings.com/*
+
