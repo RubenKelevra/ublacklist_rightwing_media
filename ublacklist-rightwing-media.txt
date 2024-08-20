@@ -3174,3 +3174,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # A Call for an Uprising (USA)
 *://*.acallforanuprising.com/*
 
+# Adams.News (USA)
+*://*.adams.news/*
+
