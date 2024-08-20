@@ -3933,3 +3933,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # 4Chan (USA)
 *://*.4chan.org/*
 
+# 100 Percent Fed Up (USA)
+*://*.100percentfedup.com/*
+
