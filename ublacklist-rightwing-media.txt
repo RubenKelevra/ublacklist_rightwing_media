@@ -3921,3 +3921,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # World Truth TV (USA)
 *://*.worldtruth.tv/*
 
+# Worldview Weekend (USA)
+*://*.worldviewweekend.com/*
+*://*.worldviewtube.com/*
+
