@@ -4193,3 +4193,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Black Genocide (USA)
 *://*.blackgenocide.org/*
 
+# Bloomington Leader (USA)
+*://*.bloomingtonleader.com/*
+
