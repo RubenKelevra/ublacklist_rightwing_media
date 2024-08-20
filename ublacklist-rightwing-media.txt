@@ -3492,3 +3492,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Health Helpline (New Zealand)
 *://*.health-helpline.co.nz/*
 
+# Health Impact News (USA)
+*://*.healthimpactnews.com/*
+
