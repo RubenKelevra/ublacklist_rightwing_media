@@ -4057,3 +4057,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Society for the Defense of Tradition, Family, and Property (USA)
 *://*.tfp.org/*
 
+# American Thinker (USA)
+*://*.americanthinker.com/*
+
