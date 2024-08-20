@@ -5133,3 +5133,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gloucester Today (USA)
 *://*.gloucestertoday.com/*
 
+# Gnews (USA)
+*://*.gnews.org/*
+
