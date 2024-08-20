@@ -5070,3 +5070,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gadsden Today (USA)
 *://*.gadsdentoday.com/*
 
+# Galesburg Reporter (USA)
+*://*.galesburgreporter.com/*
+
