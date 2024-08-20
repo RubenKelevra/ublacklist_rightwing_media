@@ -3534,3 +3534,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Investment Watch Blog (USA)
 *://*.investmentwatchblog.com/*
 
+# Iowa Climate Science Education (USA)
+*://*.iowaclimate.org/*
+
