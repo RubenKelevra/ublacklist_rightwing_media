@@ -3537,3 +3537,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Iowa Climate Science Education (USA)
 *://*.iowaclimate.org/*
 
+# Irish Sentinel (Ireland)
+*://*.theirishsentinel.com/*
+
