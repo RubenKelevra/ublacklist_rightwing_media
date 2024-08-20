@@ -3915,3 +3915,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # World Affairs Brief (USA)
 *://*.worldaffairsbrief.com/*
 
+# World Council for Health (UK)
+*://*.worldcouncilforhealth.org/*
+
