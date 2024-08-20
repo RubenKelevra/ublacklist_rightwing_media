@@ -4162,3 +4162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bean Town Times (USA)
 *://*.beantowntimes.com/*
 
+# Beaver State News (USA)
+*://*.beaverstatenews.com/*
+
