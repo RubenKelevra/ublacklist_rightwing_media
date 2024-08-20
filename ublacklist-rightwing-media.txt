@@ -4956,3 +4956,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fairport Educational Alliance (USA)
 *://*.fairporteducationalalliance.org/*
 
+# Family Research Council (USA)
+*://*.frc.org/*
+
