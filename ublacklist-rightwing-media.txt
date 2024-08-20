@@ -4470,3 +4470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christian Action Network (USA)
 *://*.christianaction.org/*
 
+# Christians for Truth (Unknown)
+*://*.christiansfortruth.com/*
+
