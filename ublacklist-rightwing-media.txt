@@ -5037,3 +5037,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Freedom First Network (USA)
 *://*.freedomfirstnetwork.com/*
 
+# Freedom News Report (USA)
+*://*.freedomnewsreport.com/*
+
