@@ -4782,3 +4782,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Alameda News (USA)
 *://*.eastalamedanews.com/*
 
+# East Arapahoe News (USA)
+*://*.eastarapahoenews.com/*
+
