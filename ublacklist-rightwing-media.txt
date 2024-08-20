@@ -4497,3 +4497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Clay County Times (USA)
 *://*.claycotimes.com/*
 
+# Clay Reporter (USA)
+*://*.clayreporter.com/*
+
