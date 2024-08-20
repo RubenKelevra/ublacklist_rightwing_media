@@ -4704,3 +4704,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Delaware Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Delaware County Review (USA)
+*://*.delcoreview.com/*
+
