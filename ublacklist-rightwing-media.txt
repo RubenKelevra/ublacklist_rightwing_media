@@ -4821,3 +4821,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East Lake Norman News (USA)
 *://*.eastlakenormannews.com/*
 
+# East Little Rock Times (USA)
+*://*.eastlittlerocktimes.com/*
+
