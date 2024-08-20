@@ -4135,3 +4135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Auburn Times (USA)
 *://*.auburntimes.com/*
 
+# AustraliaOne (Australia)
+*://*.australiaoneparty.com/*
+
