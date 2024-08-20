@@ -3341,3 +3341,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Climate.News (USA)
 *://*.climate.news/*
 
+# ClimateScienceNews (USA)
+*://*.climatesciencenews.com/*
+
