@@ -4836,3 +4836,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # East OKC News (USA)
 *://*.eastokcnews.com/*
 
+# East Oregon News (USA)
+*://*.eastoregonnews.com/*
+
