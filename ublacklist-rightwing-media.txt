@@ -3996,3 +3996,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # America First Report (USA)
 *://*.americafirstreport.com/*
 
+# America Out Loud (USA)
+*://*.americaoutloud.news/*
+
