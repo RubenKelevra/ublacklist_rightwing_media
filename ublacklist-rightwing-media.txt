@@ -3876,3 +3876,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vaxxter (USA)
 *://*.vaxxter.com/*
 
+# Vigilant Citizen (USA)
+*://*.vigilantcitizen.com/*
+
