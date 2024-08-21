@@ -6255,3 +6255,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Triangle News (USA)
 *://*.northtrianglenews.com/*
 
+# North Tulsa Today (USA)
+*://*.northtulsatoday.com/*
+
