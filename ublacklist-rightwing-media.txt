@@ -6022,3 +6022,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newzoh (USA)
 *://*.newzoh.com/*
 
+# The People’s Voice (USA)
+*://*.thepeoplesvoice.tv/*
+
