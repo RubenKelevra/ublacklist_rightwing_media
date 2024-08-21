@@ -6132,3 +6132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Cincy News (USA)
 *://*.northcincynews.com/*
 
+# North Country Leader (USA)
+*://*.northcountryleader.com/*
+
