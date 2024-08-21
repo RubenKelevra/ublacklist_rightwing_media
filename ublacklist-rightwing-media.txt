@@ -5151,3 +5151,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GOP.gov (USA)
 *://*.gop.gov/*
 
+# GOPUSA (USA)
+*://*.gopusa.com/*
+
