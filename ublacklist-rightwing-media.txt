@@ -7096,3 +7096,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Orlando News (USA)
 *://*.southorlandonews.com/*
 
+# South Palm Beach Today (USA)
+*://*.southpalmbeachtoday.com/*
+
