@@ -6593,3 +6593,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Project Veritas (USA)
 *://*.projectveritas.com/*
 
+# Proto Thema (GREECE)
+*://*.en.protothema.gr/*
+
