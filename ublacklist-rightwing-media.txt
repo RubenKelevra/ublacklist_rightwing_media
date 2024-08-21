@@ -5308,3 +5308,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Illicit Info (USA)
 *://*.illicitinfo.com/*
 
+# Illinois Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
