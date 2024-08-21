@@ -6817,3 +6817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC Connecticut News (USA)
 *://*.scconnnews.com/*
 
+# SC Kansas News (USA)
+*://*.sckansasnews.com/*
+
