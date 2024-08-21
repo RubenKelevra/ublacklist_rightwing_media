@@ -7520,3 +7520,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The RFAngle (USA)
 *://*.rfangle.com/*
 
+# The Region News (USA)
+*://*.theregionnews.com/*
+
