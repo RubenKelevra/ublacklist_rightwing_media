@@ -6913,3 +6913,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SFV Today (USA)
 *://*.sfvtoday.com/*
 
+# SGV Standard (USA)
+*://*.sgvstandard.com/*
+
