@@ -6513,3 +6513,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pocatello Times (USA)
 *://*.pocatellotimes.com/*
 
+# Point Report (USA)
+*://*.pointreport.org/*
+
