@@ -6623,3 +6623,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Real Science (Unknown)
 *://*.goodsciencing.com/*
 
+# Redacted (Portugal)
+*://*.redacted.inc/*
+
