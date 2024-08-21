@@ -7287,3 +7287,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Bluegrass News (USA)
 *://*.swbluegrassnews.com/*
 
+# SW Colorado News (USA)
+*://*.swcoloradonews.com/*
+
