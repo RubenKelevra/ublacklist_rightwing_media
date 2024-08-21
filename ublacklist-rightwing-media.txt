@@ -7799,3 +7799,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WC Missouri News (USA)
 *://*.wcmissourinews.com/*
 
+# WC New Mexico News (USA)
+*://*.wcnewmexiconews.com/*
+
