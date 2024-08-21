@@ -6669,3 +6669,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Republican National Committee (USA)
 *://*.gop.com/*
 
+# Resist The Mainstream (Macedonia)
+*://*.resistthemainstream.org/*
+*://*.resistthemainstream.com/*
+
