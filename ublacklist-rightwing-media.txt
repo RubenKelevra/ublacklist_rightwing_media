@@ -6651,3 +6651,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Redwood Empire News (USA)
 *://*.redwoodempirenews.com/*
 
+# Reformed Media (USA)
+*://*.reformedmedia.net/*
+
