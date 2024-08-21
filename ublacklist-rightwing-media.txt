@@ -6447,3 +6447,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriot NewsFeed (USA)
 *://*.patriotnewsfeed.com/*
 
+# Patriot Pulse (USA)
+*://*.patriotpulse.net/*
+
