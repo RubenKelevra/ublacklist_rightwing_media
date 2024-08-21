@@ -6147,3 +6147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Fulton Today (USA)
 *://*.northfultontoday.com/*
 
+# North Guilford News (USA)
+*://*.northguilfordnews.com/*
+
