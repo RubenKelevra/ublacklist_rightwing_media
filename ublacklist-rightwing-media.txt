@@ -6787,3 +6787,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Santa Cruz Standard (USA)
 *://*.santacruzstandard.com/*
 
+# San Mateo Sun (USA)
+*://*.sanmateosun.com/*
+
