@@ -6919,3 +6919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Shelby Review (USA)
 *://*.shelbyreview.com/*
 
+# Shiawassee Times (USA)
+*://*.shiawasseetimes.com/*
+
