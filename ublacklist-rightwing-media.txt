@@ -7949,3 +7949,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WLT Report (USA)
 *://*.wltreport.com/*
 
+# WND News Center (USA)
+*://*.wndnewscenter.org/*
+
