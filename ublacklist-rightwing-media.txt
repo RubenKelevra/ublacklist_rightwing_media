@@ -5592,3 +5592,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lowe Delta News (USA)
 *://*.lowedeltanews.com/*
 
+# Macomb Today (USA)
+*://*.macombtoday.com/*
+
