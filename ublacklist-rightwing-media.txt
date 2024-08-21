@@ -7613,3 +7613,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tulsa Standard (USA)
 *://*.tulsastandard.com/*
 
+# Trumball News (USA)
+*://*.trumballnews.com/*
+
