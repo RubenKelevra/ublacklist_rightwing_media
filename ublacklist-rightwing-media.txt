@@ -6342,3 +6342,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Ohio Times (USA)
 *://*.nwohiotimes.com/*
 
+# NW Oklahoma News (USA)
+*://*.nwoklahomanews.com/*
+
