@@ -7006,3 +7006,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Cuyahoga News (USA)
 *://*.southcuyahoganews.com/*
 
+# South Dayton News (USA)
+*://*.southdaytonnews.com/*
+
