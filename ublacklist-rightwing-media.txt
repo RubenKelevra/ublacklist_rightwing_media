@@ -5507,3 +5507,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lawrence Reporter (USA)
 *://*.lawrencereporter.com/*
 
+# LAX Leader (USA)
+*://*.laxleader.com/*
+
