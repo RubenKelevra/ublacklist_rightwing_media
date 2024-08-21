@@ -6231,3 +6231,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Ramsey News (USA)
 *://*.northramseynews.com/*
 
+# North Sacramento Today (USA)
+*://*.northsactoday.com/*
+
