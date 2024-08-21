@@ -5163,3 +5163,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grand Rapids Reporter (USA)
 *://*.grandrapidsreporter.com/*
 
+# Granite Grok (USA)
+*://*.granitegrok.com/*
+
