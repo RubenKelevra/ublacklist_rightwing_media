@@ -5688,3 +5688,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metro Lex News (USA)
 *://*.metrolexnews.com/*
 
+# Metro West Times (USA)
+*://*.metrowesttimes.com/*
+
