@@ -5510,3 +5510,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # LAX Leader (USA)
 *://*.laxleader.com/*
 
+# Leading Report (USA)
+*://*.theleadingreport.com/*
+
