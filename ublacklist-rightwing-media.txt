@@ -7973,3 +7973,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # XYZ.net.au (Australia)
 *://*.xyz.net.au/*
 
+# Yadkin Valley News (USA)
+*://*.yadkinvalleynews.com/*
+
