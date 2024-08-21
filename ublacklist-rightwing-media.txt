@@ -7586,3 +7586,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Topeka Sun (USA)
 *://*.topekasun.com/*
 
+# Townhall (USA)
+*://*.twitter.com/townhallcom*
+*://*.x.com/townhallcom*
+*://*.facebook.com/townhallcom*
+*://*.townhall.com/*
+
