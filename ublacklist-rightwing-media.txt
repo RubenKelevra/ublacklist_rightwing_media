@@ -7084,3 +7084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Ohio News (USA)
 *://*.southohionews.com/*
 
+# South OKC News (USA)
+*://*.southokcnews.com/*
+
