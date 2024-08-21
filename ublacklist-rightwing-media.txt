@@ -7967,3 +7967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wyandotte Times (USA)
 *://*.wyandottetimes.com/*
 
+# X Strategies (USA)
+*://*.xstrategies.com/*
+
