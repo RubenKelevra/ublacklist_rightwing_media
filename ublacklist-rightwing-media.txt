@@ -5721,3 +5721,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mid Coast Today (USA)
 *://*.midcoasttoday.com/*
 
+# Middle East Forum (USA)
+*://*.meforum.org/*
+
