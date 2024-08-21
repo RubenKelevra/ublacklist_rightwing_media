@@ -8120,3 +8120,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Preußische Allgemeine Zeitung (Germany)
 *://*.paz.de/*
+
+# Schweizerzeit (Swiss)
+*://*.schweizerzeit.ch/*
