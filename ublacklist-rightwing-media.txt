@@ -7003,3 +7003,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Cook News (USA)
 *://*.southcooknews.com/*
 
+# South Cuyahoga News (USA)
+*://*.southcuyahoganews.com/*
+
