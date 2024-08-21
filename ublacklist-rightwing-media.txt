@@ -6745,3 +6745,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rumble (Canada)
 *://*.rumble.com/*
 
+# Ruptly (Russia)
+*://*.ruptly.tv/*
+
