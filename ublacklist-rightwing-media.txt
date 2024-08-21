@@ -5763,3 +5763,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Missouri Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Mixi.Media (USA)
+*://*.mixi.media/*
+
