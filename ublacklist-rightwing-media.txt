@@ -5914,3 +5914,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nebraska Panhandle News (USA)
 *://*.nepanhandlenews.com/*
 
+# NE Cali News (USA)
+*://*.necalinews.com/*
+
