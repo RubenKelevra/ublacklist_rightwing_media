@@ -7024,3 +7024,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Franklin News (USA)
 *://*.southfranklinnews.com/*
 
+# South Georgia Times (USA)
+*://*.southgeorgiatimes.com/*
+
