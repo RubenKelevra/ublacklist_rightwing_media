@@ -5790,3 +5790,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Montana Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Monterey Times (USA)
+*://*.montereytimes.com/*
+
