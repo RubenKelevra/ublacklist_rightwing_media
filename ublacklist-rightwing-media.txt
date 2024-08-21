@@ -7724,3 +7724,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Verdugos News (USA)
 *://*.verdugosnews.com/*
 
+# Victor Valley Times (USA)
+*://*.victorvalleytimes.com/*
+
