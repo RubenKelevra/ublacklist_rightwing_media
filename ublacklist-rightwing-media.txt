@@ -6556,3 +6556,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Portland Maine News (USA)
 *://*.portlandmainenews.com/*
 
+# PragerU (USA)
+*://*.prageru.com/*
+
