@@ -5477,3 +5477,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lake County Gazette (USA)
 *://*.lakecountygazette.com/*
 
+# Lake County Times (USA)
+*://*.lakecountytimes.com/*
+
