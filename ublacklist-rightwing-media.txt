@@ -5851,3 +5851,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # National Vanguard (USA)
 *://*.nationalvanguard.org/*
 
+# Nation and State (USA)
+*://*.nationandstate.com/*
+
