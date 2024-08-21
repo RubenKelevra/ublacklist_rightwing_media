@@ -6249,3 +6249,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North STL News (USA)
 *://*.northstlnews.com/*
 
+# North Summit News (USA)
+*://*.northsummitnews.com/*
+
