@@ -6483,3 +6483,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Personal Liberty (USA)
 *://*.personalliberty.com/*
 
+# PHX Reporter (USA)
+*://*.phxreporter.com/*
+
