@@ -6883,3 +6883,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE LA Times (USA)
 *://*.selatimes.com/*
 
+# SE Minnesota News (USA)
+*://*.seminnesotanews.com/*
+
