@@ -6019,3 +6019,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News Hour First (USA)
 *://*.newshourfirst.com/*
 
+# Newzoh (USA)
+*://*.newzoh.com/*
+
