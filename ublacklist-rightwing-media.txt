@@ -5646,3 +5646,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Massachusetts Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Mat-Su Times (USA)
+*://*.matsutimes.com/*
+
