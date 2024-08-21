@@ -6393,3 +6393,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Onslow News (USA)
 *://*.onslownews.com/*
 
+# Oregon Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
