@@ -7235,3 +7235,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Strafford News (USA)
 *://*.auburntimes.com/*
 
+# Strategic Culture Foundation (Russia)
+*://*.strategic-culture.org/*
+
