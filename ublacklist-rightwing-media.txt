@@ -6751,3 +6751,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # RushLimbaugh.com (USA)
 *://*.rushlimbaugh.com/*
 
+# Russia Insider (Russia)
+*://*.russia-insider.com/*
+
