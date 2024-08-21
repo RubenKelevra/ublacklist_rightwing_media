@@ -7817,3 +7817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Westbank Louisiana News (USA)
 *://*.westbanklanews.com/*
 
+# West Central Alabama News (USA)
+*://*.wcalabamanews.com/*
+
