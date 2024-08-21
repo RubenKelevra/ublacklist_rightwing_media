@@ -6733,3 +6733,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rossiya Segodnya (Russia)
 *://*.rossiyasegodnya.com/*
 
+# Rowan News (USA)
+*://*.rowannews.com/*
+
