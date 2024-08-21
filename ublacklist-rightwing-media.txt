@@ -7045,3 +7045,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Jefferson County News (USA)
 *://*.southjeffconews.com/*
 
+# South Jersey Sun (USA)
+*://*.southjerseysun.com/*
+
