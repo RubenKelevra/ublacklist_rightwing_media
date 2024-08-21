@@ -7625,3 +7625,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Truth and Action (USA)
 *://*.truthandaction.org/*
 
+# Truth Based Media (Unknown)
+*://*.truthbasedmedia.com/*
+
