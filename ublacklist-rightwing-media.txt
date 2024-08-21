@@ -7736,3 +7736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Virginia Star (USA)
 *://*.thevirginiastar.com/*
 
+# Vision Times (USA)
+*://*.visiontimes.com/*
+
