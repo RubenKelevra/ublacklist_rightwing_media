@@ -7631,3 +7631,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Truth Press (USA)
 *://*.truthpress.com/*
 
+# Tsargrad TV (Russia)
+*://*.tsargrad.tv/*
+
