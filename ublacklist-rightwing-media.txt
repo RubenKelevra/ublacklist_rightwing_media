@@ -7054,3 +7054,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Kent News (USA)
 *://*.southkentnews.com/*
 
+# South Lake Today (USA)
+*://*.southlaketoday.com/*
+
