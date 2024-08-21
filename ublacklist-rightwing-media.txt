@@ -5694,3 +5694,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mexico Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Miami Courant (USA)
+*://*.miamicourant.com/*
+
