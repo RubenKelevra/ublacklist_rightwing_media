@@ -7670,3 +7670,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Understanding The Threat (USA)
 *://*.understandingthethreat.com/*
 
+# Union County Review (USA)
+*://*.unioncountyreview.com/*
+
