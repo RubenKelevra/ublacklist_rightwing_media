@@ -5492,3 +5492,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lansing Sun (USA)
 *://*.lansingsun.com/*
 
+# Larimer News (USA)
+*://*.larimernews.com/*
+
