@@ -6072,3 +6072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nola Reporter (USA)
 *://*.nolareporter.com/*
 
+# No Left Turn in Education (USA)
+*://*.noleftturn.us/*
+
