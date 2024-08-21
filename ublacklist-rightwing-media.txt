@@ -6312,3 +6312,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Illinois News (USA)
 *://*.nwillinoisnews.com/*
 
+# NW Jersey News (USA)
+*://*.nwjerseynews.com/*
+
