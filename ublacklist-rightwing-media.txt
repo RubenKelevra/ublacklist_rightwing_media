@@ -7574,3 +7574,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Thumb Reporter (USA)
 *://*.thumbreporter.com/*
 
+# Tobacco News Wire (USA)
+*://*.tobacconewswire.com/*
+
