@@ -5549,3 +5549,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Licking Today (USA)
 *://*.lickingtoday.com/*
 
+# Life News (USA)
+*://*.lifenews.com/*
+
