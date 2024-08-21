@@ -6679,3 +6679,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Revolver.News (Unknown)
 *://*.revolver.news/*
 
+# RIA Novosti (Russia)
+*://*.ria.ru/*
+
