@@ -7012,3 +7012,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Southern Illinois News (USA)
 *://*.silnews.com/*
 
+# Southern Indiana Today (USA)
+*://*.southernindianatoday.com/*
+
