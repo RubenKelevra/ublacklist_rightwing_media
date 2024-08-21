@@ -5353,3 +5353,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Interior Alaska News (USA)
 *://*.interioralaskanews.com/*
 
+# Iowa Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
