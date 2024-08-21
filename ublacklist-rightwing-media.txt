@@ -6438,3 +6438,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriot Fetch (USA)
 *://*.patriotfetch.com/*
 
+# Patriot Journal (USA)
+*://*.thepatriotjournal.com/*
+
