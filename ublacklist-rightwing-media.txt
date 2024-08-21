@@ -6084,3 +6084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Alaska News (USA)
 *://*.northalaskanews.com/*
 
+# North Baltimore Journal (USA)
+*://*.northbaltimorejournal.com/*
+
