@@ -5423,3 +5423,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Katehon (Russia)
 *://*.katehon.com/*
 
+# Kauai Sun (USA)
+*://*.kauaisun.com/*
+
