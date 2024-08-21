@@ -6838,3 +6838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Alaska News (USA)
 *://*.sealaskanews.com/*
 
+# SE Arizona News (USA)
+*://*.searizonanews.com/*
+
