@@ -6608,3 +6608,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Quincy Reporter (USA)
 *://*.quincyreporter.com/*
 
+# RAIR Foundation USA (USA)
+*://*.rairfoundation.com/*
+
