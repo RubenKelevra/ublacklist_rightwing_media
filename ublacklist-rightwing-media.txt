@@ -5453,3 +5453,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Knights Templar International (USA)
 *://*.knightstemplarorder.com/*
 
+# Kokomo Standard (USA)
+*://*.kokomostandard.com/*
+
