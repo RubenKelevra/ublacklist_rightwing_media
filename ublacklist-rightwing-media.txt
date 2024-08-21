@@ -5139,3 +5139,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gold Country Today (USA)
 *://*.goldcountrytoday.com/*
 
+# Golden State Today (USA)
+*://*.goldenstatetoday.com/*
+
