@@ -5655,3 +5655,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # McHenry Times (USA)
 *://*.mchenrytimes.com/*
 
+# McLean County Times (USA)
+*://*.mcleancountytimes.com/*
+
