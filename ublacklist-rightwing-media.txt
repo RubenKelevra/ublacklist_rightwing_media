@@ -6748,3 +6748,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ruptly (Russia)
 *://*.ruptly.tv/*
 
+# RushLimbaugh.com (USA)
+*://*.rushlimbaugh.com/*
+
