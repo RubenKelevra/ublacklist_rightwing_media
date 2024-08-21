@@ -7129,3 +7129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South West Illinois News (USA)
 *://*.swillinoisnews.com/*
 
+# Southwest Montana News (USA)
+*://*.swmontanatimes.com/*
+
