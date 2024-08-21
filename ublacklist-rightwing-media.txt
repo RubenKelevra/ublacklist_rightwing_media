@@ -7598,3 +7598,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Treasure Valley Times (USA)
 *://*.treasurevalleytimes.com/*
 
+# Trending Politics (USA)
+*://*.trendingpolitics.com/*
+
