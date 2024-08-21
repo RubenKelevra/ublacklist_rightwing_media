@@ -7317,3 +7317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW New Hampshire News (USA)
 *://*.swnewhampshirenews.com/*
 
+# SW New Mexico News (USA)
+*://*.swnewmexiconews.com/*
+
