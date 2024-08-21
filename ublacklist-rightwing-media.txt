@@ -5504,3 +5504,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # La Verità (Italy)
 *://*.laverita.info/*
 
+# Lawrence Reporter (USA)
+*://*.lawrencereporter.com/*
+
