@@ -7892,3 +7892,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West PDX Today (USA)
 *://*.westpdxtoday.com/*
 
+# West Pennyroyal News (USA)
+*://*.westpennyroyalnews.com/*
+
