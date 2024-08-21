@@ -6078,3 +6078,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Norfolk Reporter (USA)
 *://*.norfolkreporter.com/*
 
+# North Acadiana News (USA)
+*://*.northacadiananews.com/*
+
