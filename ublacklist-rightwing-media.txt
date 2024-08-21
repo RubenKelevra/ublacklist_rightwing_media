@@ -6730,3 +6730,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rome Reporter (USA)
 *://*.romereporter.com/*
 
+# Rossiya Segodnya (Russia)
+*://*.rossiyasegodnya.com/*
+
