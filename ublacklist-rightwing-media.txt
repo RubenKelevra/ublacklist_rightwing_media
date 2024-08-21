@@ -6979,3 +6979,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Bend Times (USA)
 *://*.southbendtimes.com/*
 
+# South Alabama Times (USA)
+*://*.southalabamatimes.com/*
+
