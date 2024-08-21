@@ -5772,3 +5772,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mohave Today (USA)
 *://*.mohavetoday.com/*
 
+# Mohawk Valley Times (USA)
+*://*.mohawkvalleytimes.com/*
+
