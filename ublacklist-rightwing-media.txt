@@ -7658,3 +7658,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tuscaloosa Leader (USA)
 *://*.tuscaloosaleader.com/*
 
+# Tuscarawas News (USA)
+*://*.tuscarawasnews.com/*
+
