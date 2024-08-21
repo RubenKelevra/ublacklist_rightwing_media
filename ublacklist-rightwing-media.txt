@@ -5480,3 +5480,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lake County Times (USA)
 *://*.lakecountytimes.com/*
 
+# Lake Region News (USA)
+*://*.lakeregionnews.com/*
+
