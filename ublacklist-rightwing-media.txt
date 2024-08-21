@@ -6820,3 +6820,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC Kansas News (USA)
 *://*.sckansasnews.com/*
 
+# SC Minnesota News (USA)
+*://*.scminnesotanews.com/*
+
