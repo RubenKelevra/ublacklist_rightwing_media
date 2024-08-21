@@ -6004,3 +6004,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News18 (India)
 *://*.news18.com/*
 
+# News Addicts (USA)
+*://*.newsaddicts.com/*
+
