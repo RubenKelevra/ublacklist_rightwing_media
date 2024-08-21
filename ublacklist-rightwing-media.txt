@@ -243,6 +243,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.beliefnet.com/*
 
 # Birmingham’s Real Talk (USA)
+*://*.instagram.com/realtalk_uk*
 *://*.talk995.com/*
 
 # Bizpac Review (USA)
