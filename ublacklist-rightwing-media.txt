@@ -7272,3 +7272,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SwampDrain.com (Unknown)
 *://*.swampdrain.com/*
 
+# Swarajya (India)
+*://*.swarajyamag.com/*
+
