@@ -5911,3 +5911,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nebraska Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Nebraska Panhandle News (USA)
+*://*.nepanhandlenews.com/*
+
