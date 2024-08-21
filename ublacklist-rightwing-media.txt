@@ -6790,3 +6790,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # San Mateo Sun (USA)
 *://*.sanmateosun.com/*
 
+# Santa Fe Standard (USA)
+*://*.santafestandard.com/*
+
