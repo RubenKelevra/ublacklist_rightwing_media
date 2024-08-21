@@ -7260,3 +7260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sunshine Sentinel (USA)
 *://*.sunshinesentinel.com/*
 
+# SurvivalBlog.com (USA)
+*://*.survivalblog.com/*
+
