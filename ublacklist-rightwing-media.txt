@@ -6010,3 +6010,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News Blaze (Australia)
 *://*.newsblaze.com/*
 
+# News Global (USA)
+*://*.newsglobal.com/*
+
