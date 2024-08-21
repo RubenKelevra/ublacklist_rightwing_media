@@ -5429,3 +5429,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KC Reporter (USA)
 *://*.kcreporter.com/*
 
+# Kendall County Times (USA)
+*://*.kendallcountytimes.com/*
+
