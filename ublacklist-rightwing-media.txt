@@ -6159,3 +6159,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Michigan News (USA)
 *://*.northmichigannews.com/*
 
+# North Idaho Times (USA)
+*://*.northidahotimes.com/*
+
