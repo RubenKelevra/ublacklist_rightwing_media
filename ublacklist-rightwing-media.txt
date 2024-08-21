@@ -5290,3 +5290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Idaho Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Idaho Freedom Foundation (USA)
+*://*.idahofreedom.org/*
+
