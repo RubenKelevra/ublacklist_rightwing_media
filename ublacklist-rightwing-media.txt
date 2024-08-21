@@ -7150,3 +7150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Spring Times (USA)
 *://*.springstimes.com/*
 
+# Sputnik News (Russia)
+*://*.sputnikglobe.com/*
+
