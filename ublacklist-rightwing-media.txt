@@ -5619,3 +5619,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mainstream Fake Media (USA)
 *://*.mainstreamfakemedia.com/*
 
+# Make America Great Again Inc (USA)
+*://*.magapac.com/*
+
