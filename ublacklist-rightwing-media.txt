@@ -7565,3 +7565,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Unz Review (USA)
 *://*.unz.com/*
 
+# The Warren Sun (USA)
+*://*.warrensun.com/*
+
