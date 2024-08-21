@@ -6778,3 +6778,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # San Joaquin Times (USA)
 *://*.sanjoaquintimes.com/*
 
+# San Jose Standard (USA)
+*://*.sanjosestandard.com/*
+
