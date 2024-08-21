@@ -7523,3 +7523,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Region News (USA)
 *://*.theregionnews.com/*
 
+# The Right Scoop (Canada)
+*://*.therightscoop.com/*
+
