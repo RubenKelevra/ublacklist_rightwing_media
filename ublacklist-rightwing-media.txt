@@ -7072,3 +7072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Michigan News (USA)
 *://*.southmichigannews.com/*
 
+# South Middlesex Times (USA)
+*://*.southmiddlesextimes.com/*
+
