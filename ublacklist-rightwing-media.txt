@@ -5926,3 +5926,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Florida News (USA)
 *://*.nefloridanews.com/*
 
+# NE Franklin News (USA)
+*://*.nefranklinnews.com/*
+
