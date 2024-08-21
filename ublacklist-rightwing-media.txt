@@ -6844,3 +6844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Secure America Now (USA)
 *://*.secureamericanow.org/*
 
+# SE Bluegrass News (USA)
+*://*.sebluegrassnews.com/*
+
