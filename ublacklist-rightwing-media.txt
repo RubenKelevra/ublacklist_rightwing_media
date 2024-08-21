@@ -6402,3 +6402,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Orlando Standard (USA)
 *://*.orlandostandard.com/*
 
+# Outraged Patriot (Unknown)
+*://*.outragedpatriot.com/*
+
