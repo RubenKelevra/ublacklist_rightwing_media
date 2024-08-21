@@ -5628,3 +5628,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Manila Business Daily (USA)
 *://*.manilabusinessdaily.com/*
 
+# Mansfield Times (USA)
+*://*.mansfieldtimes.com/*
+
