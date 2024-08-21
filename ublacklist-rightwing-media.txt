@@ -6330,3 +6330,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Minnesota News (USA)
 *://*.nwminnesotanews.com/*
 
+# NW Mississippi News (USA)
+*://*.nwmissnews.com/*
+
