@@ -5411,3 +5411,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kalamazoo Times (USA)
 *://*.kalamazootimes.com/*
 
+# Kane County Reporter (USA)
+*://*.kanecountyreporter.com/*
+
