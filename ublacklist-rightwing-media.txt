@@ -6799,3 +6799,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sarasota Review- Bias and Credibility (USA)
 *://*.sarasotareview.com/*
 
+# Saratoga Standard (USA)
+*://*.saratogastandard.com/*
+
