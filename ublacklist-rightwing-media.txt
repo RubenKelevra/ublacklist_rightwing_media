@@ -6757,3 +6757,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Russian News Agency-TASS (Russia)
 *://*.tass.com/*
 
+# Ruth Institute (USA)
+*://*.ruthinstitute.org/*
+
