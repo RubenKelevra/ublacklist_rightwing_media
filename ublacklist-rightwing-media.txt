@@ -6955,3 +6955,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sooner State News (USA)
 *://*.soonerstatenews.com/*
 
+# South ABQ News (USA)
+*://*.southabqnews.com/*
+
