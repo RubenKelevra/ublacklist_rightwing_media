@@ -6153,3 +6153,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Gwinnett News (USA)
 *://*.northgwinnettnews.com/*
 
+# North Hennepin News (USA)
+*://*.northhennepinnews.com/*
+
