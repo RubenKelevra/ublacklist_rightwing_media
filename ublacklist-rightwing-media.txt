@@ -7769,3 +7769,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Washoe News (USA)
 *://*.washoenews.com/*
 
+# Waterford Today (USA)
+*://*.waterfordtoday.com/*
+
