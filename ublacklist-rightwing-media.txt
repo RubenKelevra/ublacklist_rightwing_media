@@ -5275,3 +5275,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hudson Today (USA)
 *://*.hudsontoday.com/*
 
+# Human Life International (USA)
+*://*.hli.org/*
+
