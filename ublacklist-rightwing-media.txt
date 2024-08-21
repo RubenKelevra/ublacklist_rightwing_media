@@ -6988,3 +6988,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Broward News (USA)
 *://*.southbrowardnews.com/*
 
+# South Central Reporter (USA)
+*://*.southcentralreporter.com/*
+
