@@ -7135,3 +7135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Wichita News (USA)
 *://*.southwichitanews.com/*
 
+# South Winston-Salem News (USA)
+*://*.southwinstonsalemnews.com/*
+
