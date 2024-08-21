@@ -6013,3 +6013,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News Global (USA)
 *://*.newsglobal.com/*
 
+# News Heist (USA)
+*://*.newsheist.com/*
+
