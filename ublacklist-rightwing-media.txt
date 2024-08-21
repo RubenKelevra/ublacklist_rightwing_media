@@ -6171,3 +6171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Iowa Reporter (USA)
 *://*.northiowareporter.com/*
 
+# North Iredell News (USA)
+*://*.northiredellnews.com/*
+
