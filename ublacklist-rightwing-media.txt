@@ -7550,3 +7550,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Thinking Conservative (USA)
 *://*.thethinkingconservative.com/*
 
+# The Times of America (Unknown)
+*://*.digifection.com/*
+
