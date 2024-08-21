@@ -6261,3 +6261,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Vegas Times (USA)
 *://*.northvegastimes.com/*
 
+# Northwest Montana News (USA)
+*://*.nwmontananews.com/*
+
