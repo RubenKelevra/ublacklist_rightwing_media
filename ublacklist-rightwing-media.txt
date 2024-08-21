@@ -6991,3 +6991,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Central Reporter (USA)
 *://*.southcentralreporter.com/*
 
+# South Charlotte Today (USA)
+*://*.southcharlottetoday.com/*
+
