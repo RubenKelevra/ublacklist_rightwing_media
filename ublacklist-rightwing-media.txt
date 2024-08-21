@@ -5356,3 +5356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Iowa Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Iowa City Today (USA)
+*://*.iowacitytoday.com/*
+
