@@ -6578,3 +6578,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Press California (USA)
 *://*.presscalifornia.com/*
 
+# Press Corp (USA)
+*://*.presscorp.org/*
+
