@@ -5193,3 +5193,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GTR Times (USA)
 *://*.gtrtimes.com/*
 
+# Gulf News (United Arab Emirates)
+*://*.gulfnews.com/*
+
