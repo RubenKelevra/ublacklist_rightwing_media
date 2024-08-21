@@ -5875,3 +5875,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NC Indiana News (USA)
 *://*.ncindiananews.com/*
 
+# NC Kentucky News (USA)
+*://*.nckentuckynews.com/*
+
