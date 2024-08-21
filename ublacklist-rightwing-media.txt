@@ -5613,3 +5613,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Maine Highlands News (USA)
 *://*.mainehighlandsnews.com/*
 
+# Maine Lakes News (USA)
+*://*.mainelakesnews.com/*
+
