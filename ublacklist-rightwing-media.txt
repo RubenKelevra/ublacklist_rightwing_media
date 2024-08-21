@@ -6550,3 +6550,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Portage Times (USA)
 *://*.portagetimes.com/*
 
+# Portland Courant (USA)
+*://*.portlandcourant.com/*
+
