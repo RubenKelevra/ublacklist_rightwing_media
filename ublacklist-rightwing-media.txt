@@ -7571,3 +7571,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Three Percent Nation (USA)
 *://*.threepercenternation.com/*
 
+# Thumb Reporter (USA)
+*://*.thumbreporter.com/*
+
