@@ -7405,3 +7405,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Economic Times (India)
 *://*.economictimes.indiatimes.com/*
 
+# The Epoch Times (USA)
+*://*.theepochtimes.com/*
+
