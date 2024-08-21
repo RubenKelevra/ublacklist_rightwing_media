@@ -219,6 +219,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.asianews.it/*
 
 # Assyrian International News Agency (USA)
+*://*.twitter.com/ainanews*
+*://*.x.com/ainanews*
 *://*.aina.org/*
 
 # Ayn Rand Centre (UK)
