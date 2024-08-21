@@ -7643,3 +7643,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tucker Carlson Network (USA)
 *://*.tuckercarlson.com/*
 
+# Tucson Standard (USA)
+*://*.tucsonstandard.com/*
+
