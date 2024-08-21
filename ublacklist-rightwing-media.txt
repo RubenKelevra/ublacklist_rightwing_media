@@ -8138,6 +8138,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.centralbuckstoday.com/*
 
 # COMPACT-Magazin (Germany)
+*://*.twitter.com/COMPACTMagazin*
+*://*.twitter.com/compactmagazin*
+*://*.x.com/COMPACTMagazin*
+*://*.x.com/compactmagazin*
 *://*.compact-online.de/*
 
 # Junge Freiheit (Germany)
