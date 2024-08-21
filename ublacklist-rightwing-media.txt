@@ -5622,3 +5622,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Make America Great Again Inc (USA)
 *://*.magapac.com/*
 
+# Manatee Review (USA)
+*://*.manateereview.com/*
+
