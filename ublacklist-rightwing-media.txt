@@ -6958,3 +6958,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South ABQ News (USA)
 *://*.southabqnews.com/*
 
+# South Africa Today (USA)
+*://*.southafricatoday.net/*
+
