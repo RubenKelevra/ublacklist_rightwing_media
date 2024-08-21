@@ -7604,3 +7604,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TrendingPoliticsNews.com (USA)
 *://*.trendingpoliticsnews.com/*
 
+# Tri-City Sun (USA)
+*://*.tricitysun.com/*
+
