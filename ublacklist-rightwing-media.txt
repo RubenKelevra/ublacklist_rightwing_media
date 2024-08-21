@@ -6038,3 +6038,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News Rescue (Nigeria)
 *://*.newsrescue.com/*
 
+# News Sloth (USA)
+*://*.newssloth.com/*
+
