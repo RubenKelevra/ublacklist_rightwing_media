@@ -5378,3 +5378,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Izvestia (Russia)
 *://*.iz.ru/*
 
+# Jackson Purchase News (USA)
+*://*.jacksonpurchasenews.com/*
+
