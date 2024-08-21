@@ -5154,3 +5154,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GOPUSA (USA)
 *://*.gopusa.com/*
 
+# Grand Canyon Times (USA)
+*://*.grandcanyontimes.com/*
+
