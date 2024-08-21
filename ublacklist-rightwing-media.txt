@@ -7832,3 +7832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Cleveland News (USA)
 *://*.westclevelandnews.com/*
 
+# West Contra Costa News (USA)
+*://*.westcontracostanews.com/*
+
