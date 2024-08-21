@@ -5266,3 +5266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Housatonic Valley News (USA)
 *://*.housatonicvalleynews.com/*
 
+# Howard County News (USA)
+*://*.howardconews.com/*
+
