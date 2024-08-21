@@ -6102,3 +6102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Central Arkansas News (USA)
 *://*.ncarkansasnews.com/*
 
+# North Charlotte Today (USA)
+*://*.northcharlottetoday.com/*
+
