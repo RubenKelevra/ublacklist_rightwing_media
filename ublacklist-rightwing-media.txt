@@ -5251,3 +5251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Holland Reporter (USA)
 *://*.hollandreporter.com/*
 
+# Hoosier State Today (USA)
+*://*.hoosierstatetoday.com/*
+
