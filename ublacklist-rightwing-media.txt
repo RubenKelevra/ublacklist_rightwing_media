@@ -7934,3 +7934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wine Country Times (USA)
 *://*.winecountrytimes.com/*
 
+# Winston Salem Times (USA)
+*://*.winstonsalemtimes.com/*
+
