@@ -6507,3 +6507,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Platte News (USA)
 *://*.plattenews.com/*
 
+# Plymouth Reporter (USA)
+*://*.plymouthreporter.com/*
+
