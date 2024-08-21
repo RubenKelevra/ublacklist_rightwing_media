@@ -6961,3 +6961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Africa Today (USA)
 *://*.southafricatoday.net/*
 
+# South Alameda News (USA)
+*://*.southalamedanews.com/*
+
