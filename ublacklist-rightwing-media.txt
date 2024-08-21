@@ -5221,3 +5221,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Headline USA (USA)
 *://*.headlineusa.com/*
 
+# Here Is The Evidence (UK)
+*://*.hereistheevidence.com/*
+
