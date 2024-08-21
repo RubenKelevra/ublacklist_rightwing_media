@@ -7377,3 +7377,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Buffalo Chronicle (USA)
 *://*.buffalochronicle.com/*
 
+# The Conservative Central (Unknown)
+*://*.theconservativecentral.com/*
+
