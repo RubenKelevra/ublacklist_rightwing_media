@@ -7904,3 +7904,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West SGV News (USA)
 *://*.westsgvnews.com/*
 
+# West Stark News (USA)
+*://*.weststarknews.com/*
+
