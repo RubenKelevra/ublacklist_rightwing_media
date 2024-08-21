@@ -6162,3 +6162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Idaho Times (USA)
 *://*.northidahotimes.com/*
 
+# North Indy News (USA)
+*://*.northindynews.com/*
+
