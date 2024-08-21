@@ -7556,3 +7556,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The True Defender (USA)
 *://*.thetruedefender.com/*
 
+# The True Reporter (USA)
+*://*.thetruereporter.com/*
+
