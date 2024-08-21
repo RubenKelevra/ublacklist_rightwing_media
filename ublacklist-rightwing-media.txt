@@ -6569,3 +6569,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PravoSlavie.ru (Russia)
 *://*.pravoslavie.ru/*
 
+# Preppers Daily News (USA)
+*://*.preppersdailynews.com/*
+
