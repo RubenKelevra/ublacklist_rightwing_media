@@ -5335,3 +5335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Information Liberation (USA)
 *://*.informationliberation.com/*
 
+# Informer (Serbia)
+*://*.informer.rs/*
+
