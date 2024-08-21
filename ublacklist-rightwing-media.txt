@@ -5450,3 +5450,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kings County Times (USA)
 *://*.kingscountytimes.com/*
 
+# Knights Templar International (USA)
+*://*.knightstemplarorder.com/*
+
