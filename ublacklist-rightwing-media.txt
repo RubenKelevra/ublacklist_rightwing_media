@@ -6426,3 +6426,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Parler (USA)
 *://*.parler.com/*
 
+# Pasco Reporter (USA)
+*://*.auburntimes.com/*
+
