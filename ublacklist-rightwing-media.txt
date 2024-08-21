@@ -63,6 +63,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.academia.org/*
 
 # Accuracy in Media (USA)
+*://*.instagram.com/accuracyinmedia*
+*://*.twitter.com/accuracyinmedia*
+*://*.x.com/accuracyinmedia*
+*://*.youtube.com/user/aimaccuracy*
 *://*.aim.org/*
 
 # Acton Institute (USA)
