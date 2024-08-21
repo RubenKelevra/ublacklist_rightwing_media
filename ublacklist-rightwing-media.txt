@@ -5187,3 +5187,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gript.ie (Unknown)
 *://*.gript.ie/*
 
+# Grundy Reporter (USA)
+*://*.grundyreporter.com/*
+
