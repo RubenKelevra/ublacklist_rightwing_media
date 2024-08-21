@@ -7889,3 +7889,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West OC Times (USA)
 *://*.westoctimes.com/*
 
+# West PDX Today (USA)
+*://*.westpdxtoday.com/*
+
