@@ -6492,3 +6492,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pine Belt Times (USA)
 *://*.pinebelttimes.com/*
 
+# Pinehurst Today (USA)
+*://*.pinehursttoday.com/*
+
