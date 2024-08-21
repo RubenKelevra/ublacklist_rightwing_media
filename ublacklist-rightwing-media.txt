@@ -6928,3 +6928,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Show-Me State Times (USA)
 *://*.showmestatetimes.com/*
 
+# Shreveport Reporter (USA)
+*://*.shreveportreporter.com/*
+
