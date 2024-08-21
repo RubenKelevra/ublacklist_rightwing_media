@@ -5857,3 +5857,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Natural State News (USA)
 *://*.naturalstatenews.com/*
 
+# Naugatuck Times (USA)
+*://*.naugatucktimes.com/*
+
