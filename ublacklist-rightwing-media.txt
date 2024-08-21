@@ -7526,3 +7526,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Right Scoop (Canada)
 *://*.therightscoop.com/*
 
+# The Right Stuff (USA)
+*://*.therightstuff.biz/*
+
