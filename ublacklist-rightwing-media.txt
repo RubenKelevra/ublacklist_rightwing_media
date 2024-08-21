@@ -5826,3 +5826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nantahala News (USA)
 *://*.nantahalanews.com/*
 
+# Naples Standard (USA)
+*://*.naplesstandard.com/*
+
