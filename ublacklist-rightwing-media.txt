@@ -8166,6 +8166,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.deutsche-stimme.de/*
 
 # Der Eckart (Austria)
+*://*.instagram.com/dereckart.at*
 *://*.dereckart.at/*
 
 # eigentümlich frei (Germany)
