@@ -7432,3 +7432,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Thejeffreylord.com (USA)
 *://*.thejeffreylord.com/*
 
+# The Jewish Voice (USA)
+*://*.thejewishvoice.com/*
+*://*.tjvnews.com/*
+
