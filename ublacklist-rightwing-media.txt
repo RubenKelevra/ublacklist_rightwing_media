@@ -7057,3 +7057,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Lake Today (USA)
 *://*.southlaketoday.com/*
 
+# South Louisiana News (USA)
+*://*.southlouisiananews.com/*
+
