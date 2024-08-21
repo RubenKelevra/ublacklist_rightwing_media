@@ -5552,3 +5552,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Life News (USA)
 *://*.lifenews.com/*
 
+# LifeSiteNews (Canada)
+*://*.lifesitenews.com/*
+
