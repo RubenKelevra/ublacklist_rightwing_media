@@ -5465,3 +5465,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kunstler.com (USA)
 *://*.kunstler.com/*
 
+# Lafayette Reporter (USA)
+*://*.lafayettereporter.com/*
+
