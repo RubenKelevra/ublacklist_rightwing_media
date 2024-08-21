@@ -7592,3 +7592,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/townhallcom*
 *://*.townhall.com/*
 
+# Treasure Coast Sun (USA)
+*://*.treasurecoastsun.com/*
+
