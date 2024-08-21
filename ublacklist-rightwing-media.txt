@@ -7835,3 +7835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Contra Costa News (USA)
 *://*.westcontracostanews.com/*
 
+# West Cook News (USA)
+*://*.westcooknews.com/*
+
