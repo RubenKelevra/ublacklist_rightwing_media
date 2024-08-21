@@ -5968,3 +5968,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Ohio Times (USA)
 *://*.neohiotimes.com/*
 
+# NE Piedmont News (USA)
+*://*.nepiedmontnews.com/*
+
