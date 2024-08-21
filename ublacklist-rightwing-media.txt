@@ -6620,3 +6620,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Real News Now (USA)
 *://*.realnewsnow.com/*
 
+# Real Science (Unknown)
+*://*.goodsciencing.com/*
+
