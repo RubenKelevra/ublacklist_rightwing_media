@@ -6534,3 +6534,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Polk Times (USA)
 *://*.polktimes.com/*
 
+# Pomona Valley News (USA)
+*://*.pomonavalleynews.com/*
+
