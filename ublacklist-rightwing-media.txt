@@ -5172,3 +5172,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Great Lakes Wire (USA)
 *://*.greatlakeswire.com/*
 
+# GreatReject Bias (Netherlands)
+*://*.greatreject.org/*
+
