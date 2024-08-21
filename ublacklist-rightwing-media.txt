@@ -7838,3 +7838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Cook News (USA)
 *://*.westcooknews.com/*
 
+# West DSM News (USA)
+*://*.westdsmnews.com/*
+
