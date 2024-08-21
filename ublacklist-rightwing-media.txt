@@ -5468,3 +5468,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lafayette Reporter (USA)
 *://*.lafayettereporter.com/*
 
+# Lafayette Times (USA)
+*://*.lafayettetimes.com/*
+
