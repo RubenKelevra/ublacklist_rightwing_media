@@ -5230,3 +5230,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Heartland Institute (USA)
 *://*.heartland.org/*
 
+# Hickory Sun (USA)
+*://*.hickorysun.com/*
+
