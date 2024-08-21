@@ -6540,3 +6540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pontiac Times (USA)
 *://*.pontiactimes.com/*
 
+# Population Research Institute (USA)
+*://*.pop.org/*
+
