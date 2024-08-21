@@ -6718,3 +6718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rock Island Today (USA)
 *://*.rockislandtoday.com/*
 
+# Rockland Reporter (USA)
+*://*.rocklandreporter.com/*
+
