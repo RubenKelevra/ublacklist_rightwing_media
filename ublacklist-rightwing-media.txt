@@ -6566,3 +6566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.pravdareport.com/*
 *://*.pravda.ru/*
 
+# PravoSlavie.ru (Russia)
+*://*.pravoslavie.ru/*
+
