@@ -7712,3 +7712,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Valeurs Actuelles (France)
 *://*.valeursactuelles.com/*
 
+# Vancouver Times (Canada)
+*://*.vancouvertimes.org/*
+
