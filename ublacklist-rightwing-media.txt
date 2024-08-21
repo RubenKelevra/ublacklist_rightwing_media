@@ -6632,3 +6632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red Ice TV (Sweden)
 *://*.redice.tv/*
 
+# Red Right Daily (USA)
+*://*.redrightdaily.com/*
+
