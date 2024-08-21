@@ -214,6 +214,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.asian-dawn.com/*
 
 # AsiaNews.it (Italy)
+*://*.instagram.com/asianews.it*
+*://*.youtube.com/@asianewsit*
 *://*.asianews.it/*
 
 # Assyrian International News Agency (USA)
