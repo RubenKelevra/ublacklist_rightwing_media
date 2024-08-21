@@ -6925,3 +6925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Shoals Today (USA)
 *://*.shoalstoday.com/*
 
+# Show-Me State Times (USA)
+*://*.showmestatetimes.com/*
+
