@@ -7544,3 +7544,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Tennessee Star (USA)
 *://*.tennesseestar.com/*
 
+# Tehran Times (Iran)
+*://*.tehrantimes.com/*
+
