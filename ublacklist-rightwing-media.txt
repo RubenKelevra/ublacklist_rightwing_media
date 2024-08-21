@@ -5293,3 +5293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Idaho Freedom Foundation (USA)
 *://*.idahofreedom.org/*
 
+# Idaho Tribune (USA)
+*://*.idahotribune.org/*
+
