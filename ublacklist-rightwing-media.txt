@@ -5932,3 +5932,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Indiana News (USA)
 *://*.neindiananews.com/*
 
+# NE Iowa News (USA)
+*://*.auburntimes.com/*
+
