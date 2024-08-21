@@ -6763,3 +6763,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Salem News Wire (USA)
 *://*.salemnewswire.com/*
 
+# Sandhills Today (USA)
+*://*.sandhillstoday.com/*
+
