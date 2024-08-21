@@ -7338,3 +7338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Taki’s Magazine (USA)
 *://*.takimag.com/*
 
+# Tallahassee Sun (USA)
+*://*.tallahasseesun.com/*
+
