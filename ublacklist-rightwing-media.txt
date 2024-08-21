@@ -7985,3 +7985,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yellowstone Times (USA)
 *://*.yellowstonetimes.com/*
 
+# Young Americans for Liberty (USA)
+*://*.yaliberty.org/*
+
