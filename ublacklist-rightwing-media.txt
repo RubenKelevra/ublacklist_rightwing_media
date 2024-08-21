@@ -7793,3 +7793,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WC Minnesota News (USA)
 *://*.wcminnesotanews.com/*
 
+# WC Mississippi News (USA)
+*://*.wcmissnews.com/*
+
