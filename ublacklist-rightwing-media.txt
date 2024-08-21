@@ -6629,3 +6629,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Redding Today (USA)
 *://*.reddingtoday.com/*
 
+# Red Ice TV (Sweden)
+*://*.redice.tv/*
+
