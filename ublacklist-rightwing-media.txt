@@ -6435,3 +6435,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patient Daily (USA)
 *://*.patientdaily.com/*
 
+# Patriot Fetch (USA)
+*://*.patriotfetch.com/*
+
