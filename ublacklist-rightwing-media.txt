@@ -5281,3 +5281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Huntsville Leader (USA)
 *://*.huntsvilleleader.com/*
 
+# Hutch Today (USA)
+*://*.hutchtoday.com/*
+
