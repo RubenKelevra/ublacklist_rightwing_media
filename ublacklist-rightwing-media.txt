@@ -6721,3 +6721,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rockland Reporter (USA)
 *://*.rocklandreporter.com/*
 
+# Rocky Mount Today (USA)
+*://*.rockymounttoday.com/*
+
