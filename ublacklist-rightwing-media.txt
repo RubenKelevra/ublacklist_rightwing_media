@@ -7114,3 +7114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South SGV News (USA)
 *://*.southsgvnews.com/*
 
+# South STL News (USA)
+*://*.southstlnews.com/*
+
