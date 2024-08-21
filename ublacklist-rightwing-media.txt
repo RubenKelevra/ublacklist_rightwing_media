@@ -6477,3 +6477,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Peoria Standard (USA)
 *://*.peoriastandard.com/*
 
+# Personal Interpretation (Unknown)
+*://*.personalinterpretation.com/*
+
