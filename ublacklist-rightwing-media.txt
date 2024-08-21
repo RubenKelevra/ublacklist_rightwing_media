@@ -8093,3 +8093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Cato (Germany)
 *://*.cato-magazin.de/*
+
+# Blaue Narzisse (Germany)
+*://*.blauenarzisse.de/*
