@@ -5546,3 +5546,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Libs of TikTok (USA)
 *://*.libsoftiktok.com/*
 
+# Licking Today (USA)
+*://*.lickingtoday.com/*
+
