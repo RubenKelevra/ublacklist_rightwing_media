@@ -6673,3 +6673,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.resistthemainstream.org/*
 *://*.resistthemainstream.com/*
 
+# Restore American Glory (USA)
+*://*.restoreamericanglory.com/*
+
