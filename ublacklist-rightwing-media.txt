@@ -6016,3 +6016,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News Heist (USA)
 *://*.newsheist.com/*
 
+# News Hour First (USA)
+*://*.newshourfirst.com/*
+
