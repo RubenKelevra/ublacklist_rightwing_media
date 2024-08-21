@@ -5196,3 +5196,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gulf News (United Arab Emirates)
 *://*.gulfnews.com/*
 
+# The Hagmann Report (USA)
+*://*.hagmannreport.com/*
+*://*.hagmannpi.com/*
+
