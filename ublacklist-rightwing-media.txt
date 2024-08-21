@@ -155,6 +155,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.amgreatness.com/*
 
 # American Journal Daily (USA)
+*://*.twitter.com/amjournaldaily*
+*://*.x.com/amjournaldaily*
 *://*.americanjournaldaily.com/*
 
 # American Legislative Exchange Council (USA)
