@@ -7553,3 +7553,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Times of America (Unknown)
 *://*.digifection.com/*
 
+# The True Defender (USA)
+*://*.thetruedefender.com/*
+
