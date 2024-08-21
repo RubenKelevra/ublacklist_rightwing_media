@@ -6880,3 +6880,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Kentucky News (USA)
 *://*.sekentuckynews.com/*
 
+# SE LA Times (USA)
+*://*.selatimes.com/*
+
