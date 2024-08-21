@@ -7508,3 +7508,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Raging Patriot (USA)
 *://*.theragingpatriot.org/*
 
+# Rebel News (Canada)
+*://*.rebelnews.com/*
+
