@@ -5637,3 +5637,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Marion-Morrow Times (USA)
 *://*.marionmorrowtimes.com/*
 
+# Maryland Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
