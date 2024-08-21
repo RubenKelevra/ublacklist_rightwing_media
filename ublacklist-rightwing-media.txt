@@ -6414,3 +6414,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Oxford Reporter (USA)
 *://*.oxfordreporter.com/*
 
+# Pacific Pundit (USA)
+*://*.pacificpundit.com/*
+
