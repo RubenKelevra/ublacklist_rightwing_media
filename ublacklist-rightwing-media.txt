@@ -7359,3 +7359,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TechStartups (USA)
 *://*.techstartups.com/*
 
+# The American Mirror (USA)
+*://*.theamericanmirror.com/*
+
