@@ -6660,3 +6660,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # RenewedRight.com (USA)
 *://*.renewedright.com/*
 
+# Reno Reporter (USA)
+*://*.renoreporter.com/*
+
