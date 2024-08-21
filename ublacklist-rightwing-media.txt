@@ -5718,3 +5718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mid Coast Times (USA)
 *://*.midcoasttimes.com/*
 
+# Mid Coast Today (USA)
+*://*.midcoasttoday.com/*
+
