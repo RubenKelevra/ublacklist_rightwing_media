@@ -5814,3 +5814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Muslim Skeptic (USA)
 *://*.muslimskeptic.com/*
 
+# Mutembei TV (Kenya)
+*://*.mutembeitv.com/*
+
