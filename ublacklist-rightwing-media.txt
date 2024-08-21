@@ -5233,3 +5233,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hickory Sun (USA)
 *://*.hickorysun.com/*
 
+# High Country Times (USA)
+*://*.highcountrytimes.com/*
+
