@@ -5136,3 +5136,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Gnews (USA)
 *://*.gnews.org/*
 
+# Gold Country Today (USA)
+*://*.goldcountrytoday.com/*
+
