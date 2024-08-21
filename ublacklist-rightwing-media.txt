@@ -7126,3 +7126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Tulsa Today (USA)
 *://*.southtulsatoday.com/*
 
+# South West Illinois News (USA)
+*://*.swillinoisnews.com/*
+
