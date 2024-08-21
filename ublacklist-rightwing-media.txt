@@ -6195,3 +6195,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Miami-Dade News (USA)
 *://*.northmianews.com/*
 
+# North Middlesex Times (USA)
+*://*.northmiddlesextimes.com/*
+
