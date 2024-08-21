@@ -7511,3 +7511,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rebel News (Canada)
 *://*.rebelnews.com/*
 
+# The Religion of Peace (USA)
+*://*.thereligionofpeace.com/*
+
