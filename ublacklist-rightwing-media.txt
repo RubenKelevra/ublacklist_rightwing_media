@@ -5878,3 +5878,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NC Kentucky News (USA)
 *://*.nckentuckynews.com/*
 
+# NC Massachusetts News (USA)
+*://*.ncmassnews.com/*
+
