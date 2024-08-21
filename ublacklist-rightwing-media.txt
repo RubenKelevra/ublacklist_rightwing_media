@@ -6614,3 +6614,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Randolph County News (USA)
 *://*.randolphcountynews.com/*
 
+# Rational Ground (USA)
+*://*.rationalground.com/*
+
