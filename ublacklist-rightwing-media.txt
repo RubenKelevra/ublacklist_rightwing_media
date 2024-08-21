@@ -7445,3 +7445,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Last Refuge (USA)
 *://*.theconservativetreehouse.com/*
 
+# The Liberty Daily (USA)
+*://*.thelibertydaily.com/*
+
