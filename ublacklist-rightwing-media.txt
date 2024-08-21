@@ -7970,3 +7970,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # X Strategies (USA)
 *://*.xstrategies.com/*
 
+# XYZ.net.au (Australia)
+*://*.xyz.net.au/*
+
