@@ -5947,3 +5947,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Louisiana News (USA)
 *://*.nelouisiananews.com/*
 
+# NE Mississippi News (USA)
+*://*.nemissnews.com/*
+
