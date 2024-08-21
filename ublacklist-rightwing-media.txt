@@ -6495,3 +6495,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pinehurst Today (USA)
 *://*.pinehursttoday.com/*
 
+# Pinellas Times (USA)
+*://*.pinellastimes.com/*
+
