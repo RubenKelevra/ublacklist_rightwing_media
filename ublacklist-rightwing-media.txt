@@ -7640,3 +7640,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tsionizm (USA)
 *://*.tsionizm.com/*
 
+# Tucker Carlson Network (USA)
+*://*.tuckercarlson.com/*
+
