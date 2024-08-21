@@ -5781,3 +5781,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Monmouth Times (USA)
 *://*.monmouthtimes.com/*
 
+# Monroe NY News (USA)
+*://*.monroenynews.com/*
+
