@@ -8099,3 +8099,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Zeitreisen Verlag (Germany)
 *://*.zeitreisen-verlag.de/*
+
+# Deutsche Stimme (Germany)
+*://*.deutsche-stimme.de/*
