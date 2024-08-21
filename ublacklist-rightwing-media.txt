@@ -8127,3 +8127,38 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Der III. Weg (Germany)
 *://*.der-dritte-weg.info/*
 
+# AFD (Germany)
+*://*.twitter.com/AfD*
+*://*.twitter.com/afd*
+*://*.x.com/AfD*
+*://*.x.com/afd*
+*://*.afd.de/*
+*://*.afdbundestag.de/*
+*://*.afdsachsen.de/*
+*://*.afd-brandenburg.de/*
+*://*.afd.nrw/*
+*://*.afd-fraktion.nrw/*
+*://*.afdbayern.de/*
+*://*.afd-sh.de/*
+*://*.afd-nordfriesland.de/*
+*://*.afd-flensburg-schleswig.de/*
+*://*.afd-dithmarschen.de/*
+*://*.afd-rendsburg-eckernfoerde.de/*
+*://*.afd-neumuenster.de/*
+*://*.alternative-ki.de/*
+*://*.afd-steinburg.de/*
+*://*.afd-ploen.de/*
+*://*.afd-segeberg.de/*
+*://*.afd-pinneberg.de/*
+*://*.afd-ostholstein.de/*
+*://*.afd-stormarn.de/*
+*://*.afd-hzgt-lauenburg.de/*
+*://*.afd-luebeck.de/*
+*://*.xn--afd-lbeck-u9a.de/*
+*://*.afd-bw.de/*
+*://*.afd-mv.de/*
+*://*.afdfraktion-lsa.de/*
+*://*.afd-hessen.de/*
+*://*.afd-fraktion-hamburg.de/*
+*://*.afd-thueringen.de/*
+*://*.alternative-rlp.de/*
