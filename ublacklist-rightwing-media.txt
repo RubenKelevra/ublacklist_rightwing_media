@@ -6363,3 +6363,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Objectivist (USA)
 *://*.objectivist.co/*
 
+# Ocala Standard (USA)
+*://*.ocalastandard.com/*
+
