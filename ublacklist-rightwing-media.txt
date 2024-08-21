@@ -5269,3 +5269,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Howard County News (USA)
 *://*.howardconews.com/*
 
+# HR Daily Wire (USA)
+*://*.hrdailywire.com/*
+
