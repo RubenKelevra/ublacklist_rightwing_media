@@ -7655,3 +7655,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Turning Point USA (USA)
 *://*.tpusa.com/*
 
+# Tuscaloosa Leader (USA)
+*://*.tuscaloosaleader.com/*
+
