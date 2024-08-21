@@ -7559,3 +7559,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The True Reporter (USA)
 *://*.thetruereporter.com/*
 
+# The Truth Voice (Unknown)
+*://*.thetruthvoice.net/*
+
