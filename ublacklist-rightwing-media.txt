@@ -7859,3 +7859,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Western Wayne Today (USA)
 *://*.westernwaynetoday.com/*
 
+# West Florida News (USA)
+*://*.westflnews.com/*
+
