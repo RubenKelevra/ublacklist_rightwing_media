@@ -7925,3 +7925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Whatfinger (USA)
 *://*.whatfinger.com/*
 
+# Wichita Standard (USA)
+*://*.wichitastandard.com/*
+
