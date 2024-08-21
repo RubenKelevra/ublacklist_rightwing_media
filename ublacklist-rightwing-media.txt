@@ -7514,3 +7514,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Religion of Peace (USA)
 *://*.thereligionofpeace.com/*
 
+# The Remnant Newspaper (USA)
+*://*.remnantnewspaper.com/*
+
