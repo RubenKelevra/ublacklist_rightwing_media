@@ -5435,3 +5435,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kent County Today (USA)
 *://*.kentcountytoday.com/*
 
+# Kentuckiana Times (USA)
+*://*.kentuckianatimes.com/*
+
