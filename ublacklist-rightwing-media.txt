@@ -5700,3 +5700,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Miami Independent (USA)
 *://*.miamiindependent.com/*
 
+# Miami Standard (USA)
+*://*.miamistandard.news/*
+
