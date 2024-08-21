@@ -7254,3 +7254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sumter Times (USA)
 *://*.auburntimes.com/*
 
+# Sunflower State News (USA)
+*://*.sunflowerstatenews.com/*
+
