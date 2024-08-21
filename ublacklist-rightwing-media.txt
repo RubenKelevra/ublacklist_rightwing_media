@@ -7979,3 +7979,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yavapai News (USA)
 *://*.yavapainews.com/*
 
+# Yellowhammer Times (USA)
+*://*.yellowhammertimes.com/*
+
