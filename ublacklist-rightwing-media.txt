@@ -6345,3 +6345,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Oklahoma News (USA)
 *://*.nwoklahomanews.com/*
 
+# NW Riverside News (USA)
+*://*.nwriversidenews.com/*
+
