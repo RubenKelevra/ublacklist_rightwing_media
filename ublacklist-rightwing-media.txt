@@ -7102,3 +7102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Pinellas Times (USA)
 *://*.southpinellastimes.com/*
 
+# South Raleigh News (USA)
+*://*.southraleighnews.com/*
+
