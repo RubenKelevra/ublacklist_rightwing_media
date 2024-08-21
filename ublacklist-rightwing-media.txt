@@ -7730,3 +7730,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vidmax (Cyprus)
 *://*.vidmax.com/*
 
+# Vigilant News (USA)
+*://*.vigilantnews.com/*
+
