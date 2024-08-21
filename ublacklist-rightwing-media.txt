@@ -5299,3 +5299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # I Hate the Media (USA)
 *://*.ihatethemedia.com/*
 
+# I, Hypocrite (USA)
+*://*.ihypocrite.net/*
+
