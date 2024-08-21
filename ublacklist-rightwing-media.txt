@@ -7335,3 +7335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Syracuse Sun (USA)
 *://*.syracusesun.com/*
 
+# Taki’s Magazine (USA)
+*://*.takimag.com/*
+
