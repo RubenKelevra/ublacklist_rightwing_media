@@ -6270,3 +6270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Wake News (USA)
 *://*.northwakenews.com/*
 
+# North Wichita News (USA)
+*://*.northwichitanews.com/*
+
