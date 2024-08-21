@@ -5284,3 +5284,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hutch Today (USA)
 *://*.hutchtoday.com/*
 
+# IBX News (USA)
+*://*.ibxnews.com/*
+
