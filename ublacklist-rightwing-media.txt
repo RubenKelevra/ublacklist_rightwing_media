@@ -6946,3 +6946,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SLO Reporter (USA)
 *://*.sloreporter.com/*
 
+# Solano Sun (USA)
+*://*.solanosun.com/*
+
