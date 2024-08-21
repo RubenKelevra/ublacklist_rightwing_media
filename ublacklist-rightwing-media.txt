@@ -7326,3 +7326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Riverside News (USA)
 *://*.swriversidenews.com/*
 
+# SW Valley Times (USA)
+*://*.swvalleytimes.com/*
+
