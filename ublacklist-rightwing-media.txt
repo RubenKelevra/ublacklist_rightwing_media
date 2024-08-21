@@ -5332,3 +5332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Indy Standard (USA)
 *://*.indystandard.com/*
 
+# Information Liberation (USA)
+*://*.informationliberation.com/*
+
