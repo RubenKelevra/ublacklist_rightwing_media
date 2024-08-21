@@ -133,6 +133,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.cpac.org/*
 
 # American Enterprise Institute (USA)
+*://*.twitter.com/aei*
+*://*.x.com/aei*
+*://*.youtube.com/channel/UCt8lRYpzb-sSrKFb4DT2ECw*
 *://*.aei.org/*
 
 # Americans for Tax Reform (USA)
