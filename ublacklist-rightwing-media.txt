@@ -58,6 +58,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.abort73.com/*
 
 # Accuracy in Academia (USA)
+*://*.twitter.com/campusreport*
+*://*.x.com/campusreport*
 *://*.academia.org/*
 
 # Accuracy in Media (USA)
