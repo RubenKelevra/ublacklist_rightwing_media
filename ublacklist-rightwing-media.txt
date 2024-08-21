@@ -7931,3 +7931,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Will County Gazette (USA)
 *://*.willcountygazette.com/*
 
+# Wine Country Times (USA)
+*://*.winecountrytimes.com/*
+
