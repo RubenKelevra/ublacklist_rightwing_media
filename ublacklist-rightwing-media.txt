@@ -6754,3 +6754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Russia Insider (Russia)
 *://*.russia-insider.com/*
 
+# Russian News Agency-TASS (Russia)
+*://*.tass.com/*
+
