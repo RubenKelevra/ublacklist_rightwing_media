@@ -6907,3 +6907,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Twin Cities (USA)
 *://*.setwincities.com/*
 
+# SE Vegas News (USA)
+*://*.sevegasnews.com/*
+
