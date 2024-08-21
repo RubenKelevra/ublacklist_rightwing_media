@@ -7448,3 +7448,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Liberty Daily (USA)
 *://*.thelibertydaily.com/*
 
+# The Liberty Loft (USA)
+*://*.thelibertyloft.com/*
+
