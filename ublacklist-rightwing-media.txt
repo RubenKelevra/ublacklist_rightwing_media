@@ -5802,3 +5802,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Morning Poll (USA)
 *://*.morningpoll.com/*
 
+# Morris Leader (USA)
+*://*.morrisleader.com/*
+
