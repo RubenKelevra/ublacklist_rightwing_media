@@ -145,6 +145,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.atr.org/*
 
 # American Foreign Policy Council (USA)
+*://*.twitter.com/afpc*
+*://*.x.com/afpc*
 *://*.afpc.org/*
 
 # American Greatness (USA)
