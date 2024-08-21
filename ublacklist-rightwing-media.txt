@@ -7844,3 +7844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West El Dorado News (USA)
 *://*.westeldoradonews.com/*
 
+# West Essex News (USA)
+*://*.westessexnews.com/*
+
