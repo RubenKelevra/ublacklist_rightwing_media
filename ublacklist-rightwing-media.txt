@@ -6644,3 +6644,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red State Watcher (USA)
 *://*.redstatewatcher.com/*
 
+# Red Voice Media (USA)
+*://*.redvoicemedia.com/*
+*://*.rvmnews.com/*
+
