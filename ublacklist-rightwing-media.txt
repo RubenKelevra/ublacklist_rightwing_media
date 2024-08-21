@@ -5513,3 +5513,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Leading Report (USA)
 *://*.theleadingreport.com/*
 
+# Legal Newsline (USA)
+*://*.legalnewsline.com/*
+
