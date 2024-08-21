@@ -5338,3 +5338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Informer (Serbia)
 *://*.informer.rs/*
 
+# InstaPundit (USA)
+*://*.instapundit.com/*
+
