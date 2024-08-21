@@ -5218,3 +5218,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hawkeye Reporter (USA)
 *://*.hawkeyereporter.com/*
 
+# Headline USA (USA)
+*://*.headlineusa.com/*
+
