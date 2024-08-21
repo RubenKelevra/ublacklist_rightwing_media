@@ -7856,3 +7856,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Lucas News (USA)
 *://*.westlucasnews.com/*
 
+# Western Wayne Today (USA)
+*://*.westernwaynetoday.com/*
+
