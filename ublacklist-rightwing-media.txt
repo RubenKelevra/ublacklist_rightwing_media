@@ -5905,3 +5905,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Atlanta News (USA)
 *://*.neatlantanews.com/*
 
+# NE Bergen News (USA)
+*://*.nebergennews.com/*
+
