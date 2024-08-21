@@ -6093,3 +6093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Bluegrass News (USA)
 *://*.northbluegrassnews.com/*
 
+# North Boston News (USA)
+*://*.northbostonnews.com/*
+
