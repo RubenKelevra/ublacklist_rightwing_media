@@ -7223,3 +7223,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South SFV Today (USA)
 *://*.southsfvtoday.com/*
 
+# Speech Point (Unknown)
+*://*.speech-point.com/*
+
