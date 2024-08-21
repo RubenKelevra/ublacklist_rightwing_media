@@ -5341,3 +5341,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # InstaPundit (USA)
 *://*.instapundit.com/*
 
+# Institute for Historical Review (USA)
+*://*.ihr.org/*
+
