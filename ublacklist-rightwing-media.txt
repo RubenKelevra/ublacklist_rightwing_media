@@ -7649,3 +7649,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tulare Times (USA)
 *://*.tularetimes.com/*
 
+# Turley Talks (USA)
+*://*.turleytalks.com/*
+
