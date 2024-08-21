@@ -6528,3 +6528,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PolitNavigator (Ukraine)
 *://*.politnavigator.net/*
 
+# PolitRussia (Russia)
+*://*.politros.com/*
+
