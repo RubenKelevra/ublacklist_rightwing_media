@@ -139,6 +139,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.aei.org/*
 
 # Americans for Tax Reform (USA)
+*://*.instagram.com/*/americans-for-tax-reform*
+*://*.twitter.com/taxreformer*
+*://*.x.com/taxreformer*
 *://*.atr.org/*
 
 # American Foreign Policy Council (USA)
