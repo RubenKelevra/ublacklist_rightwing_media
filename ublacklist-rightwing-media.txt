@@ -5326,3 +5326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Independent Sentinel (USA)
 *://*.independentsentinel.com/*
 
+# Indiana Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
