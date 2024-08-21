@@ -224,6 +224,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.aina.org/*
 
 # Ayn Rand Centre (UK)
+*://*.instagram.com/aynrandcentre*
+*://*.twitter.com/aynrandcentre*
+*://*.x.com/aynrandcentre*
+*://*.youtube.com/c/AynRandCentreUK*
 *://*.aynrandcentre.co.uk/*
 
 # The Badger Institute (USA)
