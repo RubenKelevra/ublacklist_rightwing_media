@@ -6703,3 +6703,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # River Region Times (USA)
 *://*.riverregiontimes.com/*
 
+# River Valley Today (USA)
+*://*.rivervalleytoday.com/*
+
