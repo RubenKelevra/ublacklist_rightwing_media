@@ -7081,3 +7081,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South North Carolina News (USA)
 *://*.southncnews.com/*
 
+# South Ohio News (USA)
+*://*.southohionews.com/*
+
