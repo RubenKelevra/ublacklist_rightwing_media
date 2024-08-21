@@ -7181,3 +7181,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Star News Network (USA)
 *://*.thestarnewsnetwork.com/*
 
+# State of the Nation (USA)
+*://*.stateofthenation.co/*
+
