@@ -6432,3 +6432,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Passaic Today (USA)
 *://*.passaictoday.com/*
 
+# Patient Daily (USA)
+*://*.patientdaily.com/*
+
