@@ -198,6 +198,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.1290wlby.com/*
 
 # Arizona Daily Independent (USA)
+*://*.twitter.com/amerdailyindy*
+*://*.x.com/amerdailyindy*
 *://*.arizonadailyindependent.com/*
 
 # Armstrong Economics (USA)
