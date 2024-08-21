@@ -7030,3 +7030,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Guilford News (USA)
 *://*.southguilfordnews.com/*
 
+# South Gwinnett News (USA)
+*://*.southgwinnettnews.com/*
+
