@@ -6378,3 +6378,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Okeechobee Times (USA)
 *://*.okeechobeetimes.com/*
 
+# O’Keefe Media Group (USA)
+*://*.okeefemediagroup.com/*
+
