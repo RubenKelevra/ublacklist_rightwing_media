@@ -7305,3 +7305,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Kansas News (USA)
 *://*.swkansasnews.com/*
 
+# SW Louisiana News (USA)
+*://*.swlouisiananews.com/*
+
