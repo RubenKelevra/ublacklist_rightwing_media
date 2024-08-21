@@ -6348,3 +6348,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Riverside News (USA)
 *://*.nwriversidenews.com/*
 
+# NW Valley Times (USA)
+*://*.nwvalleytimes.com/*
+
