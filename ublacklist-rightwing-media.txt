@@ -7314,3 +7314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Mississippi News (USA)
 *://*.swmissnews.com/*
 
+# SW New Hampshire News (USA)
+*://*.swnewhampshirenews.com/*
+
