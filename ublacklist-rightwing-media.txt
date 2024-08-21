@@ -5145,3 +5145,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GoodGopher (USA)
 *://*.goodgopher.com/*
 
+# GOP Daily Brief (USA)
+*://*.gopdailybrief.com/*
+
