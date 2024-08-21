@@ -6420,3 +6420,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Palm Coast Times (USA)
 *://*.palmcoasttimes.com/*
 
+# Panama City Reporter (USA)
+*://*.panamacityreporter.com/*
+
