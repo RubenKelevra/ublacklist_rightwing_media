@@ -5977,3 +5977,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Valley Times (USA)
 *://*.nevalleytimes.com/*
 
+# NEO (Russia)
+*://*.journal-neo.org/*
+
