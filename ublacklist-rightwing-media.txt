@@ -8003,3 +8003,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Z3 News (USA)
 *://*.z3news.com/*
 
+# Central Bucks Today (USA)
+*://*.centralbuckstoday.com/*
