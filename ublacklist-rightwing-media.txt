@@ -79,6 +79,13 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.acton.org/*
 
 # AIPAC (USA)
+*://*.instagram.com/_u/aipac*
+*://*.instagram.com/aipac*
+*://*.twitter.com/AIPAC*
+*://*.twitter.com/aipac*
+*://*.x.com/AIPAC*
+*://*.x.com/aipac*
+*://*.youtube.com/watch*
 *://*.aipac.org/*
 
 # Aish.com (USA)
