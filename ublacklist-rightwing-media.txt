@@ -7991,3 +7991,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Young Conservatives (USA)
 *://*.analyzingamerica.org/*
 
+# Youngstown Times (USA)
+*://*.youngstowntimes.com/*
+
