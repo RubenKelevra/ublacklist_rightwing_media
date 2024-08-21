@@ -6997,3 +6997,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Coast Times (USA)
 *://*.southcoasttimes.com/*
 
+# South Columbus News (USA)
+*://*.southcolumbusnews.com/*
+
