@@ -247,6 +247,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.talk995.com/*
 
 # Bizpac Review (USA)
+*://*.crunchbase.com/organization/bizpac-review*
 *://*.bizpacreview.com/*
 
 # BlabberBuzz (USA)
