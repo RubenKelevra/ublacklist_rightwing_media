@@ -6225,3 +6225,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Pinellas News (USA)
 *://*.auburntimes.com/*
 
+# North Raleigh Today (USA)
+*://*.northraleightoday.com/*
+
