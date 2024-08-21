@@ -6450,3 +6450,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriot Pulse (USA)
 *://*.patriotpulse.net/*
 
+# Patriot Uproar (USA)
+*://*.patriotuproar.com/*
+
