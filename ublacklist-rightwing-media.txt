@@ -5498,3 +5498,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Last Frontier News (USA)
 *://*.lastfrontiernews.com/*
 
+# Las Vegas City Wire (USA)
+*://*.lasvegascitywire.com/*
+
