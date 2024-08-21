@@ -7411,3 +7411,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Federalist (USA)
 *://*.thefederalist.com/*
 
+# The Federation for American Immigration Reform (USA)
+*://*.fairus.org/*
+
