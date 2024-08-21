@@ -7374,3 +7374,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Blaze (USA)
 *://*.theblaze.com/*
 
+# The Buffalo Chronicle (USA)
+*://*.buffalochronicle.com/*
+
