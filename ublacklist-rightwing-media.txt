@@ -5574,3 +5574,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Livingston Today (USA)
 *://*.livingstontoday.com/*
 
+# LiveLeak (UK)
+*://*.itemfix.com/*
+
