@@ -7442,3 +7442,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Last American Vagabond (USA)
 *://*.thelastamericanvagabond.com/*
 
+# The Last Refuge (USA)
+*://*.theconservativetreehouse.com/*
+
