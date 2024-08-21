@@ -5314,3 +5314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Illinois Valley Times (USA)
 *://*.illinoisvalleytimes.com/*
 
+# Il Primato Nazionale (Italy)
+*://*.ilprimatonazionale.it/*
+
