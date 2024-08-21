@@ -7964,3 +7964,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # World Tribune (USA)
 *://*.worldtribune.com/*
 
+# Wyandotte Times (USA)
+*://*.wyandottetimes.com/*
+
