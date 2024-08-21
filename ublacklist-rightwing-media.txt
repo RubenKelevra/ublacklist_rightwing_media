@@ -6501,3 +6501,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pine State News (USA)
 *://*.pinestatenews.com/*
 
+# PJ Media (USA)
+*://*.pjmedia.com/*
+
