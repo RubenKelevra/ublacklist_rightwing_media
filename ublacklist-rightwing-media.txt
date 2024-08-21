@@ -5962,3 +5962,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE New York Today (USA)
 *://*.nenewyorktoday.com/*
 
+# NE North Dakota News (USA)
+*://*.nenorthdakotanews.com/*
+
