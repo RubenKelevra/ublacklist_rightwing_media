@@ -8102,3 +8102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Deutsche Stimme (Germany)
 *://*.deutsche-stimme.de/*
+
+# Der Eckart (Austria)
+*://*.dereckart.at/*
