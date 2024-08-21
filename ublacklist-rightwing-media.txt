@@ -7466,3 +7466,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Most Important News (USA)
 *://*.themostimportantnews.com/*
 
+# The National Patriot (USA)
+*://*.thenationalpatriot.com/*
+
