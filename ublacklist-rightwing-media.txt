@@ -6001,3 +6001,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New Nation News (USA)
 *://*.newnation.org/*
 
+# News18 (India)
+*://*.news18.com/*
+
