@@ -6691,3 +6691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Right Side Broadcasting Network (USA)
 *://*.rsbnetwork.com/*
 
+# Riposte Laique (France)
+*://*.ripostelaique.com/*
+
