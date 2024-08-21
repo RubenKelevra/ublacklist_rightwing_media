@@ -7562,3 +7562,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Truth Voice (Unknown)
 *://*.thetruthvoice.net/*
 
+# The Unz Review (USA)
+*://*.unz.com/*
+
