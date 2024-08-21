@@ -6237,3 +6237,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North New Castle News (USA)
 *://*.northnewcastlenews.com/*
 
+# North SFV Today (USA)
+*://*.northsfvtoday.com/*
+
