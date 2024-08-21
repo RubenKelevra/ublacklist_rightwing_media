@@ -6892,3 +6892,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Nebraska News (USA)
 *://*.senebraskanews.com/*
 
+# SE North Carolina News (USA)
+*://*.senorthcarolinanews.com/*
+
