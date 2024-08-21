@@ -16,6 +16,22 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.1792exchange.com/*
 
 # 1819 News (USA)
+*://*.twitter.com/1819news*
+*://*.x.com/1819news*
+*://*.instagram.com/1819_news*
+*://*.spotify.com/show/6mNu4L1NeDYaxP15vO4vqP*
+*://*.linkedin.com/company/1819news*
+*://*.1819news.shop/*
+*://*.eighteennineteennewspodcast.podbean.com/*
+*://*.linkedin.com/in/erica-thomas-34890047*
+*://*.trussvilletribune.com/tag/1819-news/*
+*://*.twitter.com/bryan1819news*
+*://*.x.com/bryan1819news*
+*://*.tiktok.com/@1819_news*
+*://*.donaldwatkins.com/post/1819-news-defends-hit-job-on-fred-bubba-copeland*
+*://podcasts.apple.com/*/podcast/1819-news-the-podcast/id1602702694*
+*://podcasts.apple.com/*/podcast/1819-news-the-podcast/*
+*://podcasts.apple.com/*/podcast/*/id1602702694*
 *://*.1819news.com/*
 
 # Abort73 (USA)
