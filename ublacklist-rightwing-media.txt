@@ -6706,3 +6706,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # River Valley Today (USA)
 *://*.rivervalleytoday.com/*
 
+# Rochester Reporter (USA)
+*://*.rochesterreporter.com/*
+
