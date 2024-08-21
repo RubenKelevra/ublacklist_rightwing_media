@@ -5432,3 +5432,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kendall County Times (USA)
 *://*.kendallcountytimes.com/*
 
+# Kent County Today (USA)
+*://*.kentcountytoday.com/*
+
