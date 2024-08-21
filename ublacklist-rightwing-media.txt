@@ -6441,3 +6441,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriot Journal (USA)
 *://*.thepatriotjournal.com/*
 
+# Patriotic Post (USA)
+*://*.patrioticpost.com/*
+
