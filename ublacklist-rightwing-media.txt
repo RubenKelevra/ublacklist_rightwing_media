@@ -89,6 +89,11 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.aipac.org/*
 
 # Aish.com (USA)
+*://*.instagram.com/aish.com*
+*://*.instagram.com/aish.com/p/C7hX89Mv8Vv*
+*://*.twitter.com/aishjewish*
+*://*.x.com/aishjewish*
+*://*.youtube.com/channel/UC8XGOrE1U_HYdYFonEuyCfw*
 *://*.aish.com/*
 
 # Alberta Press Leader (Canada)
