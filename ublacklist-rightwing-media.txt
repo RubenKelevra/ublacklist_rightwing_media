@@ -6096,3 +6096,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Boston News (USA)
 *://*.northbostonnews.com/*
 
+# North Broward News (USA)
+*://*.northbrowardnews.com/*
+
