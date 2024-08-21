@@ -6895,3 +6895,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE North Carolina News (USA)
 *://*.senorthcarolinanews.com/*
 
+# SE Oakland News (USA)
+*://*.seoaklandnews.com/*
+
