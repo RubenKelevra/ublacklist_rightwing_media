@@ -7087,3 +7087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South OKC News (USA)
 *://*.southokcnews.com/*
 
+# South Omaha Times (USA)
+*://*.southomahatimes.com/*
+
