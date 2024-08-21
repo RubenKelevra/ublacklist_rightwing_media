@@ -6769,3 +6769,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sandoval News (USA)
 *://*.sandovalnews.com/*
 
+# San Francisco Sun (USA)
+*://*.sanfransun.com/*
+
