@@ -5525,3 +5525,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lew Rockwell (USA)
 *://*.lewrockwell.com/*
 
+# Liberty Bell (USA)
+*://*.libertybell.com/*
+
