@@ -7439,3 +7439,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Joe Rogan Experience (USA)
 *://*.joerogan.com/*
 
+# The Last American Vagabond (USA)
+*://*.thelastamericanvagabond.com/*
+
