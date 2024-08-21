@@ -7178,3 +7178,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Stares at the World (Canada)
 *://*.staresattheworld.com/*
 
+# Star News Network (USA)
+*://*.thestarnewsnetwork.com/*
+
