@@ -6333,3 +6333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Mississippi News (USA)
 *://*.nwmissnews.com/*
 
+# NW Missouri Times (USA)
+*://*.nwmissouritimes.com/*
+
