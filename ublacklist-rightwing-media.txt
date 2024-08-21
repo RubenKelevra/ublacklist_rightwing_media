@@ -5974,3 +5974,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Sacramento News (USA)
 *://*.nesacramentonews.com/*
 
+# NE Valley Times (USA)
+*://*.nevalleytimes.com/*
+
