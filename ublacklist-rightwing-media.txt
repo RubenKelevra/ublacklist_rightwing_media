@@ -5854,3 +5854,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nation and State (USA)
 *://*.nationandstate.com/*
 
+# Natural State News (USA)
+*://*.naturalstatenews.com/*
+
