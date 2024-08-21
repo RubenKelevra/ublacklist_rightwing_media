@@ -5558,3 +5558,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # LifeZette (USA)
 *://*.lifezette.com/*
 
+# Lima Reporter (USA)
+*://*.limareporter.com/*
+
