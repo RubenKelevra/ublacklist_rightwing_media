@@ -7538,3 +7538,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Sons of Liberty Media (USA)
 *://*.sonsoflibertymedia.com/*
 
+# TheSpectator.info (USA)
+*://*.thespectator.info/*
+
