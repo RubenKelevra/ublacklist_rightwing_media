@@ -6504,3 +6504,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PJ Media (USA)
 *://*.pjmedia.com/*
 
+# Platte News (USA)
+*://*.plattenews.com/*
+
