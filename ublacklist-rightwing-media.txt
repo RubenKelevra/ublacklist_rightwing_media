@@ -6602,3 +6602,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pulaski Times (USA)
 *://*.pulaskitimes.com/*
 
+# Quillette (Australia)
+*://*.quillette.com/*
+
