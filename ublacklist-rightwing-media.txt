@@ -7829,3 +7829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Westchester Reporter (USA)
 *://*.westchesterreporter.com/*
 
+# West Cleveland News (USA)
+*://*.westclevelandnews.com/*
+
