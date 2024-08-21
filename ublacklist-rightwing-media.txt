@@ -5706,3 +5706,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mic Drop Politics (USA)
 *://*.micdroppolitics.com/*
 
+# Michigan Business Daily (USA)
+*://*.mibusinessdaily.com/*
+
