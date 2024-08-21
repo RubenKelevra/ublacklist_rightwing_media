@@ -6423,3 +6423,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Panama City Reporter (USA)
 *://*.panamacityreporter.com/*
 
+# Parler (USA)
+*://*.parler.com/*
+
