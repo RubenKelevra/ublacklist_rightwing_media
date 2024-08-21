@@ -6032,3 +6032,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NewsReady (USA)
 *://*.newsready.com/*
 
+# Newsrael (Israel)
+*://*.newsrael.com/*
+
