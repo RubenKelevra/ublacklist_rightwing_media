@@ -6868,3 +6868,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Indiana News (USA)
 *://*.seindiananews.com/*
 
+# SE Iowa News (USA)
+*://*.seiowanews.com/*
+
