@@ -6462,3 +6462,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Peace Garden News (USA)
 *://*.peacegardennews.com/*
 
+# Peach Tree Times (USA)
+*://*.peachtreetimes.com/*
+
