@@ -7883,3 +7883,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Western ND News (USA)
 *://*.westernndnews.com/*
 
+# West NY News (USA)
+*://*.westnynews.com/*
+
