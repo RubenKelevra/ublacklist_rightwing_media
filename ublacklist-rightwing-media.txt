@@ -5908,3 +5908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Bergen News (USA)
 *://*.nebergennews.com/*
 
+# Nebraska Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
