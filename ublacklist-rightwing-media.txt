@@ -5787,3 +5787,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Monroe Review (USA)
 *://*.monroereview.com/*
 
+# Montana Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
