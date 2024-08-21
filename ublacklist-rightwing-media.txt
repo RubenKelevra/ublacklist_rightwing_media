@@ -6044,3 +6044,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News With Views (USA)
 *://*.newswithviews.com/*
 
+# NewsAmmo (USA)
+*://*.newsammo.com/*
+
