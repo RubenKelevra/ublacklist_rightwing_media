@@ -5733,3 +5733,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mid Massachusetts News (USA)
 *://*.midmassnews.com/*
 
+# Mid Valley Reporter (USA)
+*://*.midvalleyreporter.com/*
+
