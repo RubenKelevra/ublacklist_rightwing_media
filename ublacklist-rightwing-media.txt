@@ -5775,3 +5775,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mohawk Valley Times (USA)
 *://*.mohawkvalleytimes.com/*
 
+# Moms for Liberty (USA)
+*://*.momsforliberty.org/*
+
