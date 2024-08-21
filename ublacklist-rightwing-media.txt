@@ -7160,3 +7160,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sputnik News Agency (Russia)
 *://*.snanews.de/*
 
+# Sputnik News Agency (Russia)
+*://*.sputniknews.in/*
+
