@@ -6144,3 +6144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Essex News (USA)
 *://*.northessexnews.com/*
 
+# North Fulton Today (USA)
+*://*.northfultontoday.com/*
+
