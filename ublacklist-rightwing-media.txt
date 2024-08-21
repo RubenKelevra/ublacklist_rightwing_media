@@ -5537,3 +5537,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Liberty News (USA)
 *://*.libertynews.com/*
 
+# LibertyTalk.FM (USA)
+*://*.libertytalk.fm/*
+
