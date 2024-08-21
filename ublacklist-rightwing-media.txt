@@ -5169,3 +5169,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Great American Daily (USA)
 *://*.greatamericandaily.com/*
 
+# Great Lakes Wire (USA)
+*://*.greatlakeswire.com/*
+
