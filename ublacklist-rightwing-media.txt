@@ -6931,3 +6931,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Shreveport Reporter (USA)
 *://*.shreveportreporter.com/*
 
+# SHTFplan.com (USA)
+*://*.shtfplan.com/*
+
