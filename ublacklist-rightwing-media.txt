@@ -7417,3 +7417,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Freedom Times (USA)
 *://*.thefreedomtimes.com/*
 
+# The Free Telegraph (USA)
+*://*.freetelegraph.com/*
+
