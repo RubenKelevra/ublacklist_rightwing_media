@@ -7976,3 +7976,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yadkin Valley News (USA)
 *://*.yadkinvalleynews.com/*
 
+# Yavapai News (USA)
+*://*.yavapainews.com/*
+
