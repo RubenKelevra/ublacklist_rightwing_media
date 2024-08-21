@@ -5805,3 +5805,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Morris Leader (USA)
 *://*.morrisleader.com/*
 
+# Muncie (USA)
+*://*.munciereporter.com/*
+
