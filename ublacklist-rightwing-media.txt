@@ -6949,3 +6949,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Solano Sun (USA)
 *://*.solanosun.com/*
 
+# Somerset Times (USA)
+*://*.somersettimes.com/*
+
