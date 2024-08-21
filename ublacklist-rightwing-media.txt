@@ -7607,3 +7607,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tri-City Sun (USA)
 *://*.tricitysun.com/*
 
+# Tri County News (USA)
+*://*.triconews.com/*
+
