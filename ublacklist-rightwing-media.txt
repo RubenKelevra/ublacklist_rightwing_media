@@ -180,6 +180,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.amimagazine.org/*
 
 # Ammoland (USA)
+*://*.instagram.com/ammoland*
+*://*.twitter.com/AmmoLand*
+*://*.twitter.com/ammoland*
+*://*.x.com/AmmoLand*
+*://*.x.com/ammoland*
+*://*.youtube.com/@ammolandtv*
 *://*.ammoland.com/*
 
 # Anadolu Agency / Anadolu Ajansı (Turkey)
