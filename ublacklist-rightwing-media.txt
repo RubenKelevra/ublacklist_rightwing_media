@@ -5393,3 +5393,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Joco Today (USA)
 *://*.jocotoday.com/*
 
+# John Birch Society (USA)
+*://*.jbs.org/*
+
