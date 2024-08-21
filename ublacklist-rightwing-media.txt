@@ -6029,3 +6029,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.newspushed.com/*
 *://*.hkfreezone.com/*
 
+# NewsReady (USA)
+*://*.newsready.com/*
+
