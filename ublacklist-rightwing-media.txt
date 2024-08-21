@@ -7172,3 +7172,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Pete Standard (USA)
 *://*.stpetestandard.com/*
 
+# Stanislaus News (USA)
+*://*.stanislausnews.com/*
+
