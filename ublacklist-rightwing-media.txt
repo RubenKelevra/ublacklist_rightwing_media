@@ -7919,3 +7919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Volusia News (USA)
 *://*.westvolusianews.com/*
 
+# West Wake News (USA)
+*://*.westwakenews.com/*
+
