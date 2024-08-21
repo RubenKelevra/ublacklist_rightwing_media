@@ -6901,3 +6901,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Ohio Times (USA)
 *://*.seohiotimes.com/*
 
+# SE Oklahoma News (USA)
+*://*.seoklahomanews.com/*
+
