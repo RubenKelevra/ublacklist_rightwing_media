@@ -6641,3 +6641,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red State Nation (USA)
 *://*.redstatenation.com/*
 
+# Red State Watcher (USA)
+*://*.redstatewatcher.com/*
+
