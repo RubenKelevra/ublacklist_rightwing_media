@@ -6934,3 +6934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SHTFplan.com (USA)
 *://*.shtfplan.com/*
 
+# Silver State Times (USA)
+*://*.silverstatetimes.com/*
+
