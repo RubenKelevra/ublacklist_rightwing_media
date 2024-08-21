@@ -6186,3 +6186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Lake Times (USA)
 *://*.northlaketimes.com/*
 
+# North Little Rock Times (USA)
+*://*.northlittlerocktimes.com/*
+
