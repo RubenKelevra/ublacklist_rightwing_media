@@ -6784,3 +6784,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Santa Clara Today (USA)
 *://*.santaclaratoday.com/*
 
+# Santa Cruz Standard (USA)
+*://*.santacruzstandard.com/*
+
