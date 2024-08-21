@@ -6531,3 +6531,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PolitRussia (Russia)
 *://*.politros.com/*
 
+# Polk Times (USA)
+*://*.polktimes.com/*
+
