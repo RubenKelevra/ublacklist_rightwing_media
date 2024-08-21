@@ -7226,3 +7226,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Speech Point (Unknown)
 *://*.speech-point.com/*
 
+# St. Claire Today (USA)
+*://*.stclairtoday.com/*
+
