@@ -5555,3 +5555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # LifeSiteNews (Canada)
 *://*.lifesitenews.com/*
 
+# LifeZette (USA)
+*://*.lifezette.com/*
+
