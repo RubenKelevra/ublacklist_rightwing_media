@@ -7685,3 +7685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Unmuzzled News (USA)
 *://*.unmuzzlednews.com/*
 
+# UP Gazette (USA)
+*://*.upgazette.com/*
+
