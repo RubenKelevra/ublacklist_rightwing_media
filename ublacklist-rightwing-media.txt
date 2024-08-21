@@ -7386,3 +7386,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Covid World (USA)
 *://*.thecovidworld.com/*
 
+# The Counter Signal (Canada)
+*://*.thecountersignal.com/*
+
