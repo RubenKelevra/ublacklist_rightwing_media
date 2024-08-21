@@ -7039,3 +7039,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Indy News (USA)
 *://*.southindynews.com/*
 
+# South Iowa News (USA)
+*://*.southiowanews.com/*
+
