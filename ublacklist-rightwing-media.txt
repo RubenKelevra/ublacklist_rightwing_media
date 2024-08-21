@@ -6369,3 +6369,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ocean County Leader (USA)
 *://*.oceancountyleader.com/*
 
+# Ohio Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
