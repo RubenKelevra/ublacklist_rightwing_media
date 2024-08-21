@@ -7661,3 +7661,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tuscarawas News (USA)
 *://*.tuscarawasnews.com/*
 
+# Ukraina.ru (Russia)
+*://*.ukraina.ru/*
+
