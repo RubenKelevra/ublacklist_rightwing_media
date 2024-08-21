@@ -7610,3 +7610,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tri County News (USA)
 *://*.triconews.com/*
 
+# Tulsa Standard (USA)
+*://*.tulsastandard.com/*
+
