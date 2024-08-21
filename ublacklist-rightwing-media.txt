@@ -6126,3 +6126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North DSM News (USA)
 *://*.northdsmnews.com/*
 
+# Northeast Montana News (USA)
+*://*.nemontananews.com/*
+
