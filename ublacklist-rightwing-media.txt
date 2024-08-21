@@ -7475,3 +7475,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/thenationalpulse*
 *://*.thenationalpulse.com/*
 
+# The National (United Arab Emirates)
+*://*.thenationalnews.com/*
+
