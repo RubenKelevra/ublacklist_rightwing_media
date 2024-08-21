@@ -5860,3 +5860,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Naugatuck Times (USA)
 *://*.naugatucktimes.com/*
 
+# NC Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
