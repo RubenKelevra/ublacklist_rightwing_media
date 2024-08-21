@@ -7997,3 +7997,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # YourNews (USA)
 *://*.yournews.com/*
 
+# Yuba-Sutter Times (USA)
+*://*.yubasuttertimes.com/*
+
