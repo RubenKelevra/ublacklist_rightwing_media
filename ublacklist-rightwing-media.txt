@@ -7169,3 +7169,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Joe-Benton Harbor News (USA)
 *://*.stjoebentonharbor.com/*
 
+# St. Pete Standard (USA)
+*://*.stpetestandard.com/*
+
