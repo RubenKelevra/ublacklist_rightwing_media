@@ -5323,3 +5323,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # InfoGalactic (Switzerland)
 *://*.infogalactic.com/*
 
+# Independent Sentinel (USA)
+*://*.independentsentinel.com/*
+
