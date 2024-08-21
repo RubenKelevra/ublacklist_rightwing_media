@@ -5254,3 +5254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hoosier State Today (USA)
 *://*.hoosierstatetoday.com/*
 
+# Hopkinsville Times (USA)
+*://*.hopkinsvilletimes.com/*
+
