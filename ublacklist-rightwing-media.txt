@@ -7362,3 +7362,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The American Mirror (USA)
 *://*.theamericanmirror.com/*
 
+# The Bearded Patriot (USA)
+*://*.thebeardedpatriot.com/*
+
