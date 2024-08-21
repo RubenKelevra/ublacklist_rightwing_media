@@ -7389,3 +7389,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Counter Signal (Canada)
 *://*.thecountersignal.com/*
 
+# The Daily Bell (USA)
+*://*.thedailybell.com/*
+
