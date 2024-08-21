@@ -5519,3 +5519,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lenta.ru (Russia)
 *://*.lenta.ru/*
 
+# Lewiston Times (USA)
+*://*.lewistontimes.com/*
+
