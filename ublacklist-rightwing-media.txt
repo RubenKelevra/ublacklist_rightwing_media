@@ -5634,3 +5634,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Marin Leader (USA)
 *://*.marinleader.com/*
 
+# Marion-Morrow Times (USA)
+*://*.marionmorrowtimes.com/*
+
