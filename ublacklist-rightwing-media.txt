@@ -5817,3 +5817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mutembei TV (Kenya)
 *://*.mutembeitv.com/*
 
+# NW Iowa News (USA)
+*://*.nwiowanews.com/*
+
