@@ -6366,3 +6366,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ocala Standard (USA)
 *://*.ocalastandard.com/*
 
+# Ocean County Leader (USA)
+*://*.oceancountyleader.com/*
+
