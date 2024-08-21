@@ -5420,3 +5420,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kansas Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Katehon (Russia)
+*://*.katehon.com/*
+
