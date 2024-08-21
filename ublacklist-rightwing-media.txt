@@ -5769,3 +5769,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mobile Courant (USA)
 *://*.mobilecourant.com/*
 
+# Mohave Today (USA)
+*://*.mohavetoday.com/*
+
