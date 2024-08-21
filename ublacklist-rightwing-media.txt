@@ -5712,3 +5712,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Michigan Catholic Tribune (USA)
 *://*.micatholictribune.com/*
 
+# Michigan Star (USA)
+*://*.themichiganstar.com/*
+
