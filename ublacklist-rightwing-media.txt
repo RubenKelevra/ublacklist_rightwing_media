@@ -7952,3 +7952,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WND News Center (USA)
 *://*.wndnewscenter.org/*
 
+# Women are Human (USA)
+*://*.womenarehuman.com/*
+
