@@ -7392,3 +7392,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Daily Bell (USA)
 *://*.thedailybell.com/*
 
+# The D.C. Clothesline (USA)
+*://*.dcclothesline.com/*
+
