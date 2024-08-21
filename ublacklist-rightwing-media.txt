@@ -5983,3 +5983,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nevada Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Newark Reporter (USA)
+*://*.newarkreporter.com/*
+
