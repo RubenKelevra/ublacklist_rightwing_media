@@ -5679,3 +5679,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metapedia (Sweden)
 *://*.en.metapedia.org/*
 
+# Metric Media (USA)
+*://*.metricmedianews.com/*
+
