@@ -5941,3 +5941,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Kansas News (USA)
 *://*.nekansasnews.com/*
 
+# NE Kentucky News (USA)
+*://*.nekentuckynews.com/*
+
