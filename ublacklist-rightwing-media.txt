@@ -7196,3 +7196,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Steadfast and Loyal (USA)
 *://*.steadfastandloyal.com/*
 
+# Steadfast Clash (USA)
+*://*.steadfastclash.com/*
+
