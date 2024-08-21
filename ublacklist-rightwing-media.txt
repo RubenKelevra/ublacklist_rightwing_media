@@ -6456,3 +6456,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriots.Win (USA)
 *://*.patriots.win/*
 
+# Patriotic Viral News (USA)
+*://*.patrioticviralnews.com/*
+
