@@ -7916,3 +7916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Ventura News (USA)
 *://*.westventuranews.com/*
 
+# West Volusia News (USA)
+*://*.westvolusianews.com/*
+
