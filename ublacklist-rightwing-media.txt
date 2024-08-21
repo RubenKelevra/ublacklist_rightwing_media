@@ -6808,3 +6808,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC Alaska News (USA)
 *://*.scalaskanews.com/*
 
+# SC Oklahoma News (USA)
+*://*.scoklahomanews.com/*
+
