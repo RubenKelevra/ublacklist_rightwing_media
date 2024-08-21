@@ -5263,3 +5263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Houma Thibodaux News (USA)
 *://*.houmathibodauxnews.com/*
 
+# Housatonic Valley News (USA)
+*://*.housatonicvalleynews.com/*
+
