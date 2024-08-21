@@ -6381,3 +6381,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # O’Keefe Media Group (USA)
 *://*.okeefemediagroup.com/*
 
+# Oklahoma Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
