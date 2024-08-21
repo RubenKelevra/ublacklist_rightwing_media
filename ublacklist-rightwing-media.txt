@@ -5956,3 +5956,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Nebraska News (USA)
 *://*.nenebraskanews.com/*
 
+# NE New Mexico News (USA)
+*://*.nenewmexiconews.com/*
+
