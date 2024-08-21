@@ -5227,3 +5227,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hernando Reporter (USA)
 *://*.hernandoreporter.com/*
 
+# Heartland Institute (USA)
+*://*.heartland.org/*
+
