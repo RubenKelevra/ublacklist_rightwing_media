@@ -6775,3 +6775,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sangamon Sun (USA)
 *://*.sangamonsun.com/*
 
+# San Joaquin Times (USA)
+*://*.sanjoaquintimes.com/*
+
