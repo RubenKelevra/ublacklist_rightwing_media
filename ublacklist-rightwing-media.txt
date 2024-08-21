@@ -5778,3 +5778,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Moms for Liberty (USA)
 *://*.momsforliberty.org/*
 
+# Monmouth Times (USA)
+*://*.monmouthtimes.com/*
+
