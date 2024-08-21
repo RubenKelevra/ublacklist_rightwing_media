@@ -5757,3 +5757,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mississippi Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Mississippi Gulf News (USA)
+*://*.msgulfnews.com/*
+
