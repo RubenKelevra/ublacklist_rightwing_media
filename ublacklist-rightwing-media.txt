@@ -7628,3 +7628,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Truth Based Media (Unknown)
 *://*.truthbasedmedia.com/*
 
+# Truth Press (USA)
+*://*.truthpress.com/*
+
