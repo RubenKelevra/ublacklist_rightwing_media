@@ -6297,3 +6297,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Bergen News (USA)
 *://*.nwbergennews.com/*
 
+# NW Connecticut News (USA)
+*://*.nwconnnews.com/*
+
