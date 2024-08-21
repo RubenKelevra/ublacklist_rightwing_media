@@ -7308,3 +7308,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Louisiana News (USA)
 *://*.swlouisiananews.com/*
 
+# SW Minnesota Today (USA)
+*://*.swminnesotatoday.com/*
+
