@@ -7120,3 +7120,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Summit News (USA)
 *://*.southsummitnews.com/*
 
+# South Triangle News (USA)
+*://*.southtrianglenews.com/*
+
