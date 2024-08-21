@@ -7823,3 +7823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Central Michigan News (USA)
 *://*.wcmichigannews.com/*
 
+# West Central Reporter (USA)
+*://*.westcentralreporter.com/*
+
