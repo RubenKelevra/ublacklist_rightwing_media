@@ -7502,3 +7502,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Post & Email (USA)
 *://*.thepostemail.com/*
 
+# The Published Reporter (USA)
+*://*.publishedreporter.com/*
+
