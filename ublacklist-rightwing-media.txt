@@ -7700,3 +7700,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # USA Really (Russia)
 *://*.usareally.com/*
 
+# USA Supreme (Unknown)
+*://*.usasupreme.com/*
+
