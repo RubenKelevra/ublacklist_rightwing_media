@@ -6228,3 +6228,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Raleigh Today (USA)
 *://*.northraleightoday.com/*
 
+# North Ramsey News (USA)
+*://*.northramseynews.com/*
+
