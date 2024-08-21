@@ -113,6 +113,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.amac.us/*
 
 # America First Action SuperPAC (USA)
+*://*.youtube.com/channel/UCAGtCgFHMcOD3Qxu6ybjoFA*
 *://*.a1apac.org/*
 
 # America Insider (USA)
