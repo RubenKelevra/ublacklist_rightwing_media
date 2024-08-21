@@ -6453,3 +6453,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriot Uproar (USA)
 *://*.patriotuproar.com/*
 
+# Patriots.Win (USA)
+*://*.patriots.win/*
+
