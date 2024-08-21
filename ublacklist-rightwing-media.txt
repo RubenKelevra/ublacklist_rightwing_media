@@ -6405,3 +6405,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Outraged Patriot (Unknown)
 *://*.outragedpatriot.com/*
 
+# Overpasses for America (UK)
+*://*.overpassesforamerica.com/*
+
