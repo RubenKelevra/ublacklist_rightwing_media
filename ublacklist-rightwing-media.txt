@@ -5730,3 +5730,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Middle East Media Research Institute (USA)
 *://*.memri.org/*
 
+# Mid Massachusetts News (USA)
+*://*.midmassnews.com/*
+
