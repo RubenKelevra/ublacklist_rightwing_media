@@ -7214,3 +7214,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Fulton Today (USA)
 *://*.southfultontoday.com/*
 
+# South OC Times (USA)
+*://*.southoctimes.com/*
+
