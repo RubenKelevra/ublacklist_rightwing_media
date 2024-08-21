@@ -7123,3 +7123,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Triangle News (USA)
 *://*.southtrianglenews.com/*
 
+# South Tulsa Today (USA)
+*://*.southtulsatoday.com/*
+
