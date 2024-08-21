@@ -7595,3 +7595,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Treasure Coast Sun (USA)
 *://*.treasurecoastsun.com/*
 
+# Treasure Valley Times (USA)
+*://*.treasurevalleytimes.com/*
+
