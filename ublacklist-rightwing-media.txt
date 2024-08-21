@@ -5848,3 +5848,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # National Rifle Association (USA)
 *://*.home.nra.org/*
 
+# National Vanguard (USA)
+*://*.nationalvanguard.org/*
+
