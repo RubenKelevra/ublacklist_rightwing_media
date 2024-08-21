@@ -6688,3 +6688,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Right News Wire (USA)
 *://*.rightnewswire.com/*
 
+# Right Side Broadcasting Network (USA)
+*://*.rsbnetwork.com/*
+
