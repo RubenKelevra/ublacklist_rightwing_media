@@ -6375,3 +6375,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # OKC Standard (USA)
 *://*.okcstandard.com/*
 
+# Okeechobee Times (USA)
+*://*.okeechobeetimes.com/*
+
