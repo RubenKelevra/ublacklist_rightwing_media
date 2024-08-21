@@ -6835,3 +6835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC New York News (USA)
 *://*.scnewyorknews.com/*
 
+# SE Alaska News (USA)
+*://*.sealaskanews.com/*
+
