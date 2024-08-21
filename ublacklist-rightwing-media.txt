@@ -6183,3 +6183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Kentucky News (USA)
 *://*.northkentuckynews.com/*
 
+# North Lake Times (USA)
+*://*.northlaketimes.com/*
+
