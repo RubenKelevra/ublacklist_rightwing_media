@@ -7463,3 +7463,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Millennium Report (USA)
 *://*.themillenniumreport.com/*
 
+# The Most Important News (USA)
+*://*.themostimportantnews.com/*
+
