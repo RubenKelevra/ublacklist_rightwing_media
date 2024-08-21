@@ -5359,3 +5359,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Iowa City Today (USA)
 *://*.iowacitytoday.com/*
 
+# Iowa Star (USA)
+*://*.theiowastar.com/*
+*://*.thestarnewsnetwork.com/*
+
