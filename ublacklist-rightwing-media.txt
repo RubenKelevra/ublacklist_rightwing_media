@@ -8105,3 +8105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Der Eckart (Austria)
 *://*.dereckart.at/*
+
+# eigentümlich frei (Germany)
+*://*.ef-magazin.de/*
