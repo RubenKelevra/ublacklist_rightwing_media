@@ -7727,3 +7727,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Victor Valley Times (USA)
 *://*.victorvalleytimes.com/*
 
+# Vidmax (Cyprus)
+*://*.vidmax.com/*
+
