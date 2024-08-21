@@ -6234,3 +6234,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Sacramento Today (USA)
 *://*.northsactoday.com/*
 
+# North New Castle News (USA)
+*://*.northnewcastlenews.com/*
+
