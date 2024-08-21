@@ -5601,3 +5601,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Macon Times (USA)
 *://*.macontimes.com/*
 
+# Magic Valley Times (USA)
+*://*.magicvalleytimes.com/*
+
