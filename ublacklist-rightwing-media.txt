@@ -5670,3 +5670,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Merced Times (USA)
 *://*.mercedtimes.com/*
 
+# Mercer Times (USA)
+*://*.mercertimes.com/*
+
