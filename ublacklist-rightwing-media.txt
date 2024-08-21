@@ -7853,3 +7853,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Hudson Valley News (USA)
 *://*.westhudvalleynews.com/*
 
+# West Lucas News (USA)
+*://*.westlucasnews.com/*
+
