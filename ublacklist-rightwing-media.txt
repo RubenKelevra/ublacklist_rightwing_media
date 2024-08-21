@@ -6648,3 +6648,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.redvoicemedia.com/*
 *://*.rvmnews.com/*
 
+# Redwood Empire News (USA)
+*://*.redwoodempirenews.com/*
+
