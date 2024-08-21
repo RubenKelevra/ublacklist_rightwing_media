@@ -6489,3 +6489,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pinal Today (USA)
 *://*.pinaltoday.com/*
 
+# Pine Belt Times (USA)
+*://*.pinebelttimes.com/*
+
