@@ -237,6 +237,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.bearingarms.com/*
 
 # Beliefnet (USA)
+*://*.twitter.com/beliefnet*
+*://*.x.com/beliefnet*
+*://*.youtube.com/channel/UC-AnVzDiWy6udDLVBlN40BA*
 *://*.beliefnet.com/*
 
 # Birmingham’s Real Talk (USA)
