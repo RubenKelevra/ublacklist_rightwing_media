@@ -7105,3 +7105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Raleigh News (USA)
 *://*.southraleighnews.com/*
 
+# South Sacramento Today (USA)
+*://*.southsactoday.com/*
+
