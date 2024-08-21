@@ -7814,3 +7814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # We The People Daily (USA)
 *://*.wethepeopledaily.com/*
 
+# Westbank Louisiana News (USA)
+*://*.westbanklanews.com/*
+
