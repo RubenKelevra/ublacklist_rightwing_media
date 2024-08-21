@@ -5540,3 +5540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # LibertyTalk.FM (USA)
 *://*.libertytalk.fm/*
 
+# Liberty Wire (USA)
+*://*.libertywire.net/*
+
