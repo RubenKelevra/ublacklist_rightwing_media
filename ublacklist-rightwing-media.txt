@@ -5727,3 +5727,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Middle East News Agency (Egypt)
 *://*.mena.org.eg/*
 
+# Middle East Media Research Institute (USA)
+*://*.memri.org/*
+
