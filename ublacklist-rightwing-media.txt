@@ -6611,3 +6611,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # RAIR Foundation USA (USA)
 *://*.rairfoundation.com/*
 
+# Randolph County News (USA)
+*://*.randolphcountynews.com/*
+
