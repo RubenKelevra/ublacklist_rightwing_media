@@ -7232,3 +7232,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Louis Record (USA)
 *://*.stlrecord.com/*
 
+# Strafford News (USA)
+*://*.auburntimes.com/*
+
