@@ -7478,3 +7478,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The National (United Arab Emirates)
 *://*.thenationalnews.com/*
 
+# The Ohio Star (USA)
+*://*.theohiostar.com/*
+
