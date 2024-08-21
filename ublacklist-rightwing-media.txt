@@ -5673,3 +5673,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mercer Times (USA)
 *://*.mercertimes.com/*
 
+# Merrimack Valley News (USA)
+*://*.merrimackvalleynews.com/*
+
