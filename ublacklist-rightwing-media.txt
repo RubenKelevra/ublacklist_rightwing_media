@@ -5811,3 +5811,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Muskegon Sun (USA)
 *://*.muskegonsun.com/*
 
+# Muslim Skeptic (USA)
+*://*.muslimskeptic.com/*
+
