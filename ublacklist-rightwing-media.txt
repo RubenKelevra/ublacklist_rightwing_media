@@ -5175,3 +5175,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GreatReject Bias (Netherlands)
 *://*.greatreject.org/*
 
+# Greene County Times (USA)
+*://*.greenecotimes.com/*
+
