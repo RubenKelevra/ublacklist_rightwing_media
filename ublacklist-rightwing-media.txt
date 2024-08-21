@@ -5586,3 +5586,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Louisiana Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Louisville City Wire (USA)
+*://*.louisvillecitywire.com/*
+
