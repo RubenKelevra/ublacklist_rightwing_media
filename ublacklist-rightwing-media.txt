@@ -7682,3 +7682,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Unity News Network (UK)
 *://*.unitynewsnetwork.co.uk/*
 
+# Unmuzzled News (USA)
+*://*.unmuzzlednews.com/*
+
