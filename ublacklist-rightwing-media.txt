@@ -5971,3 +5971,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Piedmont News (USA)
 *://*.nepiedmontnews.com/*
 
+# NE Sacramento News (USA)
+*://*.nesacramentonews.com/*
+
