@@ -5589,3 +5589,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Louisville City Wire (USA)
 *://*.louisvillecitywire.com/*
 
+# Lowe Delta News (USA)
+*://*.lowedeltanews.com/*
+
