@@ -7490,3 +7490,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Patriot Nation (USA)
 *://*.thepatriotnation.net/*
 
+# The Patriot Nurse (USA)
+*://*.thepatriotnurse.com/*
+
