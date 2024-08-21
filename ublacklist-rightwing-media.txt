@@ -5200,3 +5200,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.hagmannreport.com/*
 *://*.hagmannpi.com/*
 
+# Hal Turner Radio Show (USA)
+*://*.halturnerradioshow.com/*
+
