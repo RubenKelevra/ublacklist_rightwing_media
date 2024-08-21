@@ -7296,3 +7296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Georgia News (USA)
 *://*.swgeorgianews.com/*
 
+# SW Indiana News (USA)
+*://*.swindiananews.com/*
+
