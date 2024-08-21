@@ -6327,3 +6327,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Louisiana News (USA)
 *://*.nwlouisiananews.com/*
 
+# NW Minnesota News (USA)
+*://*.nwminnesotanews.com/*
+
