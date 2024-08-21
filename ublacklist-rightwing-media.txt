@@ -7184,3 +7184,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # State of the Nation (USA)
 *://*.stateofthenation.co/*
 
+# Staten Island Reporter (USA)
+*://*.statenislandreporter.com/*
+
