@@ -7943,3 +7943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wisconsin Daily Star (USA)
 *://*.wisconsindailystar.com/*
 
+# Witherspoon Institute (USA)
+*://*.thepublicdiscourse.com/*
+
