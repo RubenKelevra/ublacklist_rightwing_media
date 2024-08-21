@@ -6766,3 +6766,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sandhills Today (USA)
 *://*.sandhillstoday.com/*
 
+# Sandoval News (USA)
+*://*.sandovalnews.com/*
+
