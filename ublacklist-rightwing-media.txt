@@ -7093,3 +7093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Oregon News (USA)
 *://*.southoregonnews.com/*
 
+# South Orlando News (USA)
+*://*.southorlandonews.com/*
+
