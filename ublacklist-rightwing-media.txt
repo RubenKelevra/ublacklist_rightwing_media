@@ -5190,3 +5190,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grundy Reporter (USA)
 *://*.grundyreporter.com/*
 
+# GTR Times (USA)
+*://*.gtrtimes.com/*
+
