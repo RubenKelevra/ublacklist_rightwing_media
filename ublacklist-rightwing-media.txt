@@ -7580,3 +7580,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ToddStarnes.com (USA)
 *://*.toddstarnes.com/*
 
+# Toledo Reporter (USA)
+*://*.toledoreporter.com/*
+
