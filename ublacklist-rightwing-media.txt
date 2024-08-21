@@ -7281,3 +7281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Arizona News (USA)
 *://*.swarizonanews.com/*
 
+# SW Arkansas Times (USA)
+*://*.swarkansastimes.com/*
+
