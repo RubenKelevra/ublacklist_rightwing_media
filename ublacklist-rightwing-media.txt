@@ -70,6 +70,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.aim.org/*
 
 # Acton Institute (USA)
+*://*.instagram.com/acton_institute*
+*://*.twitter.com/ActonInstitute*
+*://*.twitter.com/actoninstitute*
+*://*.x.com/ActonInstitute*
+*://*.x.com/actoninstitute*
+*://*.youtube.com/user/actoninstitute*
 *://*.acton.org/*
 
 # AIPAC (USA)
