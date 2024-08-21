@@ -5565,3 +5565,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.lindelltv.com/*
 *://*.FrankSpeech.com/*
 
+# Litchfield Hills Today (USA)
+*://*.litchfieldhillstoday.com/*
+
