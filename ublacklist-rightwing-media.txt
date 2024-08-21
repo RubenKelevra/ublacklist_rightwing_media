@@ -7754,3 +7754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Warren-Clinton News (USA)
 *://*.warrenclintonnews.com/*
 
+# War Room (USA)
+*://*.warroom.org/*
+
