@@ -6207,3 +6207,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North OKC News (USA)
 *://*.northokcnews.com/*
 
+# North Omaha Times (USA)
+*://*.northomahatimes.com/*
+
