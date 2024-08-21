@@ -6599,3 +6599,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pro Trump News (Unknown)
 *://*.protrumpnews.com/*
 
+# Pulaski Times (USA)
+*://*.pulaskitimes.com/*
+
