@@ -150,6 +150,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.afpc.org/*
 
 # American Greatness (USA)
+*://*.buzzard.org/medium/american-greatness/*
+*://*.youtube.com/watch?v=n4IH86rql_c*
 *://*.amgreatness.com/*
 
 # American Journal Daily (USA)
