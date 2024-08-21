@@ -7811,3 +7811,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Atlanta News (USA)
 *://*.westatlantanews.com/*
 
+# We The People Daily (USA)
+*://*.wethepeopledaily.com/*
+
