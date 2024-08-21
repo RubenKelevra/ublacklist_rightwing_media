@@ -6294,3 +6294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Atlanta News (USA)
 *://*.nwatlantanews.com/*
 
+# NW Bergen News (USA)
+*://*.nwbergennews.com/*
+
