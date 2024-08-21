@@ -7078,3 +7078,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South New Castle News (USA)
 *://*.southnewcastlenews.com/*
 
+# South North Carolina News (USA)
+*://*.southncnews.com/*
+
