@@ -6727,3 +6727,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rogue Review (USA)
 *://*.roguereview.net/*
 
+# Rome Reporter (USA)
+*://*.romereporter.com/*
+
