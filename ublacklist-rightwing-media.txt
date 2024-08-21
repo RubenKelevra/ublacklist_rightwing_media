@@ -6090,3 +6090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Birmingham Times (USA)
 *://*.northbirminghamtimes.com/*
 
+# North Bluegrass News (USA)
+*://*.northbluegrassnews.com/*
+
