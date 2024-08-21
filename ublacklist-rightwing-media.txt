@@ -5456,3 +5456,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kokomo Standard (USA)
 *://*.kokomostandard.com/*
 
+# Komsomolskaya Pravda (Russia)
+*://*.kp.ru/*
+
