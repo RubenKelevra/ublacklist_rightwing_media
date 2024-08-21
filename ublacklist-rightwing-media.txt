@@ -7414,3 +7414,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Federation for American Immigration Reform (USA)
 *://*.fairus.org/*
 
+# The Freedom Times (USA)
+*://*.thefreedomtimes.com/*
+
