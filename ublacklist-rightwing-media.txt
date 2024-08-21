@@ -6682,3 +6682,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # RIA Novosti (Russia)
 *://*.ria.ru/*
 
+# Righter Way (Unknown)
+*://*.righterway.com/*
+
