@@ -7241,3 +7241,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Students for Trump (USA)
 *://*.trumpstudents.org/*
 
+# Sturgis-Coldwater News (USA)
+*://*.sturgiscoldwaternews.com/*
+
