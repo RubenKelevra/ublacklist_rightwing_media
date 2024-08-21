@@ -6081,3 +6081,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Acadiana News (USA)
 *://*.northacadiananews.com/*
 
+# North Alaska News (USA)
+*://*.northalaskanews.com/*
+
