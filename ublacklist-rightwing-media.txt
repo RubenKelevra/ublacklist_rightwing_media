@@ -5607,3 +5607,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Magnolia State News (USA)
 *://*.magnoliastatenews.com/*
 
+# Maine Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
