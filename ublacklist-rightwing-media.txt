@@ -5157,3 +5157,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grand Canyon Times (USA)
 *://*.grandcanyontimes.com/*
 
+# Grand Junction Times (USA)
+*://*.grandjunctiontimes.com/*
+
