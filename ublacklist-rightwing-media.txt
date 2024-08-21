@@ -5829,3 +5829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Naples Standard (USA)
 *://*.naplesstandard.com/*
 
+# Nassau Standard (USA)
+*://*.nassaustandard.com/*
+
