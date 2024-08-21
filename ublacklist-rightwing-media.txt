@@ -5893,3 +5893,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NC Oklahoma News (USA)
 *://*.ncoklahomanews.com/*
 
+# NC Union News (USA)
+*://*.ncunionnews.com/*
+
