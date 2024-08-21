@@ -7646,3 +7646,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tucson Standard (USA)
 *://*.tucsonstandard.com/*
 
+# Tulare Times (USA)
+*://*.tularetimes.com/*
+
