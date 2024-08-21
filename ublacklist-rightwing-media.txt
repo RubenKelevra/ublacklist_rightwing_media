@@ -7691,3 +7691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Upper Delta News (USA)
 *://*.upperdeltanews.com/*
 
+# UrduPoint (Pakistan)
+*://*.urdupoint.com/*
+
