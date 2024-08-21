@@ -6219,3 +6219,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Panhandle News (USA)
 *://*.northpanhandlenews.com/*
 
+# North Pima News (USA)
+*://*.northpimanews.com/*
+
