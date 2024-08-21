@@ -7299,3 +7299,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Indiana News (USA)
 *://*.swindiananews.com/*
 
+# SW Iowa Times (USA)
+*://*.swiowatimes.com/*
+
