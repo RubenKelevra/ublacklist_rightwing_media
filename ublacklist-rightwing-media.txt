@@ -6129,3 +6129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Northeast Montana News (USA)
 *://*.nemontananews.com/*
 
+# North Cincy News (USA)
+*://*.northcincynews.com/*
+
