@@ -6874,3 +6874,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Kansas News (USA)
 *://*.auburntimes.com/*
 
+# SE Kansas City News (USA)
+*://*.sekansascitynews.com/*
+
