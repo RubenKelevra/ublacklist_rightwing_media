@@ -5142,3 +5142,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Golden State Today (USA)
 *://*.goldenstatetoday.com/*
 
+# GoodGopher (USA)
+*://*.goodgopher.com/*
+
