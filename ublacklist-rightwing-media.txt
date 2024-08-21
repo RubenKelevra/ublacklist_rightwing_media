@@ -8087,3 +8087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sezession (Germany)
 *://*.antaios.de/*
 *://*.sezession.de/*
+
+# Wir selbst (Germany)
+*://*.wir-selbst.com/*
