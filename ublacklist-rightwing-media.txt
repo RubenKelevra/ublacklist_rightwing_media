@@ -7784,3 +7784,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WC Georgia News (USA)
 *://*.wcgeorgianews.com/*
 
+# WC Indiana News (USA)
+*://*.wcindiananews.com/*
+
