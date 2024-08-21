@@ -6654,3 +6654,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Reformed Media (USA)
 *://*.reformedmedia.net/*
 
+# Renew America (USA)
+*://*.renewamerica.com/*
+
