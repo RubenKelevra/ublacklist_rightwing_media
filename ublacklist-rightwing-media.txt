@@ -5881,3 +5881,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NC Massachusetts News (USA)
 *://*.ncmassnews.com/*
 
+# NC Minnesota News (USA)
+*://*.ncminnesotanews.com/*
+
