@@ -6339,3 +6339,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW New Mexico News (USA)
 *://*.nwnewmexiconews.com/*
 
+# NW Ohio Times (USA)
+*://*.nwohiotimes.com/*
+
