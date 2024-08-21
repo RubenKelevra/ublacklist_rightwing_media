@@ -8114,3 +8114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Etappe (Germany)
 *://*.etappe.org/*
+
+# Magazin 2000plus (Germany)
+*://*.magazin2000plus.de/*
