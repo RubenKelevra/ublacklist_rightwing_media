@@ -6288,3 +6288,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Alabama News (USA)
 *://*.nwalabamanews.com/*
 
+# NW Arkansas News (USA)
+*://*.nwarkansasnews.com/*
+
