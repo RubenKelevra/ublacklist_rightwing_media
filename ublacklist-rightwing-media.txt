@@ -5531,3 +5531,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Liberty Counsel (USA)
 *://*.lc.org/*
 
+# Liberty Hangout (USA)
+*://*.libertyhangout.org/*
+
