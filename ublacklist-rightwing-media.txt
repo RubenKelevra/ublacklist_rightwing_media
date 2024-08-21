@@ -6309,3 +6309,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Georgia News (USA)
 *://*.nwgeorgianews.com/*
 
+# NW Illinois News (USA)
+*://*.nwillinoisnews.com/*
+
