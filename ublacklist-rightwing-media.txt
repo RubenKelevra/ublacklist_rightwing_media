@@ -6709,3 +6709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rochester Reporter (USA)
 *://*.rochesterreporter.com/*
 
+# Rockford Sun (USA)
+*://*.rockfordsun.com/*
+
