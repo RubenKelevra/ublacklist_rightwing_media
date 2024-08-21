@@ -7138,3 +7138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Winston-Salem News (USA)
 *://*.southwinstonsalemnews.com/*
 
+# Sovren Media (USA)
+*://*.sovren.media/*
+
