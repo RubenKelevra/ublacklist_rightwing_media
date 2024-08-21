@@ -6050,3 +6050,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newsmax (USA)
 *://*.newsmax.com/*
 
+# Newsview (Greece)
+*://*.newsview.gr/*
+
