@@ -5823,3 +5823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New Jersey Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Nantahala News (USA)
+*://*.nantahalanews.com/*
+
