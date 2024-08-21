@@ -7408,3 +7408,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Epoch Times (USA)
 *://*.theepochtimes.com/*
 
+# The Federalist (USA)
+*://*.thefederalist.com/*
+
