@@ -6638,3 +6638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red Right Patriot (USA)
 *://*.redrightdaily.com/*
 
+# Red State Nation (USA)
+*://*.redstatenation.com/*
+
