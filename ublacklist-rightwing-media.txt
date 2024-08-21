@@ -5703,3 +5703,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Miami Standard (USA)
 *://*.miamistandard.news/*
 
+# Mic Drop Politics (USA)
+*://*.micdroppolitics.com/*
+
