@@ -5838,3 +5838,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # National Alliance (USA)
 *://*.natall.com/*
 
+# National Enquirer (USA)
+*://*.nationalenquirer.com/*
+*://*.intouchweekly.com/*
+
