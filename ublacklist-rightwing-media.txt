@@ -5399,3 +5399,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Johnston Reporter (USA)
 *://*.johnstonreporter.com/*
 
+# Jonesboro Times (USA)
+*://*.jonesborotimes.com/*
+
