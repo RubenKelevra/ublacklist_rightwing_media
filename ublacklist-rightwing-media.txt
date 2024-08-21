@@ -5748,3 +5748,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Minnesota Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Minnesota State Wire (USA)
+*://*.minnesotastatewire.com/*
+
