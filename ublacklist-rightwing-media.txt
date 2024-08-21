@@ -7910,3 +7910,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West STL News (USA)
 *://*.stlwestnews.com/*
 
+# West Twin Cities (USA)
+*://*.westtwincities.com/*
+
