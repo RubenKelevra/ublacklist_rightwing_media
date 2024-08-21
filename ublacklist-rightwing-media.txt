@@ -5408,3 +5408,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Judicial Watch (USA)
 *://*.judicialwatch.org/*
 
+# Kalamazoo Times (USA)
+*://*.kalamazootimes.com/*
+
