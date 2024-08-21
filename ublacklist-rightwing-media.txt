@@ -5489,3 +5489,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lane County News (USA)
 *://*.laneconews.com/*
 
+# Lansing Sun (USA)
+*://*.lansingsun.com/*
+
