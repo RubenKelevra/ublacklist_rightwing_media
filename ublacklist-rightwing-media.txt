@@ -6417,3 +6417,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pacific Pundit (USA)
 *://*.pacificpundit.com/*
 
+# Palm Coast Times (USA)
+*://*.palmcoasttimes.com/*
+
