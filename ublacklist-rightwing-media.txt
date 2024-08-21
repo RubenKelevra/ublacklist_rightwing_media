@@ -7496,3 +7496,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Politics Brief (USA)
 *://*.thepoliticsbrief.com/*
 
+# The Politics Online (Unknown)
+*://*.thepolitics.online/*
+
