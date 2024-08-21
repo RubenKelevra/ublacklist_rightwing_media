@@ -251,6 +251,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.bizpacreview.com/*
 
 # BlabberBuzz (USA)
+*://*.instagram.com/blabberbuzz*
+*://*.instagram.com/blabberdotbuzz*
+*://*.youtube.com/@blabberbuzz3973*
 *://*.blabber.buzz/*
 
 # Black Community News (USA)
