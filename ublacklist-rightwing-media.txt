@@ -5242,3 +5242,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hillsborough Sun (USA)
 *://*.hillsboroughsun.com/*
 
+# Hogg Watch (USA)
+*://*.hoggwatch.com/*
+
