@@ -6474,3 +6474,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pensacola Times (USA)
 *://*.pensacolatimes.com/*
 
+# Peoria Standard (USA)
+*://*.peoriastandard.com/*
+
