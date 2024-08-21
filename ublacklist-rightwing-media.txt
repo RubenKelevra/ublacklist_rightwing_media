@@ -173,6 +173,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.americanwirenews.com/*
 
 # Ami Magazine (USA)
+*://*.instagram.com/ami.magazine*
+*://*.instagram.com/ami.magazine/reels*
+*://*.twitter.com/ami_magazine*
+*://*.x.com/ami_magazine*
 *://*.amimagazine.org/*
 
 # Ammoland (USA)
