@@ -7166,3 +7166,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sputnik News Agency (Russia)
 *://*.it.sputniknews.com/*
 
+# St. Joe-Benton Harbor News (USA)
+*://*.stjoebentonharbor.com/*
+
