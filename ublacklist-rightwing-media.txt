@@ -6543,3 +6543,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Population Research Institute (USA)
 *://*.pop.org/*
 
+# Populist Press (USA)
+*://*.populistpress.com/*
+*://*.thepoliticalsignal.com/*
+
