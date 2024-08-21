@@ -7871,3 +7871,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Western Journal (USA)
 *://*.westernjournal.com/*
 
+# West LA Times (USA)
+*://*.westlatimes.com/*
+
