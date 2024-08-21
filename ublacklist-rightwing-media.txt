@@ -7664,3 +7664,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ukraina.ru (Russia)
 *://*.ukraina.ru/*
 
+# UncoverDC (USA)
+*://*.uncoverdc.com/*
+
