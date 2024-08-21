@@ -7907,3 +7907,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Stark News (USA)
 *://*.weststarknews.com/*
 
+# West STL News (USA)
+*://*.stlwestnews.com/*
+
