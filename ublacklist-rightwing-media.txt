@@ -5745,3 +5745,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Minneapolis Review (USA)
 *://*.minneapolisreview.com/*
 
+# Minnesota Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
