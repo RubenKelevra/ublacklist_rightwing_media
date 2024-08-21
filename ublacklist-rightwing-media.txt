@@ -5649,3 +5649,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mat-Su Times (USA)
 *://*.matsutimes.com/*
 
+# Maui Reporter (USA)
+*://*.mauireporter.com/*
+
