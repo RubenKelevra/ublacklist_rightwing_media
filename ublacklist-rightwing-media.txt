@@ -6180,3 +6180,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Kent News (USA)
 *://*.northkentnews.com/*
 
+# North Kentucky News (USA)
+*://*.northkentuckynews.com/*
+
