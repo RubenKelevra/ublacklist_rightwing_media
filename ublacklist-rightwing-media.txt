@@ -6053,3 +6053,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newsview (Greece)
 *://*.newsview.gr/*
 
+# NewsWars (USA)
+*://*.newswars.com/*
+*://*.infowars.com/*
+
