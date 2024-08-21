@@ -5444,3 +5444,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kern County Times (USA)
 *://*.kerncountytimes.com/*
 
+# Key West Reporter (USA)
+*://*.keywestreporter.com/*
+
