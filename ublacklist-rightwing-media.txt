@@ -7895,3 +7895,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Pennyroyal News (USA)
 *://*.westpennyroyalnews.com/*
 
+# West SBV Times (USA)
+*://*.westsbvtimes.com/*
+
