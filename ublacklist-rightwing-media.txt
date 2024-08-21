@@ -5682,3 +5682,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metric Media (USA)
 *://*.metricmedianews.com/*
 
+# Metro East Sun (USA)
+*://*.metroeastsun.com/*
+
