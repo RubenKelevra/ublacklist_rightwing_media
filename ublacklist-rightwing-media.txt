@@ -5438,3 +5438,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kentuckiana Times (USA)
 *://*.kentuckianatimes.com/*
 
+# Kentucky Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
