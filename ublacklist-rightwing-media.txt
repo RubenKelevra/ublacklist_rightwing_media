@@ -7353,3 +7353,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tea Party Inc (USA)
 *://*.teaparty.org/*
 
+# Tea Party Patriots (USA)
+*://*.teapartypatriots.org/*
+
