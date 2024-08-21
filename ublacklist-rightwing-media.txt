@@ -6459,3 +6459,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriotic Viral News (USA)
 *://*.patrioticviralnews.com/*
 
+# Peace Garden News (USA)
+*://*.peacegardennews.com/*
+
