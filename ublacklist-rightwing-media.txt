@@ -8077,3 +8077,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # COMPACT-Magazin (Germany)
 *://*.compact-online.de/*
+
+# Junge Freiheit (Germany)
+*://*.jungefreiheit.de/*
