@@ -5796,3 +5796,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Montgomery News (USA)
 *://*.montgomerymdnews.com/*
 
+# MoonBattery (USA)
+*://*.moonbattery.com/*
+
