@@ -7229,3 +7229,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Claire Today (USA)
 *://*.stclairtoday.com/*
 
+# St. Louis Record (USA)
+*://*.stlrecord.com/*
+
