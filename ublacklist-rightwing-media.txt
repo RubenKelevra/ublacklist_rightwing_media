@@ -5902,3 +5902,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Alabama News (USA)
 *://*.nealabamanews.com/*
 
+# NE Atlanta News (USA)
+*://*.neatlantanews.com/*
+
