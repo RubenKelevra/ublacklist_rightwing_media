@@ -189,6 +189,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.ammoland.com/*
 
 # Anadolu Agency / Anadolu Ajansı (Turkey)
+*://*.instagram.com/anadoluagency*
+*://*.twitter.com/anadoluagency*
+*://*.x.com/anadoluagency*
 *://*.aa.com.tr/*
 
 # Ann Arbor’s Talk 1290 WLBY (USA)
