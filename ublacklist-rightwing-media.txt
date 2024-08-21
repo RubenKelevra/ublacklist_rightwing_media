@@ -5580,3 +5580,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lorain Times (USA)
 *://*.loraintimes.com/*
 
+# Louder With Crowder (USA)
+*://*.louderwithcrowder.com/*
+
