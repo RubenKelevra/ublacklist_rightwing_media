@@ -6605,3 +6605,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Quillette (Australia)
 *://*.quillette.com/*
 
+# Quincy Reporter (USA)
+*://*.quincyreporter.com/*
+
