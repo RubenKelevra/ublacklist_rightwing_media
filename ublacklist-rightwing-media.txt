@@ -7042,3 +7042,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Iowa News (USA)
 *://*.southiowanews.com/*
 
+# South Jefferson County News (USA)
+*://*.southjeffconews.com/*
+
