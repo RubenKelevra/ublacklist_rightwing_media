@@ -7535,3 +7535,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Scoop (USA)
 *://*.thescoop.us/*
 
+# The Sons of Liberty Media (USA)
+*://*.sonsoflibertymedia.com/*
+
