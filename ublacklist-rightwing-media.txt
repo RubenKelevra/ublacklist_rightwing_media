@@ -7679,3 +7679,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # United Voice (USA)
 *://*.unitedvoice.com/*
 
+# Unity News Network (UK)
+*://*.unitynewsnetwork.co.uk/*
+
