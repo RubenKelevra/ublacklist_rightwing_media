@@ -7733,3 +7733,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vigilant News (USA)
 *://*.vigilantnews.com/*
 
+# Virginia Star (USA)
+*://*.thevirginiastar.com/*
+
