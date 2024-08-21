@@ -7075,3 +7075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Middlesex Times (USA)
 *://*.southmiddlesextimes.com/*
 
+# South New Castle News (USA)
+*://*.southnewcastlenews.com/*
+
