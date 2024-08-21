@@ -6315,3 +6315,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Jersey News (USA)
 *://*.nwjerseynews.com/*
 
+# NW Kansas News (USA)
+*://*.nwkansasnews.com/*
+
