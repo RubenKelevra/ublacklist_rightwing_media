@@ -7841,3 +7841,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West DSM News (USA)
 *://*.westdsmnews.com/*
 
+# West El Dorado News (USA)
+*://*.westeldoradonews.com/*
+
