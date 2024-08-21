@@ -7946,3 +7946,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Witherspoon Institute (USA)
 *://*.thepublicdiscourse.com/*
 
+# WLT Report (USA)
+*://*.wltreport.com/*
+
