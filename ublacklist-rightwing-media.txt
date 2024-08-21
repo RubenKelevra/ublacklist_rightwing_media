@@ -5754,3 +5754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Minnesota Sun (USA)
 *://*.theminnesotasun.com/*
 
+# Mississippi Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
