@@ -6279,3 +6279,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nour News (Iran)
 *://*.nournews.ir/*
 
+# NPR.News (USA)
+*://*.npr.news/*
+
