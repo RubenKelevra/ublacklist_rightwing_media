@@ -6802,3 +6802,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Saratoga Standard (USA)
 *://*.saratogastandard.com/*
 
+# Savannah Standard (USA)
+*://*.savannahstandard.com/*
+
