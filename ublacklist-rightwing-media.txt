@@ -6994,3 +6994,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Charlotte Today (USA)
 *://*.southcharlottetoday.com/*
 
+# South Coast Times (USA)
+*://*.southcoasttimes.com/*
+
