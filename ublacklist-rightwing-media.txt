@@ -6057,3 +6057,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.newswars.com/*
 *://*.infowars.com/*
 
+# New York Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
