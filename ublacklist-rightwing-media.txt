@@ -6626,3 +6626,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Redacted (Portugal)
 *://*.redacted.inc/*
 
+# Redding Today (USA)
+*://*.reddingtoday.com/*
+
