@@ -6562,3 +6562,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Prairie State Wire (USA)
 *://*.prairiestatewire.com/*
 
+# Pravda Report (Russia)
+*://*.pravdareport.com/*
+*://*.pravda.ru/*
+
