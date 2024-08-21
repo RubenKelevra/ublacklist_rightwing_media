@@ -7257,3 +7257,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Sunflower State News (USA)
 *://*.sunflowerstatenews.com/*
 
+# Sunshine Sentinel (USA)
+*://*.sunshinesentinel.com/*
+
