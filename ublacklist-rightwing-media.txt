@@ -6354,3 +6354,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NYC Gazette (USA)
 *://*.nycgazette.com/*
 
+# Trending Politics (USA)
+*://*.trendingpolitics.com/*
+
