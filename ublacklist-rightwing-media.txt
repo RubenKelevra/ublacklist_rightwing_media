@@ -5206,3 +5206,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hannity.com (USA)
 *://*.hannity.com/*
 
+# Harford News (USA)
+*://*.harfordnews.com/*
+
