@@ -35,6 +35,26 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.1819news.com/*
 
 # Abort73 (USA)
+*://*.abort73.substack.com/*
+*://*.classy.org/campaign/join-team-abort73/*
+*://*.crunchbase.com/organization/abort73*
+*://*.flickr.com/photos/abort73/*
+*://*.instagram.com/abort73*
+*://*.open.spotify.com/episode/1AYSUciQVEOjhSq9DEAj0a*
+*://*.pinterest.com/abort73/*
+*://*.tiktok.com/tag/abort73*
+*://*.twitter.com/JohnPiper*
+*://*.twitter.com/abort73*
+*://*.twitter.com/johnpiper*
+*://*.x.com/JohnPiper*
+*://*.x.com/abort73*
+*://*.x.com/johnpiper*
+*://*.youtube.com/abort73*
+*://*.zazzle.com/abort73_com_bumper_sticker-128691460239521256/*
+*://*.zoominfo.com/c/abort73/*
+*://podcasts.apple.com/*/podcast/*/id1642521731*
+*://podcasts.apple.com/*/podcast/audio-abort73/*
+*://podcasts.apple.com/*/podcast/audio-abort73/id1642521731*
 *://*.abort73.com/*
 
 # Accuracy in Academia (USA)
