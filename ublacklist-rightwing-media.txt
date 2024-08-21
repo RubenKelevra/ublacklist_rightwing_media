@@ -6967,3 +6967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Asheville News (USA)
 *://*.southashevillenews.com/*
 
+# South Atlanta News (USA)
+*://*.southatlantanews.com/*
+
