@@ -6826,3 +6826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC Mississippi News (USA)
 *://*.scmissnews.com/*
 
+# SC Missouri News (USA)
+*://*.scmissourinews.com/*
+
