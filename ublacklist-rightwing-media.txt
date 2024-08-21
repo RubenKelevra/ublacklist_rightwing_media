@@ -5296,3 +5296,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Idaho Tribune (USA)
 *://*.idahotribune.org/*
 
+# I Hate the Media (USA)
+*://*.ihatethemedia.com/*
+
