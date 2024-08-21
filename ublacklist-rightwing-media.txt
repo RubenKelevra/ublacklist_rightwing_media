@@ -8083,3 +8083,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Deutschland Kurier (Germany)
 *://*.deutschlandkurier.de/*
+
+# Sezession (Germany)
+*://*.antaios.de/*
+*://*.sezession.de/*
