@@ -5697,3 +5697,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Miami Courant (USA)
 *://*.miamicourant.com/*
 
+# Miami Independent (USA)
+*://*.miamiindependent.com/*
+
