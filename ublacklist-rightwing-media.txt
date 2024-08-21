@@ -5664,3 +5664,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mehr News Agency (Iran)
 *://*.en.mehrnews.com/*
 
+# Men Going Their Own Way (USA)
+*://*.mgtow.tv/*
+
