@@ -7775,3 +7775,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Waterloo Times (USA)
 *://*.waterlootimes.com/*
 
+# Wayne County Today (USA)
+*://*.waynecountytoday.com/*
+
