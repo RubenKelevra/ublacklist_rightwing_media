@@ -5166,3 +5166,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Granite Grok (USA)
 *://*.granitegrok.com/*
 
+# Great American Daily (USA)
+*://*.greatamericandaily.com/*
+
