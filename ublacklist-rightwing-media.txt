@@ -5372,3 +5372,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Israel War Room (USA)
 *://*.israelwarroom.com/*
 
+# Ivermectin for Covid-19 (Unknown)
+*://*.ivmmeta.com/*
+
