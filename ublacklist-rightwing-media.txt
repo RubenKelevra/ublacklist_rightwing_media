@@ -5610,3 +5610,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Maine Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Maine Highlands News (USA)
+*://*.mainehighlandsnews.com/*
+
