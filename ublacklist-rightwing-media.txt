@@ -6796,3 +6796,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Santa Monica Observer (USA)
 *://*.smobserved.com/*
 
+# Sarasota Review- Bias and Credibility (USA)
+*://*.sarasotareview.com/*
+
