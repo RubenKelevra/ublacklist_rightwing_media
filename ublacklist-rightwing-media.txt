@@ -166,6 +166,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.spectator.org/*
 
 # American Wire News (USA)
+*://*.instagram.com/americanwirenews*
+*://*.twitter.com/americanwire_*
+*://*.x.com/americanwire_*
+*://*.youtube.com/@AmericanWire1776*
 *://*.americanwirenews.com/*
 
 # Ami Magazine (USA)
