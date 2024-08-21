@@ -5899,3 +5899,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # ND North News (USA)
 *://*.ndnorthnews.com/*
 
+# NE Alabama News (USA)
+*://*.nealabamanews.com/*
+
