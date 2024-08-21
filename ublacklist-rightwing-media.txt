@@ -5561,3 +5561,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lima Reporter (USA)
 *://*.limareporter.com/*
 
+# Lindell TV (USA)
+*://*.lindelltv.com/*
+*://*.FrankSpeech.com/*
+
