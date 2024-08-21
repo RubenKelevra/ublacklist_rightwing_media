@@ -5715,3 +5715,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Michigan Star (USA)
 *://*.themichiganstar.com/*
 
+# Mid Coast Times (USA)
+*://*.midcoasttimes.com/*
+
