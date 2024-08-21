@@ -6360,3 +6360,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Oakland City Wire (USA)
 *://*.oaklandcitywire.com/*
 
+# Objectivist (USA)
+*://*.objectivist.co/*
+
