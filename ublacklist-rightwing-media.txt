@@ -7066,3 +7066,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Mecklenburg News (USA)
 *://*.southmecklenburgnews.com/*
 
+# South Miami-Dade News (USA)
+*://*.southmianews.com/*
+
