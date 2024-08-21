@@ -7577,3 +7577,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tobacco News Wire (USA)
 *://*.tobacconewswire.com/*
 
+# ToddStarnes.com (USA)
+*://*.toddstarnes.com/*
+
