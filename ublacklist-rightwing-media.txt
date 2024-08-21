@@ -7090,3 +7090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Omaha Times (USA)
 *://*.southomahatimes.com/*
 
+# South Oregon News (USA)
+*://*.southoregonnews.com/*
+
