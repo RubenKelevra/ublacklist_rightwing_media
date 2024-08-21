@@ -6135,3 +6135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Country Leader (USA)
 *://*.northcountryleader.com/*
 
+# North Dayton News (USA)
+*://*.northdaytonnews.com/*
+
