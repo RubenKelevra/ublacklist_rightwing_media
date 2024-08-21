@@ -5920,3 +5920,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Colorado News (USA)
 *://*.necoloradonews.com/*
 
+# NE Connecticut News (USA)
+*://*.neconnnews.com/*
+
