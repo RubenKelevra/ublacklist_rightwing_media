@@ -6847,3 +6847,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Bluegrass News (USA)
 *://*.sebluegrassnews.com/*
 
+# SE Colorado News (USA)
+*://*.secoloradonews.com/*
+
