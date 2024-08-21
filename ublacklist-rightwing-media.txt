@@ -5384,3 +5384,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jefferson City News (USA)
 *://*.jeffcitynews.com/*
 
+# Jefferson County Times (USA)
+*://*.jeffcotimes.com/*
+
