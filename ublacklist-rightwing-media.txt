@@ -7429,3 +7429,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Horn News (USA)
 *://*.thehornnews.com/*
 
+# Thejeffreylord.com (USA)
+*://*.thejeffreylord.com/*
+
