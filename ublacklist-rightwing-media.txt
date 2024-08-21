@@ -7532,3 +7532,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Science Times (USA)
 *://*.sciencetimes.com/*
 
+# The Scoop (USA)
+*://*.thescoop.us/*
+
