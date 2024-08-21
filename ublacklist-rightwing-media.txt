@@ -5320,3 +5320,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Imperial CA News (USA)
 *://*.imperialcanews.com/*
 
+# InfoGalactic (Switzerland)
+*://*.infogalactic.com/*
+
