@@ -7350,3 +7350,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # TB Daily News (USA)
 *://*.tbdailynews.com/*
 
+# Tea Party Inc (USA)
+*://*.teaparty.org/*
+
