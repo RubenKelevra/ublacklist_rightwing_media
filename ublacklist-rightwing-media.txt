@@ -5350,3 +5350,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Insurance Rate Reporter (USA)
 *://*.insuranceratereporter.com/*
 
+# Interior Alaska News (USA)
+*://*.interioralaskanews.com/*
+
