@@ -6372,3 +6372,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Ohio Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# OKC Standard (USA)
+*://*.okcstandard.com/*
+
