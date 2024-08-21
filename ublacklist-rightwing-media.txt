@@ -206,6 +206,11 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.armstrongeconomics.com/*
 
 # Asian Dawn (USA)
+*://*.instagram.com/the_asian_dawn*
+*://*.twitter.com/AsianDawn4*
+*://*.twitter.com/asiandawn4*
+*://*.x.com/AsianDawn4*
+*://*.x.com/asiandawn4*
 *://*.asian-dawn.com/*
 
 # AsiaNews.it (Italy)
