@@ -7356,3 +7356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tea Party Patriots (USA)
 *://*.teapartypatriots.org/*
 
+# TechStartups (USA)
+*://*.techstartups.com/*
+
