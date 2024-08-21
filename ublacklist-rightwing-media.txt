@@ -6243,3 +6243,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North SGV News (USA)
 *://*.northsgvnews.com/*
 
+# North Shore Louisiana News (USA)
+*://*.northshorelanews.com/*
+
