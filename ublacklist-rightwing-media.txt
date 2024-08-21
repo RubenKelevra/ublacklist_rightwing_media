@@ -5691,3 +5691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metro West Times (USA)
 *://*.metrowesttimes.com/*
 
+# Mexico Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
