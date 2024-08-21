@@ -5631,3 +5631,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mansfield Times (USA)
 *://*.mansfieldtimes.com/*
 
+# Marin Leader (USA)
+*://*.marinleader.com/*
+
