@@ -7454,3 +7454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Liberty Revolution (USA)
 *://*.thelibertyrevolution.com/*
 
+# The Majalla (Saudi Arabia)
+*://*.majalla.com/*
+
