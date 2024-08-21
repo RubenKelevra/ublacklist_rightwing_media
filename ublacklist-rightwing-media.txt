@@ -7193,3 +7193,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # St. Cloud Sun (USA)
 *://*.stcloudsun.com/*
 
+# Steadfast and Loyal (USA)
+*://*.steadfastandloyal.com/*
+
