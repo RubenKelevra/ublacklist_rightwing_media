@@ -6351,3 +6351,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Valley Times (USA)
 *://*.nwvalleytimes.com/*
 
+# NYC Gazette (USA)
+*://*.nycgazette.com/*
+
