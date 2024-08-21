@@ -5381,3 +5381,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jackson Purchase News (USA)
 *://*.jacksonpurchasenews.com/*
 
+# Jefferson City News (USA)
+*://*.jeffcitynews.com/*
+
