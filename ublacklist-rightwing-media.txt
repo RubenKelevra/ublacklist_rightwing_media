@@ -7622,3 +7622,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Trump Train News (USA)
 *://*.trumptrainnews.com/*
 
+# Truth and Action (USA)
+*://*.truthandaction.org/*
+
