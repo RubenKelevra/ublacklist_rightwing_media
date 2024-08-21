@@ -6035,3 +6035,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newsrael (Israel)
 *://*.newsrael.com/*
 
+# News Rescue (Nigeria)
+*://*.newsrescue.com/*
+
