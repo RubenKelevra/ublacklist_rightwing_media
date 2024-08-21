@@ -7820,3 +7820,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Central Alabama News (USA)
 *://*.wcalabamanews.com/*
 
+# West Central Michigan News (USA)
+*://*.wcmichigannews.com/*
+
