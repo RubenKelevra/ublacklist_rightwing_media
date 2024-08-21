@@ -6829,3 +6829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC Missouri News (USA)
 *://*.scmissourinews.com/*
 
+# SC Nebraska News (USA)
+*://*.scnebraskanews.com/*
+
