@@ -7961,3 +7961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/WNDNews*
 *://*.wnd.com/*
 
+# World Tribune (USA)
+*://*.worldtribune.com/*
+
