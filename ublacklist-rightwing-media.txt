@@ -6700,3 +6700,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # River Parish News (USA)
 *://*.riverparishnews.com/*
 
+# River Region Times (USA)
+*://*.riverregiontimes.com/*
+
