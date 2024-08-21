@@ -7187,3 +7187,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Staten Island Reporter (USA)
 *://*.statenislandreporter.com/*
 
+# St. Charles Times (USA)
+*://*.stcharlestimes.com/*
+
