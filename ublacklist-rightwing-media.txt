@@ -7778,3 +7778,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Wayne County Today (USA)
 *://*.waynecountytoday.com/*
 
+# WayneDupree.com (USA)
+*://*.waynedupree.com/*
+
