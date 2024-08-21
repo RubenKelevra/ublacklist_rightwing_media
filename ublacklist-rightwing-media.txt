@@ -5799,3 +5799,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # MoonBattery (USA)
 *://*.moonbattery.com/*
 
+# Morning Poll (USA)
+*://*.morningpoll.com/*
+
