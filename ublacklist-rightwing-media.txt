@@ -6357,3 +6357,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Trending Politics (USA)
 *://*.trendingpolitics.com/*
 
+# Oakland City Wire (USA)
+*://*.oaklandcitywire.com/*
+
