@@ -6522,3 +6522,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PoliticalDiscussion (Unknown)
 *://*.political-discussion.com/*
 
+# Political Insider (USA)
+*://*.thepoliticalinsider.com/*
+
