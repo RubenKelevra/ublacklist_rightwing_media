@@ -8141,9 +8141,15 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.compact-online.de/*
 
 # Junge Freiheit (Germany)
+*://*.twitter.com/Junge_Freiheit*
+*://*.twitter.com/junge_freiheit*
+*://*.x.com/Junge_Freiheit*
+*://*.x.com/junge_freiheit*
 *://*.jungefreiheit.de/*
 
 # Deutschland Kurier (Germany)
+*://*.youtube.com/@deutschlandkurier6819*
+*://*.youtube.com/post/Ugkx8LHo_DDx78ChYFDCWPjlTungiMp8pGzv/*
 *://*.deutschlandkurier.de/*
 
 # Sezession (Germany)
