@@ -6411,3 +6411,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Outer Banks Times (USA)
 *://*.outerbankstimes.com/*
 
+# Oxford Reporter (USA)
+*://*.oxfordreporter.com/*
+
