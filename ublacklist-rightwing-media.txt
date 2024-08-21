@@ -7787,3 +7787,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WC Indiana News (USA)
 *://*.wcindiananews.com/*
 
+# WC Iowa News (USA)
+*://*.wciowanews.com/*
+
