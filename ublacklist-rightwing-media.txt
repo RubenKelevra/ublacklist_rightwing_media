@@ -106,6 +106,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.allisrael.com/*
 
 # AltNewsMedia.net (UK)
+*://*.youtube.com/c/AltNewsMedia*
 *://*.altnewsmedia.net/*
 
 # AMAC (USA)
