@@ -6300,3 +6300,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Connecticut News (USA)
 *://*.nwconnnews.com/*
 
+# NW Clark News (USA)
+*://*.nwclarknews.com/*
+
