@@ -5028,6 +5028,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fox News (USA)
 *://*.twitter.com/FoxNews*
 *://*.x.com/FoxNews*
+*://*.twitter.com/foxnews*
+*://*.x.com/foxnews*
 *://*.facebook.com/FoxNews*
 *://*.foxnews.com/*
 
@@ -7472,6 +7474,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The National Pulse (USA)
 *://*.twitter.com/TheNatPulse*
 *://*.x.com/TheNatPulse*
+*://*.twitter.com/thenatpulse*
+*://*.x.com/thenatpulse*
 *://*.facebook.com/thenationalpulse*
 *://*.thenationalpulse.com/*
 
@@ -7763,6 +7767,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Washington Times (USA)
 *://*.twitter.com/WashTimes*
 *://*.x.com/WashTimes*
+*://*.twitter.com/washtimes*
+*://*.x.com/washtimes*
 *://*.facebook.com/TheWashingtonTimes*
 *://*.washingtontimes.com/*
 
