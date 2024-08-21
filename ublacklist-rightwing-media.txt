@@ -7426,3 +7426,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Hayride (USA)
 *://*.thehayride.com/*
 
+# The Horn News (USA)
+*://*.thehornnews.com/*
+
