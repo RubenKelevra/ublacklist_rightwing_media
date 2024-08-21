@@ -6408,3 +6408,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Overpasses for America (UK)
 *://*.overpassesforamerica.com/*
 
+# Outer Banks Times (USA)
+*://*.outerbankstimes.com/*
+
