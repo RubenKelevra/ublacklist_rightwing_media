@@ -7616,3 +7616,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Trumball News (USA)
 *://*.trumballnews.com/*
 
+# Trump.News (USA)
+*://*.trump.news/*
+
