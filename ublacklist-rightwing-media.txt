@@ -6805,3 +6805,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Savannah Standard (USA)
 *://*.savannahstandard.com/*
 
+# SC Alaska News (USA)
+*://*.scalaskanews.com/*
+
