@@ -6657,3 +6657,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Renew America (USA)
 *://*.renewamerica.com/*
 
+# RenewedRight.com (USA)
+*://*.renewedright.com/*
+
