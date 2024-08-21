@@ -6198,3 +6198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Middlesex Times (USA)
 *://*.northmiddlesextimes.com/*
 
+# North Nevada News (USA)
+*://*.northnevadanews.com/*
+
