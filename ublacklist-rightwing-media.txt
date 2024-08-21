@@ -5887,3 +5887,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NC Mississippi News (USA)
 *://*.ncmissnews.com/*
 
+# NC North Carolina News (USA)
+*://*.ncncnews.com/*
+
