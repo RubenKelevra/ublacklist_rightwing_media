@@ -5203,3 +5203,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hal Turner Radio Show (USA)
 *://*.halturnerradioshow.com/*
 
+# Hannity.com (USA)
+*://*.hannity.com/*
+
