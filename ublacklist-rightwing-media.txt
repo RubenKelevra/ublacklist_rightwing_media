@@ -7694,3 +7694,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # UrduPoint (Pakistan)
 *://*.urdupoint.com/*
 
+# US Backlash (USA)
+*://*.usbacklash.org/*
+
