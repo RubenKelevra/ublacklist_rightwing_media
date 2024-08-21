@@ -7238,3 +7238,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Strategic Culture Foundation (Russia)
 *://*.strategic-culture.org/*
 
+# Students for Trump (USA)
+*://*.trumpstudents.org/*
+
