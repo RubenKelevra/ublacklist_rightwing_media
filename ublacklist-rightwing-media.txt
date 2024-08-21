@@ -5184,3 +5184,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Greenville Reporter (USA)
 *://*.greenvillereporter.com/*
 
+# Gript.ie (Unknown)
+*://*.gript.ie/*
+
