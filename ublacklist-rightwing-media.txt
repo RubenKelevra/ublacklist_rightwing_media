@@ -6850,3 +6850,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Colorado News (USA)
 *://*.secoloradonews.com/*
 
+# SE Connecticut News (USA)
+*://*.seconnnews.com/*
+
