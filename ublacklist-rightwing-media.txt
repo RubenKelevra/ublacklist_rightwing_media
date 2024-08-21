@@ -7247,3 +7247,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Suffolk Reporter (USA)
 *://*.suffolkreporter.com/*
 
+# Summit News (USA)
+*://*.summit.news/*
+*://*.modernity.news/*
+
