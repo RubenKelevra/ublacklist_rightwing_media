@@ -6066,3 +6066,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Niagara Leader (USA)
 *://*.niagaraleader.com/*
 
+# Nine for News (Netherlands)
+*://*.ninefornews.nl/*
+
