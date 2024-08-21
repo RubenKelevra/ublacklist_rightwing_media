@@ -7880,3 +7880,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Massachusetts News (USA)
 *://*.westmassnews.com/*
 
+# Western ND News (USA)
+*://*.westernndnews.com/*
+
