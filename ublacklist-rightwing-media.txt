@@ -5311,3 +5311,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Illinois Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Illinois Valley Times (USA)
+*://*.illinoisvalleytimes.com/*
+
