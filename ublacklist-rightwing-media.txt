@@ -7383,3 +7383,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Conservative Papers (USA)
 *://*.conservativepapers.com/*
 
+# The Covid World (USA)
+*://*.thecovidworld.com/*
+
