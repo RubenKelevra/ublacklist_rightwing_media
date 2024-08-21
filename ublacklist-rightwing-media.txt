@@ -6060,3 +6060,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New York Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Next News Network (USA)
+*://*.nextnewsnetwork.com/*
+
