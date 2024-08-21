@@ -7718,3 +7718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Patriot Front (USA)
 *://*.patriotfront.us/*
 
+# VDARE (USA)
+*://*.vdare.com/*
+
