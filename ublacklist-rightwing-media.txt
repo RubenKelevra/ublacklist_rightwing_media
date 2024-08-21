@@ -5986,3 +5986,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Newark Reporter (USA)
 *://*.newarkreporter.com/*
 
+# New Discourses (USA)
+*://*.newdiscourses.com/*
+
