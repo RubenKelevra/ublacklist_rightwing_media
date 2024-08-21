@@ -8090,3 +8090,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Wir selbst (Germany)
 *://*.wir-selbst.com/*
+
+# Cato (Germany)
+*://*.cato-magazin.de/*
