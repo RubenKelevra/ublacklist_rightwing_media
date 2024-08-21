@@ -7739,3 +7739,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vision Times (USA)
 *://*.visiontimes.com/*
 
+# VZ.ru (Russia)
+*://*.vz.ru/*
+
