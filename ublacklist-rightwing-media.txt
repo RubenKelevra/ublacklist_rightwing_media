@@ -5390,3 +5390,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Jefferson Reporter (USA)
 *://*.jeffersonreporter.com/*
 
+# Joco Today (USA)
+*://*.jocotoday.com/*
+
