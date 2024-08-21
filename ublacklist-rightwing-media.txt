@@ -5685,3 +5685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Metro East Sun (USA)
 *://*.metroeastsun.com/*
 
+# Metro Lex News (USA)
+*://*.metrolexnews.com/*
+
