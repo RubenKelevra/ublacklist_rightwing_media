@@ -6138,3 +6138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Dayton News (USA)
 *://*.northdaytonnews.com/*
 
+# North Egypt News (USA)
+*://*.northegyptnews.com/*
+
