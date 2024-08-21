@@ -5595,3 +5595,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Macomb Today (USA)
 *://*.macombtoday.com/*
 
+# Macon Reporter (USA)
+*://*.maconreporter.com/*
+
