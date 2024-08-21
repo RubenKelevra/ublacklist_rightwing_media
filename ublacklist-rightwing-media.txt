@@ -7847,3 +7847,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Essex News (USA)
 *://*.westessexnews.com/*
 
+# West Hamilton News (USA)
+*://*.westhamiltonnews.com/*
+
