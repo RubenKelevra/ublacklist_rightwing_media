@@ -7868,3 +7868,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Indy News (USA)
 *://*.westindynews.com/*
 
+# Western Journal (USA)
+*://*.westernjournal.com/*
+
