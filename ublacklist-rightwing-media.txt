@@ -5462,3 +5462,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kremlin.ru (Russia)
 *://*.en.kremlin.ru/*
 
+# Kunstler.com (USA)
+*://*.kunstler.com/*
+
