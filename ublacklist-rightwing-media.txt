@@ -5832,3 +5832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nassau Standard (USA)
 *://*.nassaustandard.com/*
 
+# Nature Coast Times (USA)
+*://*.naturecoasttimes.com/*
+
