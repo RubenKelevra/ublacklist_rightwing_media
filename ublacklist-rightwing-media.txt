@@ -7036,3 +7036,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Hennepin News (USA)
 *://*.southhennepinnews.com/*
 
+# South Indy News (USA)
+*://*.southindynews.com/*
+
