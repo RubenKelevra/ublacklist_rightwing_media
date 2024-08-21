@@ -7781,3 +7781,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WayneDupree.com (USA)
 *://*.waynedupree.com/*
 
+# WC Georgia News (USA)
+*://*.wcgeorgianews.com/*
+
