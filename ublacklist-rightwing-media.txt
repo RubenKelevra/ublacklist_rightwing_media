@@ -6471,3 +6471,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pennsylvania Daily Star (USA)
 *://*.pennsylvaniadailystar.com/*
 
+# Pensacola Times (USA)
+*://*.pensacolatimes.com/*
+
