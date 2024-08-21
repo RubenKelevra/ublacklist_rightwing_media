@@ -5965,3 +5965,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE North Dakota News (USA)
 *://*.nenorthdakotanews.com/*
 
+# NE Ohio Times (USA)
+*://*.neohiotimes.com/*
+
