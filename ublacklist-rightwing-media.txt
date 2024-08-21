@@ -5658,3 +5658,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # McLean County Times (USA)
 *://*.mcleancountytimes.com/*
 
+# Medina Today (USA)
+*://*.medinatoday.com/*
+
