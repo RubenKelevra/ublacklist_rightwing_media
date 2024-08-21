@@ -6516,3 +6516,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Point Report (USA)
 *://*.pointreport.org/*
 
+# Political Animal News (USA)
+*://*.politicalanimalnews.com/*
+
