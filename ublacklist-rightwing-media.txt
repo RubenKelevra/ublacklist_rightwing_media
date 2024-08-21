@@ -5652,3 +5652,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Maui Reporter (USA)
 *://*.mauireporter.com/*
 
+# McHenry Times (USA)
+*://*.mchenrytimes.com/*
+
