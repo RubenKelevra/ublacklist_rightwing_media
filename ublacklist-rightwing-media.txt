@@ -6685,3 +6685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Righter Way (Unknown)
 *://*.righterway.com/*
 
+# Right News Wire (USA)
+*://*.rightnewswire.com/*
+
