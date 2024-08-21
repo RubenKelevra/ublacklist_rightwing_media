@@ -6814,3 +6814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Atlanta News (USA)
 *://*.seatlantanews.com/*
 
+# SC Connecticut News (USA)
+*://*.scconnnews.com/*
+
