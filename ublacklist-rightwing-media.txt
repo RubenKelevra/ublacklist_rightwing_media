@@ -6519,3 +6519,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Political Animal News (USA)
 *://*.politicalanimalnews.com/*
 
+# PoliticalDiscussion (Unknown)
+*://*.political-discussion.com/*
+
