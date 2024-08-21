@@ -6336,3 +6336,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NW Missouri Times (USA)
 *://*.nwmissouritimes.com/*
 
+# NW New Mexico News (USA)
+*://*.nwnewmexiconews.com/*
+
