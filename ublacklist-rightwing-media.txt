@@ -6177,3 +6177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Jefferson Country News (USA)
 *://*.northjeffconews.com/*
 
+# North Kent News (USA)
+*://*.northkentnews.com/*
+
