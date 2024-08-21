@@ -5793,3 +5793,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Monterey Times (USA)
 *://*.montereytimes.com/*
 
+# Montgomery News (USA)
+*://*.montgomerymdnews.com/*
+
