@@ -6087,3 +6087,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Baltimore Journal (USA)
 *://*.northbaltimorejournal.com/*
 
+# North Birmingham Times (USA)
+*://*.northbirminghamtimes.com/*
+
