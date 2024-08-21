@@ -5739,3 +5739,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Military Review (Russia)
 *://*.topwar.ru/*
 
+# Military Watch Magazine (Unknown)
+*://*.militarywatchmagazine.com/*
+
