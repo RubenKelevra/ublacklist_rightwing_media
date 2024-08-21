@@ -5181,3 +5181,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Greensboro Reporter (USA)
 *://*.greensbororeporter.com/*
 
+# Greenville Reporter (USA)
+*://*.greenvillereporter.com/*
+
