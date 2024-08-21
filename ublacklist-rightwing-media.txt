@@ -7493,3 +7493,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Patriot Nurse (USA)
 *://*.thepatriotnurse.com/*
 
+# The Politics Brief (USA)
+*://*.thepoliticsbrief.com/*
+
