@@ -8108,3 +8108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # eigentümlich frei (Germany)
 *://*.ef-magazin.de/*
+
+# Gesellschaft für freie Publizistik (Germany)
+*://*.gfp-netz.de/*
