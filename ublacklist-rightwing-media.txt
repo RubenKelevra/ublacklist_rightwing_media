@@ -7423,3 +7423,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Gateway Pundit (USA)
 *://*.thegatewaypundit.com/*
 
+# The Hayride (USA)
+*://*.thehayride.com/*
+
