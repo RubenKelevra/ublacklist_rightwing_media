@@ -7877,3 +7877,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Lake Norman News (USA)
 *://*.westlakenormannews.com/*
 
+# West Massachusetts News (USA)
+*://*.westmassnews.com/*
+
