@@ -5995,3 +5995,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New Mexico Business Daily (USA)
 *://*.nmbusinessdaily.com/*
 
+# New Mexico Sun (USA)
+*://*.auburntimes.com/*
+
