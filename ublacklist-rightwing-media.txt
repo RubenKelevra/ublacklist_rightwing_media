@@ -7251,3 +7251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.summit.news/*
 *://*.modernity.news/*
 
+# Sumter Times (USA)
+*://*.auburntimes.com/*
+
