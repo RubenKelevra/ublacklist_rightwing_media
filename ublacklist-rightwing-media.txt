@@ -7344,3 +7344,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tampa Republic (USA)
 *://*.tamparepublic.com/*
 
+# Tasnim News Agency (Iran)
+*://*.tasnimnews.com/*
+
