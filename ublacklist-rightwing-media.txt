@@ -6736,3 +6736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rowan News (USA)
 *://*.rowannews.com/*
 
+# RT DE (Russia)
+*://*.de.rt.com/*
+
