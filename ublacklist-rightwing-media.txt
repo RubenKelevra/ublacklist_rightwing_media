@@ -7111,3 +7111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South SF Bay News (USA)
 *://*.southsfbaynews.com/*
 
+# South SGV News (USA)
+*://*.southsgvnews.com/*
+
