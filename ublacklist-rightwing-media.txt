@@ -6635,3 +6635,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red Right Daily (USA)
 *://*.redrightdaily.com/*
 
+# Red Right Patriot (USA)
+*://*.redrightdaily.com/*
+
