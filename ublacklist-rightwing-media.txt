@@ -5414,3 +5414,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Kane County Reporter (USA)
 *://*.kanecountyreporter.com/*
 
+# Kankakee Times (USA)
+*://*.kankakeetimes.com/*
+
