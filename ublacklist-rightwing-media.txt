@@ -6282,3 +6282,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NPR.News (USA)
 *://*.npr.news/*
 
+# NTD TV (USA)
+*://*.ntd.com/*
+
