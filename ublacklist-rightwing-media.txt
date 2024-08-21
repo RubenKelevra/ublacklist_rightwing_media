@@ -5,6 +5,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 ---
 
 # 1792 Exchange (USA)
+*://*.twitter.com/1792exchange*
+*://*.twitter.com/1792Exchange*
+*://*.x.com/1792exchange*
+*://*.x.com/1792Exchange*
+*://*.linkedin.com/*/paul-fitzpatrick3*
+*://*.medium.com/biblical-christian-worldview/*-248191dbb8ff
+*://*.medium.com/biblical-christian-worldview/the-1792-exchange-listing-1000-companies-based-on-their-wokeness-*
+*://*.commonwealthpolicycenter.org/1792-exchange-hits-reset-on-politicized-woke-businesses-2/*
 *://*.1792exchange.com/*
 
 # 1819 News (USA)
