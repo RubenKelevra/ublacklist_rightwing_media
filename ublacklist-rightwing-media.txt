@@ -5766,3 +5766,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mixi.Media (USA)
 *://*.mixi.media/*
 
+# Mobile Courant (USA)
+*://*.mobilecourant.com/*
+
