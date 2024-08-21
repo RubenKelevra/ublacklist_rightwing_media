@@ -7982,3 +7982,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yellowhammer Times (USA)
 *://*.yellowhammertimes.com/*
 
+# Yellowstone Times (USA)
+*://*.yellowstonetimes.com/*
+
