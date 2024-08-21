@@ -7886,3 +7886,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West NY News (USA)
 *://*.westnynews.com/*
 
+# West OC Times (USA)
+*://*.westoctimes.com/*
+
