@@ -6210,3 +6210,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Omaha Times (USA)
 *://*.northomahatimes.com/*
 
+# North Orlando News (USA)
+*://*.auburntimes.com/*
+
