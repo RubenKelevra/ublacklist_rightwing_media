@@ -6898,3 +6898,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SE Oakland News (USA)
 *://*.seoaklandnews.com/*
 
+# SE Ohio Times (USA)
+*://*.seohiotimes.com/*
+
