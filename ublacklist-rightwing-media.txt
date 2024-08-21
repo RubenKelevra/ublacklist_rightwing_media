@@ -6041,3 +6041,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # News Sloth (USA)
 *://*.newssloth.com/*
 
+# News With Views (USA)
+*://*.newswithviews.com/*
+
