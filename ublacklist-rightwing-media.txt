@@ -6069,3 +6069,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nine for News (Netherlands)
 *://*.ninefornews.nl/*
 
+# Nola Reporter (USA)
+*://*.nolareporter.com/*
+
