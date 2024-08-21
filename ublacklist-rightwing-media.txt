@@ -8123,3 +8123,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Schweizerzeit (Swiss)
 *://*.schweizerzeit.ch/*
+
+# Der III. Weg (Germany)
+*://*.der-dritte-weg.info/*
+
