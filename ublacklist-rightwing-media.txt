@@ -7033,3 +7033,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Gwinnett News (USA)
 *://*.southgwinnettnews.com/*
 
+# South Hennepin News (USA)
+*://*.southhennepinnews.com/*
+
