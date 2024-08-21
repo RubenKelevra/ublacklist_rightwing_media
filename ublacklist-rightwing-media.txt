@@ -5835,3 +5835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Nature Coast Times (USA)
 *://*.naturecoasttimes.com/*
 
+# National Alliance (USA)
+*://*.natall.com/*
+
