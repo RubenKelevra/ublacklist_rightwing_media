@@ -7757,3 +7757,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # War Room (USA)
 *://*.warroom.org/*
 
+# Washington Stand (USA)
+*://*.washingtonstand.com/*
+
