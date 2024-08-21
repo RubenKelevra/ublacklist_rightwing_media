@@ -7994,3 +7994,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Youngstown Times (USA)
 *://*.youngstowntimes.com/*
 
+# YourNews (USA)
+*://*.yournews.com/*
+
