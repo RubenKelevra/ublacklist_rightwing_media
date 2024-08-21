@@ -7293,3 +7293,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Connecticut News (USA)
 *://*.swconnnews.com/*
 
+# SW Georgia News (USA)
+*://*.swgeorgianews.com/*
+
