@@ -7457,3 +7457,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Majalla (Saudi Arabia)
 *://*.majalla.com/*
 
+# The Manhattan (USA)
+*://*.themanhattan.press/*
+
