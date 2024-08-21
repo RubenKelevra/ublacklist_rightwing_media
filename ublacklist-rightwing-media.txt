@@ -5366,3 +5366,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # iPatriot (USA)
 *://*.ipatriot.com/*
 
+# Israel Unwired – Bias and Credibility (USA)
+*://*.israelunwired.com/*
+
