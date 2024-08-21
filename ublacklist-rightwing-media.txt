@@ -7709,3 +7709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Vacationland Times (USA)
 *://*.vacationlandtimes.com/*
 
+# Valeurs Actuelles (France)
+*://*.valeursactuelles.com/*
+
