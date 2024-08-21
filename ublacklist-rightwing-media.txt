@@ -5571,3 +5571,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Little Apple Times (USA)
 *://*.littleappletimes.com/*
 
+# Livingston Today (USA)
+*://*.livingstontoday.com/*
+
