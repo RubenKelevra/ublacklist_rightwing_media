@@ -5363,3 +5363,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.theiowastar.com/*
 *://*.thestarnewsnetwork.com/*
 
+# iPatriot (USA)
+*://*.ipatriot.com/*
+
