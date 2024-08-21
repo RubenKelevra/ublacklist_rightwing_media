@@ -6486,3 +6486,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PHX Reporter (USA)
 *://*.phxreporter.com/*
 
+# Pinal Today (USA)
+*://*.pinaltoday.com/*
+
