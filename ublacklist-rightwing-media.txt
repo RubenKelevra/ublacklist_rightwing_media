@@ -6572,3 +6572,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Preppers Daily News (USA)
 *://*.preppersdailynews.com/*
 
+# Presidential Hill (USA)
+*://*.presidentialhill.com/*
+
