@@ -5742,3 +5742,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Military Watch Magazine (Unknown)
 *://*.militarywatchmagazine.com/*
 
+# Minneapolis Review (USA)
+*://*.minneapolisreview.com/*
+
