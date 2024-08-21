@@ -7329,3 +7329,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SW Valley Times (USA)
 *://*.swvalleytimes.com/*
 
+# SW Vegas News (USA)
+*://*.swvegasnews.com/*
+
