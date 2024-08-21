@@ -5495,3 +5495,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Larimer News (USA)
 *://*.larimernews.com/*
 
+# Last Frontier News (USA)
+*://*.lastfrontiernews.com/*
+
