@@ -6276,3 +6276,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Novi Times (USA)
 *://*.novitimes.com/*
 
+# Nour News (Iran)
+*://*.nournews.ir/*
+
