@@ -6075,3 +6075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # No Left Turn in Education (USA)
 *://*.noleftturn.us/*
 
+# Norfolk Reporter (USA)
+*://*.norfolkreporter.com/*
+
