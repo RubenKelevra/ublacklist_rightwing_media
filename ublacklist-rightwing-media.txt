@@ -5784,3 +5784,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Monroe NY News (USA)
 *://*.monroenynews.com/*
 
+# Monroe Review (USA)
+*://*.monroereview.com/*
+
