@@ -7402,3 +7402,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Desert Review (USA)
 *://*.thedesertreview.com/*
 
+# The Economic Times (India)
+*://*.economictimes.indiatimes.com/*
+
