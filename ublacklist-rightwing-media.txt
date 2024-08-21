@@ -8000,3 +8000,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Yuba-Sutter Times (USA)
 *://*.yubasuttertimes.com/*
 
+# Z3 News (USA)
+*://*.z3news.com/*
+
