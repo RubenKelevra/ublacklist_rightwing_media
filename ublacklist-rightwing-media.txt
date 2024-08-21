@@ -6943,3 +6943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Slay News (USA)
 *://*.slaynews.com/*
 
+# SLO Reporter (USA)
+*://*.sloreporter.com/*
+
