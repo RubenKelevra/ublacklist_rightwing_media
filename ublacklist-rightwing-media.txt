@@ -6724,3 +6724,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Rocky Mount Today (USA)
 *://*.rockymounttoday.com/*
 
+# Rogue Review (USA)
+*://*.roguereview.net/*
+
