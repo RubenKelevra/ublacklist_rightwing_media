@@ -7529,3 +7529,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Right Stuff (USA)
 *://*.therightstuff.biz/*
 
+# The Science Times (USA)
+*://*.sciencetimes.com/*
+
