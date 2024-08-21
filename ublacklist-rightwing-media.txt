@@ -6141,3 +6141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Egypt News (USA)
 *://*.northegyptnews.com/*
 
+# North Essex News (USA)
+*://*.northessexnews.com/*
+
