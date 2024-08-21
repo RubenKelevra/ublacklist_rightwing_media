@@ -6559,3 +6559,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # PragerU (USA)
 *://*.prageru.com/*
 
+# Prairie State Wire (USA)
+*://*.prairiestatewire.com/*
+
