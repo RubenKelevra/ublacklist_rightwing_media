@@ -5640,3 +5640,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Maryland Business Daily (USA)
 *://*.businessdailynetwork.com/*
 
+# Maryland State Wire (USA)
+*://*.mdstatewire.com/*
+
