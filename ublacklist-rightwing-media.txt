@@ -7955,3 +7955,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Women are Human (USA)
 *://*.womenarehuman.com/*
 
+# World Net Daily (USA)
+*://*.twitter.com/worldnetdaily*
+*://*.x.com/worldnetdaily*
+*://*.facebook.com/WNDNews*
+*://*.wnd.com/*
+
