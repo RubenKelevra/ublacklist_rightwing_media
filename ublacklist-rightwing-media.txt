@@ -8080,3 +8080,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Junge Freiheit (Germany)
 *://*.jungefreiheit.de/*
+
+# Deutschland Kurier (Germany)
+*://*.deutschlandkurier.de/*
