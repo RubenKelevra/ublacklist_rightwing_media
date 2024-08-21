@@ -6970,3 +6970,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Atlanta News (USA)
 *://*.southatlantanews.com/*
 
+# South Bay Leader (USA)
+*://*.southbayleader.com/*
+
