@@ -7697,3 +7697,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # US Backlash (USA)
 *://*.usbacklash.org/*
 
+# USA Really (Russia)
+*://*.usareally.com/*
+
