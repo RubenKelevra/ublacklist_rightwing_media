@@ -5160,3 +5160,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Grand Junction Times (USA)
 *://*.grandjunctiontimes.com/*
 
+# Grand Rapids Reporter (USA)
+*://*.grandrapidsreporter.com/*
+
