@@ -6150,3 +6150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # North Guilford News (USA)
 *://*.northguilfordnews.com/*
 
+# North Gwinnett News (USA)
+*://*.northgwinnettnews.com/*
+
