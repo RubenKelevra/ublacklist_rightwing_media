@@ -7347,3 +7347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Tasnim News Agency (Iran)
 *://*.tasnimnews.com/*
 
+# TB Daily News (USA)
+*://*.tbdailynews.com/*
+
