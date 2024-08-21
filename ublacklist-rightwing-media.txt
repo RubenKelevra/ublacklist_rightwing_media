@@ -6811,3 +6811,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # SC Oklahoma News (USA)
 *://*.scoklahomanews.com/*
 
+# SE Atlanta News (USA)
+*://*.seatlantanews.com/*
+
