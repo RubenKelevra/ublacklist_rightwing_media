@@ -5405,3 +5405,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # JordanBPeterson.com (USA)
 *://*.jordanbpeterson.com/*
 
+# Judicial Watch (USA)
+*://*.judicialwatch.org/*
+
