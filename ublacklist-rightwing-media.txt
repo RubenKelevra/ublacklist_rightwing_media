@@ -5667,3 +5667,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Men Going Their Own Way (USA)
 *://*.mgtow.tv/*
 
+# Merced Times (USA)
+*://*.mercedtimes.com/*
+
