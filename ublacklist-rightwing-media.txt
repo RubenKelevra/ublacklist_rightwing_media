@@ -5953,3 +5953,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Missouri News (USA)
 *://*.nemissourinews.com/*
 
+# NE Nebraska News (USA)
+*://*.nenebraskanews.com/*
+
