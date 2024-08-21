@@ -7652,3 +7652,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Turley Talks (USA)
 *://*.turleytalks.com/*
 
+# Turning Point USA (USA)
+*://*.tpusa.com/*
+
