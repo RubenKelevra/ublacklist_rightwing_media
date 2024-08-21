@@ -6510,3 +6510,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Plymouth Reporter (USA)
 *://*.plymouthreporter.com/*
 
+# Pocatello Times (USA)
+*://*.pocatellotimes.com/*
+
