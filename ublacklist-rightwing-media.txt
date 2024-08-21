@@ -5736,3 +5736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Mid Valley Reporter (USA)
 *://*.midvalleyreporter.com/*
 
+# Military Review (Russia)
+*://*.topwar.ru/*
+
