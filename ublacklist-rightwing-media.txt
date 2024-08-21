@@ -7676,3 +7676,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Unite America First (USA)
 *://*.uniteamericafirst.com/*
 
+# United Voice (USA)
+*://*.unitedvoice.com/*
+
