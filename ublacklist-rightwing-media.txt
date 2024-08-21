@@ -7583,3 +7583,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Toledo Reporter (USA)
 *://*.toledoreporter.com/*
 
+# Topeka Sun (USA)
+*://*.topekasun.com/*
+
