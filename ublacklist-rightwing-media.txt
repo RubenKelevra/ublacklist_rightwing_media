@@ -7147,3 +7147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Springfield Standard (USA)
 *://*.springfieldstandard.com/*
 
+# Spring Times (USA)
+*://*.springstimes.com/*
+
