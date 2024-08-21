@@ -5989,3 +5989,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # New Discourses (USA)
 *://*.newdiscourses.com/*
 
+# New Hampshire Business Daily (USA)
+*://*.businessdailynetwork.com/*
+
