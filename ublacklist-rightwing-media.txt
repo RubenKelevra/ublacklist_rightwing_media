@@ -7802,3 +7802,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WC New Mexico News (USA)
 *://*.wcnewmexiconews.com/*
 
+# Wealth Management Wire (USA)
+*://*.wealthmanagementwire.com/*
+
