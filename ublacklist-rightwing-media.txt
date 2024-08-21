@@ -5516,3 +5516,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Legal Newsline (USA)
 *://*.legalnewsline.com/*
 
+# Lenta.ru (Russia)
+*://*.lenta.ru/*
+
