@@ -5938,3 +5938,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NE Kansas City News (USA)
 *://*.nekansascitynews.com/*
 
+# NE Kansas News (USA)
+*://*.nekansasnews.com/*
+
