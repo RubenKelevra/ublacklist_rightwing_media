@@ -7865,3 +7865,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Hillsborough News (USA)
 *://*.westhillsboroughnews.com/*
 
+# West Indy News (USA)
+*://*.westindynews.com/*
+
