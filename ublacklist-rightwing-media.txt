@@ -5317,3 +5317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Il Primato Nazionale (Italy)
 *://*.ilprimatonazionale.it/*
 
+# Imperial CA News (USA)
+*://*.imperialcanews.com/*
+
