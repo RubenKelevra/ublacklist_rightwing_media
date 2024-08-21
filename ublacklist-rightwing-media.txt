@@ -7371,3 +7371,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Blacksphere (USA)
 *://*.theblacksphere.net/*
 
+# The Blaze (USA)
+*://*.theblaze.com/*
+
