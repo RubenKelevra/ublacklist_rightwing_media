@@ -5661,3 +5661,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Medina Today (USA)
 *://*.medinatoday.com/*
 
+# Mehr News Agency (Iran)
+*://*.en.mehrnews.com/*
+
