@@ -7745,3 +7745,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # WallBuilders (USA)
 *://*.wallbuilders.com/*
 
+# War On Fakes (Russia)
+*://*.waronfakes.com/*
+
