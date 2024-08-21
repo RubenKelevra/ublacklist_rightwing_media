@@ -7826,3 +7826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # West Central Reporter (USA)
 *://*.westcentralreporter.com/*
 
+# Westchester Reporter (USA)
+*://*.westchesterreporter.com/*
+
