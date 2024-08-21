@@ -7499,3 +7499,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Politics Online (Unknown)
 *://*.thepolitics.online/*
 
+# The Post & Email (USA)
+*://*.thepostemail.com/*
+
