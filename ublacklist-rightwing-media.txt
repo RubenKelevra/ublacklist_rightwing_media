@@ -5178,3 +5178,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Greene County Times (USA)
 *://*.greenecotimes.com/*
 
+# Greensboro Reporter (USA)
+*://*.greensbororeporter.com/*
+
