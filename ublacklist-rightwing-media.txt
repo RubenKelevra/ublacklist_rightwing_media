@@ -5260,3 +5260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Hot Springs Times (USA)
 *://*.hotspringstimes.com/*
 
+# Houma Thibodaux News (USA)
+*://*.houmathibodauxnews.com/*
+
