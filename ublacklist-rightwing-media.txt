@@ -6772,3 +6772,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # San Francisco Sun (USA)
 *://*.sanfransun.com/*
 
+# Sangamon Sun (USA)
+*://*.sangamonsun.com/*
+
