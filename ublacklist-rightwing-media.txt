@@ -8074,3 +8074,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Central Bucks Today (USA)
 *://*.centralbuckstoday.com/*
+
+# COMPACT-Magazin (Germany)
+*://*.compact-online.de/*
