@@ -6575,3 +6575,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Presidential Hill (USA)
 *://*.presidentialhill.com/*
 
+# Press California (USA)
+*://*.presscalifornia.com/*
+
