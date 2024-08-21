@@ -5625,3 +5625,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Manatee Review (USA)
 *://*.manateereview.com/*
 
+# Manila Business Daily (USA)
+*://*.manilabusinessdaily.com/*
+
