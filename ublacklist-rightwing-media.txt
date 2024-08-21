@@ -7568,3 +7568,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Warren Sun (USA)
 *://*.warrensun.com/*
 
+# Three Percent Nation (USA)
+*://*.threepercenternation.com/*
+
