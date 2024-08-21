@@ -5486,3 +5486,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Lake Tahoe Sun (USA)
 *://*.laketahoesun.com/*
 
+# Lane County News (USA)
+*://*.laneconews.com/*
+
