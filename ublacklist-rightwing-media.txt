@@ -6390,3 +6390,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Oneida Times (USA)
 *://*.oneidatimes.com/*
 
+# Onslow News (USA)
+*://*.onslownews.com/*
+
