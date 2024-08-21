@@ -5598,3 +5598,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Macon Reporter (USA)
 *://*.maconreporter.com/*
 
+# Macon Times (USA)
+*://*.macontimes.com/*
+
