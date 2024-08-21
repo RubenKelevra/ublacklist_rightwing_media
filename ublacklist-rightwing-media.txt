@@ -5148,3 +5148,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # GOP Daily Brief (USA)
 *://*.gopdailybrief.com/*
 
+# GOP.gov (USA)
+*://*.gop.gov/*
+
