@@ -8352,3 +8352,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Scheidewege (Germany)
 *://*.scheidewege.de/*
 *://www.hirzel.de/brand/Scheidewege*
+
+# The Salisbury Review (UK)
+*://*.salisburyreview.com/*
