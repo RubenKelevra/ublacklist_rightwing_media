@@ -8343,3 +8343,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Weltwoche (Swiss)
 *://*.weltwoche.ch/*
+
+# Vatican Magazin (Germany)
+*://*.vatican-magazin.de/*
