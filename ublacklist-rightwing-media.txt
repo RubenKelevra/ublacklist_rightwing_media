@@ -914,6 +914,16 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.rare.us/*
 
 # Sabah (Turkey)
+*://*.instagram.com/dailysabah*
+*://*.instagram.com/sabahcafe*
+*://*.twitter.com/DailySabah*
+*://*.twitter.com/SprinterFamily*
+*://*.twitter.com/dailysabah*
+*://*.twitter.com/sprinterfamily*
+*://*.x.com/DailySabah*
+*://*.x.com/SprinterFamily*
+*://*.x.com/dailysabah*
+*://*.x.com/sprinterfamily*
 *://*.sabah.com.tr/*
 
 # Save Jersey (USA)
