@@ -8345,3 +8345,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Vatican Magazin (Germany)
 *://*.vatican-magazin.de/*
+
+# Southern Partisan (USA)
+*://*.southernpartisan.com/*
