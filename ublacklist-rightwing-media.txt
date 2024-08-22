@@ -8355,3 +8355,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Salisbury Review (UK)
 *://*.salisburyreview.com/*
+
+# Revue des Deux Mondes (France)
+*://*.revuedesdeuxmondes.fr/*
