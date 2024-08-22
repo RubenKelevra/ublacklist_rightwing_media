@@ -8340,3 +8340,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Elsevier Weekblad (Netherlands)
 *://*.elsevierweekblad.nl/*
+
+# Weltwoche (Swiss)
+*://*.weltwoche.ch/*
