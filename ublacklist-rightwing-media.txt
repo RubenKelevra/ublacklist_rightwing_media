@@ -8348,3 +8348,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Southern Partisan (USA)
 *://*.southernpartisan.com/*
+
+# Scheidewege (Germany)
+*://*.scheidewege.de/*
+*://www.hirzel.de/brand/Scheidewege*
