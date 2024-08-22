@@ -8328,3 +8328,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.x.com/790KFGO*
 *://*.x.com/790kfgo*
 *://*.kfgo.com/*
+
+# EIR News (USA)
+*://*.eir.news/*
