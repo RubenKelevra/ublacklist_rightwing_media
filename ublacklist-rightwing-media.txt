@@ -839,6 +839,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Reader’s Digest (USA)
 *://*.rd.com/*
+*://*.readersdigest.de/*
+*://*.readersdigest.at/*
+*://*.readersdigest.ch/*
 
 # Real America’s Voice (USA)
 *://*.americasvoice.news/*
