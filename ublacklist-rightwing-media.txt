@@ -5172,11 +5172,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.fortsmithtimes.com/*
 
 # Fox News (USA)
+*://*.instagram.com/foxnews*
 *://*.twitter.com/FoxNews*
-*://*.x.com/FoxNews*
 *://*.twitter.com/foxnews*
+*://*.twitter.com/foxnewssunday*
+*://*.x.com/FoxNews*
 *://*.x.com/foxnews*
-*://*.facebook.com/FoxNews*
+*://*.x.com/foxnewssunday*
+*://*.youtube.com/@foxnews*
 *://*.foxnews.com/*
 
 # Frank Speech (USA)
