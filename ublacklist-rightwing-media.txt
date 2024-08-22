@@ -8334,3 +8334,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Center for Peace Communications (USA)
 *://*.peacecomms.org/*
+
+# Cicero (Germany)
+*://*.cicero.de/*
