@@ -8331,3 +8331,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # EIR News (USA)
 *://*.eir.news/*
+
+# Center for Peace Communications (USA)
+*://*.peacecomms.org/*
