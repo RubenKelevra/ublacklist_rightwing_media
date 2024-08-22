@@ -8361,3 +8361,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Revue des Deux Mondes (France)
 *://*.revuedesdeuxmondes.fr/*
+
+# Die Politische Meinung (Germany)
+*://*.kas.de/de/web/die-politische-meinung/artikel*
+*://*.kas.de/wf/de/34.6/*
