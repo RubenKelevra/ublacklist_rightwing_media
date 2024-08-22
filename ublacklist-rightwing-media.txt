@@ -270,6 +270,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.blabber.buzz/*
 
 # Black Community News (USA)
+*://*.instagram.com/blackoperanews*
+*://*.instagram.com/explore/locations/1023859588/black-community-news*
 *://*.blackcommunitynews.com/*
 
 # Blue Lives Matter (USA)
