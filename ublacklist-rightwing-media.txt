@@ -852,6 +852,17 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.readersdigest.ch/*
 
 # Real America’s Voice (USA)
+*://*.instagram.com/realamericasvoice*
+*://*.open.spotify.com/episode/5qpdzjFbwxWqXnkjJzvXPe*
+*://*.substack.com/@realamericasvoice/*
+*://*.twitter.com/RealAmVoice*
+*://*.twitter.com/michellebackus_*
+*://*.twitter.com/realamvoice*
+*://*.x.com/RealAmVoice*
+*://*.x.com/michellebackus_*
+*://*.x.com/realamvoice*
+*://*.youtube.com/@RealAmericasVoice*
+*://*.youtube.com/post/UgkxARqbMB8YiZm8KPhCj-zBHgT-8ZtD5h-1*
 *://*.americasvoice.news/*
 
 # Reclaim The Net (Unknown)
