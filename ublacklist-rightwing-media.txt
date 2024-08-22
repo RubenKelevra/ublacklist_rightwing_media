@@ -8288,4 +8288,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.alternative-rlp.de/*
 
 # KFGO – 790 AM – Fargo
+*://*.twitter.com/790KFGO*
+*://*.twitter.com/790kfgo*
+*://*.x.com/790KFGO*
+*://*.x.com/790kfgo*
 *://*.kfgo.com/*
