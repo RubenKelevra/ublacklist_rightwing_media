@@ -358,6 +358,15 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.chroniclesmagazine.org/*
 
 # Citizen Free Press (USA)
+*://*.instagram.com/bennyjohnson*
+*://*.instagram.com/citizenfreepress*
+*://*.twitter.com/CitizenFreePres*
+*://*.twitter.com/citizenfreepres*
+*://*.twitter.com/freepress*
+*://*.x.com/CitizenFreePres*
+*://*.x.com/citizenfreepres*
+*://*.x.com/freepress*
+*://*.zoominfo.com/c/citizen-press-inc/*
 *://*.citizenfreepress.com/*
 
 # Citizens Against Government Waste (USA)
