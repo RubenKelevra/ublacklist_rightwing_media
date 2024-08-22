@@ -3305,7 +3305,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.zebrafactcheck.com/*
 
 # 2020ElectionCenter.com (USA)
-*://*.freeworldnews.tv/*
+*://*.2020electioncenter.com/*
 
 # 79Days.News (USA)
 *://*.79days.news/*
