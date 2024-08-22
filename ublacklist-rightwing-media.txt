@@ -426,6 +426,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.crisismagazine.com/*
 
 # Cumulus Media (USA)
+*://*.crunchbase.com/organization/cumulus-media-partners*
+*://*.instagram.com/cumulusmedia*
+*://*.zoominfo.com/c/cumulus-media/*
 *://*.cumulusmedia.com/*
 
 # Daily Caller (USA)
