@@ -253,7 +253,20 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # BlabberBuzz (USA)
 *://*.instagram.com/blabberbuzz*
 *://*.instagram.com/blabberdotbuzz*
+*://*.instagram.com/blabberdotbuzz/reel/C78qXNQpZgs*
+*://*.instagram.com/blabberdotbuzz/reel/C7lidIJPb_b*
+*://*.instagram.com/blabberdotbuzz/reel/C84bJmrMc47*
+*://*.instagram.com/blabberdotbuzz/reel/C9INfGJIedA*
+*://*.instagram.com/reel/C7GYAo6LuHY*
+*://*.instagram.com/reel/C7T5hg2v4kb*
+*://*.instagram.com/reel/C7i0RqmBT2_*
+*://*.youtube.com/@theblabberbuzz/*
 *://*.youtube.com/@blabberbuzz3973*
+*://*.twitter.com/blabberbuzz*
+*://*.twitter.com/blabberdotbuzz*
+*://*.x.com/blabberbuzz*
+*://*.x.com/blabberdotbuzz*
+*://*.youtube.com/channel/UCgSf_U5q8ConxR47NqTQMKA*
 *://*.blabber.buzz/*
 
 # Black Community News (USA)
