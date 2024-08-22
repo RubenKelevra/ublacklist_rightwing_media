@@ -391,6 +391,13 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.concealednation.org/*
 
 # Conservative Brief (USA)
+*://*.instagram.com/conservativebrief*
+*://*.twitter.com/ConservBrief*
+*://*.twitter.com/con_brief*
+*://*.twitter.com/conservbrief*
+*://*.x.com/ConservBrief*
+*://*.x.com/con_brief*
+*://*.x.com/conservbrief*
 *://*.conservativebrief.com/*
 
 # Conservative Home (UK)
