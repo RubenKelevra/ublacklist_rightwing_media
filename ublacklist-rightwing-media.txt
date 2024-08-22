@@ -432,6 +432,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.cumulusmedia.com/*
 
 # Daily Caller (USA)
+*://*.crunchbase.com/organization/the-daily-caller*
+*://*.instagram.com/dailycaller*
+*://*.twitter.com/DailyCaller*
+*://*.twitter.com/dailycaller*
+*://*.x.com/DailyCaller*
+*://*.x.com/dailycaller*
+*://*.youtube.com/@dailycaller*
+*://*.youtube.com/dailycaller*
 *://*.dailycaller.com/*
 
 # Daily Express (UK)
