@@ -8286,3 +8286,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.afd-fraktion-hamburg.de/*
 *://*.afd-thueringen.de/*
 *://*.alternative-rlp.de/*
+
+# KFGO – 790 AM – Fargo
+*://*.kfgo.com/*
