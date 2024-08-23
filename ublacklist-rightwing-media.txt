@@ -8539,3 +8539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Le Point (France)
 *://*.lepoint.fr/*
+
+# Die Neue Ordnung (Germany)
+*://*.die-neue-ordnung.de/*
