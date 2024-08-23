@@ -828,6 +828,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.ngo-monitor.org/*
 
 # Not The Bee (USA)
+*://*.instagram.com/itsnotthebee*
+*://*.twitter.com/not_the_bee*
+*://*.x.com/not_the_bee*
+*://*.youtube.com/c/notthebee*
 *://*.notthebee.com/*
 *://*.disrn.com/*
 
