@@ -866,6 +866,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.openvaers.com/*
 
 # OpIndia (India)
+*://*.instagram.com/opindia_com*
+*://*.twitter.com/OpIndia_com*
+*://*.twitter.com/opindia_com*
+*://*.twitter.com/opindia_in*
+*://*.x.com/OpIndia_com*
+*://*.x.com/opindia_com*
+*://*.x.com/opindia_in*
+*://*.youtube.com/opindiahindi*
 *://*.opindia.com/*
 
 # OpsLens (USA)
