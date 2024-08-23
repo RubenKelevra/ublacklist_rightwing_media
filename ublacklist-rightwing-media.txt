@@ -8566,3 +8566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Babylon Bee (USA)
 *://*.babylonbee.com/*
 
+# Bearing Drift (USA)
+*://*.bearingdrift.com/*
+
