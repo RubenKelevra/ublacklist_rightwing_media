@@ -8512,3 +8512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.youtube.com/@milliyetcomtr-ns5nl*
 *://*.zoominfo.com/c/milliyet/*
 *://*.milliyet.com.tr/
+
+# Central Chester Today (USA)
+*://*.centralchestertoday.com/*
