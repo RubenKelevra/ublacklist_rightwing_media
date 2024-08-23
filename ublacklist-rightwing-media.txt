@@ -8536,3 +8536,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Konrad-Adenauer-Stiftung e. V. (Germany)
 *://*.kas.de/*
+
+# Le Point (France)
+*://*.lepoint.fr/*
