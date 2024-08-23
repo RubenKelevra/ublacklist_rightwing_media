@@ -8640,3 +8640,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Post and Courier
 *://*.postandcourier.com/*
 
+# The Republican Journal (USA)
+*://*.waldo.villagesoup.com/*
+
