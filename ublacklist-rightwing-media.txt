@@ -8551,3 +8551,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Die Entscheidung (Germany)
 *://*.entscheidung.de/*
+# African American Conservatives (USA)
+*://*.africanamericanconservatives.com/*
+
