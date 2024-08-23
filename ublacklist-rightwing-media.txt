@@ -8477,4 +8477,11 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.kas.de/wf/de/34.6/*
 
 # Milliyet (Turkey)
+*://*.crunchbase.com/organization/milliyet*
+*://*.instagram.com/milliyet_gazete*
+*://*.instagram.com/milliyetcomtr/reels*
+*://*.twitter.com/milliyet*
+*://*.x.com/milliyet*
+*://*.youtube.com/@milliyetcomtr-ns5nl*
+*://*.zoominfo.com/c/milliyet/*
 *://*.milliyet.com.tr/
