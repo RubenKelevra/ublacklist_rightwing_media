@@ -879,7 +879,20 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # OpsLens (USA)
 *://*.opslens.com/*
 
-# OutKick Bias Rating (USA)
+# OutKick (USA)
+*://*.crunchbase.com/organization/outkick/*
+*://*.youtube.com/browse/outkick-the-show-*
+*://*.twitter.com/Outkick*
+*://*.twitter.com/claytravis*
+*://*.twitter.com/outkick*
+*://*.x.com/Outkick*
+*://*.x.com/claytravis*
+*://*.x.com/outkick*
+*://*.youtube.com/c/OutKick*
+*://*.zoominfo.com/c/outkick-the-coverage-llc/*
+*://podcasts.apple.com/*/podcast/*/id705029632*
+*://podcasts.apple.com/*/podcast/outkick-the-show-with-clay-travis/*
+*://podcasts.apple.com/*/podcast/outkick-the-show-with-clay-travis/id705029632*
 *://*.outkick.com/*
 
 # PanAm Post (USA)
