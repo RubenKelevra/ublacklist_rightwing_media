@@ -8603,3 +8603,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/cnsnewscom*
 *://*.cnsnews.com/*
 
+# Cowboy State Daily (USA)
+*://*.cowboystatedaily.com/*
+
