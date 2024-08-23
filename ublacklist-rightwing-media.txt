@@ -8563,3 +8563,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/NRAA1F*
 *://*.americas1stfreedom.org/*
 
+# Babylon Bee (USA)
+*://*.babylonbee.com/*
+
