@@ -690,6 +690,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.kmjnow.com/*
 
 # Kronen Zeitung (Austria)
+*://*.instagram.com/kronen.zeitung*
+*://*.twitter.com/krone_at*
+*://*.x.com/krone_at*
+*://*.youtube.com/@kronetv*
 *://*.krone.at/*
 
 # KSFO (USA)
