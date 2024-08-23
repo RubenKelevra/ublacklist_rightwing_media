@@ -8648,3 +8648,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.twitter.com/resurgent*
 *://*.facebook.com/theresurgent*
 
+# The Ripon Advance
+*://*.twitter.com/RiponAdvance*
+*://*.x.com/RiponAdvance*
+*://*.facebook.com/ripon.advance*
+
