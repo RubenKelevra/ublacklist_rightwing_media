@@ -8625,3 +8625,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The HighWire
 *://*.thehighwire.com/*
 
+# The Imaginative Conservative
+*://*.theimaginativeconservative.org/*
+
