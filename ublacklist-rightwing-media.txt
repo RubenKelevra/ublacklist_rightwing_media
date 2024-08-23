@@ -8653,3 +8653,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.x.com/RiponAdvance*
 *://*.facebook.com/ripon.advance*
 
+# The State (USA)
+*://*.thestate.com/*
+
