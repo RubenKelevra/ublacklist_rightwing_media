@@ -8637,3 +8637,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Nevada Globe (USA)
 *://*.thenevadaglobe.com/*
 
+# The Post and Courier
+*://*.postandcourier.com/*
+
