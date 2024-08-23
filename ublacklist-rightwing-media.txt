@@ -8609,3 +8609,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Desiring God
 *://*.desiringgod.org/*
 
+# CNSNews
+*://*.twitter.com/cnsnews*
+*://*.x.com/cnsnews*
+*://*.facebook.com/cnsnewscom*
+*://*.cnsnews.com/*
+
