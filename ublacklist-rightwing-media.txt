@@ -588,6 +588,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.humanevents.com/*
 
 # Hurriyet (Turkey)
+*://*.crunchbase.com/organization/hurriyet-daily-news*
+*://*.instagram.com/hurriyetcomtr*
+*://*.twitter.com/HDNER*
+*://*.twitter.com/hdner*
+*://*.x.com/HDNER*
+*://*.x.com/hdner*
 *://*.hurriyet.com.tr/*
 
 # Hurriyet Daily News (Turkey)
