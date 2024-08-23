@@ -8628,3 +8628,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Imaginative Conservative
 *://*.theimaginativeconservative.org/*
 
+# The Iowa Torch
+*://*.iowatorch.com/*
+
