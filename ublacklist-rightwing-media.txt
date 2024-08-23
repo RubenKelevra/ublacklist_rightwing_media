@@ -8545,3 +8545,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Le Meilleur des mondes (France)
 *://*.lemeilleurdesmondes.org/*
+
+# Der Fels (Germany)
+*://*.der-fels.de/*
