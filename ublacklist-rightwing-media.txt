@@ -575,6 +575,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.heritage.org/*
 
 # Hot Air (USA)
+*://*.youtube.com/@hotair4269*
+*://podcasts.apple.com/*/podcast/*/id1517061696*
+*://podcasts.apple.com/*/podcast/hot-air/*
+*://podcasts.apple.com/*/podcast/hot-air/id1517061696*
 *://*.hotair.com/*
 
 # Hudson Institute (USA)
