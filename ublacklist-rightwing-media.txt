@@ -8634,3 +8634,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Maine Wire
 *://*.themainewire.com/*
 
+# The Nevada Globe (USA)
+*://*.thenevadaglobe.com/*
+
