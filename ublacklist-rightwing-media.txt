@@ -8548,3 +8548,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Der Fels (Germany)
 *://*.der-fels.de/*
+
+# Die Entscheidung (Germany)
+*://*.entscheidung.de/*
