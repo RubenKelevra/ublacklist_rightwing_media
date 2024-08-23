@@ -709,6 +709,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.laborpains.org/*
 
 # Latestly (India)
+*://*.instagram.com/latestly*
+*://*.twitter.com/latestly*
+*://*.x.com/latestly*
+*://*.youtube.com/channel/UC3Fci14HzLNhI9_stjLWV7g*
 *://*.latestly.com/*
 
 # Law & Liberty (USA)
