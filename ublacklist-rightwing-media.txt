@@ -2764,6 +2764,23 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.tj.news/*
 
 # Salem Radio Network News (USA)
+*://*.srnonline.com/*
+*://*.salemmedia.com/*
+*://*.hughhewitt.com/*
+*://*.mikeonline.com/*
+*://*.dennisprager.com/*
+*://*.larryelder.com/*
+*://*.metaxastalk.com/*
+*://*.sebgorka.com/*
+*://*.biblestudytools.com/*
+*://*.christianity.com/*
+*://*.godtube.com/*
+*://*.christianjobs.com/*
+*://*.crosscards.com/*
+*://*.lightsource.com/*
+*://*.oneplace.com/*
+*://*.salemwebnetwork.com/*
+*://*.salemmedia.com/*
 *://*.srnnews.com/*
 
 # San Bernardino Sun (USA)
