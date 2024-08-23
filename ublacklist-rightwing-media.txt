@@ -8557,3 +8557,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Alaska Watchman (USA)
 *://*.alaskawatchman.com/*
 
+# America's 1st Freedom (USA)
+*://*.twitter.com/nraa1f*
+*://*.x.com/nraa1f*
+*://*.facebook.com/NRAA1F*
+*://*.americas1stfreedom.org/*
+
