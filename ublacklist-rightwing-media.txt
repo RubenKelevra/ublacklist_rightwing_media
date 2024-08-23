@@ -8533,3 +8533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Central Chester Today (USA)
 *://*.centralchestertoday.com/*
+
+# Konrad-Adenauer-Stiftung e. V. (Germany)
+*://*.kas.de/*
