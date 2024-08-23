@@ -8606,3 +8606,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Cowboy State Daily (USA)
 *://*.cowboystatedaily.com/*
 
+# Desiring God
+*://*.desiringgod.org/*
+
