@@ -8579,3 +8579,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Biblical Sexology (USA)
 *://*.biblicalsexology.com/*
 
+# Byron Donalds (USA)
+*://*.byrondonalds.com/*
+
