@@ -8585,3 +8585,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Catholic Digest (USA)
 *://*.catholicdigest.com/*
 
+# Catholic News Agency (USA)
+*://*.catholicnewsagency.com/*
+
