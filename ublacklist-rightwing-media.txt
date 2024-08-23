@@ -8622,3 +8622,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.feleciakillings.org/*
 *://*.feleciakillings.org/conservative-blog*
 
+# The HighWire
+*://*.thehighwire.com/*
+
