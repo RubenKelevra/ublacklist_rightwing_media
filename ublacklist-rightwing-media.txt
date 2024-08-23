@@ -8576,3 +8576,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Biblical Gender Roles (USA)
 *://*.biblicalgenderroles.com/*
 
+# Biblical Sexology (USA)
+*://*.biblicalsexology.com/*
+
