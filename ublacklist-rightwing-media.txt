@@ -8618,3 +8618,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Students For Life
 *://*.studentsforlife.org/*
 
+# The Conscious Conservative
+*://*.feleciakillings.org/*
+*://*.feleciakillings.org/conservative-blog*
+
