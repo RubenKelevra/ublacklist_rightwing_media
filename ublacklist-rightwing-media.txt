@@ -938,6 +938,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.quadrant.org.au/*
 
 # Reader’s Digest (USA)
+*://*.crunchbase.com/organization/readers-digest/*
+*://*.instagram.com/readersdigest*
 *://*.rd.com/*
 *://*.readersdigest.de/*
 *://*.readersdigest.at/*
