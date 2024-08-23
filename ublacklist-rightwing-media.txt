@@ -8631,3 +8631,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Iowa Torch
 *://*.iowatorch.com/*
 
+# The Maine Wire
+*://*.themainewire.com/*
+
