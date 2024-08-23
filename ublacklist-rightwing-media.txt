@@ -8554,3 +8554,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # African American Conservatives (USA)
 *://*.africanamericanconservatives.com/*
 
+# Alaska Watchman (USA)
+*://*.alaskawatchman.com/*
+
