@@ -8569,3 +8569,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Bearing Drift (USA)
 *://*.bearingdrift.com/*
 
+# Beyond Today (USA)
+*://*.ucg.org/beyond-today*
+*://*.ucg.org/*
+
