@@ -627,6 +627,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.isi.org/*
 
 # Investors Business Daily (USA)
+*://*.crunchbase.com/organization/investors-business-daily*
+*://*.instagram.com/investorsbusinessdaily*
+*://*.twitter.com/ibdinvestors*
+*://*.x.com/ibdinvestors*
+*://*.youtube.com/channel/UC5fZv7bPcF5j2RsfO-9OiLA*
+*://*.zoominfo.com/c/investors-business-daily-inc/*
 *://*.investors.com/*
 
 # Israel Hayom (Israel)
