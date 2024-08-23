@@ -8542,3 +8542,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Die Neue Ordnung (Germany)
 *://*.die-neue-ordnung.de/*
+
+# Le Meilleur des mondes (France)
+*://*.lemeilleurdesmondes.org/*
