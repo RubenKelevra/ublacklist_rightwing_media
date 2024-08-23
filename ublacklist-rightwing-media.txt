@@ -443,6 +443,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.dailycaller.com/*
 
 # Daily Express (UK)
+*://*.instagram.com/dailyexpress*
+*://*.twitter.com/daily_express*
+*://*.twitter.com/jameswalkerldn*
+*://*.x.com/daily_express*
+*://*.x.com/jameswalkerldn*
+*://*.youtube.com/user/theexpressonline*
 *://*.express.co.uk/*
 
 # Daily Reckoning (USA)
