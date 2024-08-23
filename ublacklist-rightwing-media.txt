@@ -8643,3 +8643,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Republican Journal (USA)
 *://*.waldo.villagesoup.com/*
 
+# The Resurgent
+*://*.x.com/resurgent*
+*://*.twitter.com/resurgent*
+*://*.facebook.com/theresurgent*
+
