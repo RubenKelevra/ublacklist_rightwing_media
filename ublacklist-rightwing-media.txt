@@ -8591,3 +8591,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Charisma Magazine (USA)
 *://*.charismamag.com/*
 
+# Christian News Network (USA)
+*://*.christiannews.net/*
+
