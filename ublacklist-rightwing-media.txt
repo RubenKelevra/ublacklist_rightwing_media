@@ -717,6 +717,16 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.legalinsurrection.com/*
 
 # Le Journal de Montreal (Canada)
+*://*.instagram.com/jdemontreal*
+*://*.twitter.com/JdeMontreal*
+*://*.twitter.com/RebelNewsOnline*
+*://*.twitter.com/jdemontreal*
+*://*.twitter.com/rebelnewsonline*
+*://*.x.com/JdeMontreal*
+*://*.x.com/RebelNewsOnline*
+*://*.x.com/jdemontreal*
+*://*.x.com/rebelnewsonline*
+*://*.youtube.com/@JdeMontreal*
 *://*.journaldemontreal.com/*
 *://*.qub.ca/*
 
