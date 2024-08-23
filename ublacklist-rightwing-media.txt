@@ -8582,3 +8582,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Byron Donalds (USA)
 *://*.byrondonalds.com/*
 
+# Catholic Digest (USA)
+*://*.catholicdigest.com/*
+
