@@ -8594,3 +8594,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Christian News Network (USA)
 *://*.christiannews.net/*
 
+# Christian News Now (USA)
+*://*.christiannewsnow.com/*
+
