@@ -8588,3 +8588,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Catholic News Agency (USA)
 *://*.catholicnewsagency.com/*
 
+# Charisma Magazine (USA)
+*://*.charismamag.com/*
+
