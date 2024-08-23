@@ -8659,3 +8659,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # The Weekly Standard
 *://*.weeklystandard.com/*
 
+# The Western Journal
+*://*.facebook.com/WesternJournalism*
+*://*.westernjournalism.com/*
+
