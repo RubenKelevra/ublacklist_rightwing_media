@@ -997,6 +997,20 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.dailytelegraph.com.au/*
 
 # The Daily Wire (USA)
+*://*.crunchbase.com/organization/the-daily-wire*
+*://*.instagram.com/officialbenshapiro*
+*://*.instagram.com/realdailywire*
+*://*.open.spotify.com/show/1WErgoXiZwgctkHLzqU6nf*
+*://*.open.spotify.com/show/3YMFdNqoNtVcCBKSUvjr8n*
+*://*.twitter.com/benshapiro*
+*://*.twitter.com/realdailywire*
+*://*.x.com/benshapiro*
+*://*.x.com/realdailywire*
+*://*.youtube.com/@DailyWirePlus*
+*://*.youtube.com/channel/UCaeO5vkdj5xOQHp4UmIN6dw*
+*://podcasts.apple.com/*/podcast/*/id1047335260*
+*://podcasts.apple.com/*/podcast/the-ben-shapiro-show/*
+*://podcasts.apple.com/*/podcast/the-ben-shapiro-show/id1047335260*
 *://*.dailywire.com/*
 
 # The First TV (USA)
