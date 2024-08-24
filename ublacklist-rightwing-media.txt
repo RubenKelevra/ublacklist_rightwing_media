@@ -8739,3 +8739,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Meridian Magazine
 *://*.latterdaysaintmag.com/*
 
+# Maryland Reporter
+*://*.marylandreporter.com/*
+
