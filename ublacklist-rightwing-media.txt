@@ -8751,3 +8751,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/liveactionnewsonline*
 *://*.liveactionnews.org/*
 
+# KTEN 10
+*://*.kten.com/*
+
