@@ -8772,3 +8772,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/inacowcom*
 *://*.inacow.com/*
 
+# Hungarian Conservative
+*://*.twitter.com/hu_conservative*
+*://*.x.com/hu_conservative*
+*://*.facebook.com/hungarianconservative*
+*://*.hungarianconservative.com/*
+
