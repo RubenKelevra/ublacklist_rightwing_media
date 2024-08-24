@@ -8806,3 +8806,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Organiser (USA)
 *://*.organiser.org/*
+
+# KDAL – 610 AM – Duluth
+*://*.kdal610.com/*
