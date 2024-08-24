@@ -816,6 +816,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.newbostonpost.com/*
 
 # Newsbusters (USA)
+*://*.twitter.com/newsbusters*
+*://*.x.com/newsbusters*
+*://*.facebook.com/newsbusters*
 *://*.newsbusters.org/*
 
 # NewsPageIndex.com (USA)
