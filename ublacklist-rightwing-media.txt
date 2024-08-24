@@ -8794,3 +8794,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Kamala Border Bloodbath (USA)
 *://*.kamalaborderbloodbath.com/*
+
+# Cambria Times (USA)
+*://*.cambriatimes.com/*
