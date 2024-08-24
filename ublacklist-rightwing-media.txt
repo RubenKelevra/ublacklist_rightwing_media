@@ -8786,3 +8786,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Fabrizio, Lee & Associates (USA)
 *://*.fabriziolee.com/*
+
+# Berks County News (USA)
+*://*.berksconews.com/*
