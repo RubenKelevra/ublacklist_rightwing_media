@@ -8800,3 +8800,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Palladium Magazine (USA)
 *://*.palladiummag.com/*
+
+# Occidental Dissent (USA)
+*://*.occidentaldissent.com/*
