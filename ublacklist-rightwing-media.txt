@@ -8812,3 +8812,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Butler County News (USA)
 *://*.butlerconews.com/*
+
+# OSV News (USA)
+*://*.osvnews.com/*
