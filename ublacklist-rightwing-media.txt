@@ -8745,3 +8745,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Log Cabin
 *://*.logcabin.org/*
 
+# Live Action News
+*://*.twitter.com/liveactionnews*
+*://*.x.com/liveactionnews*
+*://*.facebook.com/liveactionnewsonline*
+*://*.liveactionnews.org/*
+
