@@ -2725,6 +2725,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.realclearreligion.org/*
 
 # Reason (USA)
+*://*.twitter.com/reason*
+*://*.x.com/reason*
+*://*.facebook.com/Reason.Magazine*
 *://*.reason.com/*
 
 # Red River Valley News (USA)
