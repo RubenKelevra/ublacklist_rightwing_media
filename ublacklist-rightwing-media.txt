@@ -8709,3 +8709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/WyoFile*
 *://*.wyofile.com/*
 
+# Right Wing News
+*://*.rightwingnews.com/*
+
