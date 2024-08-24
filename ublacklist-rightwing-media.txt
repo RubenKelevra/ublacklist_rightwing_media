@@ -804,6 +804,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.nationalhealthfreedom.org/*
 
 # National Review (USA)
+*://*.twitter.com/nro*
+*://*.x.com/nro*
+*://*.facebook.com/nationalreview*
 *://*.nationalreview.com/*
 
 # National Republican Congressional Committee (USA)
@@ -2531,6 +2534,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.observer.com/*
 
 # New York Post (USA)
+*://*.twitter.com/nypost
+*://*.x.com/nypost
+*://*.facebook.com/NYPost*
 *://*.nypost.com/*
 
 # News.com.au (Australia)
