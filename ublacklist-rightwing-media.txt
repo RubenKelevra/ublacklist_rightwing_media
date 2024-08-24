@@ -8803,3 +8803,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Occidental Dissent (USA)
 *://*.occidentaldissent.com/*
+
+# Organiser (USA)
+*://*.organiser.org/*
