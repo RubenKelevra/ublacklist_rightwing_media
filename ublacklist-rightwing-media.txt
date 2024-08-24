@@ -576,6 +576,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Hot Air (USA)
 *://*.youtube.com/@hotair4269*
+*://*.twitter.com/hotairblog*
+*://*.x.com/hotairblog*
+*://*.facebook.com/hotaircom*
 *://podcasts.apple.com/*/podcast/*/id1517061696*
 *://podcasts.apple.com/*/podcast/hot-air/*
 *://podcasts.apple.com/*/podcast/hot-air/id1517061696*
