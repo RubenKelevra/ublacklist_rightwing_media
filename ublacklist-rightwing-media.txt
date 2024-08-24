@@ -8797,3 +8797,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Cambria Times (USA)
 *://*.cambriatimes.com/*
+
+# Palladium Magazine (USA)
+*://*.palladiummag.com/*
