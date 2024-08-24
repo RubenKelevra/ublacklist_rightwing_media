@@ -8736,3 +8736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.facebook.com/therightmichellemalkin*
 *://*.michellemalkin.com/*
 
+# Meridian Magazine
+*://*.latterdaysaintmag.com/*
+
