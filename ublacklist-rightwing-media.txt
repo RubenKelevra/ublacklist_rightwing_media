@@ -8730,3 +8730,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # NECN
 *://*.necn.com/*
 
+# MichelleMalkin.com
+*://*.twitter.com/michellemalkin*
+*://*.x.com/michellemalkin*
+*://*.facebook.com/therightmichellemalkin*
+*://*.michellemalkin.com/*
+
