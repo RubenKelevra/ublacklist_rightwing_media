@@ -8766,3 +8766,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Intellectual Conservative
 *://*.intellectualconservative.com/*
 
+# Inacow
+*://*.twitter.com/inacowcom*
+*://*.x.com/inacowcom*
+*://*.facebook.com/inacowcom*
+*://*.inacow.com/*
+
