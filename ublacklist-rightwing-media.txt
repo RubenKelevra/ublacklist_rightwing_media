@@ -8724,3 +8724,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Pennsylvania Capital-Star
 *://*.penncapital-star.com/*
 
+# One America News Network - OAN
+*://*.oann.com/*
+
