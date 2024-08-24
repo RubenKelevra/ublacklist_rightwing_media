@@ -609,6 +609,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.imprimis.hillsdale.edu/*
 
 # Independent Journal Review (USA)
+*://*.twitter.com/ijreview*
+*://*.x.com/ijreview*
+*://*.facebook.com/IjReview*
 *://*.ijr.com/*
 
 # Independent Women’s Forum (USA)
