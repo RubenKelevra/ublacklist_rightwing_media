@@ -8809,3 +8809,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # KDAL – 610 AM – Duluth
 *://*.kdal610.com/*
+
+# Butler County News (USA)
+*://*.butlerconews.com/*
