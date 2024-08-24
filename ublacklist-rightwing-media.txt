@@ -8754,3 +8754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # KTEN 10
 *://*.kten.com/*
 
+# Keeping it Right
+*://*.keepingitright.blogspot.com/*
+
