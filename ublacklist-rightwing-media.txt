@@ -8715,3 +8715,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Right Side News (USA)
 *://*.rightsidenews.com/*
 
+# Red Racing Horses
+*://*.rrhelections.com/*
+
