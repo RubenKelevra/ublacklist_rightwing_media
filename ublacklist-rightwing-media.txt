@@ -8727,3 +8727,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # One America News Network - OAN
 *://*.oann.com/*
 
+# NECN
+*://*.necn.com/*
+
