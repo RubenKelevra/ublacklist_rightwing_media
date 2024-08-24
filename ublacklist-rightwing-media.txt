@@ -8757,3 +8757,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Keeping it Right
 *://*.keepingitright.blogspot.com/*
 
+# Just The News
+*://*.twitter.com/JustTheNews*
+*://*.x.com/JustTheNews*
+*://*.facebook.com/JustTheNewsReports*
+*://*.justthenews.com/*
+
