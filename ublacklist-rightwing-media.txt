@@ -963,6 +963,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.reclaimthenet.org/*
 
 # RedState (USA)
+*://*.twitter.com/RedState*
+*://*.x.com/RedState*
+*://*.facebook.com/RedStateBlog*
 *://*.redstate.com/*
 
 # Regated (USA)
