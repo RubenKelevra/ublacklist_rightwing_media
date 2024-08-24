@@ -8781,3 +8781,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Good News Magazine
 *://*.goodnewsmag.org/*
 
+# WTAQ – 1360 AM – Appleton (USA)
+*://*.wtaq.com/*
