@@ -8815,3 +8815,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # OSV News (USA)
 *://*.osvnews.com/*
+
+# 100 Percent Fed Up (USA)
+*://*.100percentfedup.com/*
