@@ -5732,6 +5732,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.jordanbpeterson.com/*
 
 # Judicial Watch (USA)
+*://*.twitter.com/JudicialWatch*
+*://*.x.com/JudicialWatch*
+*://*.facebook.com/JudicialWatch*
 *://*.judicialwatch.org/*
 
 # Kalamazoo Times (USA)
