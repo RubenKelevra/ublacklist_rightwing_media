@@ -8718,3 +8718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Red Racing Horses
 *://*.rrhelections.com/*
 
+# Physicians for Life
+*://*.physiciansforlife.org/*
+
