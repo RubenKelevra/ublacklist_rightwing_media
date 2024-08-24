@@ -3845,6 +3845,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.infiniteunknown.net/*
 
 # Infowars-Alex Jones (USA)
+*://*.twitter.com/infowars*
+*://*.x.com/infowars*
+*://*.facebook.com/InfoWars*
 *://*.infowars.com/*
 
 # Ingredients.News (USA)
