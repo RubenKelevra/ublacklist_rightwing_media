@@ -8705,12 +8705,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Virtue Online
 *://*.virtueonline.org/*
 
-# WyoFile
-*://*.twitter.com/WyoFile*
-*://*.x.com/WyoFile*
-*://*.facebook.com/WyoFile*
-*://*.wyofile.com/*
-
 # Right Wing News
 *://*.rightwingnews.com/*
 
