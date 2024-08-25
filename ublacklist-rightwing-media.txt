@@ -85,7 +85,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.twitter.com/aipac*
 *://*.x.com/AIPAC*
 *://*.x.com/aipac*
-*://*.youtube.com/watch*
 *://*.aipac.org/*
 
 # Aish.com (USA)
