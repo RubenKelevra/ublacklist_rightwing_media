@@ -8817,3 +8817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Central PA News (USA)
 *://*.centralpanews.com/*
+
+# Russia Beyond - RBTH (Russia)
+*://*.rbth.com/*
