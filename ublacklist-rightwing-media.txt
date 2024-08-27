@@ -8814,3 +8814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # WKZO – 590 AM – Kalamazoo (USA)
 *://*.wkzo.com/*
+
+# Central PA News (USA)
+*://*.centralpanews.com/*
