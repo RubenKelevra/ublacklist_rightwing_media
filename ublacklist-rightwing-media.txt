@@ -8811,3 +8811,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # 100 Percent Fed Up (USA)
 *://*.100percentfedup.com/*
+
+# WKZO – 590 AM – Kalamazoo (USA)
+*://*.wkzo.com/*
