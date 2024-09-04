@@ -8823,3 +8823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Coal Region News (USA)
 *://*.coalregionnews.com/*
+
+# Crawford Times (USA)
+*://*.crawfordtimes.com/*
