@@ -8829,3 +8829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Jefferson County Union (USA)
 *://*.dailyunion.com/*
+
+# WMBD – 1470 AM – Peoria (USA)
+*://*.wmbdradio.com/*
