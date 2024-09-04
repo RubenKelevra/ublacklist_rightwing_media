@@ -8826,3 +8826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Crawford Times (USA)
 *://*.crawfordtimes.com/*
+
+# Daily Jefferson County Union (USA)
+*://*.dailyunion.com/*
