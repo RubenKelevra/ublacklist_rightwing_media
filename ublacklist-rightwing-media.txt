@@ -8832,3 +8832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # WMBD – 1470 AM – Peoria (USA)
 *://*.wmbdradio.com/*
+
+# Cumberland Valley News (USA)
+*://*.cumberlandvalleynews.com/*
