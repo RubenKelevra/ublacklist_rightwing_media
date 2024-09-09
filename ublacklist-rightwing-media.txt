@@ -8838,3 +8838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Today is America (USA)
 *://*.todayisamerica.com/*
+
+# Word on Fire (USA)
+*://*.wordonfire.org/*
