@@ -8841,3 +8841,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Word on Fire (USA)
 *://*.wordonfire.org/*
+
+# Trafalgar Group Polling (USA)
+*://*.thetrafalgargroup.org/*
