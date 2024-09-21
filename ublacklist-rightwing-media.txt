@@ -8868,3 +8868,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # WPBG – Freedom 95.9 – Peoria (USA)
 *://*.freedom959.net/*
+
+# Dauphin News (USA)
+*://*.dauphinnews.com/*
