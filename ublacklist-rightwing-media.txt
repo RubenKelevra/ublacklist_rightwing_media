@@ -8847,3 +8847,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Shockya News (USA)
 *://*.shockya.com/*
+
+# WIBQ – 1230 AM – Terre Haute (USA)
+*://*.wibqam.com/*
