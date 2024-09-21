@@ -8853,3 +8853,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Erie County Times (USA)
 *://*.eriecotimes.com/*
+
+# East Montgomery Times (USA)
+*://*.eastmonttimes.com/*
