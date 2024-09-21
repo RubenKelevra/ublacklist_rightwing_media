@@ -8862,3 +8862,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Utah Standard News (USA)
 *://*.utahstandardnews.com/*
+
+# Decatur Daily Democrat (USA)
+*://*.decaturdailydemocrat.com/*
