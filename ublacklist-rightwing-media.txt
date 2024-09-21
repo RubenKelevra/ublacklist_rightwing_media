@@ -127,7 +127,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # American Center for Law and Justice (USA)
 *://*.aclj.org/*
 
-# American Conservative Union (USA)
+# American Conservative Union / CPAC (Conservative Political Action Conference) (USA)
 *://*.conservative.org/*
 *://*.cpac.org/*
 
