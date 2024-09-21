@@ -8859,3 +8859,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Loomered.com (USA)
 *://*.loomered.com/*
+
+# Utah Standard News (USA)
+*://*.utahstandardnews.com/*
