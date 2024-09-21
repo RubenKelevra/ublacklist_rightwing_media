@@ -8844,3 +8844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Trafalgar Group Polling (USA)
 *://*.thetrafalgargroup.org/*
+
+# Shockya News (USA)
+*://*.shockya.com/*
