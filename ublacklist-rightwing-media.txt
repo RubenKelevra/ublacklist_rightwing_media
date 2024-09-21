@@ -8871,3 +8871,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Dauphin News (USA)
 *://*.dauphinnews.com/*
+
+# CAClubIndia (India)
+*://*.caclubindia.com/*
