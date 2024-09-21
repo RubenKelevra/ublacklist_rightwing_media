@@ -8850,3 +8850,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # WIBQ – 1230 AM – Terre Haute (USA)
 *://*.wibqam.com/*
+
+# Erie County Times (USA)
+*://*.eriecotimes.com/*
