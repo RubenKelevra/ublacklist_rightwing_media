@@ -8874,3 +8874,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # CAClubIndia (India)
 *://*.caclubindia.com/*
+
+# MovieGuide (USA)
+*://*.movieguide.org/*
