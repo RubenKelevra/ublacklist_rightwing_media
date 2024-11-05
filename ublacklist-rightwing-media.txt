@@ -8883,3 +8883,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # RBC.ru (Russia)
 *://*.rbc.ru/*
+
+# SebGorka.com (USA)
+*://*.sebgorka.com/*
