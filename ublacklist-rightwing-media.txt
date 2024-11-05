@@ -8889,3 +8889,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # React19 (USA)
 *://*.react19.org/*
+
+# Stop World Control (USA)
+*://*.stopworldcontrol.com/*
