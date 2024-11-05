@@ -8877,3 +8877,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # MovieGuide (USA)
 *://*.movieguide.org/*
+
+# Lycoming News (USA)
+*://*.lycomingnews.com/*
