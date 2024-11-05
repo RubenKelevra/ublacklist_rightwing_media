@@ -8886,3 +8886,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # SebGorka.com (USA)
 *://*.sebgorka.com/*
+
+# React19 (USA)
+*://*.react19.org/*
