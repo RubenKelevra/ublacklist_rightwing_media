@@ -8895,3 +8895,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Swamp Monsters (USA)
 *://*.swampmonsters.news/*
+
+# Monroe County News (USA)
+*://*.monroeconews.com/*
