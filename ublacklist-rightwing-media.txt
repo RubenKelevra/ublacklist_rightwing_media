@@ -8943,3 +8943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Blacklock’s Reporter (Canada)
 *://*.blacklocks.ca/*
+
+# Macdonald-Laurier Institute (Canada)
+*://*.macdonaldlaurier.ca/*
