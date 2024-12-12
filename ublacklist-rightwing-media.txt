@@ -8940,3 +8940,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # North Chester Today (USA)
 *://*.northchestertoday.com/*
+
+# Blacklock’s Reporter (Canada)
+*://*.blacklocks.ca/*
