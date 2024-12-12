@@ -8942,3 +8942,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # DeadState (USA)
 *://*.facebook.com/deadstate.org*
 *://*.deadstate.org/*
+
+# Scottish Daily Express (UK)
+*://*.scottishdailyexpress.co.uk/*
