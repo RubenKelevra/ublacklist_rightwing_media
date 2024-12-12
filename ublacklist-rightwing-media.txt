@@ -8948,3 +8948,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Save Us Now - SUN (UK)
 *://*.saveusnow.org.uk/*
+
+# Rheinische Post (Germany)
+*://*.rp-online.de/*
