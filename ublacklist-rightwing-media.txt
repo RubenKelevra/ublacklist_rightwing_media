@@ -8898,3 +8898,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Defense Post (USA)
 *://*.thedefensepost.com/*
+
+# The Capitolist (USA)
+*://*.thecapitolist.com/*
