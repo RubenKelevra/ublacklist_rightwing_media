@@ -8916,3 +8916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Svenska Dagbladet - SvD (Sweden)
 *://*.svd.se/*
+
+# Write Revolution News (USA)
+*://*.writerevolutionnews.com/*
