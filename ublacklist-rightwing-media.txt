@@ -8935,3 +8935,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # N-tv (Germany)
 *://*.n-tv.de/*
+
+# Students For Liberty - SFL (USA)
+*://*.studentsforliberty.org/*
