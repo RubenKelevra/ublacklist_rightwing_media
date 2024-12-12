@@ -8904,3 +8904,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Reasons to Believe - RTB (USA)
 *://*.reasons.org/*
+
+# Reform California (USA)
+*://*.reformcalifornia.org/*
