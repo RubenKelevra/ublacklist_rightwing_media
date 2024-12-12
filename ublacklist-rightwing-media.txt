@@ -8958,3 +8958,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Kommersant (Russia)
 *://*.kommersant.ru/*
+
+# JustRedPillMe (USA)
+*://*.justredpill.me/*
