@@ -8916,3 +8916,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Public Policy Institute of California - PPIC (USA)
 *://*.ppic.org/*
+
+# Citizen Watch Report - CWR (USA)
+*://*.citizenwatchreport.com/*
