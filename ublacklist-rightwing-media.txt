@@ -8961,3 +8961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # JustRedPillMe (USA)
 *://*.justredpill.me/*
+
+# JouWatch (Germany)
+*://*.journalistenwatch.com/*
