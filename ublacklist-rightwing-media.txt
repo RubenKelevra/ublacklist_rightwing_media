@@ -8932,3 +8932,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # EurAsian Times (India)
 *://*.eurasiantimes.com/*
+
+# N-tv (Germany)
+*://*.n-tv.de/*
