@@ -8913,3 +8913,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # North Allegheny News (USA)
 *://*.northalleghenynews.com/*
+
+# Public Policy Institute of California - PPIC (USA)
+*://*.ppic.org/*
