@@ -8975,3 +8975,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # SUR In English (Spain)
 *://*.surinenglish.com/*
+
+# The Sun - Nigeria (Nigeria)
+*://*.thesun.ng/*
