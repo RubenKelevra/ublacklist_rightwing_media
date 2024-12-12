@@ -8967,3 +8967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Pennsylvania Record (USA)
 *://*.pennrecord.com/*
+
+# Emol - El Mercurio Online (Chile)
+*://*.emol.com/*
