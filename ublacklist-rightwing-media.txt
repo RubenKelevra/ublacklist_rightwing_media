@@ -8877,3 +8877,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Voz Media (USA)
 *://*.voz.us/*
+
+# Military Honest News (Ukraine)
+*://*.mil.in.ua/*
