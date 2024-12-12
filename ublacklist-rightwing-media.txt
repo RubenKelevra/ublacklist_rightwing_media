@@ -8949,3 +8949,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Hub (Canada)
 *://*.thehub.ca/*
+
+# North Central PA Times (USA)
+*://*.ncpatimes.com/*
