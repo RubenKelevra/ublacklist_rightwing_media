@@ -8987,3 +8987,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Center for Immigration Studies - CIS (USA)
 *://*.cis.org/*
+
+# Northhampton News (USA)
+*://*.northhamptonnews.com/*
