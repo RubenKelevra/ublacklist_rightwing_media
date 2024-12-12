@@ -8886,3 +8886,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Northwest PA News (USA)
 *://*.nwpanews.com/*
+
+# First State Update (USA)
+*://*.firststateupdate.com/*
