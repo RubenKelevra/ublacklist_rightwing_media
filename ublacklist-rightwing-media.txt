@@ -8919,3 +8919,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Write Revolution News (USA)
 *://*.writerevolutionnews.com/*
+
+# Visegrad 24 (Poland)
+*://*.visegrad24.com/*
