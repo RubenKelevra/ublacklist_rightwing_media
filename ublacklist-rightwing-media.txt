@@ -8937,3 +8937,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Rio Times (USA)
 *://*.riotimesonline.com/*
+
+# North Chester Today (USA)
+*://*.northchestertoday.com/*
