@@ -8955,3 +8955,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Michigan News Source (USA)
 *://*.michigannewssource.com/*
+
+# Kommersant (Russia)
+*://*.kommersant.ru/*
