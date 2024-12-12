@@ -8925,3 +8925,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # North Delco News (USA)
 *://*.northdelconews.com/*
+
+# Samnytt (Sweden)
+*://*.samnytt.se/*
