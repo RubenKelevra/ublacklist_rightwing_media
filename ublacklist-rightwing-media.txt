@@ -8981,3 +8981,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Strana (Ukraine)
 *://*.strana.news/*
+
+# Tap Haps (USA)
+*://*.taphaps.com/*
