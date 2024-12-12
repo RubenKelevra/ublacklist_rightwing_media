@@ -8990,3 +8990,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Northhampton News (USA)
 *://*.northhamptonnews.com/*
+
+# Northern Tier News (USA)
+*://*.northerntiernews.com/*
