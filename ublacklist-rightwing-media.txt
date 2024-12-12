@@ -8964,3 +8964,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # JouWatch (Germany)
 *://*.journalistenwatch.com/*
+
+# Pennsylvania Record (USA)
+*://*.pennrecord.com/*
