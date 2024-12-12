@@ -8976,3 +8976,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Uncut-News (Switzerland)
 *://*.uncutnews.ch/*
+
+# Der Status (Austria)
+*://*.derstatus.at/*
