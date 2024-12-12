@@ -8945,3 +8945,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Scottish Daily Express (UK)
 *://*.scottishdailyexpress.co.uk/*
+
+# Save Us Now - SUN (UK)
+*://*.saveusnow.org.uk/*
