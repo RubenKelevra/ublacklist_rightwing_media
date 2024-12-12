@@ -8922,3 +8922,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Voice of Rural America (USA)
 *://*.voiceofruralamerica.com/*
+
+# North Delco News (USA)
+*://*.northdelconews.com/*
