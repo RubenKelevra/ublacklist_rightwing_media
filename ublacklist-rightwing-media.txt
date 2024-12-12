@@ -8901,3 +8901,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Capitolist (USA)
 *://*.thecapitolist.com/*
+
+# The Jewish Chronicle - JC (UK)
+*://*.thejc.com/*
