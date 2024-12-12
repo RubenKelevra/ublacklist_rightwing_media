@@ -8972,3 +8972,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Australian Financial Review (Australia)
 *://*.afr.com/*
+
+# SUR In English (Spain)
+*://*.surinenglish.com/*
