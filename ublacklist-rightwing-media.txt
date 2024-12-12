@@ -8957,3 +8957,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # SarahWestall.com (USA)
 *://*.sarahwestall.com/*
+
+# Tallahassee Reports (USA)
+*://*.tallahasseereports.com/*
