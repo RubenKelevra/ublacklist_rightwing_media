@@ -8954,3 +8954,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Strange Sounds (USA)
 *://*.strangesounds.org/*
+
+# SarahWestall.com (USA)
+*://*.sarahwestall.com/*
