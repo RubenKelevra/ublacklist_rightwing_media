@@ -8410,6 +8410,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.afd-fraktion-hamburg.de/*
 *://*.afd-thueringen.de/*
 *://*.alternative-rlp.de/*
+*://*.afd-oberbayern.de/*
+*://*.afd-muenchen.de/*
+*://*.afdkompakt.de/*
+*://*.afd-fraktion-bw.de/*
 
 # KFGO – 790 AM – Fargo
 *://*.twitter.com/790KFGO*
