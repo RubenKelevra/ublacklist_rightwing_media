@@ -8960,3 +8960,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Tallahassee Reports (USA)
 *://*.tallahasseereports.com/*
+
+# St. George News (USA)
+*://*.stgeorgeutah.com/*
