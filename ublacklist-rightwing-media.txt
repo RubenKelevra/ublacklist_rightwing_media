@@ -8904,3 +8904,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Jewish Chronicle - JC (UK)
 *://*.thejc.com/*
+
+# The Quartering (USA)
+*://*.thequartering.com/*
