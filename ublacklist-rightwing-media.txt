@@ -8907,3 +8907,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Quartering (USA)
 *://*.thequartering.com/*
+
+# American Debunk (USA)
+*://*.americandebunk.com/*
