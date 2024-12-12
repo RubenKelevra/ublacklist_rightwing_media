@@ -8910,3 +8910,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # American Debunk (USA)
 *://*.americandebunk.com/*
+
+# Texas Scorecard (USA)
+*://*.texasscorecard.com/*
