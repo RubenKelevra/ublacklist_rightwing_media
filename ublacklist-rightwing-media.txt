@@ -8929,3 +8929,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # North Lancaster News (USA)
 *://*.northlancasternews.com/*
+
+# EurAsian Times (India)
+*://*.eurasiantimes.com/*
