@@ -8880,3 +8880,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Military Honest News (Ukraine)
 *://*.mil.in.ua/*
+
+# JohnStossel.com (USA)
+*://*.johnstossel.com/*
