@@ -8934,3 +8934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Samtiden (Sweden)
 *://*.samtiden.nu/*
+
+# The Rio Times (USA)
+*://*.riotimesonline.com/*
