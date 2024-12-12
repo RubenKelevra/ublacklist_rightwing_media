@@ -8966,3 +8966,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Stand to Reason (USA)
 *://*.str.org/*
+
+# Steve Quayle - stevequayle.com (USA)
+*://*.stevequayle.com/*
