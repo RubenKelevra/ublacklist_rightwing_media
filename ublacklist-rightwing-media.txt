@@ -8952,3 +8952,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # North Central PA Times (USA)
 *://*.ncpatimes.com/*
+
+# Michigan News Source (USA)
+*://*.michigannewssource.com/*
