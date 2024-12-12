@@ -8928,3 +8928,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Samnytt (Sweden)
 *://*.samnytt.se/*
+
+# Patriot Voice News (USA)
+*://*.patriotvoicenews.com/*
