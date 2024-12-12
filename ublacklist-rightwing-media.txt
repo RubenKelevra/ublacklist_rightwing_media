@@ -8963,3 +8963,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # St. George News (USA)
 *://*.stgeorgeutah.com/*
+
+# Stand to Reason (USA)
+*://*.str.org/*
