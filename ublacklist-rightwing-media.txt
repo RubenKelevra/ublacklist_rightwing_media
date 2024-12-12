@@ -8969,3 +8969,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Steve Quayle - stevequayle.com (USA)
 *://*.stevequayle.com/*
+
+# The Australian Financial Review (Australia)
+*://*.afr.com/*
