@@ -8938,3 +8938,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Students For Liberty - SFL (USA)
 *://*.studentsforliberty.org/*
+
+# DeadState (USA)
+*://*.facebook.com/deadstate.org*
+*://*.deadstate.org/*
