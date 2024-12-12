@@ -8892,3 +8892,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Burning Platform (USA)
 *://*.theburningplatform.com/*
+
+# The Critic (UK)
+*://*.thecritic.co.uk/*
