@@ -8874,3 +8874,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Der Status (Austria)
 *://*.derstatus.at/*
+
+# Voz Media (USA)
+*://*.voz.us/*
