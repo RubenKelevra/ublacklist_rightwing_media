@@ -8883,3 +8883,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # JohnStossel.com (USA)
 *://*.johnstossel.com/*
+
+# Northwest PA News (USA)
+*://*.nwpanews.com/*
