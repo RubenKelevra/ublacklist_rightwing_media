@@ -8913,3 +8913,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Texas Scorecard (USA)
 *://*.texasscorecard.com/*
+
+# Svenska Dagbladet - SvD (Sweden)
+*://*.svd.se/*
