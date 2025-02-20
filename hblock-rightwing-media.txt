@@ -8518,3 +8518,6 @@ tvbs.com.tw
 # Poplarville Democrat (USA)
 poplarvilledemocrat.com
 
+# Southwest Allegheny News (USA)
+swalleghenynews.com
+
