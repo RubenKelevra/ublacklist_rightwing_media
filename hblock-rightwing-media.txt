@@ -8512,3 +8512,6 @@ chalkboardnews.com
 # Report24 (Austria)
 report24.news
 
+# TVBS-Taiwan (Taiwan)
+tvbs.com.tw
+

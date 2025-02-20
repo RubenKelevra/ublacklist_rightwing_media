@@ -9036,3 +9036,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Report24 (Austria)
 *://*.report24.news/*
+
+# TVBS-Taiwan (Taiwan)
+*://*.tvbs.com.tw/*
