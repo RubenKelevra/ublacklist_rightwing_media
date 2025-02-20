@@ -9015,3 +9015,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Globe Terminator (Unknown)
 *://*.globeterminator.com/*
+
+# South Delco News (USA)
+*://*.southdelconews.com/*
+

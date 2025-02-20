@@ -8491,3 +8491,6 @@ fairplayforwomen.com
 # Globe Terminator (Unknown)
 globeterminator.com
 
+# South Delco News (USA)
+southdelconews.com
+
