@@ -9060,3 +9060,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Lid (USA)
 *://*.lidblog.com/*
+
+# Independent Medical Alliance - IMA (USA)
+*://*.imahealth.org/*

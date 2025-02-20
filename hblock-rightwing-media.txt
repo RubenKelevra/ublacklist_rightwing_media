@@ -8536,3 +8536,6 @@ picayuneitem.com
 # The Lid (USA)
 lidblog.com
 
+# Independent Medical Alliance - IMA (USA)
+imahealth.org
+
