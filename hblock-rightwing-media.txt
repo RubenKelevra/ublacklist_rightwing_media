@@ -8497,3 +8497,6 @@ southdelconews.com
 # CWBChicago (USA)
 cwbchicago.com
 
+# Daily Iberian (USA)
+thedailyiberian.com
+
