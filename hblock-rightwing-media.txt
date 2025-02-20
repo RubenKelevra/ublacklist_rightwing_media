@@ -1579,7 +1579,7 @@ fee.org
 # Fox Business (USA)
 foxbusiness.com
 
-# Foxillinois.com (WRSP (USA)
+# Foxillinois.com - WRSP - WCCU (USA)
 foxillinois.com
 
 # Frankfort State Journal (USA)

@@ -1880,7 +1880,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fox Business (USA)
 *://*.foxbusiness.com/*
 
-# Foxillinois.com (WRSP (USA)
+# Foxillinois.com - WRSP - WCCU (USA)
 *://*.foxillinois.com/*
 
 # Frankfort State Journal (USA)
