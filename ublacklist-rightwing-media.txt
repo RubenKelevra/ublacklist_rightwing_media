@@ -9048,3 +9048,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Southwest PA News (USA)
 *://*.swpanews.com/*
+
+# Restricted Republic (USA)
+*://*.restrictedrepublic.com/*
