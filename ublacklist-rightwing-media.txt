@@ -9027,3 +9027,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # NewGeography (USA)
 *://*.newgeography.com/*
+
+# Deep State Journal (USA)
+*://*.deepstatejournal.com/*

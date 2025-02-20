@@ -8503,3 +8503,6 @@ thedailyiberian.com
 # NewGeography (USA)
 newgeography.com
 
+# Deep State Journal (USA)
+deepstatejournal.com
+
