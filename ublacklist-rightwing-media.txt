@@ -9039,3 +9039,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # TVBS-Taiwan (Taiwan)
 *://*.tvbs.com.tw/*
+
+# Poplarville Democrat (USA)
+*://*.poplarvilledemocrat.com/*

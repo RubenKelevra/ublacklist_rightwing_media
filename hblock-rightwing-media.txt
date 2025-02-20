@@ -8515,3 +8515,6 @@ report24.news
 # TVBS-Taiwan (Taiwan)
 tvbs.com.tw
 
+# Poplarville Democrat (USA)
+poplarvilledemocrat.com
+
