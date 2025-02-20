@@ -8500,3 +8500,6 @@ cwbchicago.com
 # Daily Iberian (USA)
 thedailyiberian.com
 
+# NewGeography (USA)
+newgeography.com
+

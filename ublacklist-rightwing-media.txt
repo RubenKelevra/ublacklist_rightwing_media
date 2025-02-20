@@ -9024,3 +9024,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Daily Iberian (USA)
 *://*.thedailyiberian.com/*
+
+# NewGeography (USA)
+*://*.newgeography.com/*
