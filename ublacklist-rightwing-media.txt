@@ -5343,7 +5343,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.youtube.com/@foxnews*
 *://*.foxnews.com/*
 
-# Frank Speech (USA)
+# Frank Speech - LindellTV (USA)
 *://*.frankspeech.com/*
 
 # Freedom First Network (USA)

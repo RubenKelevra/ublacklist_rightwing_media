@@ -4999,7 +4999,7 @@ fortsmithtimes.com
 # Fox News (USA)
 foxnews.com
 
-# Frank Speech (USA)
+# Frank Speech - LindellTV (USA)
 frankspeech.com
 
 # Freedom First Network (USA)
