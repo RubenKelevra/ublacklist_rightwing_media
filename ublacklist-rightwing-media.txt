@@ -9066,3 +9066,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Liberal (Ireland)
 *://*.theliberal.ie/*
+
+# Romania TV (Romania)
+*://*.romaniatv.net/*
