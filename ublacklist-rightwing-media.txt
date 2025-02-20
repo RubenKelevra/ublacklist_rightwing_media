@@ -9033,3 +9033,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Chalkboard News (USA)
 *://*.chalkboardnews.com/*
+
+# Report24 (Austria)
+*://*.report24.news/*
