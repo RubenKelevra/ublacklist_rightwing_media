@@ -8530,3 +8530,6 @@ restrictedrepublic.com
 # Every Legal Vote (USA)
 everylegalvote.com
 
+# Picayune Item (USA)
+picayuneitem.com
+

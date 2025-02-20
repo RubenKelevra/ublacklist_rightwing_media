@@ -9054,3 +9054,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Every Legal Vote (USA)
 *://*.everylegalvote.com/*
+
+# Picayune Item (USA)
+*://*.picayuneitem.com/*
