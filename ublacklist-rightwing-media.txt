@@ -9030,3 +9030,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Deep State Journal (USA)
 *://*.deepstatejournal.com/*
+
+# Chalkboard News (USA)
+*://*.chalkboardnews.com/*

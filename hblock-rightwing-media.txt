@@ -8506,3 +8506,6 @@ newgeography.com
 # Deep State Journal (USA)
 deepstatejournal.com
 
+# Chalkboard News (USA)
+chalkboardnews.com
+
