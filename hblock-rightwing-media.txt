@@ -8488,3 +8488,6 @@ breakingwide.com
 # Fair Play for Women - FPFW (UK)
 fairplayforwomen.com
 
+# Globe Terminator (Unknown)
+globeterminator.com
+

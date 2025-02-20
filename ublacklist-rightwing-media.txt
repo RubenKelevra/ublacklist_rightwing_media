@@ -9012,3 +9012,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.x.com/azcitynews*
 *://*.twitter.com/azcitynews*
 *://*.loc.gov/item/sn94050647/*
+
+# Globe Terminator (Unknown)
+*://*.globeterminator.com/*
