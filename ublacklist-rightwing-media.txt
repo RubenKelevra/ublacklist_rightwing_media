@@ -9019,3 +9019,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # South Delco News (USA)
 *://*.southdelconews.com/*
 
+# CWBChicago (USA)
+*://*.cwbchicago.com/*
+

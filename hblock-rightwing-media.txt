@@ -8494,3 +8494,6 @@ globeterminator.com
 # South Delco News (USA)
 southdelconews.com
 
+# CWBChicago (USA)
+cwbchicago.com
+
