@@ -8533,3 +8533,6 @@ everylegalvote.com
 # Picayune Item (USA)
 picayuneitem.com
 
+# The Lid (USA)
+lidblog.com
+

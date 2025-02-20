@@ -9057,3 +9057,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Picayune Item (USA)
 *://*.picayuneitem.com/*
+
+# The Lid (USA)
+*://*.lidblog.com/*
