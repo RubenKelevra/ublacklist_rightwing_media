@@ -9063,3 +9063,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Independent Medical Alliance - IMA (USA)
 *://*.imahealth.org/*
+
+# The Liberal (Ireland)
+*://*.theliberal.ie/*
