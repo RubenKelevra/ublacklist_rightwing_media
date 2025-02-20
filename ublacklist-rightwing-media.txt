@@ -9045,3 +9045,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Southwest Allegheny News (USA)
 *://*.swalleghenynews.com/*
+
+# Southwest PA News (USA)
+*://*.swpanews.com/*

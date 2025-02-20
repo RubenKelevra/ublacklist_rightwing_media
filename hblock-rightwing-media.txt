@@ -8521,3 +8521,6 @@ poplarvilledemocrat.com
 # Southwest Allegheny News (USA)
 swalleghenynews.com
 
+# Southwest PA News (USA)
+swpanews.com
+
