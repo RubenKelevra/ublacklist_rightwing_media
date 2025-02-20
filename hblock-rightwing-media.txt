@@ -8527,3 +8527,6 @@ swpanews.com
 # Restricted Republic (USA)
 restrictedrepublic.com
 
+# Every Legal Vote (USA)
+everylegalvote.com
+
