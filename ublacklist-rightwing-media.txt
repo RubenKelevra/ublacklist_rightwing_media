@@ -9002,3 +9002,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Breaking Wide (Unknown)
 *://*.breakingwide.com/*
+
+# Fair Play for Women - FPFW (UK)
+*://*.fairplayforwomen.com/*
