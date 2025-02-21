@@ -8612,3 +8612,6 @@ alabamapolicy.org
 # Westmoreland Review (USA)
 westmorelandreview.com
 
+# The Florida Standard (USA)
+theflstandard.com
+

@@ -9141,3 +9141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Westmoreland Review (USA)
 *://*.westmorelandreview.com/*
+
+# The Florida Standard (USA)
+*://*.theflstandard.com/*
