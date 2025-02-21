@@ -9089,3 +9089,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Burkean (Ireland)
 *://*.theburkean.ie/*
+
+# Conservative Revival (USA)
+*://*.conservativerevival.com/*

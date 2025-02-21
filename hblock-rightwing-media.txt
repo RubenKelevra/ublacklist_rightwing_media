@@ -8560,3 +8560,6 @@ elvocero.com
 # The Burkean (Ireland)
 theburkean.ie
 
+# Conservative Revival (USA)
+conservativerevival.com
+
