@@ -9072,3 +9072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Upper Bucks Today (USA)
 *://*.upperbuckstoday.com/*
+
+# Providence Magazine (USA)
+*://*.providencemag.com/*

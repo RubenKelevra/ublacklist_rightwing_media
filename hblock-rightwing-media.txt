@@ -8548,3 +8548,6 @@ romaniatv.net
 # Upper Bucks Today (USA)
 upperbuckstoday.com
 
+# Providence Magazine (USA)
+providencemag.com
+
