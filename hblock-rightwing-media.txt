@@ -8563,3 +8563,6 @@ theburkean.ie
 # Conservative Revival (USA)
 conservativerevival.com
 
+# West Central PA News (USA)
+wcpanews.com
+
