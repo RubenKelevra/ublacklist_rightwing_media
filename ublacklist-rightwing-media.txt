@@ -9150,3 +9150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Heat Street (USA)
 *://*.heatst.com/*
+
+# Todayville (Canada)
+*://*.todayville.com/*
