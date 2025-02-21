@@ -9111,3 +9111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Realitatea.net (Romania)
 *://*.realitatea.net/*
+
+# American Accountablility Foundation - AFF (USA)
+*://*.americanaccountabilityfoundation.com/*

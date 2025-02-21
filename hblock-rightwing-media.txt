@@ -8582,3 +8582,6 @@ tichyseinblick.de
 # Realitatea.net (Romania)
 realitatea.net
 
+# American Accountablility Foundation - AFF (USA)
+americanaccountabilityfoundation.com
+
