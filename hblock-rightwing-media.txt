@@ -8594,3 +8594,6 @@ thereload.com
 # Media Circus (USA)
 mediacircus.com
 
+# Property and Environment Research Center - PERC (USA)
+perc.org
+

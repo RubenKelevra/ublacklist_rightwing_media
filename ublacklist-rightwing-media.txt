@@ -9123,3 +9123,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Media Circus (USA)
 *://*.mediacircus.com/*
+
+# Property and Environment Research Center - PERC (USA)
+*://*.perc.org/*
