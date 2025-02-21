@@ -8576,3 +8576,6 @@ westmonttimes.com
 # Brookhaven Daily-Leader (USA)
 dailyleader.com
 
+# Tichys Einblick (Germany)
+tichyseinblick.de
+

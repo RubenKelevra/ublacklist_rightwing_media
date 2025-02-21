@@ -9105,3 +9105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Brookhaven Daily-Leader (USA)
 *://*.dailyleader.com/*
+
+# Tichys Einblick (Germany)
+*://*.tichyseinblick.de/*
