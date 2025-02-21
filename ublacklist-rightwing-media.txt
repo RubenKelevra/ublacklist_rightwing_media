@@ -9144,3 +9144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # The Florida Standard (USA)
 *://*.theflstandard.com/*
+
+# Bacon's Rebellion (USA)
+*://*.baconsrebellion.com/*

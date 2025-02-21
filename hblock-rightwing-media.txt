@@ -8615,3 +8615,6 @@ westmorelandreview.com
 # The Florida Standard (USA)
 theflstandard.com
 
+# Bacon's Rebellion (USA)
+baconsrebellion.com
+
