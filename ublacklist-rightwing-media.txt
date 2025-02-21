@@ -9129,3 +9129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Thairath (Thailand)
 *://*.thairath.co.th/*
+
+# ThoughtPolice.News (USA)
+*://*.thoughtpolice.news/*
