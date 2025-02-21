@@ -8618,3 +8618,6 @@ theflstandard.com
 # Bacon's Rebellion (USA)
 baconsrebellion.com
 
+# Heat Street (USA)
+heatst.com
+

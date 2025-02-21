@@ -9147,3 +9147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Bacon's Rebellion (USA)
 *://*.baconsrebellion.com/*
+
+# Heat Street (USA)
+*://*.heatst.com/*
