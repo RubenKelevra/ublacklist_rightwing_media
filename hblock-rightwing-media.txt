@@ -8627,3 +8627,6 @@ todayville.com
 # Science, Public Health Policy & the Law (USA)
 publichealthpolicyjournal.com
 
+# HermanCain.com (USA)
+hermancain.com
+

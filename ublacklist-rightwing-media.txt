@@ -9156,3 +9156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Science, Public Health Policy & the Law (USA)
 *://*.publichealthpolicyjournal.com/*
+
+# HermanCain.com (USA)
+*://*.hermancain.com/*
