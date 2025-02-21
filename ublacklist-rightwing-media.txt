@@ -9117,3 +9117,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Prentiss Headlight (USA)
 *://*.prentissheadlight.com/*
+
+# The Reload (USA)
+*://*.thereload.com/*
