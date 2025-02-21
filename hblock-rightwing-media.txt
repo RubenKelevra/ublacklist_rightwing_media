@@ -8554,3 +8554,6 @@ providencemag.com
 # GMO.News (USA)
 gmo.news
 
+# El Vocero (Puerto Rico)
+elvocero.com
+

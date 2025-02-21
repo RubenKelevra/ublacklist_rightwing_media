@@ -9083,3 +9083,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.pinalcentral.com/coolidge_examiner/*
 *://*.x.com/coolidgenews
 *://*.twitter.com/coolidgenews
+
+# El Vocero (Puerto Rico)
+*://*.elvocero.com/*
