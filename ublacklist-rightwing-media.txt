@@ -9108,3 +9108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Tichys Einblick (Germany)
 *://*.tichyseinblick.de/*
+
+# Realitatea.net (Romania)
+*://*.realitatea.net/*
