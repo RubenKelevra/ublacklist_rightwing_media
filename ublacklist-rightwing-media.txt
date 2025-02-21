@@ -9135,3 +9135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # EurAsia Daily (Russia)
 *://*.eadaily.com/*
+
+# Alabama Policy Institute (USA)
+*://*.alabamapolicy.org/*
