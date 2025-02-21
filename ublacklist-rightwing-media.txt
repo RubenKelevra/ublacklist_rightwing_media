@@ -9153,3 +9153,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Todayville (Canada)
 *://*.todayville.com/*
+
+# Science, Public Health Policy & the Law (USA)
+*://*.publichealthpolicyjournal.com/*

@@ -8624,3 +8624,6 @@ heatst.com
 # Todayville (Canada)
 todayville.com
 
+# Science, Public Health Policy & the Law (USA)
+publichealthpolicyjournal.com
+
