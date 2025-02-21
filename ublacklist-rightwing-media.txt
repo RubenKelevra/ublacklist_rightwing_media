@@ -9086,3 +9086,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # El Vocero (Puerto Rico)
 *://*.elvocero.com/*
+
+# The Burkean (Ireland)
+*://*.theburkean.ie/*

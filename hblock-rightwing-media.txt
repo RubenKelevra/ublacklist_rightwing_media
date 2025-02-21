@@ -8557,3 +8557,6 @@ gmo.news
 # El Vocero (Puerto Rico)
 elvocero.com
 
+# The Burkean (Ireland)
+theburkean.ie
+
