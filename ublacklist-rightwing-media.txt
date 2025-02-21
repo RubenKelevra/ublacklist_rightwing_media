@@ -9095,3 +9095,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # West Central PA News (USA)
 *://*.wcpanews.com/*
+
+# American Consequences (USA)
+*://*.americanconsequences.com/*
+*://*.stansberryresearch.com/*

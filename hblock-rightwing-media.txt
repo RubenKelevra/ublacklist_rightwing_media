@@ -8566,3 +8566,7 @@ conservativerevival.com
 # West Central PA News (USA)
 wcpanews.com
 
+# American Consequences (USA)
+americanconsequences.com
+stansberryresearch.com
+
