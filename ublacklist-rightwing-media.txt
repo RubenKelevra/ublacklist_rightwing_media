@@ -9132,3 +9132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # ThoughtPolice.News (USA)
 *://*.thoughtpolice.news/*
+
+# EurAsia Daily (Russia)
+*://*.eadaily.com/*

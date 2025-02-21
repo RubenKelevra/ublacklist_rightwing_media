@@ -8603,3 +8603,6 @@ thairath.co.th
 # ThoughtPolice.News (USA)
 thoughtpolice.news
 
+# EurAsia Daily (Russia)
+eadaily.com
+
