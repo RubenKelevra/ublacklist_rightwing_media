@@ -8609,3 +8609,6 @@ eadaily.com
 # Alabama Policy Institute (USA)
 alabamapolicy.org
 
+# Westmoreland Review (USA)
+westmorelandreview.com
+

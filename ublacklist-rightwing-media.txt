@@ -9138,3 +9138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Alabama Policy Institute (USA)
 *://*.alabamapolicy.org/*
+
+# Westmoreland Review (USA)
+*://*.westmorelandreview.com/*
