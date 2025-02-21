@@ -8597,3 +8597,6 @@ mediacircus.com
 # Property and Environment Research Center - PERC (USA)
 perc.org
 
+# Thairath (Thailand)
+thairath.co.th
+

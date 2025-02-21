@@ -9126,3 +9126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Property and Environment Research Center - PERC (USA)
 *://*.perc.org/*
+
+# Thairath (Thailand)
+*://*.thairath.co.th/*
