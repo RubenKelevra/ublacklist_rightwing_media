@@ -9159,3 +9159,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # HermanCain.com (USA)
 *://*.hermancain.com/*
+
+# Eloy Enterprise (USA)
+*://*.pinalcentral.com/eloy_enterprise/
