@@ -9102,3 +9102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # West Montgomery Times (USA)
 *://*.westmonttimes.com/*
+
+# Brookhaven Daily-Leader (USA)
+*://*.dailyleader.com/*
