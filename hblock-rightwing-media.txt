@@ -8570,3 +8570,6 @@ wcpanews.com
 americanconsequences.com
 stansberryresearch.com
 
+# West Montgomery Times (USA)
+westmonttimes.com
+
