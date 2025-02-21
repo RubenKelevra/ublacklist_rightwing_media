@@ -8551,3 +8551,6 @@ upperbuckstoday.com
 # Providence Magazine (USA)
 providencemag.com
 
+# GMO.News (USA)
+gmo.news
+
