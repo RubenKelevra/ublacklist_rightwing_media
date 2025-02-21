@@ -9069,3 +9069,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Romania TV (Romania)
 *://*.romaniatv.net/*
+
+# Upper Bucks Today (USA)
+*://*.upperbuckstoday.com/*
