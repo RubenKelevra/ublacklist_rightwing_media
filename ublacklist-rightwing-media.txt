@@ -9078,3 +9078,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # GMO.News (USA)
 *://*.gmo.news/*
+
+# Coolidge Examiner (USA)
+*://*.pinalcentral.com/coolidge_examiner/*
+*://*.x.com/coolidgenews
+*://*.twitter.com/coolidgenews
