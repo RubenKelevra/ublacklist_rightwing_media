@@ -8585,3 +8585,6 @@ realitatea.net
 # American Accountablility Foundation - AFF (USA)
 americanaccountabilityfoundation.com
 
+# Prentiss Headlight (USA)
+prentissheadlight.com
+

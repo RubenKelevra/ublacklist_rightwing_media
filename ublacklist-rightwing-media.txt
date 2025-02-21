@@ -9114,3 +9114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # American Accountablility Foundation - AFF (USA)
 *://*.americanaccountabilityfoundation.com/*
+
+# Prentiss Headlight (USA)
+*://*.prentissheadlight.com/*
