@@ -9183,3 +9183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Oxford Eagle (USA)
 *://*.oxfordeagle.com/*
+
+# Susan B. Anthony Pro-Life America (USA)
+*://*.sbaprolife.org/*

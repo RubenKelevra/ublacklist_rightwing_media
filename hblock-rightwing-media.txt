@@ -8651,3 +8651,6 @@ morgenpost.de
 # Oxford Eagle (USA)
 oxfordeagle.com
 
+# Susan B. Anthony Pro-Life America (USA)
+sbaprolife.org
+
