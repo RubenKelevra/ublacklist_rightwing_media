@@ -8660,3 +8660,6 @@ texaspolicy.com
 # Handelsblatt (Germany)
 handelsblatt.com
 
+# Pittsburgh Review (USA)
+pittreview.com
+
