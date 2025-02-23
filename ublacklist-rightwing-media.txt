@@ -9195,3 +9195,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Pittsburgh Review (USA)
 *://*.pittreview.com/*
+
+# WCBM – 680 AM – Baltimore (USA)
+*://*.wcbm.com/*
