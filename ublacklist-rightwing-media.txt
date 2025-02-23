@@ -9168,3 +9168,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Dagelijkse Standaard (Netherlands)
 *://*.dagelijksestandaard.nl/*
+
+# York County News (USA)
+*://*.yorkconews.com/*
