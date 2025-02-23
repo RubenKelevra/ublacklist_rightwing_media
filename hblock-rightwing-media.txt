@@ -8645,3 +8645,6 @@ jamesmadison.org
 # Hinds Today (USA)
 hindstoday.com
 
+# Berliner Morgenpost (Germany)
+morgenpost.de
+

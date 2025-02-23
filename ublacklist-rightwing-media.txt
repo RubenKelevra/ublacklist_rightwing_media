@@ -9177,3 +9177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Hinds Today (USA)
 *://*.hindstoday.com/*
+
+# Berliner Morgenpost (Germany)
+*://*.morgenpost.de/*
