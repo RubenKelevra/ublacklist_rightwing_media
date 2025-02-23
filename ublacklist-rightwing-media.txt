@@ -9204,3 +9204,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Scranton Reporter (USA)
 *://*.scrantonreporter.com/*
+
+# Il Sole 24 Ore (Italy)
+*://*.ilsole24ore.com/*

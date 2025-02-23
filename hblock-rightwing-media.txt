@@ -8672,3 +8672,6 @@ biobiochile.cl
 # Scranton Reporter (USA)
 scrantonreporter.com
 
+# Il Sole 24 Ore (Italy)
+ilsole24ore.com
+
