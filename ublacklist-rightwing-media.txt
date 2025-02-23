@@ -9180,3 +9180,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Berliner Morgenpost (Germany)
 *://*.morgenpost.de/*
+
+# Oxford Eagle (USA)
+*://*.oxfordeagle.com/*

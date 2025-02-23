@@ -8648,3 +8648,6 @@ hindstoday.com
 # Berliner Morgenpost (Germany)
 morgenpost.de
 
+# Oxford Eagle (USA)
+oxfordeagle.com
+
