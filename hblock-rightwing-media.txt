@@ -8630,3 +8630,6 @@ publichealthpolicyjournal.com
 # HermanCain.com (USA)
 hermancain.com
 
+# Center for Individualism (USA)
+centerforindividualism.org
+

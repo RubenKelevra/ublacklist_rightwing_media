@@ -9162,3 +9162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Eloy Enterprise (USA)
 *://*.pinalcentral.com/eloy_enterprise/
+
+# Center for Individualism (USA)
+*://*.centerforindividualism.org/*
