@@ -9186,3 +9186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Susan B. Anthony Pro-Life America (USA)
 *://*.sbaprolife.org/*
+
+# Texas Public Policy Foundation (USA)
+*://*.texaspolicy.com/*

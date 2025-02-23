@@ -8654,3 +8654,6 @@ oxfordeagle.com
 # Susan B. Anthony Pro-Life America (USA)
 sbaprolife.org
 
+# Texas Public Policy Foundation (USA)
+texaspolicy.com
+
