@@ -9165,3 +9165,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Center for Individualism (USA)
 *://*.centerforindividualism.org/*
+
+# Dagelijkse Standaard (Netherlands)
+*://*.dagelijksestandaard.nl/*

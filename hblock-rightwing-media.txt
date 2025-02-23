@@ -8633,3 +8633,6 @@ hermancain.com
 # Center for Individualism (USA)
 centerforindividualism.org
 
+# Dagelijkse Standaard (Netherlands)
+dagelijksestandaard.nl
+
