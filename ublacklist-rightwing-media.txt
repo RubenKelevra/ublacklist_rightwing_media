@@ -9201,3 +9201,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # BioBioChile (Chile)
 *://*.biobiochile.cl/*
+
+# Scranton Reporter (USA)
+*://*.scrantonreporter.com/*

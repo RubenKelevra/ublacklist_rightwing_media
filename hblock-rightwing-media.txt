@@ -8669,3 +8669,6 @@ wcbm.com
 # BioBioChile (Chile)
 biobiochile.cl
 
+# Scranton Reporter (USA)
+scrantonreporter.com
+
