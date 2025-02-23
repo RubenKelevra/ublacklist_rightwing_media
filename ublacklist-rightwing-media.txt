@@ -9171,3 +9171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # York County News (USA)
 *://*.yorkconews.com/*
+
+# James Madison Institute (USA)
+*://*.jamesmadison.org/*

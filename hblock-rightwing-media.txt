@@ -8639,3 +8639,6 @@ dagelijksestandaard.nl
 # York County News (USA)
 yorkconews.com
 
+# James Madison Institute (USA)
+jamesmadison.org
+
