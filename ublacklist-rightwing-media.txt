@@ -9198,3 +9198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # WCBM – 680 AM – Baltimore (USA)
 *://*.wcbm.com/*
+
+# BioBioChile (Chile)
+*://*.biobiochile.cl/*
